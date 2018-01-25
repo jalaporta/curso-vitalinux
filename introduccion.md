@@ -47,5 +47,6 @@ Este cliente Migasfree nos permite entre otras muchas cosas el poder **gestionar
 **Como puede apreciarse, todo ello redunda en un desahogo del administrador de los equipos informáticos garantizando una mayor fiabilidad y eficiencia de todos los sistemas informáticos del Centro Educativo**.
 
 Aviso|¿Quiénes son los creadores y desarrolladores de Migasfree?|Destacar por último que sorprendentemente Migasfree es un software que ha sido creado, desarrollado y liberado por dos trabajadores del ayuntamiento de Zaragoza (España), **Alberto Gacías **y **José Antonio Chavarría**.
+
 {{:Curso Aularagon/ejercicio1-1}}
 {{:Curso_Aularagon/navegacion-parte1}}
