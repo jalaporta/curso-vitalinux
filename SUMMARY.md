@@ -8,10 +8,10 @@
 * [¿Donde Descargar Vitalinux?](donde_descargar_vitalinux.md)
 * [¿Cómo Probar Vitalinux?](probar.md)
 * [Primeras Pruebas con Vitalinux](primeras_pruebas_con_vitalinux.md)
-* [Propietarios y Permisos](propietarios_y_permisos.md)
-* [Acerca del curso de AulAragón](acerca_del_curso_de_aularagon.md)
 
 ## Parte 2 (en proceso)
+* [Propietarios y Permisos](propietarios_y_permisos.md)
+* [Acerca del curso de AulAragón](acerca_del_curso_de_aularagon.md)
 * [ Preguntas Frecuentes - FAQs](_preguntas_frecuentes_-_faqs.md)
 * [Dispositivos de Almacenamiento](dispositivos_de_almacenamiento.md)
 * [Orígenes del Software y Actualizaciones](origenes_del_software_y_actualizaciones.md)

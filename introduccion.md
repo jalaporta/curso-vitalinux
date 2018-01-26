@@ -1,23 +1,20 @@
-# Introducción<th colspan="3" style="text-align:center;width:100%;">[Parte 1: Iniciándonos en Vitalinux](http://wiki.vitalinux.educa.aragon.es/index.php/Parte_1:_Inici%C3%A1ndonos_en_Vitalinux)</th>
-<td colspan="3" style="text-align:center;background:#EEF3E2;">[*Curso de Aularagón de Introducción a Vitalinux*](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Formaci%C3%B3n_en_Vitalinux_Aularagon/indice)</td>
-<td colspan="2" style="text-align:center;width:100%;font-size:95%;">**Introducción**  |  [¿Donde Descargar Vitalinux?](http://wiki.vitalinux.educa.aragon.es/index.php/Descargar)  |  [¿Cómo Probar Vitalinux?](http://wiki.vitalinux.educa.aragon.es/index.php/Probar)  |  [Primeras Pruebas con Vitalinux](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Aularagon/Primeras_Pruebas_con_Vitalinux)</td><td rowspan="1" style="vertical-align:middle; padding-left:7px; width:0%;">[<img alt="Logo-vitalinux.png" height="37" src="/images/7/7f/Logo-vitalinux.png" width="40"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Logo-vitalinux.png)</td>
-<td colspan="3" style="text-align:center;background:#EEF3E2;">[ Índice general del curso de Vitalinux de Aularagon](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Formaci%C3%B3n_en_Vitalinux_Aularagon/indice)  |  [ Preguntas Frecuentes - FAQs](http://wiki.vitalinux.educa.aragon.es/index.php/FAQs)[Acerca del curso de AulAragón](http://wiki.vitalinux.educa.aragon.es/index.php?title=Acerca_del_curso_de_AulArag%C3%B3n&amp;action=edit&amp;redlink=1)</td>
+# Introducción
 
-<br style="clear:both;"/>
+## <img src="img/Logolupa.png" width="80"> ¡¡Importante!! ¿Qué es Vitalinux?
 
-<td rowspan="2" style="background-color:#ffff99;border-top:1.25pt solid #000000;border-bottom:1.25pt solid #000000;border-left:1.25pt solid #000000;border-right:none;padding:0.5cm; width: 70px; text-align: center;"> [<img alt="Logolupa.png" height="74" src="/images/a/a6/Logolupa.png" width="60"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Logolupa.png)<p>**<tt>¡¡Importante!!</tt>**</p></td><td style="background-color:#00ff99;border-top:1.25pt solid #000000; border-bottom:1.25pt solid #000000; border-left:none;border-right:1.25pt solid #000000;padding:0.5cm;text-align:left"> <center><tt>**¿Qué es Vitalinux?**</tt></center><p>**Vitalinux** es un sistema operativo similar a *Microsoft Windows* o *Android* que nos va a permitir trabajar con nuestro equipo informático (*pc sobremesa, portatil, tablet o dispositivo móvil*) con aplicaciones iguales o similares a las que normalmente utilizamos (*Mozilla Firefox, Google Chrome, LibreOffice, etc.*), pero con la gran diferencia de que el **software es libre**, de **código abierto**.  En concreto, **Vitalinux**, al igual que *Android*, no es un sistema operativo que nace desde cero, sino que esta basado y tiene sus raíces en otro sistema operativo llamado **GNU/Linux**.  Más concretamente, **Vitalinux** esta basado en la **versión ligera del sistema operativo GNU/Linux Ubuntu**, del cuál podríamos destacar entre otras muchas carácterísticas estas tres:</p>- **Vitalinux es un sistema operativo libre**- Al basarse en la versión ligera de Ubuntu llamada **Lubuntu** se garantiza que el **tiempo de respuesta** del equipo sea **el menor posible**-  **Incorpora un cliente Migasfree**<p>A continuación se detallan cada una de estas tres características.</p></td>
-
-<br/>
-
+**Vitalinux** es un sistema operativo similar a *Microsoft Windows* o *Android* que nos va a permitir trabajar con nuestro equipo informático (*pc sobremesa, portatil, tablet o dispositivo móvil*) con aplicaciones iguales o similares a las que normalmente utilizamos (*Mozilla Firefox, Google Chrome, LibreOffice, etc.*), pero con la gran diferencia de que el **software es libre**, de **código abierto**.  En concreto, **Vitalinux**, al igual que *Android*, no es un sistema operativo que nace desde cero, sino que esta basado y tiene sus raíces en otro sistema operativo llamado **GNU/Linux**.  Más concretamente, **Vitalinux** esta basado en la **versión ligera del sistema operativo GNU/Linux Ubuntu**, del cuál podríamos destacar entre otras muchas carácterísticas estas tres:
+- **Vitalinux es un sistema operativo libre**
+- Al basarse en la versión ligera de Ubuntu llamada **Lubuntu** se garantiza que el **tiempo de respuesta** del equipo sea **el menor posible**
+- **Incorpora un cliente Migasfree**A continuación se detallan cada una de estas tres características.
 
 ## Contenido
 
-- [1 Vitalinux es un sistema operativo libre de Código Abierto](#Vitalinux_es_un_sistema_operativo_libre_de_C.C3.B3digo_Abierto)
-- [2 Vitalinux esta basado en un Sistema Operativo muy Ligero](#Vitalinux_esta_basado_en_un_Sistema_Operativo_muy_Ligero)
-- [3 Vitalinux Incorpora un Cliente Migasfree](#Vitalinux_Incorpora_un_Cliente_Migasfree)
+- [1 Vitalinux es un sistema operativo libre de Código Abierto](#VitalinuxCodigoAbierto)
+- [2 Vitalinux esta basado en un Sistema Operativo muy Ligero](#VitalinuxLigero)
+- [3 Vitalinux Incorpora un Cliente Migasfree](#VitalinuxMigasfree)
 - [4 Tarea 1.1: ¿Código Abierto? ¿Qué puede hacer Migasfree por mí?](#Tarea_1.1:_.C2.BFC.C3.B3digo_Abierto.3F_.C2.BFQu.C3.A9_puede_hacer_Migasfree_por_m.C3.AD.3F)
 
-### Vitalinux es un sistema operativo libre de Código Abierto
+### Vitalinux es un sistema operativo libre de Código Abierto {#VitalinuxCodigoAbierto}
 
 **(1)** Al igual que cualquier otro sistema operativo GNU/Linux (*Debian, Ubuntu, OpenSuse, ...*), **Vitalinux es un sistema operativo libre**. Esto significa que el código bajo el cual esta programado es **abierto** y por tanto cualquiera puede copiarlo, modificarlo, mejorarlo y distribuir el resultado.
 
@@ -43,7 +40,7 @@ Entonces ... ¿De qué viven aquellos cuyo trabajo gira en torno a la filosofía
 Si se han entendido las diferentes fuentes de financiación que podrían darse en el caso de una **cocina abierta**, estas podrían extrapolarse a cualquier otro entorno de producción de **código abierto**, entre los cuales podrían distinguirse los relativos al **software libre** (*sistemas operativos y aplicaciones libres*), y al **hardware libre** (*fabricantes de aparatos electrónicos donde se facilitan los planos y componentes para que cualquiera pueda fabricarse uno propio*).
 
 
-### Vitalinux esta basado en un Sistema Operativo muy Ligero
+### Vitalinux esta basado en un Sistema Operativo muy Ligero {#VitalinuxLigero}
 
 **(2)** Al basarse en la versión ligera de Ubuntu llamada **Lubuntu** se garantiza que el **tiempo de respuesta** del equipo sea **el menor posible**. Es decir, permite que equipos antiguos con pocos recursos hardware puedan ser funcionales, ya que el sistema base (*sin arrancar ninguna aplicación de Escritorio*) tan sólo requiere unos 200MB de memoria RAM. De esta forma, si lo miramos desde el punto de vista opuesto, si tenemos un equipo actual (*varios Gigas de memoria RAM, un procesador de última generación, etc.*) el uso de un sistema operativo de estas características hará que el equipo “vuele”.
 
@@ -51,7 +48,7 @@ Si se han entendido las diferentes fuentes de financiación que podrían darse e
 No obstante, esto no puede llevarnos a engaños ni confusiones … hay que aclarar que aunque el sistema operativo base sea muy liviano, si las aplicaciones que usamos no son acordes con él y son pesadas, el equipo si no soporta dicha carga irá lento. Un claro ejemplo podría ser el navegador Web Google Chrome, que en este tipo de sistemas ligeros suele consumir muchos más recursos de RAM y procesador que el propio sistema operativo bajo el cual esta funcionando dicha aplicación.
 
 
-### Vitalinux Incorpora un Cliente Migasfree
+### Vitalinux Incorpora un Cliente Migasfree {#VitalinuxMigasfree}
 
 **(3)** Aunque existen otras muchas características que podríamos seguir destacando del sistema operativo Vitalinux, algunas de las cuales las iremos apreciando a lo largo de la realización del curso, por no alargar este primer punto introductorio cabría señalar y destacar **aquello que le hace diferente a Vitalinux del resto** de distribuciones Linux que existen en el mundo (*p.e. Ubuntu, Red Hat, Suse, etc.*): tiene preinstalado un **cliente Migasfree**.
 
@@ -64,23 +61,25 @@ Este cliente Migasfree nos permite entre otras muchas cosas el poder **gestionar
 -  Permite **mantener actualizados** todos los equipos del centro educativo.  Es decir, en el caso de detectar un error cualquiera del sistema o una posible mejora, su solución puede desplegarse a través de **Migasfree** en todos los equipos del centro.
 -  Nos permite **disponer de un inventariado muy detallado de todos los equipos del centro**, tanto de los componentes hardware que componen los equipos, como de todo el software que hay instalado en ellos.  Resaltar en este aspecto que este inventariado se hace de manera transparente y desatendida para los usuarios, siendo **Migasfree** el encargado de recolectar todos los datos del equipo y de registrarlos en una base de datos que posteriormente puede consultarse.
 -  ... Todo aquello que se nos ocurra que tenga que ver con el software de los equipos informáticos (*personalizar el fondo de Escritorio de manera desatendida, configurar acceso a libros digitales de las diferentes editoriales, configurar impresoras o fotocopiadoras, etc*).
+
 **Como puede apreciarse, todo ello redunda en un desahogo del administrador de los equipos informáticos garantizando una mayor fiabilidad y eficiencia de todos los sistemas informáticos del Centro Educativo**.
 
-<td rowspan="2" style="background-color:#ffff99;border-top:1.25pt solid #000000;border-bottom:1.25pt solid #000000;border-left:1.25pt solid #000000;border-right:none;padding:0.5cm; width: 70px; text-align: center;"> [<img alt="Logoalerta.png" height="51" src="/images/1/14/Logoalerta.png" width="60"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Logoalerta.png)<p>**<tt>¡¡Aviso!!</tt>**</p></td><td style="background-color:#E0FFFF;border-top:1.25pt solid #000000; border-bottom:1.25pt solid #000000; border-left:none;border-right:1.25pt solid #000000;padding:0.5cm;text-align:left"> <tt>**¿Quiénes son los creadores y desarrolladores de Migasfree?**</tt><p>Destacar por último que sorprendentemente Migasfree es un software que ha sido creado, desarrollado y liberado por dos trabajadores del ayuntamiento de Zaragoza (España), **Alberto Gacías **y **José Antonio Chavarría**.</p></td>
+## <img src="img/Logoalerta.png" width="80"> ¡¡Aviso!! ¿Quiénes son los creadores y desarrolladores de Migasfree?
 
-<br/>
+Destacar por último que sorprendentemente Migasfree es un software que ha sido creado, desarrollado y liberado por dos trabajadores del ayuntamiento de Zaragoza (España), **Alberto Gacías **y **José Antonio Chavarría**.
 
+## <img src="img/Logobombilla.png" width="80"> Tarea 1.1: ¿Código Abierto? ¿Qué puede hacer Migasfree por mí?
 
-## Tarea 1.1: ¿Código Abierto? ¿Qué puede hacer Migasfree por mí?
-<td rowspan="1" style="background-color:#ffff99;border-top:1.25pt solid #000000;border-bottom:none;border-left:1.25pt solid #000000;border-right:none;padding:0.5cm; width: 70px; text-align: center"> [<img alt="Logobombilla.png" height="60" src="/images/f/fe/Logobombilla.png" width="60"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Logobombilla.png)<p>**<tt>Tarea</tt><br/>1.1**</p></td><td style="background-color:#ADFF2F;border-top:1.25pt solid #000000; border-left:none;border-right:1.25pt solid #000000;padding:0.5cm;text-align:left"> <tt>**¿Código Abierto? ¿Qué puede hacer Migasfree por mí?**</tt><p>* **<tt>Requisitos: Es necesario haber leído el punto de **Introducción**</tt>** *<br/>Sin conocer todavía que es realmente **Vitalinux** y según la información anterior relativa a las características más destacables de este sistema operativo, en este primer ejercicio se van a pedir **un par de reflexiones**: </p><ol>-  *Tras leer el apartado relativo al concepto de **Código Abierto**, a parte del **hardware libre**, **software libre**, o **cocina libre** ...*</ol>-  **¿Qué otra área (*o áreas*) del conocimiento se te ocurre que sería estupendo que fuera libre, de código abierto, para podernos beneficiar culturalmente de manera global todos nosotros?**-  *Teniendo en cuenta que mediante Migasfree es posible gestionar todo el software de los equipos Vitalinux de forma remota, automatizada y desatendida ...* - **¿En qué crees que mejorarían los sistemas informáticos de los Centros Educativos si se adoptase éste como sistema operativo preferente?**  Comenta al menos 3 posibles aspectos de mejora que se te ocurran.  En caso de que no se te ocurra ninguna, plasma tus dudas o reflexiones respecto a lo que piensas sobre **Vitalinux &amp; Migasfree**.-  **¿Crees que si decidieras instalar Vitalinux en tus equipos personales de casa podría beneficiarte en algo esta gestión a través de Migasfree?** **</td>
-<td colspan="2" style="color: #555555; border-bottom:1.25pt solid #000000;border-right: 1.25pt solid #000000;border-left: 1.25pt solid #000000;padding:0.1cm;"> <tt>**Formato de Entrega:** Escribe acerca de lo que te se pide en un documento ofimático, pásalo si es posible a formato PDF, y adjúntalo como respuesta a la tarea solicitada. Envía al tutor un único archivo .pdf que se nombrará siguiendo las siguientes pautas: **apellido1_apellido2_nombre_TareaX**</tt><p>Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna **Begoña Sánchez Mañas**, debería nombrar esta tarea como: **sanchez_manas_begona_Tarea1.1**</p></td>
+Requisitos: Es necesario haber leído el punto de **Introducción**
 
-<br/>
+Sin conocer todavía que es realmente **Vitalinux** y según la información anterior relativa a las características más destacables de este sistema operativo, en este primer ejercicio se van a pedir **un par de reflexiones**:
 
-<th colspan="3" style="text-align:center;width:100%;">[Parte 1: Iniciándonos en Vitalinux](http://wiki.vitalinux.educa.aragon.es/index.php/Parte_1:_Inici%C3%A1ndonos_en_Vitalinux)</th>
-<td colspan="3" style="text-align:center;background:#EEF3E2;">[*Curso de Aularagón de Introducción a Vitalinux*](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Formaci%C3%B3n_en_Vitalinux_Aularagon/indice)</td>
-<td colspan="2" style="text-align:center;width:100%;font-size:95%;">**Introducción**  |  [¿Donde Descargar Vitalinux?](http://wiki.vitalinux.educa.aragon.es/index.php/Descargar)  |  [¿Cómo Probar Vitalinux?](http://wiki.vitalinux.educa.aragon.es/index.php/Probar)  |  [Primeras Pruebas con Vitalinux](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Aularagon/Primeras_Pruebas_con_Vitalinux)</td><td rowspan="1" style="vertical-align:middle; padding-left:7px; width:0%;">[<img alt="Logo-vitalinux.png" height="37" src="/images/7/7f/Logo-vitalinux.png" width="40"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Logo-vitalinux.png)</td>
-<td colspan="3" style="text-align:center;background:#EEF3E2;">[ Índice general del curso de Vitalinux de Aularagon](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Formaci%C3%B3n_en_Vitalinux_Aularagon/indice)  |  [ Preguntas Frecuentes - FAQs](http://wiki.vitalinux.educa.aragon.es/index.php/FAQs)[Acerca del curso de AulAragón](http://wiki.vitalinux.educa.aragon.es/index.php?title=Acerca_del_curso_de_AulArag%C3%B3n&amp;action=edit&amp;redlink=1)</td>
+-  *Tras leer el apartado relativo al concepto de **Código Abierto**, a parte del **hardware libre**, **software libre**, o **cocina libre** ...*
+    -  **¿Qué otra área (*o áreas*) del conocimiento se te ocurre que sería estupendo que fuera libre, de código abierto, para podernos beneficiar culturalmente de manera global todos nosotros?**
+- *Teniendo en cuenta que mediante Migasfree es posible gestionar todo el software de los equipos Vitalinux de forma remota, automatizada y desatendida ...*
+    - **¿En qué crees que mejorarían los sistemas informáticos de los Centros Educativos si se adoptase éste como sistema operativo preferente?**  Comenta al menos 3 posibles aspectos de mejora que se te ocurran.  En caso de que no se te ocurra ninguna, plasma tus dudas o reflexiones respecto a lo que piensas sobre **Vitalinux &amp; Migasfree**.
+    - **¿Crees que si decidieras instalar Vitalinux en tus equipos personales de casa podría beneficiarte en algo esta gestión a través de Migasfree?**
 
-<br style="clear:both;"/>
+> **Formato de Entrega:** Escribe acerca de lo que te se pide en un documento ofimático, pásalo si es posible a formato PDF, y adjúntalo como respuesta a la tarea solicitada. Envía al tutor un único archivo .pdf que se nombrará siguiendo las siguientes pautas: **apellido1_apellido2_nombre_TareaX**
 
+> Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna **Begoña Sánchez Mañas**, debería nombrar esta tarea como: **sanchez_manas_begona_Tarea1.1**
