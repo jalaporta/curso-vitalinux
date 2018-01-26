@@ -1,0 +1,13 @@
+# Parte 3: Organización de Directorios y Archivos en Vitalinux<th colspan="3" style="text-align:center;width:100%;">**Parte 3: Organización de Directorios y Archivos en Vitalinux**</th>
+<td colspan="3" style="text-align:center;background:#EEF3E2;">[*Curso de Aularagón de Introducción a Vitalinux*](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Formaci%C3%B3n_en_Vitalinux_Aularagon/indice)</td>
+<td colspan="2" style="text-align:center;width:100%;font-size:95%;">[¿Cómo se Organizan los Directorios y Archivos?](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Aularagon/Sistema_de_Archivos-Estructura)  |  [Propietarios y Permisos](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Aularagon/Sistema_de_Archivos-Propietarios_y_Permisos)  |  [Explorador de Archivos en Vitalinux](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Aularagon/Sistema_de_Archivos-Explorador_de_Archivos)  |  [Dispositivos de Almacenamiento](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Aularagon/Sistema_de_Archivos-Montaje_de_Dispositivos_de_Almacenamiento_Externos)  |  [Ficheros de Configuración Importantes en Vitalinux](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Aularagon/Sistema_de_Archivos-Ficheros_Importantes_del_Sistema)</td><td rowspan="1" style="vertical-align:middle; padding-left:7px; width:0%;">[<img alt="Logo-vitalinux.png" height="37" src="/images/7/7f/Logo-vitalinux.png" width="40"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Logo-vitalinux.png)</td>
+<td colspan="3" style="text-align:center;background:#EEF3E2;">[ Índice general del curso de Vitalinux de Aularagon](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Formaci%C3%B3n_en_Vitalinux_Aularagon/indice)  |  [ Preguntas Frecuentes - FAQs](http://wiki.vitalinux.educa.aragon.es/index.php/FAQs)[Acerca del curso de AulAragón](http://wiki.vitalinux.educa.aragon.es/index.php?title=Acerca_del_curso_de_AulArag%C3%B3n&amp;action=edit&amp;redlink=1)</td>
+
+<br style="clear:both;"/>
+
+
+**¡¡Avancemos un poco más con Vitalinux!!** En esta tercera parte del curso de introducción a **Vitalinux** se pretende que el usuario se familiarice con el **Sistema de Archivos de Linux** y la forma que tiene de organizar sus **Directorios** y **Archivos**.
+
+
+Para seguir con el curso y complementar las tareas deberás pinchar sobre los enlaces de la parte superior.  Como es obvio, se recomienda empezar por [¿Cómo se Organizan los Directorios y Archivos?](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Aularagon/Sistema_de_Archivos-Estructura), en relación a la cual se propone la **primera tarea** a realizar de esta tercera parte del curso.
+
