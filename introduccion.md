@@ -1,5 +1,3 @@
-# Introducción
-
 ## <img src="img/Logolupa.png" width="80"> ¡¡Importante!! ¿Qué es Vitalinux?
 
 **Vitalinux** es un sistema operativo similar a *Microsoft Windows* o *Android* que nos va a permitir trabajar con nuestro equipo informático (*pc sobremesa, portatil, tablet o dispositivo móvil*) con aplicaciones iguales o similares a las que normalmente utilizamos (*Mozilla Firefox, Google Chrome, LibreOffice, etc.*), pero con la gran diferencia de que el **software es libre**, de **código abierto**.  En concreto, **Vitalinux**, al igual que *Android*, no es un sistema operativo que nace desde cero, sino que esta basado y tiene sus raíces en otro sistema operativo llamado **GNU/Linux**.  Más concretamente, **Vitalinux** esta basado en la **versión ligera del sistema operativo GNU/Linux Ubuntu**, del cuál podríamos destacar entre otras muchas carácterísticas estas tres:
@@ -12,7 +10,7 @@
 - [1 Vitalinux es un sistema operativo libre de Código Abierto](#VitalinuxCodigoAbierto)
 - [2 Vitalinux esta basado en un Sistema Operativo muy Ligero](#VitalinuxLigero)
 - [3 Vitalinux Incorpora un Cliente Migasfree](#VitalinuxMigasfree)
-- [4 Tarea 1.1: ¿Código Abierto? ¿Qué puede hacer Migasfree por mí?](#Tarea_1.1:_.C2.BFC.C3.B3digo_Abierto.3F_.C2.BFQu.C3.A9_puede_hacer_Migasfree_por_m.C3.AD.3F)
+- [4 Tarea 1.1: ¿Código Abierto? ¿Qué puede hacer Migasfree por mí?](#Tarea1-1)
 
 ### Vitalinux es un sistema operativo libre de Código Abierto {#VitalinuxCodigoAbierto}
 
@@ -68,7 +66,7 @@ Este cliente Migasfree nos permite entre otras muchas cosas el poder **gestionar
 
 Destacar por último que sorprendentemente Migasfree es un software que ha sido creado, desarrollado y liberado por dos trabajadores del ayuntamiento de Zaragoza (España), **Alberto Gacías **y **José Antonio Chavarría**.
 
-## <img src="img/Logobombilla.png" width="80"> Tarea 1.1: ¿Código Abierto? ¿Qué puede hacer Migasfree por mí?
+## <img src="img/Logobombilla.png" width="80"> Tarea 1.1: ¿Código Abierto? ¿Qué puede hacer Migasfree por mí? {#Tarea1-1}
 
 Requisitos: Es necesario haber leído el punto de **Introducción**
 

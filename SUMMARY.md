@@ -4,21 +4,23 @@
 
 ## Parte 1
 * [Iniciándonos en Vitalinux](parte_1_iniciandonos_en_vitalinux.md)
-* [Introducción](introduccion.md)
+* [¿Qué es Vitalinux?](introduccion.md)
 * [¿Donde Descargar Vitalinux?](donde_descargar_vitalinux.md)
 * [¿Cómo Probar Vitalinux?](probar.md)
 * [Primeras Pruebas con Vitalinux](primeras_pruebas_con_vitalinux.md)
 
-## Parte 2 (en proceso)
-* [Parte 2: Familiarizándonos con el Entorno de Escrito de Vitalinux](parte_2_familiarizandonos_con_el_entorno_de_escrito_de_vitalinux.md)
+## Parte 2
+* [Familiarizándonos con el Entorno de Escrito de Vitalinux](parte_2_familiarizandonos_con_el_entorno_de_escrito_de_vitalinux.md)
 * [¿Preferencias del Escritorio?](preferencias_del_escritorio.md)
 * [Widgets del Escritorio](widgets_del_escritorio.md)
+* [¿Cómo lanzar Aplicaciones?](como_lanzar_aplicaciones.md)
+
+# Parte 3 en proceso
 * [Propietarios y Permisos](propietarios_y_permisos.md)
 * [Acerca del curso de AulAragón](acerca_del_curso_de_aularagon.md)
 * [ Preguntas Frecuentes - FAQs](_preguntas_frecuentes_-_faqs.md)
 * [Dispositivos de Almacenamiento](dispositivos_de_almacenamiento.md)
 * [Orígenes del Software y Actualizaciones](origenes_del_software_y_actualizaciones.md)
-* [¿Cómo lanzar Aplicaciones?](como_lanzar_aplicaciones.md)
 * [Explorador de Archivos en Vitalinux](explorador_de_archivos_en_vitalinux.md)
 * [¿Cómo Probar Vitalinux?](como_probar_vitalinux.md)
 * [Parte 3: Organización de Directorios y Archivos en Vitalinux](parte_3_organizacion_de_directorios_y_archivos_en_vitalinux.md)

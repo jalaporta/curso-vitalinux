@@ -3,8 +3,8 @@
 ## Contenido
 
 - [1 Partes del Escritorio Vitalinux](#PartesdelEscritorioVitalinux)
-- [2 Personalización del Escritorio Vitalinux](#Personalizaci.C3.B3n_del_Escritorio_Vitalinux)
-- [3 Tarea 2.1: ¿Cómo personalizo el Entorno de Escritorio de Vitalinux?](#Tarea_2.1:_.C2.BFC.C3.B3mo_personalizo_el_Entorno_de_Escritorio_de_Vitalinux.3F)
+- [2 Personalización del Escritorio Vitalinux](#PersonalizacionEscritorioVitalinux)
+- [3 Tarea 2.1: ¿Cómo personalizo el Entorno de Escritorio de Vitalinux?](#Tarea2-1)
 
 ## Partes del Escritorio Vitalinux {#PartesdelEscritorioVitalinux}
 
@@ -24,7 +24,7 @@ En concreto, dentro del **Escritorio** pueden diferenciarse las siguientes parte
 
 ![Área de Notificaciones de Vitalinux](img/Area-de-notificaciones_migafree_red.png)
 
-## Personalización del Escritorio Vitalinux
+## Personalización del Escritorio Vitalinux {#PersonalizacionEscritorioVitalinux}
 
 Para poder personalizar el aspecto de nuestro Escritorio tenemos dos alternativas:
 
@@ -43,7 +43,7 @@ Para poder personalizar el aspecto de nuestro Escritorio tenemos dos alternativa
 
 ![Opciones de Personalización del Panel Inferior de Vitalinux](img/Escritorio-panel-inferior-configuracion-2.png)
 
-## <img src="img/Logobombilla.png" width="80"> Tarea 2.1: ¿Cómo personalizo el Entorno de Escritorio de Vitalinux?
+## <img src="img/Logobombilla.png" width="80"> Tarea 2.1: ¿Cómo personalizo el Entorno de Escritorio de Vitalinux? {#Tarea2-1}
 
 Requisitos: Haber leído todo lo referente a **Preferencias del Escritorio Vitalinux**
 
