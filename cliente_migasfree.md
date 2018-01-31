@@ -1,9 +1,9 @@
-# Cliente Migasfree<th colspan="3" style="text-align:center;width:100%;">[Parte 4: Gestión del Software en Vitalinux](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Aularagon/Parte_4)</th>
-<td colspan="3" style="text-align:center;background:#EEF3E2;">[*Curso de Aularagón de Introducción a Vitalinux*](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Formaci%C3%B3n_en_Vitalinux_Aularagon/indice)</td>
-<td colspan="2" style="text-align:center;width:100%;font-size:95%;">[Configuración de red](http://wiki.vitalinux.educa.aragon.es/index.php/Vitalinux/Configurar_la_red)  |  [Orígenes del Software y Actualizaciones](http://wiki.vitalinux.educa.aragon.es/index.php/Vitalinux/Or%C3%ADgenes_del_Software_y_Actualizaciones)  |  [El Gestor de Software Synaptic](http://wiki.vitalinux.educa.aragon.es/index.php/Vitalinux/Synaptic)  |  [Centro de Software de Lubuntu](http://wiki.vitalinux.educa.aragon.es/index.php/Vitalinux/Centro_de_Software_de_Lubuntu)  |   [Aplicaciones Windows sobre Vitalinux](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Aularagon/Aplicaciones-Aplicaciones_Windows)  |  <br/> **Cliente Migasfree**  |  [Gestión del Software a través de Migasfree](http://wiki.vitalinux.educa.aragon.es/index.php/Vitalinux/Gesti%C3%B3n_del_Software_a_trav%C3%A9s_de_Migasfree)</td><td rowspan="1" style="vertical-align:middle; padding-left:7px; width:0%;">[<img alt="Logo-vitalinux.png" height="37" src="/images/7/7f/Logo-vitalinux.png" width="40"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Logo-vitalinux.png)</td>
-<td colspan="3" style="text-align:center;background:#EEF3E2;">[ Índice general del curso de Vitalinux de Aularagon](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Formaci%C3%B3n_en_Vitalinux_Aularagon/indice)  |  [ Preguntas Frecuentes - FAQs](http://wiki.vitalinux.educa.aragon.es/index.php/FAQs)[Acerca del curso de AulAragón](http://wiki.vitalinux.educa.aragon.es/index.php?title=Acerca_del_curso_de_AulArag%C3%B3n&amp;action=edit&amp;redlink=1)</td>
+# Cliente Migasfree
 
-<br style="clear:both;"/>
+
+
+
+
 
 
 ## Contenido
@@ -36,7 +36,7 @@ Como ***más vale un buen videotutorial que mil palabras*** a continuación se s
 ## Análisis de la comunicación con el Servidor Migasfree
 
 Cada vez que el equipo inicia una sesión gráfica, si éste tiene comunicación con Internet y el servidor Migasfree está activo, comienza una comunicación entre el cliente Migasfree y el servidor Migasfree.
-<br/>
+
 No obstante, antes de establecerse propiamente la comunicación con el servidor Migasfree, el sistema realiza una serie de comprobaciones/acciones, como por ejemplo:
 
 -  Comprobar si hay acceso a Internet (*para conectar después con Migasfree*)
@@ -68,27 +68,27 @@ Igualmente, si pulsamos sobre el **icono de Migasfree** podremos ver otras opcio
 A continuación veremos en detalle el proceso de comunicación entre nuestro Vitalinux (*cliente Migasfree*) y el servidor Migasfree. En concreto, una vez que se conecta con el servidor Migasfree se desencadenan las siguientes acciones:
 
 
-<br/>
+
 **(1) Conectando al servidor migasfree...**
 
 
-<br/>
+
 En primer lugar se comprueba que hay **conectividad** con el servidor migasfree, **migasfree.educa.aragon.es**.
 
 
-<br/>
+
 **(2) Obteniendo propiedades... / Evaluando atributos... / Subiendo atributos...**
 
 
-<br/>
+
 El servidor Migasfree le dice que le tiene que facilitar una información: **PROPIEDADES**. El cliente (*Vitalinux*) recopila dicha información en relación a propiedades que lo caracterizan (*el valor de la propiedad se llama **atributo**, y son **características software y hardware***), y que le permiten al servidor **identificarlo y clasificarlo**.
 
 
-<br/>
+
 **(3) Ejecutando fallas... / Subiendo fallas...**
 
 
-<br/>
+
 En el lado del servidor se programan **pequeños programas** llamados **"fallas"**. Estas fallas se asignan a los equipos en función de sus propiedades, atributos o etiquetas (*recordaremos que es una **Etiqueta Migasfree** en la siguiente sección*). De esta forma, en función de la información recolectada en el paso anterior, y la que ya tiene Migasfree en su base de datos decide cual de estas fallas se ejecutan en el equipo cliente. Las fallas permitirán cosas como:
 
 -  **Realizar comprobaciones**: si no queda espacio en disco, si hay errores en instalación
@@ -98,19 +98,19 @@ En el lado del servidor se programan **pequeños programas** llamados **"fallas"
 -  **Gestionar contraseñas de usuarios**
 -  '*Gestionar contraseñas de redes Wireless*
 -  .... ¡¡¡Cualquier cosa que nos queramos imaginar cuyo procesamiento requiera menos de un par de minutos!!!
-<br/>
+
 **(4) Creando repositorios... / Obteniendo los metadatos de los repositorios...**
 
 
-<br/>
+
 Un repositorio es un sitio centralizado en Internet donde se almacena software disponible para ser instalado en un equipo. El servidor Migasfree en función de las propiedades, atributos y etiquetas del equipo le asocia unos repositorios u otros para que su software asociado **este disponible**.
 
 
-<br/>
+
 **(5) Desinstalando paquetes... / Instalando paquetes obligatorios... / Actualizando paquetes...**
 
 
-<br/>
+
 En este punto, el servidor Migasfree da la orden al equipo cliente de desinstalación, instalación y actualización del software que se le haya indicado previamente a Migasfree. De ésta forma el equipo:
 
 -  Tendrá el software actualizado (se corrigen errores y se mejora la funcionalidad)
@@ -119,15 +119,15 @@ En este punto, el servidor Migasfree da la orden al equipo cliente de desinstala
 *¿Podremos instalar otro software o quitar software que no queramos?* **POR SUPUESTO** (*si tenemos permisos de administrador sobre la máquina*). Con lo anterior solo forzamos a un perfil de software BASE. 
 
 
-<br/>
+
 **(6) Subiendo el historial del software... / Subiendo el inventario del software...**
 
 
-<br/>
+
 Por último, el servidor Migasfree registra o inventaria el cambio que se haya podido producir en el software instalado en el equipo, de tal forma que a posteriori se puede saber que ha sucedido con los programas disponibles en el equipo.
 
 
-<br/>
+
 
 
 ### Actualización contra Migasfree desde la Consola
@@ -135,7 +135,7 @@ Por último, el servidor Migasfree registra o inventaria el cambio que se haya p
 Para actualizar el equipo contra migasfree de una manera expicita deberemos ejecutar el siguiente comando:
 
 
-<br/>
+
 **$ sudo migasfree --update**
 
 
@@ -202,15 +202,15 @@ Mientras el equipo tenga deshabilitado el cliente, NO se recibirán actualizacio
 
 
 ## Tarea 4.6: <center>Análisis de la Comunicación entre el Cliente y Servidor Migasfree</center>
-<td rowspan="1" style="background-color:#ffff99;border-top:1.25pt solid #000000;border-bottom:none;border-left:1.25pt solid #000000;border-right:none;padding:0.5cm; width: 70px; text-align: center"> [<img alt="Logobombilla.png" height="60" src="/images/f/fe/Logobombilla.png" width="60"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Logobombilla.png)<p>**<tt>Tarea</tt><br/>4.6**</p></td><td style="background-color:#ADFF2F;border-top:1.25pt solid #000000; border-left:none;border-right:1.25pt solid #000000;padding:0.5cm;text-align:left"> <tt>****<center>Análisis de la Comunicación entre el Cliente y Servidor Migasfree</center></tt><p>* **<tt>Requisitos: Es necesario haber leído todo lo referente al **Cliente de migasfree** </tt>** *<br/></p><p>Para la realización de la tarea se supone que dispones de un sistema Vitalinux en una **máquina física** o **virtual**.  En concreto se propone llevar a cabo la siguiente tarea:</p><p><u>Parte 1.</u> **Cliente migasfree**. Una vez se inicia sesión en Vitalinux abre la **consola del cliente Migasfree** y observa los mensajes que se producen. Para poder moverte con el **"scroll"** (*arriba y abajo*) deberás esperar a que termine el proceso. Haz dos capturas de pantalla:</p><ol>-  Donde aparezca el momento de la actualización donde **Migasfree chequea como vas de espacio libre** a través de una falla: **CHECK-HW-ESPACIO-LIBRE-DISCO**-  Cuando **Migasfree da la orden de actualizar el sistema**</ol><p><u>Parte 2.</u>Comprobación de **Etiquetas Migasfree**. Comprueba que etiquetas has asignado cuando hiciste la postinstalación y confirma que aparecen. Si no marcaste ninguna, lo cual es posible al marcar que ibas a usar el equipo fuera del entorno educativo, estará marcada la etiqueta de ENT-CASA. Haz una captura de pantalla con dicho listado. Más tarde asignaremos otra para instalar software.  **Importante**: *Para tener una información completa de la configuración de red y etiquetado Migasfree de tu Vitalinux puedes teclear **CONTROL + ESPACIO** y escribir ** Información Global del Sistema***</p><p><br/></p></td>
-<td colspan="2" style="color: #555555; border-bottom:1.25pt solid #000000;border-right: 1.25pt solid #000000;border-left: 1.25pt solid #000000;padding:0.1cm;"> <tt>**Formato de Entrega:** Si no encuentras muchos problemas para ello, haz capturas de pantalla de todo lo que vayas haciendo (*tecla IMPRIMIR PANTALLA, o **CONTROL + ESPACIO** y escribes **Capturar pantalla***).  En caso de encontrar problemas puedes hacer fotos directamente desde el móvil. Elabora un documento ofimático (o usa cualquier otro formato que te resulte más comodo) donde puedas incluir las capturas solicitadas y **expórtalo como pdf** para adjuntarlo como respuesta a la tarea solicitada. El nombre del fichero deberá seguir la pauta: **apellido1_apellido2_nombre_TareaX.pdf**.</tt></td>
+Requisitos: Es necesario haber leído todo lo referente al **Cliente de migasfree** </tt>** *</p><p>Para la realización de la tarea se supone que dispones de un sistema Vitalinux en una **máquina física** o **virtual**.  En concreto se propone llevar a cabo la siguiente tarea:</p><p><u>Parte 1.</u> **Cliente migasfree**. Una vez se inicia sesión en Vitalinux abre la **consola del cliente Migasfree** y observa los mensajes que se producen. Para poder moverte con el **"scroll"** (*arriba y abajo*) deberás esperar a que termine el proceso. Haz dos capturas de pantalla:</p><ol>-  Donde aparezca el momento de la actualización donde **Migasfree chequea como vas de espacio libre** a través de una falla: **CHECK-HW-ESPACIO-LIBRE-DISCO**-  Cuando **Migasfree da la orden de actualizar el sistema**</ol><p><u>Parte 2.</u>Comprobación de **Etiquetas Migasfree**. Comprueba que etiquetas has asignado cuando hiciste la postinstalación y confirma que aparecen. Si no marcaste ninguna, lo cual es posible al marcar que ibas a usar el equipo fuera del entorno educativo, estará marcada la etiqueta de ENT-CASA. Haz una captura de pantalla con dicho listado. Más tarde asignaremos otra para instalar software.  **Importante**: *Para tener una información completa de la configuración de red y etiquetado Migasfree de tu Vitalinux puedes teclear **CONTROL + ESPACIO** y escribir ** Información Global del Sistema***</p><p></p></td>
 
-<br/>
 
-<th colspan="3" style="text-align:center;width:100%;">[Parte 4: Gestión del Software en Vitalinux](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Aularagon/Parte_4)</th>
-<td colspan="3" style="text-align:center;background:#EEF3E2;">[*Curso de Aularagón de Introducción a Vitalinux*](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Formaci%C3%B3n_en_Vitalinux_Aularagon/indice)</td>
-<td colspan="2" style="text-align:center;width:100%;font-size:95%;">[Configuración de red](http://wiki.vitalinux.educa.aragon.es/index.php/Vitalinux/Configurar_la_red)  |  [Orígenes del Software y Actualizaciones](http://wiki.vitalinux.educa.aragon.es/index.php/Vitalinux/Or%C3%ADgenes_del_Software_y_Actualizaciones)  |  [El Gestor de Software Synaptic](http://wiki.vitalinux.educa.aragon.es/index.php/Vitalinux/Synaptic)  |  [Centro de Software de Lubuntu](http://wiki.vitalinux.educa.aragon.es/index.php/Vitalinux/Centro_de_Software_de_Lubuntu)  |   [Aplicaciones Windows sobre Vitalinux](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Aularagon/Aplicaciones-Aplicaciones_Windows)  |  <br/> **Cliente Migasfree**  |  [Gestión del Software a través de Migasfree](http://wiki.vitalinux.educa.aragon.es/index.php/Vitalinux/Gesti%C3%B3n_del_Software_a_trav%C3%A9s_de_Migasfree)</td><td rowspan="1" style="vertical-align:middle; padding-left:7px; width:0%;">[<img alt="Logo-vitalinux.png" height="37" src="/images/7/7f/Logo-vitalinux.png" width="40"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Logo-vitalinux.png)</td>
-<td colspan="3" style="text-align:center;background:#EEF3E2;">[ Índice general del curso de Vitalinux de Aularagon](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Formaci%C3%B3n_en_Vitalinux_Aularagon/indice)  |  [ Preguntas Frecuentes - FAQs](http://wiki.vitalinux.educa.aragon.es/index.php/FAQs)[Acerca del curso de AulAragón](http://wiki.vitalinux.educa.aragon.es/index.php?title=Acerca_del_curso_de_AulArag%C3%B3n&amp;action=edit&amp;redlink=1)</td>
 
-<br style="clear:both;"/>
+
+
+
+
+
+
+
 

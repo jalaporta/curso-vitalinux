@@ -1,9 +1,9 @@
-# Gestión de Escáneres e Impresoras<th colspan="3" style="text-align:center;width:100%;">[Parte 5: Aplicaciones Útiles y Alternativas en Vitalinux](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Aularagon/Parte_5)</th>
-<td colspan="3" style="text-align:center;background:#EEF3E2;">[*Curso de Aularagón de Introducción a Vitalinux*](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Formaci%C3%B3n_en_Vitalinux_Aularagon/indice)</td>
-<td colspan="2" style="text-align:center;width:100%;font-size:95%;">[Acciones del Explorador de Archivos](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Aularagon/Aplicaciones-Custom_Actions)  |  [Aplicaciones Multimedia](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Aularagon/Aplicaciones-Multimedia)  |  [Herramientas Ofimáticas](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Aularagon/Aplicaciones-Herramientas_Ofimaticas)  |   [Recursos para Centros Educativos](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Aularagon/Aplicaciones-Recursos_Educativos)  |   **Gestión de Escáneres e Impresoras**</td><td rowspan="1" style="vertical-align:middle; padding-left:7px; width:0%;">[<img alt="Logo-vitalinux.png" height="37" src="/images/7/7f/Logo-vitalinux.png" width="40"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Logo-vitalinux.png)</td>
-<td colspan="3" style="text-align:center;background:#EEF3E2;">[ Índice general del curso de Vitalinux de Aularagon](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Formaci%C3%B3n_en_Vitalinux_Aularagon/indice)  |  [ Preguntas Frecuentes - FAQs](http://wiki.vitalinux.educa.aragon.es/index.php/FAQs)[Acerca del curso de AulAragón](http://wiki.vitalinux.educa.aragon.es/index.php?title=Acerca_del_curso_de_AulArag%C3%B3n&amp;action=edit&amp;redlink=1)</td>
+# Gestión de Escáneres e Impresoras
 
-<br style="clear:both;"/>
+
+
+
+
 
 
 ## Contenido
@@ -51,9 +51,9 @@ Gracias a **Fernando Peña**, MIA el IES Miralbueno, a continuación daremos una
 
 En el **caso de que la detección de la impresora o posterior configuración no resulte exitosa**, es posible que tengamos que hacer uso del software privativo del fabricante para darle una solución.  Este puede ser el caso de los modelos HPLaserJet 1018, 1020, P1102, P1102W, etc.  En ese caso concreto, para que sirva de ejemplo, los pasos a seguir serían los siguientes:
 
-<td rowspan="2" style="background-color:#ffff99;border-top:1.25pt solid #000000;border-bottom:1.25pt solid #000000;border-left:1.25pt solid #000000;border-right:none;padding:0.5cm; width: 70px; text-align: center;"> [<img alt="Logoalerta.png" height="51" src="/images/1/14/Logoalerta.png" width="60"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Logoalerta.png)<p>**<tt>¡¡Aviso!!</tt>**</p></td><td style="background-color:#E0FFFF;border-top:1.25pt solid #000000; border-bottom:1.25pt solid #000000; border-left:none;border-right:1.25pt solid #000000;padding:0.5cm;text-align:left"> <tt>****<center>¡¡Cuidado si la impresora es USB!!</center></tt><p>Un detalle a tener en cuenta antes de empezar es que **si la impresora va por USB**, no hay que conectarla hasta que nos lo diga el asistente posterior de instalación. Si ya está conectada, en un momento de la instalación habrá que desconectar el cable USB y volver a conectarlo. Si la conexión es por red puede estar conectada desde el principio</p></td>
+****<center>¡¡Cuidado si la impresora es USB!!</center>\nUn detalle a tener en cuenta antes de empezar es que **si la impresora va por USB**, no hay que conectarla hasta que nos lo diga el asistente posterior de instalación. Si ya está conectada, en un momento de la instalación habrá que desconectar el cable USB y volver a conectarlo. Si la conexión es por red puede estar conectada desde el principio</p></td>
 
-<br/>
+
 
 
 1.  Vamos a la página **[http://hplipopensource.com/hplip-web/index.html](http://hplipopensource.com/hplip-web/index.html)** 
@@ -77,10 +77,10 @@ Accedemos a otra pantalla con las instrucciones (*en inglés*), [http://hplipope
 [<img alt="" class="thumbimage" height="225" src="/images/8/80/Ies-miralbueno-configurar_impresora-pantalla12.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla12.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla12.png)Seguiremos los pasos de instalación del asistente de la consola Linux
 
 ## Tarea 5.8 (Optativa): <center>Configurar una impresora local USB</center>
-<td rowspan="1" style="background-color:#ffff99;border-top:1.25pt solid #000000;border-bottom:none;border-left:1.25pt solid #000000;border-right:none;padding:0.5cm; width: 70px; text-align: center"> [<img alt="Logobombilla.png" height="60" src="/images/f/fe/Logobombilla.png" width="60"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Logobombilla.png)<p>**<tt>Tarea</tt><br/>5.8 (Optativa)**</p></td><td style="background-color:#ADFF2F;border-top:1.25pt solid #000000; border-left:none;border-right:1.25pt solid #000000;padding:0.5cm;text-align:left"> <tt>****<center>Configurar una impresora local USB</center></tt><p>* **<tt>Requisitos: Es necesario haber leído todo lo referente a [Instalación y Configuración de Impresoras en Vitalinux](http://wiki.vitalinux.educa.aragon.es/index.php/Vitalinux/Configurar_Impresoras_Locales) y disponer de un equipo con Vitalinux instalado para realizar la Tarea</tt>** *<br/>A través de esta tarea opcional se sugiere seguir los pasos explicados en la teoría e instalar y configurar una impresora USB.</p></td>
-<td colspan="2" style="color: #555555; border-bottom:1.25pt solid #000000;border-right: 1.25pt solid #000000;border-left: 1.25pt solid #000000;padding:0.1cm;"> <tt>**Formato de Entrega:** Si no encuentras muchos problemas para ello, haz algunas capturas de pantalla (tecla IMPRIMIR PANTALLA) de todo lo que vayas haciendo. En caso de encontrar problemas para ello puedes hacer fotos directamente desde el móvil. DElabora un documento ofimático (o usa cualquier otro formato que te resulte más comodo) donde puedas incluir las capturas solicitadas y **expórtalo como pdf** para adjuntarlo como respuesta a la tarea solicitada. El nombre del fichero deberá seguir la pauta: **apellido1_apellido2_nombre_TareaX.pdf**.</tt></td>
+Requisitos: Es necesario haber leído todo lo referente a [Instalación y Configuración de Impresoras en Vitalinux](http://wiki.vitalinux.educa.aragon.es/index.php/Vitalinux/Configurar_Impresoras_Locales) y disponer de un equipo con Vitalinux instalado para realizar la Tarea</tt>** *A través de esta tarea opcional se sugiere seguir los pasos explicados en la teoría e instalar y configurar una impresora USB.</p></td>
 
-<br/>
+
+
 
 
 ## ¿Cómo configurar un escáner USB en Vitalinux?
@@ -92,15 +92,15 @@ Como ***más vale un buen videotutorial que mil palabras*** a continuación se s
 
 
 ## Tarea 5.9 (Optativa): <center>Configurar un Escáner local USB</center>
-<td rowspan="1" style="background-color:#ffff99;border-top:1.25pt solid #000000;border-bottom:none;border-left:1.25pt solid #000000;border-right:none;padding:0.5cm; width: 70px; text-align: center"> [<img alt="Logobombilla.png" height="60" src="/images/f/fe/Logobombilla.png" width="60"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Logobombilla.png)<p>**<tt>Tarea</tt><br/>5.9 (Optativa)**</p></td><td style="background-color:#ADFF2F;border-top:1.25pt solid #000000; border-left:none;border-right:1.25pt solid #000000;padding:0.5cm;text-align:left"> <tt>****<center>Configurar un Escáner local USB</center></tt><p>* **<tt>Requisitos: Es necesario haber leído todo lo referente a [Instalación y Configuración de Escáneres en Vitalinux](http://wiki.vitalinux.educa.aragon.es/index.php/Vitalinux/Configurar_Escaneres_Locales) y disponer de un equipo con Vitalinux instalado para realizar la Tarea</tt>** *<br/>A través de esta tarea opcional se sugiere seguir los pasos explicados en la teoría e instalar y configurar un escáner USB.</p></td>
-<td colspan="2" style="color: #555555; border-bottom:1.25pt solid #000000;border-right: 1.25pt solid #000000;border-left: 1.25pt solid #000000;padding:0.1cm;"> <tt>**Formato de Entrega:** Si no encuentras muchos problemas para ello, haz algunas capturas de pantalla (tecla IMPRIMIR PANTALLA) de todo lo que vayas haciendo. En caso de encontrar problemas para ello puedes hacer fotos directamente desde el móvil. Elabora un documento ofimático (o usa cualquier otro formato que te resulte más comodo) donde puedas incluir las capturas solicitadas y **expórtalo como pdf** para adjuntarlo como respuesta a la tarea solicitada. El nombre del fichero deberá seguir la pauta: **apellido1_apellido2_nombre_TareaX.pdf**.</tt></td>
+Requisitos: Es necesario haber leído todo lo referente a [Instalación y Configuración de Escáneres en Vitalinux](http://wiki.vitalinux.educa.aragon.es/index.php/Vitalinux/Configurar_Escaneres_Locales) y disponer de un equipo con Vitalinux instalado para realizar la Tarea</tt>** *A través de esta tarea opcional se sugiere seguir los pasos explicados en la teoría e instalar y configurar un escáner USB.</p></td>
 
-<br/>
 
-<th colspan="3" style="text-align:center;width:100%;">[Parte 5: Aplicaciones Útiles y Alternativas en Vitalinux](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Aularagon/Parte_5)</th>
-<td colspan="3" style="text-align:center;background:#EEF3E2;">[*Curso de Aularagón de Introducción a Vitalinux*](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Formaci%C3%B3n_en_Vitalinux_Aularagon/indice)</td>
-<td colspan="2" style="text-align:center;width:100%;font-size:95%;">[Acciones del Explorador de Archivos](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Aularagon/Aplicaciones-Custom_Actions)  |  [Aplicaciones Multimedia](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Aularagon/Aplicaciones-Multimedia)  |  [Herramientas Ofimáticas](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Aularagon/Aplicaciones-Herramientas_Ofimaticas)  |   [Recursos para Centros Educativos](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Aularagon/Aplicaciones-Recursos_Educativos)  |   **Gestión de Escáneres e Impresoras**</td><td rowspan="1" style="vertical-align:middle; padding-left:7px; width:0%;">[<img alt="Logo-vitalinux.png" height="37" src="/images/7/7f/Logo-vitalinux.png" width="40"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Logo-vitalinux.png)</td>
-<td colspan="3" style="text-align:center;background:#EEF3E2;">[ Índice general del curso de Vitalinux de Aularagon](http://wiki.vitalinux.educa.aragon.es/index.php/Curso_Formaci%C3%B3n_en_Vitalinux_Aularagon/indice)  |  [ Preguntas Frecuentes - FAQs](http://wiki.vitalinux.educa.aragon.es/index.php/FAQs)[Acerca del curso de AulAragón](http://wiki.vitalinux.educa.aragon.es/index.php?title=Acerca_del_curso_de_AulArag%C3%B3n&amp;action=edit&amp;redlink=1)</td>
 
-<br style="clear:both;"/>
+
+
+
+
+
+
+
 

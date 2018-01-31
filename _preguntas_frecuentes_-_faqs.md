@@ -193,7 +193,7 @@ Una vez tengamos disponible **boot-repair** (*reparación de arranque*) en nuest
 1.  Lanzamos una terminal, **CONTROL + ALT + T**, y escribimos **sudo boot-repair**
 1.  En Vitalinux, al disponer de **synapse** podemos intentar **CONTROL + ESPACIO** y escribir **reparación de arranque**
 <center>[<img alt="Vitalinux-dualizando con uefi-lanzador boot repair.png" height="144" src="/images/5/50/Vitalinux-dualizando_con_uefi-lanzador_boot_repair.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-lanzador_boot_repair.png)</center>
-<p><br/>
+<p>
 </p>
 <center>[<img alt="Boot-repair opciones avanzadas.png" height="188" src="/images/8/8f/Boot-repair_opciones_avanzadas.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Boot-repair_opciones_avanzadas.png)</center>
 
@@ -204,7 +204,7 @@ Una vez abierto **boot-repair**, desde sus opciones avanzadas podremos decidir e
 <center>[<img alt="Vitalinux-dualizando con uefi-boot repair1.png" height="246" src="/images/3/34/Vitalinux-dualizando_con_uefi-boot_repair1.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-boot_repair1.png)</center>
 1.  Será necesario seleccionar el texto/comandos propuestos en una terminal y ejecutarlos.  Para ello abriremos una terminal, **CONTROL + ALT + T**, suplantaremos al superAdministrador **root** del sistema ejecutando el comando **sudo su** y pegaremos los comandos indicados.
 <center>[<img alt="Vitalinux-dualizando con uefi-boot repair2.png" height="135" src="/images/b/b6/Vitalinux-dualizando_con_uefi-boot_repair2.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-boot_repair2.png)</center>
-<p><br/>
+<p>
 </p>
 <center>[<img alt="Vitalinux-dualizando con uefi-boot repair3.png" height="111" src="/images/c/c1/Vitalinux-dualizando_con_uefi-boot_repair3.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-boot_repair3.png)</center>
 1.  Al final nos sugerirá **Cargar el reporte a pastebin** para poder auditar el proceso y conocer si ha sucedido algo extraño en el proceso anterior.  Indicaremos **Si** sin más.
@@ -222,7 +222,7 @@ En el caso de que el menú mostrado por el gestor de arranque no nos guste o des
 <center>[<img alt="Vitalinux-dualizando con uefi-lanzando grub customizer.png" height="147" src="/images/e/e3/Vitalinux-dualizando_con_uefi-lanzando_grub_customizer.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-lanzando_grub_customizer.png)</center>
 1.  Una vez lanzada la aplicación, desde sus pestañas principales podremos editar el texto del menú que se muestra al iniciar el equipo, y el orden en que aparecen:
 <center>[<img alt="Vitalinux-dualizando con uefi-grub customizer1.png" height="278" src="/images/5/50/Vitalinux-dualizando_con_uefi-grub_customizer1.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-grub_customizer1.png)</center>
-<p><br/>
+<p>
 </p>
 <center>[<img alt="Vitalinux-dualizando con uefi-grub customizer2.png" height="122" src="/images/9/9b/Vitalinux-dualizando_con_uefi-grub_customizer2.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-grub_customizer2.png)</center>
 1.  Desde la pestaña referente a **Configuración de la apariencia** podremos incluso personalizar la imagen de fondo del menú de arranque (*resolución recomendada de 640x480*)
@@ -276,11 +276,11 @@ A modo de ejemplo, si optáramos por la primera opción **(1)** de congelación 
 En el caso de que optáramos por la segunda opción **(2)** de congelación ofrecida en Vitalinux podríamos advertir que cualquier cosa que guardemos en cualquier carpeta de nuestro perfil (*Documentos, Descargas, Vídeos, Música, etc.) se perdería, al igual que cualquier modificación que hiciéramos del Escritorio.  Por contra, las aplicaciones del sistema estaría sin congelar (*instalar nuevas aplicaciones, desinstalar cualquier aplicación y actualizar las que sean necesarias*).  Puntualizar que esta congelación no impide que los alumnos y profesores puedan guardar su información, ya que o bien pueden guardarlo en su **pendrive**, o bien lo pueden guardar de manera centralizada en un pequeño servidor accesible desde cualquier equipo vitalinux del centro.*
 
 
-<br/>
 
-<td rowspan="2" style="background-color:#ffff99;border-top:1.25pt solid #000000;border-bottom:1.25pt solid #000000;border-left:1.25pt solid #000000;border-right:none;padding:0.5cm; width: 70px; text-align: center;"> [<img alt="Logoalerta.png" height="51" src="/images/1/14/Logoalerta.png" width="60"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Logoalerta.png)<p>**<tt>¡¡Aviso!!</tt>**</p></td><td style="background-color:#E0FFFF;border-top:1.25pt solid #000000; border-bottom:1.25pt solid #000000; border-left:none;border-right:1.25pt solid #000000;padding:0.5cm;text-align:left"> <tt>**¿La congelación Total en Vitalinux no me permite guardar nada dentro de mi perfil de usuario?**</tt><p>En realidad sólo se congela el Escritorio, y las carpetas de uso habitual (Documentos, Descargas, Vídeos, Música, etc.).  La carpeta raíz del perfil (*/home/profesor, /home/alumno, /home/aularagon, etc.*) y sus carpetas ocultas (***CONTROL + H**, para ver los directorios ocultos, los que empiezan por un punto "."*)</p></td>
 
-<br/>
+**¿La congelación Total en Vitalinux no me permite guardar nada dentro de mi perfil de usuario?**\nEn realidad sólo se congela el Escritorio, y las carpetas de uso habitual (Documentos, Descargas, Vídeos, Música, etc.).  La carpeta raíz del perfil (*/home/profesor, /home/alumno, /home/aularagon, etc.*) y sus carpetas ocultas (***CONTROL + H**, para ver los directorios ocultos, los que empiezan por un punto "."*)</p></td>
+
+
 
 
 ### ¿Cómo puedo hacer prácticas de instalación de software sin que persistan en Vitalinux?
@@ -398,7 +398,7 @@ Por norma general, todas las CPU's modernas (desde la siguiente generación de P
 ### Rendimiento
 
 Si la CPU soporta 64 bits encontraremos que el equipo funciona de forma mas óptima con un Sistema Operativo de 64 bits ya que podremos aprovechar al máximo las funcionaliades que nos ofrece la CPU. Si vamos a ejecturar aplicaciones que necesitan mucho cómputo será bueno contar con el sistema optimizado...
-<br/>En el caso de querer contar con más de 4GB de RAM, había problemas en arquitecturas con 32 bits hasta que se introdujo PAE (que solucionó el límite teórico de 4GB para ampliarlo a 64GB. Linux lo soporta por defecto, por lo que podremos instalar 32 bits en equipos de mas de 4 GB de RAM.
+En el caso de querer contar con más de 4GB de RAM, había problemas en arquitecturas con 32 bits hasta que se introdujo PAE (que solucionó el límite teórico de 4GB para ampliarlo a 64GB. Linux lo soporta por defecto, por lo que podremos instalar 32 bits en equipos de mas de 4 GB de RAM.
 A modo de ayuda, en pruebas que hemos realizado en equipos *antiguos* que soportan 64 bits (por ejemplo algunos Pentium IV) y no con mucha RAM (1GB de RAM), no encontramos diferencias entre Sistema Operativo de 32 o de 64 con un uso básico (ver párrafo anterior)
 
 
@@ -413,7 +413,7 @@ También nos podemos encontrar que aplicaciones más modernas no liberan ejecuta
 ### Resumiendo
 -  Si el equipo es relativamente moderno y sabemos que las aplicaciones que vamos a correr funcionan en ambas arquitecturas, se aconseja instalar 64 bits. Si tenemos más de 4 GB de RAM también será nuestra opción. 
 -  Si el equipo es antiguo (pentium IV o similar), 32 bits.
-<br/>De todas formas siempre podemos comprobar con los dos y sacar propias conclusiones....con Vitalinux reinstalar es muy rálido!!!!
+De todas formas siempre podemos comprobar con los dos y sacar propias conclusiones....con Vitalinux reinstalar es muy rálido!!!!
 
 
 ## Ubuntu o Lubuntu
@@ -431,7 +431,7 @@ Esta es una pregunta bastante ambigüa e imprecisa ya que dentro de Ubuntu exist
 Básicamente, **perderíamos la ligereza de su Entorno de Escritorio**, y dependiendo de la distribución de Ubuntu que eligiéramos, ganaríamos en un **Entorno de Escritorio más amigable, más vistoso, más trabajado, ..." a costa de un consumo de recursos mayor.**
 
 
-<br/>
+
 
 
 ### Si tenemos ordenadores potentes en casa ... ¿nos merece la pena modificar el Entorno de Escritorio de Vitalinux/Lubuntu?
@@ -439,7 +439,7 @@ Básicamente, **perderíamos la ligereza de su Entorno de Escritorio**, y depend
 Si tenemos claro que entorno de Escritorio usar, ¡¡sí!!.  Simplemente tenemos que ir a nuestro gestor de software preferente (*p.e. synaptic*) e instalarlo.  Después cerrar sesión e indicar cual queremos que sea nuestro nuevo **Entorno de Escritorio**.
 
 
-<br/>
+
 
 
 ### Ordenadores con Win XP con Pentium 3GHz y 1 GB de RAM ... ¿se podrían reutilizar con Vitalinux?
@@ -452,7 +452,7 @@ A priori, ¡¡sí se podrían reutilizar!!  El único inconveniente que pueden p
 ¡¡Si es posible!! Simplemente hay que pinchar con el botón derecho del ratón sobre el paquete software (*formato DEB*) que hayamos descargado e indicar que queremos instalarlo a través de **Gdebi** (*es un instalador de paquetes previamente descargados*).
 
 
-<br/>
+
 
 
 ### ¿Desde migasfree se puede instalar software que no esté en repositorios (*p.e. un DVD para dar clases de ingles en el aula*)
@@ -472,7 +472,7 @@ En el caso de que el menú mostrado por el gestor de arranque no nos guste o des
 <center>[<img alt="Vitalinux-dualizando con uefi-lanzando grub customizer.png" height="147" src="/images/e/e3/Vitalinux-dualizando_con_uefi-lanzando_grub_customizer.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-lanzando_grub_customizer.png)</center>
 1.  Una vez lanzada la aplicación, desde sus pestañas principales podremos editar el texto del menú que se muestra al iniciar el equipo, y el orden en que aparecen:
 <center>[<img alt="Vitalinux-dualizando con uefi-grub customizer1.png" height="278" src="/images/5/50/Vitalinux-dualizando_con_uefi-grub_customizer1.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-grub_customizer1.png)</center>
-<p><br/>
+<p>
 </p>
 <center>[<img alt="Vitalinux-dualizando con uefi-grub customizer2.png" height="122" src="/images/9/9b/Vitalinux-dualizando_con_uefi-grub_customizer2.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-grub_customizer2.png)</center>
 1.  Desde la pestaña referente a **Configuración de la apariencia** podremos incluso personalizar la imagen de fondo del menú de arranque (*resolución recomendada de 640x480*)
@@ -534,9 +534,9 @@ Gracias a **Fernando Peña**, MIA el IES Miralbueno, a continuación daremos una
 
 En el **caso de que la detección de la impresora o posterior configuración no resulte exitosa**, es posible que tengamos que hacer uso del software privativo del fabricante para darle una solución.  Este puede ser el caso de los modelos HPLaserJet 1018, 1020, P1102, P1102W, etc.  En ese caso concreto, para que sirva de ejemplo, los pasos a seguir serían los siguientes:
 
-<td rowspan="2" style="background-color:#ffff99;border-top:1.25pt solid #000000;border-bottom:1.25pt solid #000000;border-left:1.25pt solid #000000;border-right:none;padding:0.5cm; width: 70px; text-align: center;"> [<img alt="Logoalerta.png" height="51" src="/images/1/14/Logoalerta.png" width="60"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Logoalerta.png)<p>**<tt>¡¡Aviso!!</tt>**</p></td><td style="background-color:#E0FFFF;border-top:1.25pt solid #000000; border-bottom:1.25pt solid #000000; border-left:none;border-right:1.25pt solid #000000;padding:0.5cm;text-align:left"> <tt>****<center>¡¡Cuidado si la impresora es USB!!</center></tt><p>Un detalle a tener en cuenta antes de empezar es que **si la impresora va por USB**, no hay que conectarla hasta que nos lo diga el asistente posterior de instalación. Si ya está conectada, en un momento de la instalación habrá que desconectar el cable USB y volver a conectarlo. Si la conexión es por red puede estar conectada desde el principio</p></td>
+****<center>¡¡Cuidado si la impresora es USB!!</center>\nUn detalle a tener en cuenta antes de empezar es que **si la impresora va por USB**, no hay que conectarla hasta que nos lo diga el asistente posterior de instalación. Si ya está conectada, en un momento de la instalación habrá que desconectar el cable USB y volver a conectarlo. Si la conexión es por red puede estar conectada desde el principio</p></td>
 
-<br/>
+
 
 
 1.  Vamos a la página **[http://hplipopensource.com/hplip-web/index.html](http://hplipopensource.com/hplip-web/index.html)** 

@@ -18,7 +18,7 @@ Para llevar a cabo el presente curso de introducción a Vitalinux se va a sugeri
 
 - [4.1 ¿Cómo crear un USB Bootable o Arrancable?](#USBBootable)
 
-<br/>
+
 
 
 ## Instalación de Vitalinux usando VirtualBox
