@@ -23,24 +23,27 @@
 * [Dispositivos de Almacenamiento](dispositivos_de_almacenamiento.md)
 * [Ficheros de Configuración Importantes en Vitalinux](ficheros_de_configuracion_importantes_en_vitalinux.md)
 
-#
-* [Acerca del curso de AulAragón](acerca_del_curso_de_aularagon.md)
-* [ Preguntas Frecuentes - FAQs](_preguntas_frecuentes_-_faqs.md)
+## Parte 4
+* [Gestión del Software en Vitalinux](parte_4_gestion_del_software_en_vitalinux.md)
+* [Configuración de red](configuracion_de_red.md)
 * [Orígenes del Software y Actualizaciones](origenes_del_software_y_actualizaciones.md)
+* [El Gestor de Software Synaptic](el_gestor_de_software_synaptic.md)
+* [Aplicaciones Windows sobre Vitalinux](aplicaciones_windows_sobre_vitalinux.md)
+* [Cliente Migasfree](cliente_migasfree.md)
+* [Gestión del Software a través de Migasfree](gestion_del_software_a_traves_de_migasfree.md)
+
+## Parte 5
+* [Aplicaciones Útiles y Alternativas en Vitalinux](parte_5_aplicaciones_utiles_y_alternativas_en_vitalinux.md)
+* [Acciones del Explorador de Archivos](acciones_del_explorador_de_archivos.md)
+* [Aplicaciones Multimedia](aplicaciones_multimedia.md)
+* [Herramientas Ofimáticas](herramientas_ofimaticas.md)
+* [Recursos para Centros Educativos](recursos_para_centros_educativos.md)
+* [Gestión de Escáneres e Impresoras](gestion_de_escaneres_e_impresoras.md)
+
+#
+* [ Preguntas Frecuentes - FAQs](_preguntas_frecuentes_-_faqs.md)
 * [¿Cómo Probar Vitalinux?](como_probar_vitalinux.md)
 * [Centro de Software de Lubuntu](centro_de_software_de_lubuntu.md)
-* [Cliente Migasfree](cliente_migasfree.md)
-* [Acciones del Explorador de Archivos](acciones_del_explorador_de_archivos.md)
-* [Configuración de red](configuracion_de_red.md)
-* [Aplicaciones Windows sobre Vitalinux](aplicaciones_windows_sobre_vitalinux.md)
-* [Herramientas Ofimáticas](herramientas_ofimaticas.md)
-* [Aplicaciones Multimedia](aplicaciones_multimedia.md)
-* [Gestión de Escáneres e Impresoras](gestion_de_escaneres_e_impresoras.md)
-* [Parte 4: Gestión del Software en Vitalinux](parte_4_gestion_del_software_en_vitalinux.md)
-* [Gestión del Software a través de Migasfree](gestion_del_software_a_traves_de_migasfree.md)
-* [El Gestor de Software Synaptic](el_gestor_de_software_synaptic.md)
-* [Recursos para Centros Educativos](recursos_para_centros_educativos.md)
-* [Parte 5: Aplicaciones Útiles y Alternativas en Vitalinux](parte_5_aplicaciones_utiles_y_alternativas_en_vitalinux.md)
 
 ## Apéndice
 * [Comprobar la Integridad de un fichero descargado](comprobar_md5.md)
