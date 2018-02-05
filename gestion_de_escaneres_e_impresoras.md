@@ -23,23 +23,30 @@ La configuración de una impresora en Linux/Vitalinux es muy sencillo.  A contin
 <li>
 Accederemos al **Panel de Control de gestión de Impresoras**.  Para ello **CONTROL + ESPACIO** y escribimos **"Impresoras"**
 </li>
-[<img alt="" class="thumbimage" height="284" src="/images/0/0b/Vitalinux-configurar_impresora_1.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_1.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_1.png)Panel de Control para la Gestión de Impresoras
+
+![](img/vitalinux-configurar-impresora-1.png)
 <li>
 Pinchamos sobre el botón asociado a **Añadir una nueva Impresora**
 </li>
 1.  Seleccionamos la **Impresora Detectada** por el sistema Linux que queremos instalar y configurar (*p.e. una impresora USB*).  En el caso de que se trate de una impresora o fotocopiadora en Red deberemos pinchar en **Buscar impresora de red** e indicar su dirección IP, y seleccionar el protocolo o **modo de conexión** usado para comunicarse con ella
-[<img alt="" class="thumbimage" height="338" src="/images/8/8e/Vitalinux-configurar_impresora_2.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_2.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_2.png)Tras pinchar en **Añadir Impresora** advertiremos que habrá reconocido la impresora USB que tengamos conectada.  En caso de ser una impresora o fotocopiadora en red deberemos pinchar en **Buscar impresora de red** e indicar su dirección IP
-[<img alt="" class="thumbimage" height="338" src="/images/1/15/Vitalinux-configurar_impresora_3.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_3.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_3.png)Tras pinchar en **Añadir Impresora**, en el caso de que sea una impresora o fotocopiadora en red deberemos pinchar en **Buscar impresora de red** e indicar su dirección IP, y seleccionar el protocolo o **modo de conexión** con ella
+
+![](img/vitalinux-configurar-impresora-2.png)
+
+![](img/vitalinux-configurar-impresora-3.png)
 <li>
 Una vez el sistema haya autocomprobado que dispone del driver de comunicación adecuado para comunicarse con ese modelo de impresora, nos mostrará un dialogo con las **Opciones de Configuración de la Impresora**
 </li>
-[<img alt="" class="thumbimage" height="338" src="/images/2/23/Vitalinux-configurar_impresora_4.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_4.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_4.png)Opciones de Configuración de la Impresora
+
+![](img/vitalinux-configurar-impresora-4.png)
 1.  Indicaremos un **Nombre** que identifique a la impresora (*evitaremos hacer uso de espacios en blanco*), una **Descripción** y una **Localización**, los cuales nos permitirán identificar ese modelo de impresora a posteriori 
-[<img alt="" class="thumbimage" height="336" src="/images/2/2e/Vitalinux-configurar_impresora_5.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_5.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_5.png)Nombre, descripción y ubicación de la impresora
+
+![](img/vitalinux-configurar-impresora-5.png)
 1.  Tras la configuración de la impresora se nos invitará a mandarle un trabajo de prueba y así comprobar su correcto funcionamiento 
-[<img alt="" class="thumbimage" height="286" src="/images/a/a0/Vitalinux-configurar_impresora_6.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_6.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_6.png)Prueba de impresión
+
+![](img/vitalinux-configurar-impresora-6.png)
 <li> A posteriori, desde el **Panel de Control de la gestión de Impresoras**, pinchando con el **botón derecho** del ratón sobre la impresora deseada podemos personalizar su comportamiento por defecto: *Tamaño de papel, Color o Blanco y Negro, Una cara o Doble cara, etc.*
-[<img alt="" class="thumbimage" height="179" src="/images/d/d2/Vitalinux-configurar_impresora_7.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_7.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_7.png)Opciones de Configuración de los trabajos a Imprimir
+
+![](img/vitalinux-configurar-impresora-7.png)
 </li>
 Como ***más vale un buen videotutorial que mil palabras*** a continuación se sugiere ver el [siguiente vídeo](https://youtu.be/yuUDWJwABbM) relacionado con la teoría de esta parte del curso: **Instalación y Configuración de Impresoras**
 
@@ -57,24 +64,33 @@ En el **caso de que la detección de la impresora o posterior configuración no 
 
 
 1.  Vamos a la página **[http://hplipopensource.com/hplip-web/index.html](http://hplipopensource.com/hplip-web/index.html)** 
-[<img alt="" class="thumbimage" height="225" src="/images/3/33/Ies-miralbueno-configurar_impresora-pantalla1.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla1.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla1.png)Pagina Web de hplip
+
+![](img/ies-miralbueno-configurar-impresora-pantalla1.png)
 1.  Pulsamos en **"Download HPLIP"** 
 <li>
 **Seleccionamos la distribución y versión de linux (*Ubuntu 14.04*)**, además del tipo y modelo de impresora. Nos lleva a otra pantalla donde nos da la opción de seguir o corregir. Pulsamos **"Next"** y nos lleva a otra pantalla para descargar lo necesario.  En algún punto de este proceso nos dirá que nuestra versión ya viene preparada para la impresora. Seguimos adelante.
 </li>
-[<img alt="" class="thumbimage" height="225" src="/images/7/7f/Ies-miralbueno-configurar_impresora-pantalla2.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla2.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla2.png)**Seleccionamos la distribución y versión de linux (*Ubuntu 14.04*)**
-[<img alt="" class="thumbimage" height="225" src="/images/8/84/Ies-miralbueno-configurar_impresora-pantalla3.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla3.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla3.png)Seguimos el asistente
-[<img alt="" class="thumbimage" height="225" src="/images/f/fa/Ies-miralbueno-configurar_impresora-pantalla4.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla4.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla4.png)Seguimos el asistente
+
+![](img/ies-miralbueno-configurar-impresora-pantalla2.png)
+
+![](img/ies-miralbueno-configurar-impresora-pantalla3.png)
+
+![](img/ies-miralbueno-configurar-impresora-pantalla4.png)
 <li>
 Accedemos a otra pantalla con las instrucciones (*en inglés*), [http://hplipopensource.com/hplip-web/install/install/index.html](http://hplipopensource.com/hplip-web/install/install/index.html), y el botón de descargar.
 </li>
-[<img alt="" class="thumbimage" height="225" src="/images/e/ee/Ies-miralbueno-configurar_impresora-pantalla5.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla5.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla5.png)Seguimos el asistente
-[<img alt="" class="thumbimage" height="225" src="/images/e/ef/Ies-miralbueno-configurar_impresora-pantalla6.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla6.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla6.png)Seguimos el asistente
+
+![](img/ies-miralbueno-configurar-impresora-pantalla5.png)
+
+![](img/ies-miralbueno-configurar-impresora-pantalla6.png)
 <li> Descargamos, abrimos el terminal, nos vamos a la carpeta donde está la descarga y seguimos las instrucciones (*básicamente es elegir las opciones por defecto*)
 </li>
-[<img alt="" class="thumbimage" height="281" src="/images/4/41/Ies-miralbueno-configurar_impresora-pantalla7.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla7.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla7.png)Desde la terminal ejecutaremos el software descargado
-[<img alt="" class="thumbimage" height="281" src="/images/0/0a/Ies-miralbueno-configurar_impresora-pantalla8.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla8.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla8.png)Seguiremos los pasos de instalación del asistente de la consola Linux
-[<img alt="" class="thumbimage" height="225" src="/images/8/80/Ies-miralbueno-configurar_impresora-pantalla12.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla12.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla12.png)Seguiremos los pasos de instalación del asistente de la consola Linux
+
+![](img/ies-miralbueno-configurar-impresora-pantalla7.png)
+
+![](img/ies-miralbueno-configurar-impresora-pantalla8.png)
+
+![](img/ies-miralbueno-configurar-impresora-pantalla12.png)
 
 ## Tarea 5.8 (Optativa): <center>Configurar una impresora local USB</center>
 Requisitos: Es necesario haber leído todo lo referente a [Instalación y Configuración de Impresoras en Vitalinux](http://wiki.vitalinux.educa.aragon.es/index.php/Vitalinux/Configurar_Impresoras_Locales) y disponer de un equipo con Vitalinux instalado para realizar la Tarea</tt>** *A través de esta tarea opcional se sugiere seguir los pasos explicados en la teoría e instalar y configurar una impresora USB.</p></td>

@@ -135,11 +135,14 @@ La instalación del libro de Oxford en local es sencilla.
 
 1.  Obtienes el libro o bien en formato DVD, pincho o descargándolo de la web. Para ello habla con tu comercial
 <li> Si lo descargas de la web o te la pasan en un formato .zip lo primero que debes hacer es extrarlo en el escritorio por ejemplo o en tu carpeta personal...luego lo podrás borrar ya que solo sirva para instalarlo
-<dl><dd>[<img alt="" class="thumbimage" height="216" src="/images/3/37/Contenido_zip_oxford.png" width="300"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Contenido_zip_oxford.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Contenido_zip_oxford.png)contenido</dd></dl></li>
+
+![](img/contenido-zip-oxford.png)
 <li> Ejecutas el instalador correspondiente. Si has instalado un Vitalinux de 32 bits tendrás que usar setup-linux. Si es de 64 bits setup-linux-x64. Para saber cual es tu arquitectura puede preguntar a la aplicación (CTRL+Espacio) "Conocer Dire..."
-<dl><dd>[<img alt="" class="thumbimage" height="176" src="/images/0/08/Ejecutando_instalador_oxford.png" width="300"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ejecutando_instalador_oxford.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ejecutando_instalador_oxford.png)ejecutando</dd></dl></li>
+
+![](img/ejecutando-instalador-oxford.png)
 <li> Después del asistente te habrá creado un directorio en la cuenta del usuario (/home/profesor) llamado "Oxford University Press" y dentro del mismo un directorio por libro que hayas instalado. Por ejemplo, si tienes varios libros:
-<dl><dd>[<img alt="" class="thumbimage" height="125" src="/images/c/ca/Listado_libros_oxford.png" width="300"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Listado_libros_oxford.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Listado_libros_oxford.png)Listado</dd></dl></li>
+
+![](img/listado-libros-oxford.png)
 <li> Desde ahora puedes acceder al libro directamente entrando en el directorio que ha creado en "Oxford University Press" -&gt; linux -&gt; oup
 <ul>1.  Pero como hemos indicado, puedes usar nuestra aplicación para arrancarlo de forma cómoda
 <li> También puedes copiar el resultado (la carpeta con el libro que se ha creado en "Oxford University Press") al directorio profesor del servidor caché e indicarnos que lo has copiado (a través de la incidencia) para que lo hagamos visible a todos los equipos de tu centro
@@ -192,25 +195,32 @@ Una vez tengamos disponible **boot-repair** (*reparación de arranque*) en nuest
 
 1.  Lanzamos una terminal, **CONTROL + ALT + T**, y escribimos **sudo boot-repair**
 1.  En Vitalinux, al disponer de **synapse** podemos intentar **CONTROL + ESPACIO** y escribir **reparación de arranque**
-<center>[<img alt="Vitalinux-dualizando con uefi-lanzador boot repair.png" height="144" src="/images/5/50/Vitalinux-dualizando_con_uefi-lanzador_boot_repair.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-lanzador_boot_repair.png)</center>
+
+![](img/vitalinux-dualizando-con-uefi-lanzador-boot-repair.png)
 <p>
 </p>
-<center>[<img alt="Boot-repair opciones avanzadas.png" height="188" src="/images/8/8f/Boot-repair_opciones_avanzadas.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Boot-repair_opciones_avanzadas.png)</center>
+
+![](img/boot-repair-opciones-avanzadas.png)
 
 Una vez abierto **boot-repair**, desde sus opciones avanzadas podremos decidir entre reparar/reinstalar el GRUB o el MBR.
 
 
 1.  Es recomendable seguir los pasos recomendados, por lo que seleccionaremos **Reparación Recomendada**
-<center>[<img alt="Vitalinux-dualizando con uefi-boot repair1.png" height="246" src="/images/3/34/Vitalinux-dualizando_con_uefi-boot_repair1.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-boot_repair1.png)</center>
+
+![](img/vitalinux-dualizando-con-uefi-boot-repair1.png)
 1.  Será necesario seleccionar el texto/comandos propuestos en una terminal y ejecutarlos.  Para ello abriremos una terminal, **CONTROL + ALT + T**, suplantaremos al superAdministrador **root** del sistema ejecutando el comando **sudo su** y pegaremos los comandos indicados.
-<center>[<img alt="Vitalinux-dualizando con uefi-boot repair2.png" height="135" src="/images/b/b6/Vitalinux-dualizando_con_uefi-boot_repair2.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-boot_repair2.png)</center>
+
+![](img/vitalinux-dualizando-con-uefi-boot-repair2.png)
 <p>
 </p>
-<center>[<img alt="Vitalinux-dualizando con uefi-boot repair3.png" height="111" src="/images/c/c1/Vitalinux-dualizando_con_uefi-boot_repair3.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-boot_repair3.png)</center>
+
+![](img/vitalinux-dualizando-con-uefi-boot-repair3.png)
 1.  Al final nos sugerirá **Cargar el reporte a pastebin** para poder auditar el proceso y conocer si ha sucedido algo extraño en el proceso anterior.  Indicaremos **Si** sin más.
-<center>[<img alt="Vitalinux-dualizando con uefi-boot repair4.png" height="222" src="/images/6/66/Vitalinux-dualizando_con_uefi-boot_repair4.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-boot_repair4.png)</center>
+
+![](img/vitalinux-dualizando-con-uefi-boot-repair4.png)
 1.  Una vez terminado el proceso de reparación simplemente reiniciaremos el equipo para comprobar que ya tenemos el menú de arranque correctamente establecido 
-<center>[<img alt="Vitalinux-dualizando con uefi-boot repair5.png" height="236" src="/images/0/0a/Vitalinux-dualizando_con_uefi-boot_repair5.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-boot_repair5.png)</center>
+
+![](img/vitalinux-dualizando-con-uefi-boot-repair5.png)
 
 Si todo ha ido bien, al reiniciar deberemos ver un menú similar al siguiente, desde el cual ya podremos lanzar Windows o Linux:
 
@@ -219,16 +229,21 @@ En el caso de que el menú mostrado por el gestor de arranque no nos guste o des
 
 
 1.  Lanzaremos el Grub Customizer haciendo uso de **synpase** tecleando **CONTROL + ESPACIO** y escribiendo **customizer**:
-<center>[<img alt="Vitalinux-dualizando con uefi-lanzando grub customizer.png" height="147" src="/images/e/e3/Vitalinux-dualizando_con_uefi-lanzando_grub_customizer.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-lanzando_grub_customizer.png)</center>
+
+![](img/vitalinux-dualizando-con-uefi-lanzando-grub-customizer.png)
 1.  Una vez lanzada la aplicación, desde sus pestañas principales podremos editar el texto del menú que se muestra al iniciar el equipo, y el orden en que aparecen:
-<center>[<img alt="Vitalinux-dualizando con uefi-grub customizer1.png" height="278" src="/images/5/50/Vitalinux-dualizando_con_uefi-grub_customizer1.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-grub_customizer1.png)</center>
+
+![](img/vitalinux-dualizando-con-uefi-grub-customizer1.png)
 <p>
 </p>
-<center>[<img alt="Vitalinux-dualizando con uefi-grub customizer2.png" height="122" src="/images/9/9b/Vitalinux-dualizando_con_uefi-grub_customizer2.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-grub_customizer2.png)</center>
+
+![](img/vitalinux-dualizando-con-uefi-grub-customizer2.png)
 1.  Desde la pestaña referente a **Configuración de la apariencia** podremos incluso personalizar la imagen de fondo del menú de arranque (*resolución recomendada de 640x480*)
-<center>[<img alt="Vitalinux-dualizando con uefi-grub customizer3.png" height="279" src="/images/f/f1/Vitalinux-dualizando_con_uefi-grub_customizer3.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-grub_customizer3.png)</center>
+
+![](img/vitalinux-dualizando-con-uefi-grub-customizer3.png)
 1.  Si todo ha ido bien, tras realizar y guardar la configuración anterior, al reiniciar el equipo se debería mostrar el nuevo aspecto del menú del gestor de arranque definido:
-<center>[<img alt="Vitalinux-dualizando con uefi-tras boot repair-grub customizer3.png" height="250" src="/images/1/1f/Vitalinux-dualizando_con_uefi-tras_boot_repair-grub_customizer3.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-tras_boot_repair-grub_customizer3.png)</center>
+
+![](img/vitalinux-dualizando-con-uefi-tras-boot-repair-grub-customizer3.png)
 
 ## ¿Como recuperar datos de un equipo que necesito formatear?
 
@@ -321,11 +336,14 @@ En el caso de las contraseñas de las redes Wireless, **si queremos evitar que e
 
 
 1.  Configurar las **conexiones de red** de Vitalinux.  Para ello teclear **"CONTROL + ESPACIO"'** y escribir **"conexiones de red"**.  Según el perfil del usuario que lleve a cabo esta acción será necesario introducir en algún momento una contraseña de administrador
-[<img alt="" class="thumbimage" height="106" src="/images/8/8c/Evitar_anillo_de_claves-wireless-conexiones_de_red.png" width="300"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Evitar_anillo_de_claves-wireless-conexiones_de_red.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Evitar_anillo_de_claves-wireless-conexiones_de_red.png)A través de **"Conexiones de Red"** podemos configurar tanto las redes inalámbricas como cableadas del sistema Vitalinux
+
+![](img/evitar-anillo-de-claves-wireless-conexiones-de-red.png)
 1.  Seleccionar la red Wireless que deseamos que pueda ser usada por cualquier usuario de Vitalinux sin necesidad de tener almacenada en su deposito de claves la clave de esa red Wireless, y después pinchar sobre el botón **"Editar"** con la finalidad de poder editar la configuración asociada a esa red Wireless 
-[<img alt="" class="thumbimage" height="195" src="/images/5/55/Evitar_anillo_de_claves-wireless-conexiones_de_red_3.png" width="300"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Evitar_anillo_de_claves-wireless-conexiones_de_red_3.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Evitar_anillo_de_claves-wireless-conexiones_de_red_3.png)A través del **"Editor de Conexiones"** podemos editar las redes inalámbricas que tenemos configuradas
+
+![](img/evitar-anillo-de-claves-wireless-conexiones-de-red-3.png)
 1.  Ir a la **"pestaña General"** y seleccionar el **"checkbox"** que indica que **"Todos los usuarios deben conectarse a esta red"** Wireless 
-[<img alt="" class="thumbimage" height="260" src="/images/1/12/Evitar_anillo_de_claves-wireless-conexiones_de_red_4.png" width="300"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Evitar_anillo_de_claves-wireless-conexiones_de_red_4.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Evitar_anillo_de_claves-wireless-conexiones_de_red_4.png)Al seleccionar **"Todos los usuarios deben conectarse a esta red"** le indicamos a Vitalinux que sea el sistema Vitalinux, y no el deposito de claves del usuario, el que debe almacenar la contraseña de la Wireless para que así cualquier usuario que inicie sesión pueda hacer uso de la conectividad de dicha red
+
+![](img/evitar-anillo-de-claves-wireless-conexiones-de-red-4.png)
 
 ## ¿Qué implica tener activa en Vitlainux la etiqueta ENT-ALUMNO o ENT-PROFESOR?
 
@@ -469,16 +487,21 @@ En el caso de que el menú mostrado por el gestor de arranque no nos guste o des
 
 
 1.  Lanzaremos el Grub Customizer haciendo uso de **synpase** tecleando **CONTROL + ESPACIO** y escribiendo **customizer**:
-<center>[<img alt="Vitalinux-dualizando con uefi-lanzando grub customizer.png" height="147" src="/images/e/e3/Vitalinux-dualizando_con_uefi-lanzando_grub_customizer.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-lanzando_grub_customizer.png)</center>
+
+![](img/vitalinux-dualizando-con-uefi-lanzando-grub-customizer.png)
 1.  Una vez lanzada la aplicación, desde sus pestañas principales podremos editar el texto del menú que se muestra al iniciar el equipo, y el orden en que aparecen:
-<center>[<img alt="Vitalinux-dualizando con uefi-grub customizer1.png" height="278" src="/images/5/50/Vitalinux-dualizando_con_uefi-grub_customizer1.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-grub_customizer1.png)</center>
+
+![](img/vitalinux-dualizando-con-uefi-grub-customizer1.png)
 <p>
 </p>
-<center>[<img alt="Vitalinux-dualizando con uefi-grub customizer2.png" height="122" src="/images/9/9b/Vitalinux-dualizando_con_uefi-grub_customizer2.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-grub_customizer2.png)</center>
+
+![](img/vitalinux-dualizando-con-uefi-grub-customizer2.png)
 1.  Desde la pestaña referente a **Configuración de la apariencia** podremos incluso personalizar la imagen de fondo del menú de arranque (*resolución recomendada de 640x480*)
-<center>[<img alt="Vitalinux-dualizando con uefi-grub customizer3.png" height="279" src="/images/f/f1/Vitalinux-dualizando_con_uefi-grub_customizer3.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-grub_customizer3.png)</center>
+
+![](img/vitalinux-dualizando-con-uefi-grub-customizer3.png)
 1.  Si todo ha ido bien, tras realizar y guardar la configuración anterior, al reiniciar el equipo se debería mostrar el nuevo aspecto del menú del gestor de arranque definido:
-<center>[<img alt="Vitalinux-dualizando con uefi-tras boot repair-grub customizer3.png" height="250" src="/images/1/1f/Vitalinux-dualizando_con_uefi-tras_boot_repair-grub_customizer3.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-dualizando_con_uefi-tras_boot_repair-grub_customizer3.png)</center>
+
+![](img/vitalinux-dualizando-con-uefi-tras-boot-repair-grub-customizer3.png)
 
 ## Drivers para las tarjetas wireless Broadcom
 
@@ -506,23 +529,30 @@ La configuración de una impresora en Linux/Vitalinux es muy sencillo.  A contin
 <li>
 Accederemos al **Panel de Control de gestión de Impresoras**.  Para ello **CONTROL + ESPACIO** y escribimos **"Impresoras"**
 </li>
-[<img alt="" class="thumbimage" height="284" src="/images/0/0b/Vitalinux-configurar_impresora_1.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_1.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_1.png)Panel de Control para la Gestión de Impresoras
+
+![](img/vitalinux-configurar-impresora-1.png)
 <li>
 Pinchamos sobre el botón asociado a **Añadir una nueva Impresora**
 </li>
 1.  Seleccionamos la **Impresora Detectada** por el sistema Linux que queremos instalar y configurar (*p.e. una impresora USB*).  En el caso de que se trate de una impresora o fotocopiadora en Red deberemos pinchar en **Buscar impresora de red** e indicar su dirección IP, y seleccionar el protocolo o **modo de conexión** usado para comunicarse con ella
-[<img alt="" class="thumbimage" height="338" src="/images/8/8e/Vitalinux-configurar_impresora_2.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_2.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_2.png)Tras pinchar en **Añadir Impresora** advertiremos que habrá reconocido la impresora USB que tengamos conectada.  En caso de ser una impresora o fotocopiadora en red deberemos pinchar en **Buscar impresora de red** e indicar su dirección IP
-[<img alt="" class="thumbimage" height="338" src="/images/1/15/Vitalinux-configurar_impresora_3.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_3.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_3.png)Tras pinchar en **Añadir Impresora**, en el caso de que sea una impresora o fotocopiadora en red deberemos pinchar en **Buscar impresora de red** e indicar su dirección IP, y seleccionar el protocolo o **modo de conexión** con ella
+
+![](img/vitalinux-configurar-impresora-2.png)
+
+![](img/vitalinux-configurar-impresora-3.png)
 <li>
 Una vez el sistema haya autocomprobado que dispone del driver de comunicación adecuado para comunicarse con ese modelo de impresora, nos mostrará un dialogo con las **Opciones de Configuración de la Impresora**
 </li>
-[<img alt="" class="thumbimage" height="338" src="/images/2/23/Vitalinux-configurar_impresora_4.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_4.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_4.png)Opciones de Configuración de la Impresora
+
+![](img/vitalinux-configurar-impresora-4.png)
 1.  Indicaremos un **Nombre** que identifique a la impresora (*evitaremos hacer uso de espacios en blanco*), una **Descripción** y una **Localización**, los cuales nos permitirán identificar ese modelo de impresora a posteriori 
-[<img alt="" class="thumbimage" height="336" src="/images/2/2e/Vitalinux-configurar_impresora_5.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_5.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_5.png)Nombre, descripción y ubicación de la impresora
+
+![](img/vitalinux-configurar-impresora-5.png)
 1.  Tras la configuración de la impresora se nos invitará a mandarle un trabajo de prueba y así comprobar su correcto funcionamiento 
-[<img alt="" class="thumbimage" height="286" src="/images/a/a0/Vitalinux-configurar_impresora_6.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_6.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_6.png)Prueba de impresión
+
+![](img/vitalinux-configurar-impresora-6.png)
 <li> A posteriori, desde el **Panel de Control de la gestión de Impresoras**, pinchando con el **botón derecho** del ratón sobre la impresora deseada podemos personalizar su comportamiento por defecto: *Tamaño de papel, Color o Blanco y Negro, Una cara o Doble cara, etc.*
-[<img alt="" class="thumbimage" height="179" src="/images/d/d2/Vitalinux-configurar_impresora_7.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_7.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Vitalinux-configurar_impresora_7.png)Opciones de Configuración de los trabajos a Imprimir
+
+![](img/vitalinux-configurar-impresora-7.png)
 </li>
 Como ***más vale un buen videotutorial que mil palabras*** a continuación se sugiere ver el [siguiente vídeo](https://youtu.be/yuUDWJwABbM) relacionado con la teoría de esta parte del curso: **Instalación y Configuración de Impresoras**
 
@@ -540,24 +570,33 @@ En el **caso de que la detección de la impresora o posterior configuración no 
 
 
 1.  Vamos a la página **[http://hplipopensource.com/hplip-web/index.html](http://hplipopensource.com/hplip-web/index.html)** 
-[<img alt="" class="thumbimage" height="225" src="/images/3/33/Ies-miralbueno-configurar_impresora-pantalla1.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla1.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla1.png)Pagina Web de hplip
+
+![](img/ies-miralbueno-configurar-impresora-pantalla1.png)
 1.  Pulsamos en **"Download HPLIP"** 
 <li>
 **Seleccionamos la distribución y versión de linux (*Ubuntu 14.04*)**, además del tipo y modelo de impresora. Nos lleva a otra pantalla donde nos da la opción de seguir o corregir. Pulsamos **"Next"** y nos lleva a otra pantalla para descargar lo necesario.  En algún punto de este proceso nos dirá que nuestra versión ya viene preparada para la impresora. Seguimos adelante.
 </li>
-[<img alt="" class="thumbimage" height="225" src="/images/7/7f/Ies-miralbueno-configurar_impresora-pantalla2.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla2.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla2.png)**Seleccionamos la distribución y versión de linux (*Ubuntu 14.04*)**
-[<img alt="" class="thumbimage" height="225" src="/images/8/84/Ies-miralbueno-configurar_impresora-pantalla3.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla3.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla3.png)Seguimos el asistente
-[<img alt="" class="thumbimage" height="225" src="/images/f/fa/Ies-miralbueno-configurar_impresora-pantalla4.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla4.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla4.png)Seguimos el asistente
+
+![](img/ies-miralbueno-configurar-impresora-pantalla2.png)
+
+![](img/ies-miralbueno-configurar-impresora-pantalla3.png)
+
+![](img/ies-miralbueno-configurar-impresora-pantalla4.png)
 <li>
 Accedemos a otra pantalla con las instrucciones (*en inglés*), [http://hplipopensource.com/hplip-web/install/install/index.html](http://hplipopensource.com/hplip-web/install/install/index.html), y el botón de descargar.
 </li>
-[<img alt="" class="thumbimage" height="225" src="/images/e/ee/Ies-miralbueno-configurar_impresora-pantalla5.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla5.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla5.png)Seguimos el asistente
-[<img alt="" class="thumbimage" height="225" src="/images/e/ef/Ies-miralbueno-configurar_impresora-pantalla6.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla6.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla6.png)Seguimos el asistente
+
+![](img/ies-miralbueno-configurar-impresora-pantalla5.png)
+
+![](img/ies-miralbueno-configurar-impresora-pantalla6.png)
 <li> Descargamos, abrimos el terminal, nos vamos a la carpeta donde está la descarga y seguimos las instrucciones (*básicamente es elegir las opciones por defecto*)
 </li>
-[<img alt="" class="thumbimage" height="281" src="/images/4/41/Ies-miralbueno-configurar_impresora-pantalla7.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla7.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla7.png)Desde la terminal ejecutaremos el software descargado
-[<img alt="" class="thumbimage" height="281" src="/images/0/0a/Ies-miralbueno-configurar_impresora-pantalla8.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla8.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla8.png)Seguiremos los pasos de instalación del asistente de la consola Linux
-[<img alt="" class="thumbimage" height="225" src="/images/8/80/Ies-miralbueno-configurar_impresora-pantalla12.png" width="400"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla12.png) [](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Ies-miralbueno-configurar_impresora-pantalla12.png)Seguiremos los pasos de instalación del asistente de la consola Linux
+
+![](img/ies-miralbueno-configurar-impresora-pantalla7.png)
+
+![](img/ies-miralbueno-configurar-impresora-pantalla8.png)
+
+![](img/ies-miralbueno-configurar-impresora-pantalla12.png)
 
 ## ¿Cómo configurar un escáner USB en Vitalinux?
 
@@ -567,5 +606,6 @@ La configuración de un escáner en Linux/Vitalinux es muy sencillo, ya que no s
 Como ***más vale un buen videotutorial que mil palabras*** a continuación se sugiere ver el [siguiente vídeo](https://youtu.be/-A6CX4exyeg) relacionado con la teoría de esta parte del curso: **Instalación y Configuración de Escáneres**
 
 
-[<img alt="En Construcción" height="53" src="/images/e/e1/Road_works.png" width="60"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Road_works.png) <tt>Lo sentimos.  Zona de la Wiki de Vitalinux en Construcción</tt> [<img alt="En Construcción" height="53" src="/images/e/e1/Road_works.png" width="60"/>](http://wiki.vitalinux.educa.aragon.es/index.php/Archivo:Road_works.png)
+
+![](img/road-works.png)
 

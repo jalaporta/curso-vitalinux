@@ -28,6 +28,7 @@
 * [Configuración de red](configuracion_de_red.md)
 * [Orígenes del Software y Actualizaciones](origenes_del_software_y_actualizaciones.md)
 * [El Gestor de Software Synaptic](el_gestor_de_software_synaptic.md)
+* [Centro de Software de Lubuntu](centro_de_software_de_lubuntu.md)
 * [Aplicaciones Windows sobre Vitalinux](aplicaciones_windows_sobre_vitalinux.md)
 * [Cliente Migasfree](cliente_migasfree.md)
 * [Gestión del Software a través de Migasfree](gestion_del_software_a_traves_de_migasfree.md)
@@ -43,7 +44,7 @@
 #
 * [ Preguntas Frecuentes - FAQs](_preguntas_frecuentes_-_faqs.md)
 * [¿Cómo Probar Vitalinux?](como_probar_vitalinux.md)
-* [Centro de Software de Lubuntu](centro_de_software_de_lubuntu.md)
+
 
 ## Apéndice
 * [Comprobar la Integridad de un fichero descargado](comprobar_md5.md)

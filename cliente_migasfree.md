@@ -1,18 +1,11 @@
 # Cliente Migasfree
 
-
-
-
-
-
-
 ## Contenido
 
-<li class="toclevel-1">[1 Análisis de la comunicación con el Servidor Migasfree](#An.C3.A1lisis_de_la_comunicaci.C3.B3n_con_el_Servidor_Migasfree)
-<ul>
-- [1.1 Interfaz](#Interfaz)
-- [1.2 Análisis de la comunicación entre el Cliente y Servidor Migasfree](#An.C3.A1lisis_de_la_comunicaci.C3.B3n_entre_el_Cliente_y_Servidor_Migasfree)
-- [1.3 Actualización contra Migasfree desde la Consola](#Actualizaci.C3.B3n_contra_Migasfree_desde_la_Consola)
+- [1 Análisis de la comunicación con el Servidor Migasfree](#AnalisisComunicacionMigasFree)
+    - [1.1 Interfaz](#Interfaz)
+    - [1.2 Análisis de la comunicación entre el Cliente y Servidor Migasfree](#AnalisisComunicacionClienteServidor)
+    - [1.3 Actualización contra Migasfree desde la Consola](#ActualizacionContraMigasfreConsola)
 
 - [2.1 ¿Qué son y para qué sirven las etiquetas Migasfree?](#.C2.BFQu.C3.A9_son_y_para_qu.C3.A9_sirven_las_etiquetas_Migasfree.3F)
 - [2.2 Asignación de Etiquetas Migasfree](#Asignaci.C3.B3n_de_Etiquetas_Migasfree)
