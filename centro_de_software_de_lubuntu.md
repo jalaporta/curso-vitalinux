@@ -31,14 +31,3 @@ Como en ocasiones ***más vale un buen videotutorial que mil palabras*** a conti
 Como en ocasiones ***más vale un buen videotutorial que mil palabras*** a continuación se sugiere ver el siguiente vídeo relacionado con este asunto (*es una parte del videotutorial completo: [[Gestión del Software en Vitalinux](https://www.youtube.com/watch?v=8tBh8yz1FHY%7C)]*):
 
 {% youtube %}https://youtu.be/iQNvU481ciY{% endyoutube %}
-
-
-
-
-
-
-
-
-
-
-

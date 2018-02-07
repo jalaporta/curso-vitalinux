@@ -1,11 +1,5 @@
 # Aplicaciones Multimedia
 
-
-
-
-
-
-
 ## Contenido
 
 - [1 Aplicaciones Multimedia](#Aplicaciones_Multimedia)
