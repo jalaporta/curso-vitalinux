@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introducción](README.md)
 
 ## Parte 1
 * [Iniciándonos en Vitalinux](parte_1_iniciandonos_en_vitalinux.md)
