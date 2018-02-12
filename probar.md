@@ -10,18 +10,23 @@ Para llevar a cabo el presente curso de introducción a Vitalinux se va a sugeri
 
 ## Contenido
 
-- [1.1 ¿Qué es VirtualBox?](#C2BFQuC3A9esVirtualBox3F)
-- [1.2 ¿De donde obtener VirtualBox?](#C2BFDedondeobtenerVirtualBox3F)
-- [1.3 ¿Cómo crear una máquina Virtual e instalar Vitalinux?](#CrearMaquinaVirtual)
-- [1.4 Instalar las Guest Additions](#InstalarGuestAdditions)
-- [1.5 Utilidades de VirtualBox](#utilidadesVirtualBox)
+- [1. Instalación de Vitalinux usando VirtualBox](#instalacion)
+    - [1.1 ¿Qué es VirtualBox?](#C2BFQuC3A9esVirtualBox3F)
+    - [1.2 ¿De donde obtener VirtualBox?](#C2BFDedondeobtenerVirtualBox3F)
+    - [1.3 ¿Cómo crear una máquina Virtual e instalar Vitalinux?](#CrearMaquinaVirtual)
+    - [1.4 Instalar las Guest Additions](#InstalarGuestAdditions)
+    - [1.5 Utilidades de VirtualBox](#utilidadesVirtualBox)
+- [2. Tarea 1.3 Op1: ¿Cómo probar Vitalinux mediante Virtualbox?](#tarea1-3)
+- [3. Crear un Live DVD Bootable de Vitalinux](#CrearLiveDVDBootable)
+- [4. Crear un Live USB Bootable de Vitalinux](#CrearLiveUSBBootable)
+    - [4.1 ¿Cómo crear un USB Bootable o Arrancable?](#USBBootable)
+- [5. Tarea 1.3 Op2: ¿Cómo probar Vitalinux en modo Live?](#tarea1-3-2)
+- [6. ¿Cómo modificar el Boot Order para que arranque el equipo desde DVD o USB?](#modificarBootOrder)
 
-- [4.1 ¿Cómo crear un USB Bootable o Arrancable?](#USBBootable)
 
 
 
-
-## Instalación de Vitalinux usando VirtualBox
+## Instalación de Vitalinux usando VirtualBox {#instalacion}
 
 ### ¿Qué es VirtualBox? {#C2BFQuC3A9esVirtualBox3F}
 
@@ -41,8 +46,8 @@ Para poder descargar Virtualbox deberemos dirigirnos a su página Web, a su áre
 -  [Área de Descargas de Virtualbox](https://www.virtualbox.org/wiki/Downloads)
 Una vez allí deberemos descargar dos cosas:
 
-1.  El programa de instalación de **Virtualbox** para el sistema operativo que tengas.  Por ejemplo, para el caso de que tengas Windows: [Instalador de Virtualbox para Windows](http://download.virtualbox.org/virtualbox/5.1.14/VirtualBox-5.1.14-112924-Win.exe)
-1.  El [**Extension Pack**](http://download.virtualbox.org/virtualbox/5.1.14/Oracle_VM_VirtualBox_Extension_Pack-5.1.14-112924.vbox-extpack).  Este paquete **debe instalarse una vez se haya instalado el anterior**. No es más que un conjunto de drivers y funcionalidades añadidas para Virtualbox (*soporte para dispositivos USB, carpetas compartidas, etc.*)
+    1.  El programa de instalación de **Virtualbox** para el sistema operativo que tengas.  Por ejemplo, para el caso de que tengas Windows: [Instalador de Virtualbox para Windows](http://download.virtualbox.org/virtualbox/5.1.14/VirtualBox-5.1.14-112924-Win.exe)
+    1.  El [**Extension Pack**](http://download.virtualbox.org/virtualbox/5.1.14/Oracle_VM_VirtualBox_Extension_Pack-5.1.14-112924.vbox-extpack).  Este paquete **debe instalarse una vez se haya instalado el anterior**. No es más que un conjunto de drivers y funcionalidades añadidas para Virtualbox (*soporte para dispositivos USB, carpetas compartidas, etc.*)
 
 ### ¿Cómo crear una máquina Virtual e instalar Vitalinux? {#CrearMaquinaVirtual}
 
@@ -64,7 +69,7 @@ Con la finalidad de tratar que sea más comprensible el **proceso de creación d
 
 {% youtube %}https://youtu.be/NsVrwUFeYrc{% endyoutube %}
 
-### Instalar las Guest Additions #InstalarGuestAdditions
+### Instalar las Guest Additions {#InstalarGuestAdditions}
 
 Las Guest Additions son un conjunto de librerías y programas que podemos instalar en la máquina virtual (no en la real), para añadir funcionalidades extra, de forma que la experiencia en el manejo resulta mucho más enriquecida. De ésta forma podemos tener características como que la resolución de pantalla se ajusta al tamaño de ventana, mejor interacción entre la máquina virtual y la real...
 
@@ -107,7 +112,7 @@ Con la finalidad de sacarle el máximo partido a VirtualBox se sugiere que veái
 
 {% youtube %}https://youtu.be/oj92vB5mFAs{% endyoutube %}
 
-## <img src="img/Logobombilla.png" width="80"> Tarea 1.3 Op1: ¿Cómo probar Vitalinux mediante Virtualbox?
+## <img src="img/Logobombilla.png" width="80"> Tarea 1.3 Op1: ¿Cómo probar Vitalinux mediante Virtualbox? {#tarea1-3}
 
 Requisitos: Es necesario haber leído todo lo referente a  **¿Cómo probar Vitalinux?** y haber descargado los archivos solicitados (Images ISO de Vitalinux).
 
@@ -130,7 +135,7 @@ Para hacer uso de Virtualbox deberemos seguir los siguientes pasos:
 
 Por último, independientemente de que la instalación se haga en un equipo físico o en una máquina virtual, **una vez se inicie el proceso de instalación aparecerá un menú de opciones de instalación** entre las cuales deberemos escoger la opción correspondiente a **una Instalación Desatendida**, la cual nos instalará Vitalinux sin ningún tipo de:
 
-![Arranque](img/Arranque-en-modo-live.png)
+![Arranque](img/arranque-en-modo-live.png)
 
 Seleccionaremos la **opción** correspondiente a una **Instalación Desatendida**
 
@@ -138,7 +143,7 @@ Con la finalidad de tratar que sea más comprensible el **proceso de creación d
 
 {% youtube %}https://youtu.be/NsVrwUFeYrc{% endyoutube %}
 
-¡¡Comprueba que el proceso de instalación es desantendido!!** Debes advertir que el proceso de instalación **no es interactivo**, sino **desantendido**.  Es decir, no solicita ningún tipo de información al usuario, haciendo que la instalación de Vitalinux sea muy trivial, posibilitando que durante el tiempo que se produce la instalación podamos invertirlo en otros menesteres.
+**¡¡Comprueba que el proceso de instalación es desantendido!!** Debes advertir que el proceso de instalación **no es interactivo**, sino **desantendido**.  Es decir, no solicita ningún tipo de información al usuario, haciendo que la instalación de Vitalinux sea muy trivial, posibilitando que durante el tiempo que se produce la instalación podamos invertirlo en otros menesteres.
 
 Para terminar con la tarea, [**siguiendo los pasos que se describen anteriormente en la teoría**](#Instalar_las_Guest_Additions), instalaremos las **Guest Additions** en la máquina virtual donde acabamos de instalar Vitalinux.  Para ello, una vez terminada la instalación de **Vitalinux** en la **Máquina Virtual de Virtualbox**, la iniciaremos y **cancelaremos el proceso de Post-Instalación** (*lo trataremos en el siguiente punto*) para pasar con la instalación de estas **Guest Additions** (*en el caso de que se te solicite alguna clave o password de usuarios administradores: usuarios "profesor" y "dga" tienen la clave "careidga"*).  Con la finalidad de tratar que sea más comprensible el **proceso de instalación de las Guest Additions en la máquina Virtual Virtualbox** se ha creado el siguiente videotutorial (*advertir que este videotutorial se realizó con otra ordenación de contenidos del curso diferente al actual, por lo que hace las referencias a una supuesta parte 4 que había entonces habría que omitirlas):
 
@@ -148,13 +153,13 @@ Para terminar con la tarea, [**siguiendo los pasos que se describen anteriorment
 > **Formato de Entrega:** Si no encuentras muchos problemas para ello, haz capturas de pantalla del proceso de instalación de Vitalinux sobre Virtualbox (tecla IMPRIMIR PANTALLA). En caso de encontrar problemas para ello puedes hacer fotos directamente desde el móvil.</tt>Elabora un documento ofimático (o usa cualquier otro formato que te resulte más comodo) donde puedas incluir las capturas y **expórtalo como pdf** para adjuntarlo como respuesta a la tarea solicitada. El nombre del fichero deberá seguir la pauta: **apellido1_apellido2_nombre_TareaX.pdf**. Si lo consideras necesario puedes indicar cualquier comentario a las capturas de pantalla.<dl><dd> *Importante entregar al tutor el documento con las imágenes en formato pdf para que no haya problemas de lectura y calificar la tarea*</dd></dl>Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna **Begoña Sánchez Mañas**, debería nombrar esta tarea como: **sanchez_manas_begona_Tarea1.3**
 
 
-## Crear un Live DVD Bootable de Vitalinux
+## Crear un Live DVD Bootable de Vitalinux {#CrearLiveDVDBootable}
 
 Un **Live DVD** nos va a permitir poder probar **Vitalinux** sin necesidad de instalarlo.  Para ello simplemente tendremos que abrir la aplicación que normalmente usemos para grabar CDs/DVDs y buscar una de las opciones que se encuentra disponible en todos los **quemadores de CDs/DVDs** referente a **grabar una imagen existente en un CD/DVD**, la cual nos solicitará la ubicación de la imagen **ISO de Vitalinux** que hayamos descargado previamente para pasarla posteriormente a un DVD Virgen que hayáis insertado en la unidad de CDs/DVDs.
 Además, por lo general, si abrimos nuestro explorador de archivos y nos situamos en el directorio donde se encuentran las imágenes ISO, y pinchamos con el botón derecho del ratón sobre la imagen ISO nos debería aparecer una opción que explícitamente nos invite a grabar dicha ISO en un CD/DVD.
 
 
-## Crear un Live USB Bootable de Vitalinux
+## Crear un Live USB Bootable de Vitalinux {#CrearLiveUSBBootable}
 
 De forma similar a un CD/DVD Arrancable, podemos grabar la imagen **ISO de Vitalinux** en una **memoria USB** con la finalidad de poder probar o instalar Vitalinux.  A diferencia de lo que nos ocurre con los CD/DVD, nuestro sistema operativo no siempre integra una aplicación que se encargue de grabar la ISO en una memoria USB, por lo que tendremos que instalar una aplicación expresamente para ello si no existe una alternativa.
 
@@ -169,7 +174,7 @@ Comentar que el software actualmente más afamado por su sencillez y por ser mul
 
 ***Importante: Se recomienda haber [formateado](/dispositivos_de_almacenamiento.md#Formatearundispositivo) el Pen previamente en FAT***. No es obligatorio que el pen esté formateado, pero a veces da problemas. Nos hemos encontrado incluso algún pen de tipo USB3.0 con problemas de reconocimiento en equipos antiguos
 
-## <img src="img/Logobombilla.png" width="80"> Tarea 1.3 Op2: ¿Cómo probar Vitalinux en modo Live?
+## <img src="img/Logobombilla.png" width="80"> Tarea 1.3 Op2: ¿Cómo probar Vitalinux en modo Live? {#tarea1-3-2}
 
 **Requisitos: Es necesario haber leído el punto de la documentación**
 
@@ -177,7 +182,7 @@ En primer lugar, aclarar/recordar que esta tarea es **opcional**, o como alterna
 
 -  **Live DVD**: Quema la imagen **ISO de Vitalinux** que te hayas descargado en un **DVD**, y posteriormente, configura el **Boot Loader** de tu equipo para que en lugar de arrancar con el sistema que tienes instalado en el disco duro lo haga con el sistema disponible en el DVD.  Una vez que arranque el equipo desde el DVD deberás elegir la opción de **Arranque en modo Live** en el menú de arranque que aparecerá (*ver imagen adjunta*), provocando que el sistema operativo Vitalinux arranque sin necesidad de modificar ni instalar nada del disco duro del equipo.  Tras un periodo de espera deberías visualizar el **entorno de Escritorio de Vitalinux** con una ventana emergente de configuración que aparece en el primer arranque de Vitalinux (*al trabajar en modo Live, y no guardarse nada, no hay constancia de que el sistema Vitalinux se inició en algún momento, por lo que por muchas veces que repitamos el proceso siempre nos aparecerán estas ventanas emergentes de configuración*).
 
-![Arranque Live](img/Arranque_live.png)
+![Arranque Live](img/arranque-live.png)
 
 ![Post-instalación](img/Post-instalacion-1.png)
 
@@ -190,7 +195,7 @@ Una vez haya arrancado **Vitalinux en modo Live**, para empezar a probar Vitalin
 > Elabora un documento ofimático (o usa cualquier otro formato que te resulte más comodo) donde puedas incluir las capturas solicitadas y **expórtalo como pdf** para adjuntarlo como respuesta a la tarea solicitada. El nombre del fichero deberá seguir la pauta: **apellido1_apellido2_nombre_TareaX.pdf**. Si lo consideras necesario puedes indicar cualquier comentario a las capturas de pantalla.<dl><dd> Importante entregar al tutor el documento con las imágenes en formato pdf para que no haya problemas de lectura y calificar la tarea*</dd></dl>Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna **Begoña Sánchez Mañas**, debería nombrar esta tarea como: **sanchez_manas_begona_Tarea1.3**
 
 
-## <img src="img/Logoalerta.png" width="80"> ¡¡Aviso!! ¿Cómo modificar el Boot Order para que arranque el equipo desde DVD o USB?
+## <img src="img/Logoalerta.png" width="80"> ¡¡Aviso!! ¿Cómo modificar el Boot Order para que arranque el equipo desde DVD o USB? {#modificarBootOrder}
 
 Para poder probar o instalar un sistema operativo desde un Live DVD o USB es necesario indicar al **Boot Order del equipo** que en lugar de arrancar desde el disco duro del equipo debe hacerlo desde el dispositivo donde tenemos cargado el sistema Live (*unidad de DVD o memoria USB*). La forma de hacer esto **depende bastante del modelo y fabricante del equipo informático** con el que nos encontremos, aunque podemos generalizar que la modificación de este **Boot Order** siempre es posible desde la configuración de la **BIOS** del equipo, accesible tras encender el equipo pulsando sobre una tecla concreta que a su vez también depende del modelo y marca del equipo.
 

@@ -41,13 +41,10 @@
     * [Tarea 5.2.1: Presentaciones Visuales tipo Prezi mediante Sozi](tarea-5-21-presentaciones-con-sozi.md)
     * [Tarea 5.2.2: Creación y Edición de Vídeo mediante PhotofilmStrip & OpenShot](tarea-5-2-2-creacion-y-edicion-de-video-mediante-photofilmstrip-openshot.md)
 * [Herramientas Ofimáticas](herramientas_ofimaticas.md)
-* [Recursos para Centros Educativos](recursos_para_centros_educativos.md)
-* [Gestión de Escáneres e Impresoras](gestion_de_escaneres_e_impresoras.md)
+    * [Tarea 5.3](tarea-5-3-ofimatica-y-compatibilidad.md)
+    * [Tarea 5.4](tarea-5-4-extensiones-libreoffice.md)
 
 #
+* [Recursos para Centros Educativos](recursos_para_centros_educativos.md)
+* [Gestión de Escáneres e Impresoras](gestion_de_escaneres_e_impresoras.md)
 * [ Preguntas Frecuentes - FAQs](_preguntas_frecuentes_-_faqs.md)
-* [¿Cómo Probar Vitalinux?](como_probar_vitalinux.md)
-
-
-## Apéndice
-* [Comprobar la Integridad de un fichero descargado](comprobar_md5.md)
