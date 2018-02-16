@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introducción al Curso](README.md)
 
 ## Parte 1
 * [Iniciándonos en Vitalinux](parte_1_iniciandonos_en_vitalinux.md)
@@ -9,6 +9,7 @@
 * [¿Cómo Probar Vitalinux?](probar.md)
 * [Primeras Pruebas con Vitalinux](primeras_pruebas_con_vitalinux.md)
 
+<!---
 ## Parte 2
 * [Familiarizándonos con el Entorno de Escrito de Vitalinux](parte_2_familiarizandonos_con_el_entorno_de_escrito_de_vitalinux.md)
 * [¿Preferencias del Escritorio?](preferencias_del_escritorio.md)
@@ -51,3 +52,5 @@
 
 ## Apéndice
 * [Comprobar la Integridad de un fichero descargado](comprobar_md5.md)
+
+-->
