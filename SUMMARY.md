@@ -1,10 +1,6 @@
 # Summary
 
-<<<<<<< HEAD
 * [Introducción al Curso](README.md)
-=======
-* [Introducción](README.md)
->>>>>>> dec220a5a28687cc1212ee088f5466dd8eb54eec
 
 ## Parte 1
 * [Iniciándonos en Vitalinux](parte_1_iniciandonos_en_vitalinux.md)
@@ -49,18 +45,15 @@
     * [Tarea 5.3](tarea-5-3-ofimatica-y-compatibilidad.md)
     * [Tarea 5.4](tarea-5-4-extensiones-libreoffice.md)
 
-#
-<<<<<<< HEAD
+
 * [ Preguntas Frecuentes - FAQs](_preguntas_frecuentes_-_faqs.md)
 * [¿Cómo Probar Vitalinux?](como_probar_vitalinux.md)
 
 
 ## Apéndice
 * [Comprobar la Integridad de un fichero descargado](comprobar_md5.md)
-
--->
-=======
 * [Recursos para Centros Educativos](recursos_para_centros_educativos.md)
 * [Gestión de Escáneres e Impresoras](gestion_de_escaneres_e_impresoras.md)
+-->
 * [ Preguntas Frecuentes - FAQs](_preguntas_frecuentes_-_faqs.md)
->>>>>>> dec220a5a28687cc1212ee088f5466dd8eb54eec
+
