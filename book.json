@@ -1,8 +1,16 @@
 {
-    "plugins": ["youtube", "accordion", "image-captions"],
+    "plugins": ["youtube", 
+        "accordion", 
+        "image-captions", 
+        "panel", 
+        "notificaciones",
+        "include"],
     "pluginsConfig": {
         "image-captions": {
             "caption": "Imagen - _CAPTION_"
         }
+    },
+    "variables": {
+        "vitalinux": "<span style='color: darkblue; font-weight: 600'; font-size: 120%;>Vitalinux</span>"
     }
 }

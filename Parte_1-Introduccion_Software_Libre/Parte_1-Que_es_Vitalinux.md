@@ -1,20 +1,22 @@
-## <img src="img/Logolupa.png" width="80"> ¡¡Importante!! ¿Qué es Vitalinux?
+{% notificacion_important title='¿Qué es Vitalinux?' %}
+<span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> es un sistema operativo similar a <i>Microsoft Windows</i> o <i>Android</i> que nos va a permitir trabajar con nuestro equipo informático (<i>pc sobremesa, portatil, tablet o dispositivo móvil</i>) con aplicaciones iguales o similares a las que normalmente utilizamos (<i>Mozilla Firefox, Google Chrome, LibreOffice, etc.</i>), pero con la gran diferencia de que el <b>software es libre</b>, de <b>código abierto</b>.  En concreto, <span style='color: darkblue; font-weight: 600'; font-size: 120%;>Vitalinux</span>, al igual que *Android*, no es un sistema operativo que nace desde cero, sino que esta basado y tiene sus raíces en otro sistema operativo llamado <b>GNU/Linux</b>.  Más concretamente, <span style='color: darkblue; font-weight: 600'; font-size: 120%;>Vitalinux</span> esta basado en la <b>versión ligera del sistema operativo GNU/Linux Ubuntu</b>, del cuál podríamos destacar entre otras muchas carácterísticas estas tres:
+<ul>
+<li> <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> es un sistema operativo libre</li>
+<li> Al basarse en la versión ligera de Ubuntu llamada <b>Lubuntu</b> se garantiza que el <b>tiempo de respuesta</b> del equipo sea <b>el menor posible</b></li>
+<li> <b>Incorpora un cliente Migasfree</b> </li>
+A continuación se detallan cada una de estas tres características.
+{% endnotificacion_important %}
 
-**Vitalinux** es un sistema operativo similar a *Microsoft Windows* o *Android* que nos va a permitir trabajar con nuestro equipo informático (*pc sobremesa, portatil, tablet o dispositivo móvil*) con aplicaciones iguales o similares a las que normalmente utilizamos (*Mozilla Firefox, Google Chrome, LibreOffice, etc.*), pero con la gran diferencia de que el **software es libre**, de **código abierto**.  En concreto, **Vitalinux**, al igual que *Android*, no es un sistema operativo que nace desde cero, sino que esta basado y tiene sus raíces en otro sistema operativo llamado **GNU/Linux**.  Más concretamente, **Vitalinux** esta basado en la **versión ligera del sistema operativo GNU/Linux Ubuntu**, del cuál podríamos destacar entre otras muchas carácterísticas estas tres:
-- **Vitalinux es un sistema operativo libre**
-- Al basarse en la versión ligera de Ubuntu llamada **Lubuntu** se garantiza que el **tiempo de respuesta** del equipo sea **el menor posible**
-- **Incorpora un cliente Migasfree**A continuación se detallan cada una de estas tres características.
 
-## Contenido
+## Contenidos de esta Página:
 
 - [1 Vitalinux es un sistema operativo libre de Código Abierto](#VitalinuxCodigoAbierto)
 - [2 Vitalinux esta basado en un Sistema Operativo muy Ligero](#VitalinuxLigero)
 - [3 Vitalinux Incorpora un Cliente Migasfree](#VitalinuxMigasfree)
-- [4 Tarea 1.1: ¿Código Abierto? ¿Qué puede hacer Migasfree por mí?](#Tarea1-1)
 
-### Vitalinux es un sistema operativo libre de Código Abierto {#VitalinuxCodigoAbierto}
+### 1ª Característica) Vitalinux es un sistema operativo libre de Código Abierto {#VitalinuxCodigoAbierto}
 
-**(1)** Al igual que cualquier otro sistema operativo GNU/Linux (*Debian, Ubuntu, OpenSuse, ...*), **Vitalinux es un sistema operativo libre**. Esto significa que el código bajo el cual esta programado es **abierto** y por tanto cualquiera puede copiarlo, modificarlo, mejorarlo y distribuir el resultado.
+Al igual que cualquier otro sistema operativo GNU/Linux (*Debian, Ubuntu, OpenSuse, ...*), **Vitalinux es un sistema operativo libre**. Esto significa que el código bajo el cual esta programado es **abierto** y por tanto cualquiera puede copiarlo, modificarlo, mejorarlo y distribuir el resultado.
 
 
 Para poder comprender esta primera gran característica del sistema Vitalinux podríamos indicar que gracias a que Ubuntu sigue esta filosofía de código abierto, ha permitido que desde el Departamento de Educación se haya podido aprovechar todo el enorme trabajo que hay tras el sistema operativo Ubuntu, adaptarlo a las necesidades demandadas por los centros educativos, y poderlo distribuir posteriormente bajo el nombre de Vitalinux.  De otra forma, **si hubiera sido necesario crear un sistema operativo desde cero, hubiera sido una tarea imposible**.
@@ -38,7 +40,7 @@ Entonces ... ¿De qué viven aquellos cuyo trabajo gira en torno a la filosofía
 Si se han entendido las diferentes fuentes de financiación que podrían darse en el caso de una **cocina abierta**, estas podrían extrapolarse a cualquier otro entorno de producción de **código abierto**, entre los cuales podrían distinguirse los relativos al **software libre** (*sistemas operativos y aplicaciones libres*), y al **hardware libre** (*fabricantes de aparatos electrónicos donde se facilitan los planos y componentes para que cualquiera pueda fabricarse uno propio*).
 
 
-### Vitalinux esta basado en un Sistema Operativo muy Ligero {#VitalinuxLigero}
+### 2ª Característica) Vitalinux esta basado en un Sistema Operativo muy Ligero {#VitalinuxLigero}
 
 **(2)** Al basarse en la versión ligera de Ubuntu llamada **Lubuntu** se garantiza que el **tiempo de respuesta** del equipo sea **el menor posible**. Es decir, permite que equipos antiguos con pocos recursos hardware puedan ser funcionales, ya que el sistema base (*sin arrancar ninguna aplicación de Escritorio*) tan sólo requiere unos 200MB de memoria RAM. De esta forma, si lo miramos desde el punto de vista opuesto, si tenemos un equipo actual (*varios Gigas de memoria RAM, un procesador de última generación, etc.*) el uso de un sistema operativo de estas características hará que el equipo “vuele”.
 
@@ -46,9 +48,9 @@ Si se han entendido las diferentes fuentes de financiación que podrían darse e
 No obstante, esto no puede llevarnos a engaños ni confusiones … hay que aclarar que aunque el sistema operativo base sea muy liviano, si las aplicaciones que usamos no son acordes con él y son pesadas, el equipo si no soporta dicha carga irá lento. Un claro ejemplo podría ser el navegador Web Google Chrome, que en este tipo de sistemas ligeros suele consumir muchos más recursos de RAM y procesador que el propio sistema operativo bajo el cual esta funcionando dicha aplicación.
 
 
-### Vitalinux Incorpora un Cliente Migasfree {#VitalinuxMigasfree}
+### 3ª Característica) Vitalinux Incorpora un Cliente Migasfree {#VitalinuxMigasfree}
 
-**(3)** Aunque existen otras muchas características que podríamos seguir destacando del sistema operativo Vitalinux, algunas de las cuales las iremos apreciando a lo largo de la realización del curso, por no alargar este primer punto introductorio cabría señalar y destacar **aquello que le hace diferente a Vitalinux del resto** de distribuciones Linux que existen en el mundo (*p.e. Ubuntu, Red Hat, Suse, etc.*): tiene preinstalado un **cliente Migasfree**.
+**(3)** Aunque existen otras muchas características que podríamos seguir destacando del sistema operativo Vitalinux, algunas de las cuales las iremos apreciando a lo largo de la realización del curso, por no alargar este primer punto introductorio cabría señalar y destacar **aquello que le hace diferente a Vitalinux del resto** de distribuciones Linux que existen en el mundo (*p.e. Ubuntu, Red Hat, Suse, etc.*) y de Windows: tiene preinstalado un **cliente Migasfree**.
 
 
 Este cliente Migasfree nos permite entre otras muchas cosas el poder **gestionar el software del equipo Vitalinux de manera remota, desatendida y automatizada**, e **inventariar todo su software y hardware**. Para que nos hagamos una idea, Migasfree nos permite a demanda del administrador de los equipos del centro, y sin la necesidad de la intervención de ningún usuario cosas como las siguientes:
@@ -62,22 +64,6 @@ Este cliente Migasfree nos permite entre otras muchas cosas el poder **gestionar
 
 **Como puede apreciarse, todo ello redunda en un desahogo del administrador de los equipos informáticos garantizando una mayor fiabilidad y eficiencia de todos los sistemas informáticos del Centro Educativo**.
 
-## <img src="img/Logoalerta.png" width="80"> ¡¡Aviso!! ¿Quiénes son los creadores y desarrolladores de Migasfree?
-
-Destacar por último que sorprendentemente Migasfree es un software que ha sido creado, desarrollado y liberado por dos trabajadores del ayuntamiento de Zaragoza (España), **Alberto Gacías **y **José Antonio Chavarría**.
-
-## <img src="img/Logobombilla.png" width="80"> Tarea 1.1: ¿Código Abierto? ¿Qué puede hacer Migasfree por mí? {#Tarea1-1}
-
-Requisitos: Es necesario haber leído el punto de **Introducción**
-
-Sin conocer todavía que es realmente **Vitalinux** y según la información anterior relativa a las características más destacables de este sistema operativo, en este primer ejercicio se van a pedir **un par de reflexiones**:
-
--  *Tras leer el apartado relativo al concepto de **Código Abierto**, a parte del **hardware libre**, **software libre**, o **cocina libre** ...*
-    -  **¿Qué otra área (*o áreas*) del conocimiento se te ocurre que sería estupendo que fuera libre, de código abierto, para podernos beneficiar culturalmente de manera global todos nosotros?**
-- *Teniendo en cuenta que mediante Migasfree es posible gestionar todo el software de los equipos Vitalinux de forma remota, automatizada y desatendida ...*
-    - **¿En qué crees que mejorarían los sistemas informáticos de los Centros Educativos si se adoptase éste como sistema operativo preferente?**  Comenta al menos 3 posibles aspectos de mejora que se te ocurran.  En caso de que no se te ocurra ninguna, plasma tus dudas o reflexiones respecto a lo que piensas sobre **Vitalinux &amp; Migasfree**.
-    - **¿Crees que si decidieras instalar Vitalinux en tus equipos personales de casa podría beneficiarte en algo esta gestión a través de Migasfree?**
-
-> **Formato de Entrega:** Escribe acerca de lo que te se pide en un documento ofimático, pásalo si es posible a formato PDF, y adjúntalo como respuesta a la tarea solicitada. Envía al tutor un único archivo .pdf que se nombrará siguiendo las siguientes pautas: **apellido1_apellido2_nombre_TareaX**
-
-> Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna **Begoña Sánchez Mañas**, debería nombrar esta tarea como: **sanchez_manas_begona_Tarea1.1**
+{% notificacion_important title='¿Quiénes son los creadores y desarrolladores de Migasfree?' %}
+Destacar por último que sorprendentemente Migasfree es un software que ha sido creado, desarrollado y liberado por dos trabajadores del ayuntamiento de Zaragoza (España), <b>Alberto Gacías</b> y <b>José Antonio Chavarría</b>.
+{% endnotificacion_important %}

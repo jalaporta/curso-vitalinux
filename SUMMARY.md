@@ -2,15 +2,19 @@
 
 * [Introducción al Curso](README.md)
 
-## Parte 1
-* [Iniciándonos en Vitalinux](parte_1_iniciandonos_en_vitalinux.md)
-* [¿Qué es Vitalinux?](introduccion.md)
-* [¿Donde Descargar Vitalinux?](donde_descargar_vitalinux.md)
-* [¿Cómo Probar Vitalinux?](probar.md)
-* [Primeras Pruebas con Vitalinux](primeras_pruebas_con_vitalinux.md)
+## Parte 1. Iniciándonos en Vitalinux
+* [Presentación Contenidos Parte 1](Parte_1-Introduccion_Software_Libre/Parte_1-Presentacion_contenidos.md)
+* [¿Qué es Vitalinux?](Parte_1-Introduccion_Software_Libre/Parte_1-Que_es_Vitalinux.md)
+* [¿Donde Descargar Vitalinux?](Parte_1-Introduccion_Software_Libre/Parte_1-Donde_descargar_Vitalinux.md)
+* [Tarea 1.1](Parte_1-Introduccion_Software_Libre/Parte_1-Tarea_1.1.md)
 
 <!---
 ## Parte 2
+
+* [¿Cómo Probar Vitalinux?](probar.md)
+* [Primeras Pruebas con Vitalinux](primeras_pruebas_con_vitalinux.md)
+
+
 * [Familiarizándonos con el Entorno de Escrito de Vitalinux](parte_2_familiarizandonos_con_el_entorno_de_escrito_de_vitalinux.md)
 * [¿Preferencias del Escritorio?](preferencias_del_escritorio.md)
 * [Widgets del Escritorio](widgets_del_escritorio.md)
@@ -54,6 +58,6 @@
 * [Comprobar la Integridad de un fichero descargado](comprobar_md5.md)
 * [Recursos para Centros Educativos](recursos_para_centros_educativos.md)
 * [Gestión de Escáneres e Impresoras](gestion_de_escaneres_e_impresoras.md)
--->
-* [ Preguntas Frecuentes - FAQs](_preguntas_frecuentes_-_faqs.md)
 
+* [ Preguntas Frecuentes - FAQs](_preguntas_frecuentes_-_faqs.md)
+-->
