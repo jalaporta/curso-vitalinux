@@ -1,6 +1,6 @@
 
 <div style="padding: 30px; text-align: center; width: 100%; border-radius: 5px; background-color: khaki;">
-<img src="img/vitalinux.png" alt="Vitalinux" srcset="img/vitalinux.svg" width="200" style="margin-right: 20px;">
+<img src="img/vitalinux.png" alt="Vitalinux" width="200" style="margin-right: 20px;">
   
 <img src="img/migasfree.png" alt="Migasfree" width="180">
 </div>
