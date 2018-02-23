@@ -3,17 +3,18 @@
 * [Introducción al Curso](README.md)
 
 ## Parte 1. Iniciándonos en Vitalinux
+
 * [Presentación Contenidos Parte 1](Parte_1-Introduccion_Software_Libre/Parte_1-Presentacion_contenidos.md)
 * [¿Qué es Vitalinux?](Parte_1-Introduccion_Software_Libre/Parte_1-Que_es_Vitalinux.md)
 * [¿Donde Descargar Vitalinux?](Parte_1-Introduccion_Software_Libre/Parte_1-Donde_descargar_Vitalinux.md)
 * [Tarea 1.1](Parte_1-Introduccion_Software_Libre/Parte_1-Tarea_1.1.md)
 
-<!---
 ## Parte 2
 
 * [¿Cómo Probar Vitalinux?](probar.md)
 * [Primeras Pruebas con Vitalinux](primeras_pruebas_con_vitalinux.md)
 
+---
 
 * [Familiarizándonos con el Entorno de Escrito de Vitalinux](parte_2_familiarizandonos_con_el_entorno_de_escrito_de_vitalinux.md)
 * [¿Preferencias del Escritorio?](preferencias_del_escritorio.md)
@@ -21,6 +22,7 @@
 * [¿Cómo lanzar Aplicaciones?](como_lanzar_aplicaciones.md)
 
 ## Parte 3
+
 * [Organización de Directorios y Archivos en Vitalinux](parte_3_organizacion_de_directorios_y_archivos_en_vitalinux.md)
 * [¿Cómo se Organizan los Directorios y Archivos?](como_se_organizan_los_directorios_y_archivos.md)
 * [Propietarios y Permisos](propietarios_y_permisos.md)
@@ -29,6 +31,7 @@
 * [Ficheros de Configuración Importantes en Vitalinux](ficheros_de_configuracion_importantes_en_vitalinux.md)
 
 ## Parte 4
+
 * [Gestión del Software en Vitalinux](parte_4_gestion_del_software_en_vitalinux.md)
 * [Configuración de red](configuracion_de_red.md)
 * [Orígenes del Software y Actualizaciones](origenes_del_software_y_actualizaciones.md)
@@ -39,25 +42,27 @@
 * [Gestión del Software a través de Migasfree](gestion_del_software_a_traves_de_migasfree.md)
 
 ## Parte 5
+
 * [Aplicaciones Útiles y Alternativas en Vitalinux](parte_5_aplicaciones_utiles_y_alternativas_en_vitalinux.md)
 * [Acciones del Explorador de Archivos](acciones_del_explorador_de_archivos.md)
 * [Aplicaciones Multimedia](aplicaciones_multimedia.md)
-    * [Tarea 5.2: Uso y documentación de una aplicación multimedia](tarea5-2-uso-documentacion-aplicacion-multimedia.md)
-    * [Tarea 5.2.1: Presentaciones Visuales tipo Prezi mediante Sozi](tarea-5-21-presentaciones-con-sozi.md)
-    * [Tarea 5.2.2: Creación y Edición de Vídeo mediante PhotofilmStrip & OpenShot](tarea-5-2-2-creacion-y-edicion-de-video-mediante-photofilmstrip-openshot.md)
+  * [Tarea 5.2: Uso y documentación de una aplicación multimedia](tarea5-2-uso-documentacion-aplicacion-multimedia.md)
+  * [Tarea 5.2.1: Presentaciones Visuales tipo Prezi mediante Sozi](tarea-5-21-presentaciones-con-sozi.md)
+  * [Tarea 5.2.2: Creación y Edición de Vídeo mediante PhotofilmStrip & OpenShot](tarea-5-2-2-creacion-y-edicion-de-video-mediante-photofilmstrip-openshot.md)
 * [Herramientas Ofimáticas](herramientas_ofimaticas.md)
-    * [Tarea 5.3](tarea-5-3-ofimatica-y-compatibilidad.md)
-    * [Tarea 5.4](tarea-5-4-extensiones-libreoffice.md)
+  * [Tarea 5.3](tarea-5-3-ofimatica-y-compatibilidad.md)
+  * [Tarea 5.4](tarea-5-4-extensiones-libreoffice.md)
 
+---
 
 * [ Preguntas Frecuentes - FAQs](_preguntas_frecuentes_-_faqs.md)
 * [¿Cómo Probar Vitalinux?](como_probar_vitalinux.md)
 
-
 ## Apéndice
+
 * [Comprobar la Integridad de un fichero descargado](comprobar_md5.md)
 * [Recursos para Centros Educativos](recursos_para_centros_educativos.md)
 * [Gestión de Escáneres e Impresoras](gestion_de_escaneres_e_impresoras.md)
-
 * [ Preguntas Frecuentes - FAQs](_preguntas_frecuentes_-_faqs.md)
--->
+* [Créditos](creditos.md)
+
