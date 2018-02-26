@@ -8,10 +8,27 @@
 * [¿Donde Descargar Vitalinux?](Parte_1-Introduccion_Software_Libre/Parte_1-Donde_descargar_Vitalinux.md)
 * [Tarea 1.1](Parte_1-Introduccion_Software_Libre/Parte_1-Tarea_1.1.md)
 
+## Parte 2. Probando Vitalinux
+* [Presentación Contenidos Parte 2](Parte_2-Probando_Vitalinux/Parte_2-Presentacion_contenidos.md)
+* [¿Cómo Probar Vitalinux?](Parte_2-Probando_Vitalinux/Parte_2-Como_probar_vitalinux.md)
+
+- [Instalación de Vitalinux usando VirtualBox](Parte_2-Probando_Vitalinux/Parte_2-Instalacion_vitalinux_en_virtualbox.md)
+    - [¿Qué es VirtualBox?](Parte_2-Probando_Vitalinux/Parte_2-Que_es_virtualbox.md)
+    - [¿De donde obtener VirtualBox?](Parte_2-Probando_Vitalinux/Parte_2-Donde_obtener_virtualbox.md)
+    - [¿Cómo crear una máquina Virtual e instalar Vitalinux?](Parte_2-Probando_Vitalinux/Parte_2-Como_crear_una_maquina_virtual_en_virtualbox.md)
+    - [Instalar las Guest Additions](Parte_2-Probando_Vitalinux/Parte_2-Instalar_guest_additions_virtualbox.md)
+    - [Utilidades de VirtualBox](Parte_2-Probando_Vitalinux/Parte_2-Utilidades_virtualbox.md)
+- [Crear un Live DVD Bootable de Vitalinux](Parte_2-Probando_Vitalinux/Parte_2-Crear_DVD_bootable.md)
+- [Crear un Live USB Bootable de Vitalinux](Parte_2-Probando_Vitalinux/Parte_2-Crear_USB_bootable.md)
+    - [¿Cómo crear un USB Bootable o Arrancable?](Parte_2-Probando_Vitalinux/Parte_2-Crear_USB_bootable.md#USBBootable)
+- [¿Cómo modificar el Boot Order para que arranque el equipo desde DVD o USB?](Parte_2-Probando_Vitalinux/Parte_2-Como_modificar_boot_order.md)
+
+- [Tarea 2.1: ¿Cómo probar Vitalinux mediante Virtualbox o mediante un equipo físico?](Parte_2-Probando_Vitalinux/Parte_2-Tarea_2.1.md)
+
 <!---
 ## Parte 2
 
-* [¿Cómo Probar Vitalinux?](probar.md)
+
 * [Primeras Pruebas con Vitalinux](primeras_pruebas_con_vitalinux.md)
 
 
