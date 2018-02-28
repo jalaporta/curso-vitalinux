@@ -37,6 +37,7 @@
     *  [Tarea 3.1: Post-Instalación y Personalización de Vitalinux](Parte_3-Entorno_de_Escritorio/Parte_3-Tarea_3.1.md)
     * [¿Cómo lanzar Aplicaciones?](Parte_3-Entorno_de_Escritorio/Parte_3-Como_lanzar_aplicaciones.md)
     * [Widgets del Escritorio](Parte_3-Entorno_de_Escritorio/Parte_3-Widgets_del_escritorio.md)    
+    * [Tarea 3.2: Lanzar Aplicaciones y efecto sobre la RAM y CPU del Sistema](Parte_3-Entorno_de_Escritorio/Parte_3-Tarea_3.2.md)
 
 <!--- Comentarios:
 

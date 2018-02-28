@@ -1,51 +1,37 @@
+{% notificacion_task title='Lanzar Aplicaciones y efecto sobre la RAM y CPU del Sistema',
+numexer='3.2',
+req='Es necesario disponer de un equipo físico o virtual con Vitalinux instalado, además de haber leido los apartados referentes a <a href="../Parte_3-Entorno_de_Escritorio/Parte_3-Como_lanzar_aplicaciones.html">Cómo lanzar Aplicaciones</a> e información del <a href="../Parte_3-Entorno_de_Escritorio/Parte_3-Preferencias_del_escritorio.html">Widget del Escritorio</a>',
+formatoentrega='En un documento ofimático escribe y pega las fotos o capturas de pantalla necesarias para justificar todo lo que se te pide a continuación. Si es posible expórtalo a <b>formato PDF</b> para garantizar su portabilidad, y adjúntalo como respuesta a la tarea solicitada. Por tanto, envía al tutor un único archivo <b>.pdf</b> que se nombrará siguiendo las siguientes pautas: <b>apellido1_apellido2_nombre_TareaX.pdf</b>.
+<br>
+Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna <b>Begoña Sánchez Mañas</b>, debería nombrar esta tarea como: <b>sanchez_manas_begona_Tarea3.2.pdf</b>' %}
 
-## <img src="img/Logobombilla.png" width="80"> Tarea 2.3: Repaso de estrategias para *Lanzar y Matar Aplicaciones* en *Vitalinux* {#LanzarMatarAplicaciones}
+Como tarea te proponemos repasar algunas de las formas descritas para <b>lanzar aplicaciones</b>, y al mismo tiempo aprovechar para conocer que efecto tiene esto sobre <b>la CPU y la RAM</b> del sistema operativo <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> gracias a la información suministrada por el <b>Widget</b> ubicado en el Escritorio.  En concreto se sugiere realizar las siguientes acciones:
 
-Requisitos: Haber leído el punto **¿Como lanzar aplicaciones en Vitalnux?**
+<ol>
+<li>
+Inicia sesión gráfica en <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, espera a que finalice la comunicación con <b>Migasfree</b> (<i>el icono de Migasfree que hay en la parte derecha del panel inferior izquierdo se pondrá en color grisaceo</i>), y anota la cantidad de memoria RAM y CPU consumidas por el sistema operativo en reposo (<i>sin abrir o lanzar ninguna aplicación</i>) gracias a la información aportada por el Widget del Escritorio.
+</li>
+<li>
+Despliega el <b>Menú de Inicio Clásico</b> (<i>al estilo de Windows XP y Windows 7</i>), busca en en el submenú o categoría de aplicaciones <b>Sonido y Vídeo</b> la aplicación <b>PhotofilmStrip</b> y abrela.  Esta aplicación te permite crear un vídeo a partir de las imagenes o fotos que arrastres a la aplicación permitiéndote hacer un efecto zoom sobre las fotos.  Advierte que todas las aplicaciones estan categorizadas en función de su utilidad (<i>Educación, Gráficos, Internet, Oficina, etc.</i>).  Minimiza la aplicación y observa el Widget del Escritorio para conocer en cuanto ha aumentado la memoria RAM y CPU del sistema para saber cuanto consume dicha aplicación.
+</li>
+<li>
+Teclea <b>CONTROL+ESPACIO</b>, escribe <b>Chrome</b> y confirma con la tecla <b>Intro</b> para abrir o lanzar dicha aplicación.  Advierte que esta forma de lanzar aplicaciones a través de <b>Synapse</b> es mucho más rápida, cómoda, intuitiva y eficiente que acceder a ella a través del <b>Menú de Inicio Clásico</b> (<i>categoría Internet</i>).  Al igual que en el caso anterior, minimiza la aplicación y observa el Widget del Escritorio para conocer en cuanto ha aumentado la memoria RAM y CPU del sistema para saber cuanto consume el afamado navegador Web.  Abre varias pestañas (<i>teclea CONTROL+T</i>) y advierte su efecto sobre la memoria RAM y CPU.
+</li>
+<li>
+Otra forma muy eficiente de lanzar una aplicación es a través de un atajo de teclado.  Un buen ejemplo es teclear la <b>Tecla de Windows (<i>tecla que se encuentra junto al ALT izquierdo</i>)+E</b> para acceder al <b>Explorador de Archivos</b> de <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>.  Comprueba su funcionamiento y anota igualmente su consumo de CPU y RAM.
+</li>
+<li>
+En ocasiones, al igual que en Windows, puede quedarse colgada alguna aplicación sin poder cerrarla.  En esos casos convendría <b>Matar</b> la aplicación como se sugiere a continuación.  Suponiendo que todavía mantienes abiertas las aplicaciones anteriores teclea <b>CONTROL+ESPACIO</b> y escribe <b>detener o matar programa</b>.  Al confirmar con la tecla <b>Intro</b> podrás advertir que el puntero del ratón cambia de forma y que al pinchar sobre cualquier aplicación abierta provoca su cierre (<i>¡¡Cuidado por que si pinchas sobre el Escritorio también cerrarás/matarás a éste!!</i>).
+<div style="text-align: center;">
+<img src="../img/vx-matar-programa.png">
+</div>
+</li>
+<li>
+<b>Crea un atajo</b> para lanzar el <b>Libreoffice Writer</b> (<i>equivalente a Microsoft Word</i>)tal como se ha explicado a modo de <a href="../Parte_3-Entorno_de_Escritorio/Parte_3-Como_lanzar_aplicaciones.html#DefinirAtajosTeclado">ejemplo en la teoria</a>.  Con la finalidad de aclarar visualmente la forma de crear un <b>atajo de teclado</b> en vitalinux se sugiere ver el <a href="https://youtu.be/bdBM6U0seUE">siguiente videotutorial</a>.
+</li>
+<li>
+Haz una breve reflexión, si lo consideras necesario, sobre la tarea realizada. Es importante advertir que hay aplicaciones que consumen prácticamente la misma cantidad de recursos que el propio sistema operativo (<i>los navegadores Web modernos Firefox o Chrome son un ejemplo de ello</i>).  Este es un aspecto sumamente importante ya que <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> es un <b>sistema operativo ligero</b> con la finalidad de poder reutilizar equipos antiguos, pero de poco sirve que el sistema operativo lo sea si las aplicaciones que lanzamos sobre él no lo son, el equipo se acabará saturando al poner al límite sus recursos (<i>memoria RAM o CPU</i>). Es decir, en equipos con pocos recursos además de hacer uso de un sistema operativo ligero también deberíamos hacer uso de aplicaciones que lo fueran (<i>existen alternativas ligeras a toda aplicación.  Por ejemplo, Midori es un navegador Web que sería una alternativa ligera a Firefox o Chrome</i>).
+</li>
+</ol>
 
-Como tarea repasaremos las diferentes formas de lanzar aplicaciones, para posteriormente hacer una reflexión sobre cual es la estrategia que consideras más adecuada:
-1. Desde el **Menú de Inicio Clásico** lanza el creador de vídeos con fotos **PhotofilmStrip**.  Esta aplicación te permite crear un vídeo a partir de imagenes o fotos que arrastres a la aplicación permitiéndote hacer efecto zoom sobre las fotos.
-1.  Ahora, haciendo uso del lanzador de aplicaciones **Synapse** lanza el editor de vídeos **openshot**.  Para ello tan sólo tendrás que teclear **CONTROL+ESPACIO** y posteriormente escribir **openshot** y confirmar pulsando a la tecla **Intro**.  Esta aplicación te permitirá crear vídeos a partir de imágenes, vídeos y texto (*muy similar al software de Windows Pinnacle Studio*). Vamos a ir un poco más lejos y vamos a probar una aplicación muy interesante: **Matar Programas**. Dicha aplicación nos va a permitir terminar con programa si se nos queda colgado y no responde ni si quiera al botón de cerrar la ventana. Suponemos que la aplicación de video que acabamos de arrancar se ha quedado colgada. Para ello, escribiremos **CONTROL+ESPACIO** y posteriormente escribir **Matar** y tendremos disponible la funcionalidad, veremos solo una cosa: el cursor se ha cambiado por una X...'**cuidado donde clickamos ahora!!!**. Si clickamos ahora **sobre la aplicación de Openshot** que es la queremos terminar, veremos que se cerrará.
-1.  Abre el **Explorador de Archivos de Vitalinux** haciendo uso del atajo de teclado **Tecla Windows + E**.
-1.  **Crea un atajo** como el explicado en el ejemplo para lanzar el **libreoffice Writer** (*equivalente a Microsoft Word*).  Con la finalidad de aclarar visualmente la forma de crear un **atajo de teclado** en vitalinux se sugiere ver el [siguiente videotutorial](https://youtu.be/bdBM6U0seUE):
-
-{% youtube %}https://youtu.be/bdBM6U0seUE{% endyoutube %}
-
-Por último, aprenderemos una forma muy sencilla de **matar** o **cerrar** una aplicación que se nos haya quedado bloqueada.  Para ello:
-1.  Abre o lanza el navegador Web **Midori**
-1.  A continuación teclea **CONTROL + ESPACIO** y escribe **Matar**. Confirma que deseas hacer uso de la opción **Detener o Matar Programa** pulsando a la tecla **Intro**.  Podrás comprobar que el puntero del ratón habrá cambiado de forma pasando a ser una **aspa**.
-1.  Pincha con el ratón (*la aspa*) sobre la aplicación **Midori** recientemente abierta, y comprueba que se cierra inmediatamente.
-1.  Advierte que siguiendo la misma táctica puedes **matar** los Widgets informativos del Escritorio, los elementos del Escritorio, ... Si lo pruebas es posible que necesites reiniciar Vitalinux (**CONTROL + ESPACIO** y escribes **reiniciar**)
-1.  Advierte igualmente que si tecleas **CONTROL + ESPACIO** y escribes **detener**, y a continuación pulsas la tecla correspondiente a la **flecha mirando hacia abajo**, podrás visualizar las diferentes opciones que te ofrece el sistema relacionadas con **detener**.  Entre esas opciones cabe destacar a "**Detener y Cerrar Cliente Migasfree**", la cual mata al cliente migasfree que se inicia al iniciarse el equipo, y que nos puede servir en situaciones donde queremos evitar consumo de ancho de banda (*el cliente migasfree se comunica con un servidor Migasfree público que se encuentra en Internet*).
-
-> **Formato de Entrega:** Haz capturas de pantalla (tecla **IMPRIMIR PANTALLA**, o en Vitalinux también puedes teclear **CONTROL + ESPACIO** y escribir **capturar pantalla**) de todo lo que vayas haciendo.  En caso de encontrar problemas para ello puedes hacer fotos directamente desde el móvil.  Elabora un documento ofimático (o usa cualquier otro formato que te resulte más comodo) donde puedas incluir las capturas solicitadas y **expórtalo como pdf** para adjuntarlo como respuesta a la tarea solicitada. El nombre del fichero deberá seguir la pauta: **apellido1_apellido2_nombre_TareaX.pdf**. Si lo consideras necesario puedes indicar cualquier comentario a las capturas de pantalla.
-
-> *Importante entregar al tutor el documento con las imágenes en formato pdf para que no haya problemas de lectura y calificar la tarea*
-
-> Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna **Begoña Sánchez Mañas**, debería nombrar esta tarea como: **sanchez_manas_begona_Tarea2.3**
-
-
-## <img src="img/Logobombilla.png" width="80"> Tarea 2.2: Comprobación del consumo de Recursos del Sistema
-
-Requisitos: Conocer que es un Widget Conky
-
-Como podrás advertir a través del **Widget Conky del Escritorio de Vitalinux**, la cantidad de **memoria RAM** que consume el entorno de Escritorio de Vitalinux es muy pequeña al basarse en la versión ligera de Ubuntu, **Lubuntu**.  En concreto, puede advertirse que una vez cargado el sistema y estando operativo **tan sólo requiere de unos 200MB**, mientras que otros entornos de Escritorio, Windows y Linux, pueden requerir para empezar a funcionar en torno a 1GB de memoria RAM.
-
-Mediante la realización de esta tarea se pretende advertir que para que un ordenador vaya rápido no sólo es necesario que el sistema operativo sea ligero (*Lubuntu*), sino también es necesario que lo sean las aplicaciones que se lanzan sobre él.  Como veremos a continuación, puede ocurrir que una aplicación (*p.e. Google Chrome*) consuma más recursos del sistema (*RAM y CPU*) que el propio sistema operativo.
-
-Éste es un aspecto muy importante, ya que la cantidad de memoria RAM es un bien escaso en todo equipo informático, siendo su cantidad **determinante para garantizar que las aplicaciones que lancemos sean más o menos fluidas**.  En concreto, cada vez que abrimos cualquiera de las aplicaciones que tenemos instaladas en nuestro disco duro, ésta se carga en memoria RAM y es de hay de donde la CPU del ordenador trabaja con la aplicación.  Esto significa que a medida que vamos lanzando/abriendo aplicaciones, estas se van cargando en memoria RAM hasta que esta se llena.  En el momento en que se llena, al no caber todas, parte de ellas tienen que enviarse temporalmente al disco duro haciendo que las aplicaciones sean más lentas al tener que estar continuamente moviéndose desde el disco duro a la RAM, y viceversa.
-
-De igual forma, el porcentaje de uso de la CPU es sumamente importante.  El uso de la CPU determina lo ocioso u ocupado que se encuentra nuestro ordenador.  Por tanto, cuando mayor es el porcentaje de uso de la CPU en un equipo, más estresado éste se encuentra y por tanto más complicado tiene el atendernos de una manera ágil, rápida y eficiente a nuestras demandas.</p><p>Como tarea vas a comprobar como varían la cantidad de memoria RAM ocupada y el porcentaje de uso de la CPU en función de las aplicaciones que se van lanzando.  Para ello, vamos a ir abriendo las aplicaciones que se indicarán a continuación, al mismo tiempo que minimizas las ventanas para ver la cantidad de memoria RAM ocupada y el uso de CPU en el **Widget Conky que hay en el Escritorio**:
-
-1.  Antes de nada, apunta la **memoria RAM** y **porcentaje de uso de la CPU** consumidos por el sistema operativo Vitalinux **sin haber lanzado ninguna aplicación**.  Para ello arranca Vitalinux, inicia sesión y espera a que se estabilicen ambos parámetros (*deberemos esperar a que haya terminado la comunicación con Migasfree que se produce al inicio para saber exactamente lo que consume el sistema operativo sin nada más*).  Tras anotar esos valores, pasaremos a ver que sucede con esas cifras cuando se lanzan nuestras aplicaciones más comunes: **navegadores Web** y **herramientas ofimáticas**.
-1.  Abre el **Navegador Web Firefox**: pulsa **CONTROL + ESPACIO** y escribe **firefox** (*pulsa al Intro para confirmar*).  Una vez abierto el navegador, abre tres pestañas (*pulsa **CONTROL + T***) y haz lo siguiente: (1) en la primera pestaña accede **www.educaragon.org**, en la segunda busca en Google la palabra clave **Vitalinux**, y en la tercera abre el **vídeo de youtube** referente a el [Videotutorial Cliente Migasfree](https://youtu.be/MiPYmOzlN4g). Apunta en cuanto aumenta la cantidad de memoria RAM y CPU del sistema Vitalinux, y después cierra la aplicación.
-2.  Abre el **Navegador Web Google Chrome**: pulsa **CONTROL + ESPACIO** y escribe **chrome** (*pulsa al Intro para confirmar*).  Haz exactamente lo mismo que has hecho con **firefox** y anota en cuanto se incrementa la RAM y CPU. Después cierra la aplicación.
-3.  Además de los dos archiconocidos navegadores Web **Firefox** y **Chrome** existen otros muchos que nos pueden ser útiles cuando nuestro equipo no es muy potente, y queremos que funcione aún así de una manera rápida.  A modo de ejemplo, para compararlo con los anteriores, aquí se propone usar **Midori**.  Para ello abre el **Navegador Web Midori**: pulsa **CONTROL + ESPACIO** y escribe **midori**.  A continuación haz lo mismo que has hecho con los navegadores anteriores y apunta los nuevos valores de incremento de CPU y RAM que supone hacer uso de esta aplicación. Después cierra la aplicación.
-4.  Abre la herramienta **Ofimática LibreOffice Writer** (*equivalente a Microsoft Office Word*): pulsa **CONTROL + ESPACIO** y escribe **writer** (*pulsa al Intro para confirmar*).  Apunta en cuanto aumenta la cantidad de memoria RAM y CPU ocupada de tu sistema.
-5.  Por último, **abre simultáneamente varias varias de las aplicaciones propuestas** y comprueba como va reduciéndose la RAM y CPU disponibles, advirtiendo que las aplicaciones a usar son las que acaban determinando la cantidad de memoria RAM y cantidad de potencia de CPU que necesito para mi equipo.
-
-> **Formato de Entrega:** Indica las cifras de la cantidad de memoria RAM ocupada tras realizar cada una de las acciones anteriores, y haz una reflexión personal del comportamiento del sistema.  También puedes adjuntar, si no encuentras muchos problemas, capturas de pantalla (tecla **IMPRIMIR PANTALLA**).  Elabora un documento ofimático (o usa cualquier otro formato que te resulte más comodo) donde puedas incluir las capturas e información solicitada y **expórtalo como pdf** para adjuntarlo como respuesta a la tarea solicitada. El nombre del fichero deberá seguir la pauta: **apellido1_apellido2_nombre_TareaX.pdf**. Si lo consideras necesario puedes indicar cualquier comentario a las capturas de pantalla.
-
-> *Importante entregar al tutor el documento con las imágenes en formato pdf para que no haya problemas de lectura y calificar la tarea*
-
-> Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna **Begoña Sánchez Mañas**, debería nombrar esta tarea como: **sanchez_manas_begona_Tarea2.2**
+{% endnotificacion_task %}
