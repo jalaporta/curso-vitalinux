@@ -1,10 +1,28 @@
-# Widgets del Escritorio
 
-## <img src="img/Logolupa.png" width="80"> ¡¡Importante!! ¿Qué es un Widget Concky? 
+## <img src="img/Logobombilla.png" width="80"> Tarea 2.3: Repaso de estrategias para *Lanzar y Matar Aplicaciones* en *Vitalinux* {#LanzarMatarAplicaciones}
 
-Un **Widget Conky** es un complemento de Escritorio que nos permite monitorizar a través de un vistazo diferentes aspectos de nuestro sistema operativo.  Vitalinux, por defecto, dispone de unos Widgets Conky en la parte izquierda/central del Escritorio que informan al usuario de la **fecha y hora**, de la **cantidad de espacio libre en el disco duro en relación a su tamaño total**, de la **cantidad de memoria RAM ocupada en relación a la total**, y por último, del **porcentaje de uso de la potencia de la CPU** del equipo.
+Requisitos: Haber leído el punto **¿Como lanzar aplicaciones en Vitalnux?**
 
-![Los Widget Conky nos permiten informar al usuario de dirversos aspectos del sistema](img/Escritorio-conky.png)
+Como tarea repasaremos las diferentes formas de lanzar aplicaciones, para posteriormente hacer una reflexión sobre cual es la estrategia que consideras más adecuada:
+1. Desde el **Menú de Inicio Clásico** lanza el creador de vídeos con fotos **PhotofilmStrip**.  Esta aplicación te permite crear un vídeo a partir de imagenes o fotos que arrastres a la aplicación permitiéndote hacer efecto zoom sobre las fotos.
+1.  Ahora, haciendo uso del lanzador de aplicaciones **Synapse** lanza el editor de vídeos **openshot**.  Para ello tan sólo tendrás que teclear **CONTROL+ESPACIO** y posteriormente escribir **openshot** y confirmar pulsando a la tecla **Intro**.  Esta aplicación te permitirá crear vídeos a partir de imágenes, vídeos y texto (*muy similar al software de Windows Pinnacle Studio*). Vamos a ir un poco más lejos y vamos a probar una aplicación muy interesante: **Matar Programas**. Dicha aplicación nos va a permitir terminar con programa si se nos queda colgado y no responde ni si quiera al botón de cerrar la ventana. Suponemos que la aplicación de video que acabamos de arrancar se ha quedado colgada. Para ello, escribiremos **CONTROL+ESPACIO** y posteriormente escribir **Matar** y tendremos disponible la funcionalidad, veremos solo una cosa: el cursor se ha cambiado por una X...'**cuidado donde clickamos ahora!!!**. Si clickamos ahora **sobre la aplicación de Openshot** que es la queremos terminar, veremos que se cerrará.
+1.  Abre el **Explorador de Archivos de Vitalinux** haciendo uso del atajo de teclado **Tecla Windows + E**.
+1.  **Crea un atajo** como el explicado en el ejemplo para lanzar el **libreoffice Writer** (*equivalente a Microsoft Word*).  Con la finalidad de aclarar visualmente la forma de crear un **atajo de teclado** en vitalinux se sugiere ver el [siguiente videotutorial](https://youtu.be/bdBM6U0seUE):
+
+{% youtube %}https://youtu.be/bdBM6U0seUE{% endyoutube %}
+
+Por último, aprenderemos una forma muy sencilla de **matar** o **cerrar** una aplicación que se nos haya quedado bloqueada.  Para ello:
+1.  Abre o lanza el navegador Web **Midori**
+1.  A continuación teclea **CONTROL + ESPACIO** y escribe **Matar**. Confirma que deseas hacer uso de la opción **Detener o Matar Programa** pulsando a la tecla **Intro**.  Podrás comprobar que el puntero del ratón habrá cambiado de forma pasando a ser una **aspa**.
+1.  Pincha con el ratón (*la aspa*) sobre la aplicación **Midori** recientemente abierta, y comprueba que se cierra inmediatamente.
+1.  Advierte que siguiendo la misma táctica puedes **matar** los Widgets informativos del Escritorio, los elementos del Escritorio, ... Si lo pruebas es posible que necesites reiniciar Vitalinux (**CONTROL + ESPACIO** y escribes **reiniciar**)
+1.  Advierte igualmente que si tecleas **CONTROL + ESPACIO** y escribes **detener**, y a continuación pulsas la tecla correspondiente a la **flecha mirando hacia abajo**, podrás visualizar las diferentes opciones que te ofrece el sistema relacionadas con **detener**.  Entre esas opciones cabe destacar a "**Detener y Cerrar Cliente Migasfree**", la cual mata al cliente migasfree que se inicia al iniciarse el equipo, y que nos puede servir en situaciones donde queremos evitar consumo de ancho de banda (*el cliente migasfree se comunica con un servidor Migasfree público que se encuentra en Internet*).
+
+> **Formato de Entrega:** Haz capturas de pantalla (tecla **IMPRIMIR PANTALLA**, o en Vitalinux también puedes teclear **CONTROL + ESPACIO** y escribir **capturar pantalla**) de todo lo que vayas haciendo.  En caso de encontrar problemas para ello puedes hacer fotos directamente desde el móvil.  Elabora un documento ofimático (o usa cualquier otro formato que te resulte más comodo) donde puedas incluir las capturas solicitadas y **expórtalo como pdf** para adjuntarlo como respuesta a la tarea solicitada. El nombre del fichero deberá seguir la pauta: **apellido1_apellido2_nombre_TareaX.pdf**. Si lo consideras necesario puedes indicar cualquier comentario a las capturas de pantalla.
+
+> *Importante entregar al tutor el documento con las imágenes en formato pdf para que no haya problemas de lectura y calificar la tarea*
+
+> Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna **Begoña Sánchez Mañas**, debería nombrar esta tarea como: **sanchez_manas_begona_Tarea2.3**
 
 
 ## <img src="img/Logobombilla.png" width="80"> Tarea 2.2: Comprobación del consumo de Recursos del Sistema

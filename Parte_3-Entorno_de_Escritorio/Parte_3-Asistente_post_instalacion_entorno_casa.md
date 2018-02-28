@@ -1,4 +1,4 @@
-## Asistente de Post-Instalación en el caso de usar Vitalinux en casa {#AsistentePost-InstalacionVitalinuxCasa}
+## Asistente de Post-Instalación en el caso de usar Vitalinux en Entorno Casa{#AsistentePost-InstalacionVitalinuxCasa}
 
 ![Debemos indicar ... ¿Donde usaremos Vitalinux? (Centro Educativo o Casa)](../img/Post-instalacion-8.2.png)
 

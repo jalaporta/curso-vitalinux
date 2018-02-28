@@ -32,14 +32,16 @@
 * [Primer Contacto con Vitalinux](Parte_3-Entorno_de_Escritorio/Parte_3-Primer_contacto_con_vitalinux.md)
     - [Post-Instalación en un Centro Educativo](Parte_3-Entorno_de_Escritorio/Parte_3-Asistente_post_instalacion_centro_educativo.md)
     - [Post-Instalación en Entorno Casa](Parte_3-Entorno_de_Escritorio/Parte_3-Asistente_post_instalacion_entorno_casa.md)
-
+* [Familiarizándonos con el Entorno de Escrito de Vitalinux](Parte_3-Entorno_de_Escritorio/Parte_3-Familiarizandonos_entorno_escritorio.md)
+    * [Preferencias y Apariencia del Escritorio](Parte_3-Entorno_de_Escritorio/Parte_3-Preferencias_del_escritorio.md)
+    *  [Tarea 3.1: Post-Instalación y Personalización de Vitalinux](Parte_3-Entorno_de_Escritorio/Parte_3-Tarea_3.1.md)
+    * [¿Cómo lanzar Aplicaciones?](Parte_3-Entorno_de_Escritorio/Parte_3-Como_lanzar_aplicaciones.md)
+    * [Widgets del Escritorio](Parte_3-Entorno_de_Escritorio/Parte_3-Widgets_del_escritorio.md)    
 
 <!--- Comentarios:
 
-* [Familiarizándonos con el Entorno de Escrito de Vitalinux](parte_2_familiarizandonos_con_el_entorno_de_escrito_de_vitalinux.md)
-* [¿Preferencias del Escritorio?](preferencias_del_escritorio.md)
-* [Widgets del Escritorio](widgets_del_escritorio.md)
-* [¿Cómo lanzar Aplicaciones?](como_lanzar_aplicaciones.md)
+
+
 
 
 
