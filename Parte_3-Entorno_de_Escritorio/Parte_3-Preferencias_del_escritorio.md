@@ -49,3 +49,4 @@ Otra opción de personalización del **Entorno de Escritorio** de <span style='c
 Otro aspecto que nos puede interesar a la hora de personalizar nuestro Entorno en <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> es la <b>Apariencia y Comportamiento de las Ventanas</b>.  En concreto, podemos personalizar el <b>tema de la apariencia</b> de las ventanas, sus <b>bordes</b>, el <b>puntero del ratón</b>, o el <b>tema de iconos</b>. Para configurar todo lo anterior deberemos teclear <b>CONTROL+ESPACIO</b> y escribir <b>personalizar apariencia</b>.
 
 ![Personalización de la Apariencia del Entorno de Ventanas](../img/vx-personalizar_apariencia_y_comportamiento.png)
+

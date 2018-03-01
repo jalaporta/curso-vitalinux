@@ -9,7 +9,7 @@ Es recomendable, si no  lo has hecho ya, que le eches un ojo al siguiente <a hre
 {% youtube %}9mr2dS0kyiY{% endyoutube %}
 
 
-{% panel %}
+{% panel style="info", title="Información en relación a la primera parte del curso" %}
 Para seguir el curso y complementar la tarea que se propone en esta primera parte deberás pinchar sobre los enlaces del menú de navegación del eBook que se localizan a la izquierda.  Como es obvio, se recomienda seguir el orden de los contenidos propuesto y no seguir un orden aleatorio.  Al terminar esta primera parte se propone la **primera tarea** a realizar.
 {% endpanel %}
 
