@@ -34,29 +34,26 @@
     - [Post-Instalación en Entorno Casa](Parte_3-Entorno_de_Escritorio/Parte_3-Asistente_post_instalacion_entorno_casa.md)
 * [Familiarizándonos con el Entorno de Escrito de Vitalinux](Parte_3-Entorno_de_Escritorio/Parte_3-Familiarizandonos_entorno_escritorio.md)
     * [Preferencias y Apariencia del Escritorio](Parte_3-Entorno_de_Escritorio/Parte_3-Preferencias_del_escritorio.md)
-    *  [Tarea 3.1: Post-Instalación y Personalización de Vitalinux](Parte_3-Entorno_de_Escritorio/Parte_3-Tarea_3.1.md)
+    * [Tarea 3.1: Post-Instalación y Personalización de Vitalinux](Parte_3-Entorno_de_Escritorio/Parte_3-Tarea_3.1.md)
     * [¿Cómo lanzar Aplicaciones?](Parte_3-Entorno_de_Escritorio/Parte_3-Como_lanzar_aplicaciones.md)
     * [Widgets del Escritorio](Parte_3-Entorno_de_Escritorio/Parte_3-Widgets_del_escritorio.md)    
     * [Tarea 3.2: Lanzar Aplicaciones y efecto sobre la RAM y CPU del Sistema](Parte_3-Entorno_de_Escritorio/Parte_3-Tarea_3.2.md)
 
+## Parte 4. Organización de Directorios y Archivos
+* [Presentación Contenidos Parte 4](Parte_4-Organizacion_de_Directorios_y_Archivos/Parte_4-Presentacion_contenidos.md)
+* [¿Cómo se Organizan los Directorios y Archivos?](Parte_4-Organizacion_de_Directorios_y_Archivos/Parte_4-Como_se_organizan_directorios_y_archivos.md)
+* [Propietarios y Permisos](Parte_4-Organizacion_de_Directorios_y_Archivos/Parte_4-Propietarios_y_permisos.md)
+* [Tarea 4.1: Familiarizándonos con el Sistema de Archivos](Parte_4-Organizacion_de_Directorios_y_Archivos/Parte_4-Tarea_4.1.md)
+* [Explorador de Archivos en Vitalinux](Parte_4-Organizacion_de_Directorios_y_Archivos/Parte_4-Explorador_de_archivos.md)
+* [Dispositivos de Almacenamiento](Parte_4-Organizacion_de_Directorios_y_Archivos/Parte_4-Dispositivos_de_almacenamiento.md)
+* [Tarea 4.2: Caracteristicas del Explorador de Archivos](Parte_4-Organizacion_de_Directorios_y_Archivos/Parte_4-Tarea_4.2.md)
+
+
 <!--- Comentarios:
-
-
-
-
-
-
-
-
 
 
 ## Parte 3
 
-* [Organización de Directorios y Archivos en Vitalinux](parte_3_organizacion_de_directorios_y_archivos_en_vitalinux.md)
-* [¿Cómo se Organizan los Directorios y Archivos?](como_se_organizan_los_directorios_y_archivos.md)
-* [Propietarios y Permisos](propietarios_y_permisos.md)
-* [Explorador de Archivos en Vitalinux](explorador_de_archivos_en_vitalinux.md)
-* [Dispositivos de Almacenamiento](dispositivos_de_almacenamiento.md)
 * [Ficheros de Configuración Importantes en Vitalinux](ficheros_de_configuracion_importantes_en_vitalinux.md)
 
 ## Parte 4

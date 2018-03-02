@@ -4,10 +4,12 @@
         "image-captions", 
         "panel", 
         "notificaciones",
-        "include"],
+        "include",
+        "coolimages",
+        "multipart"],
     "pluginsConfig": {
         "image-captions": {
-            "caption": "Imagen - _CAPTION_"
+            "caption": "image _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_"
         }
     },
     "variables": {

@@ -7,7 +7,7 @@ En esta parte del curso de introducción a <span style='color: darkblue; font-we
 
 
 {% panel %}
-Para seguir el curso y complementar la tarea propuesta en esta segunda parte del curso deberás pinchar sobre los enlaces del menú de navegación del eBook que se localizan a la izquierda, dependiendo de la opción que sigas para su realización según se ha sugerido en el <b>mensaje de aviso anterior</b>.  En caso de ser necesario, como es obvio, se recomienda seguir el orden de los contenidos propuesto y no seguir un orden aleatorio.  Al terminar esta <b>segunda parte</b> se propone la **tarea** a realizar.
+Para seguir el curso y complementar la tarea propuesta en esta parte del curso deberás pinchar sobre los enlaces del menú de navegación del eBook que se localizan a la izquierda, dependiendo de la opción que sigas para su realización según se ha sugerido en el <b>mensaje de aviso anterior</b>.  En caso de ser necesario, como es obvio, se recomienda seguir el orden de los contenidos propuesto y no seguir un orden aleatorio.  A lo largo de esta <b>parte</b> se proponen las **tareas** a realizar, esperamos que te puedan resultar útiles.
 {% endpanel %}
 
 Los contenidos de esta parte son los siguientes:
