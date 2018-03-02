@@ -1,5 +1,5 @@
 {% notificacion_task title='Organización de Directorios y Archivos, y permisos sobre estos',
-numexer='4.2',
+numexer='4.1',
 req='Es necesario haber leído todo lo referente a Organización del Sistema de Archivos en Vitalinux, propietarios y permisos',
 formatoentrega='En un documento ofimático escribe y pega las fotos o capturas de pantalla necesarias para justificar todo lo que se te pide a continuación. Si es posible expórtalo a <b>formato PDF</b> para garantizar su portabilidad, y adjúntalo como respuesta a la tarea solicitada. Por tanto, envía al tutor un único archivo <b>.pdf</b> que se nombrará siguiendo las siguientes pautas: <b>apellido1_apellido2_nombre_TareaX.pdf</b>.
 <br>
