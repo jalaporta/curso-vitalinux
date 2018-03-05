@@ -5,26 +5,35 @@
 - [1 Análisis de la comunicación con el Servidor Migasfree](#AnalisisComunicacionMigasFree)
     - [1.1 Interfaz](#Interfaz)
     - [1.2 Análisis de la comunicación entre el Cliente y Servidor Migasfree](#AnalisisComunicacionClienteServidor)
-    - [1.3 Actualización contra Migasfree desde la Consola](#ActualizacionContraMigasfreConsola)
+    - [1.3 Forzar Actualización contra Migasfree](#ActualizacionContraMigasfreConsola)
 - [2 Etiquetas Migasfree](#EtiquetasMigasfree)
     - [2.1 ¿Qué son y para qué sirven las etiquetas Migasfree?](#EtiquetasMigasfree)
     - [2.2 Asignación de Etiquetas Migasfree](#AsignacionEtiquetasMigasfree)
     - [2.3 Comprobación de Etiquetas Migasfree](#ComprobacionEtiquetasMigasfree)
     - [2.4 Consideración especial](#ConsideracionEspecial)
 
-**Vitalinux EDU DGA** lleva como sistema base un **Lubuntu** (una de las versiones ligeras de ubuntu con escritorio LXDE), una personalización al entorno educativo y lo más importante: un **cliente Migasfree**. Este cliente permite a Lubuntu comunicarse con un servidor central gesgtionado por el proyecto para que a través de éste pueda gestionarse el equipo:
+**Vitalinux EDU DGA** lleva como sistema base un **Lubuntu** (<i>una de las versiones ligeras de ubuntu con escritorio LXDE</i>), una personalización al entorno educativo y lo más importante: un **cliente Migasfree**. Este cliente permite a Lubuntu comunicarse con un servidor central controlado por los técnicos informáticos del proyecto de Software Libre para que a través de éste puedan gestionarse todos los equipos <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>:
+
 
 -  **Instalación/Desinstalación/Actualización del Software**
--  **Configuración del equipo**: *Hora de Apagado*, *Personalización del fondo de Escritorio*, *Instalación y Configuración de Impresoras*, *Instalación y configuración de Libros digitales*, etc.
+-  **Configuración del equipo de manera remota y desatendida**: 
+    -  *Hora de Apagado*
+    -  *Personalización del entorno de Escritorio* (_fondo de Escritorio, lanzadores, tema de iconos, etc._)
+    -  Instalación y Configuración de *Impresoras/Fotocopiadoras*
+    -  Instalación y configuración de *Libros digitales*
+    -  Instalación de extensiones y personalización de los navegadores Web
+    -  Configuración de las <b>redes Wireless</b> en los equipos portátiles
+    -  Creación de cuentas de usuario con perfiles personlizados (_idioma, permisos, etc._)
+    -  etc.  
 -  **Detección y resolución de incidencias**
--  Inventario de todo el software y hardware del Equipo
+-  **Generación del Inventario** de todo el software y hardware de los Equipos
 -  ...
 
-¡¡Y todo ello **de manera completamente desatendida**!!  Esto facilita la labor de los coordinadores de medios informáticos de los centros y del profesorado ya que de esta forma se pueden desentender de tareas muy tediosas.
+¡¡Y todo ello **de manera completamente desatendida**!!  Esto facilita la labor de los coordinadores de medios informáticos de los centros y del profesorado ya que de esta forma se pueden desentender de este tipo de tediosas tareas y dedicarse realmente a su trabajo (_enseñar_).
 
-Se puede ver más en profundidad todo en la [documentación oficial de migasfree](http://fun-with-migasfree.readthedocs.io/en/master/)
+Se puede ver más en profundidad todo en la [documentación oficial de migasfree](http://fun-with-migasfree.readthedocs.io/en/master/).
 
-Éste documento pretende aclarar un poco más como se lleva a cabo dicho proceso, sin entrar en detalles complejos o de programación.
+Ésta parte del curso pretende aclarar un poco más como se lleva a cabo el proceso de comunicación entre los equipos <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> y el servidor <b>Migasfree</b>, sin entrar en detalles complejos o de programación.
 
 Como ***más vale un buen videotutorial que mil palabras*** a continuación se sugiere ver el [siguiente vídeo](https://youtu.be/MiPYmOzlN4g) relacionado con la teoría de esta parte del curso: **Cliente Migasfree**
 
@@ -32,7 +41,7 @@ Como ***más vale un buen videotutorial que mil palabras*** a continuación se s
 
 ## Análisis de la comunicación con el Servidor Migasfree {#AnalisisComunicacionMigasFree}
 
-Cada vez que el equipo inicia una sesión gráfica, si éste tiene comunicación con Internet y el servidor Migasfree está activo, comienza una comunicación entre el cliente Migasfree y el servidor Migasfree.
+Cada vez que el equipo inicia una sesión gráfica, si éste tiene comunicación con Internet y el servidor Migasfree está activo, comienza una comunicación entre el cliente Migasfree, <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, y el <b>servidor Migasfree</b>.
 
 No obstante, antes de establecerse propiamente la comunicación con el servidor Migasfree, el sistema realiza una serie de comprobaciones/acciones, como por ejemplo:
 
@@ -47,11 +56,15 @@ Después se lanza propiamente la comunicación con el servidor Migasfree. A cont
 
 Como hemos dicho, cuando la máquina arranca se desencadena el proceso anterior. Podemos ver que se está ejecutando a través del icono de la barra inferior de tareas. Si aparece el **triángulo verde** significa que se están realizando acciones en ese momento y que no se ha terminado la comunicación con el servidor Migasfree:
 
-![migasfree actualizando](img/migasfree-on.png)
+{% coolimages_type2 url_image="../img/Migasfree-on.png" %}
+migasfree actualizando
+{% endcoolimages_type2 %}
 
 Una vez haya terminado todo el proceso (*comprobaciones y posterior comunicación con el servidor*) podremos advertir que el icono referente a **Migasfree** cambia:
 
-![Servicio de actualización finalizado](img/Migasfree-off.png)
+{% coolimages_type2 url_image="../img/Migasfree-off.png" %}
+Servicio de actualización finalizado
+{% endcoolimages_type2 %}
 
 También podemos encontrarnos con otros iconos que nos indiquen otras situaciones: *es necesario reiniciar*, *se ha detectado un problema*, etc.  En el caso de visualizar estos otros iconos, podremos pulsar sobre dicho icono para que nos de más información.
 
@@ -63,7 +76,9 @@ Igualmente, si pulsamos sobre el **icono de Migasfree** podremos ver otras opcio
 -  **Conocer nuestra identificación**. El número que identifica al equipo de forma unívoca y que aparece en el Widget del escritorio como CID
 -  **Obtener ayuda**
 
-![Opciones del tray de migasfree](img/Migasfree-options.png)
+{% coolimages_type2 url_image="../img/Migasfree-options.png" %}
+Opciones del tray de migasfree
+{% endcoolimages_type2 %}
 
 ### Análisis de la comunicación entre el Cliente y Servidor Migasfree {#AnalisisComunicacionClienteServidor}
 
@@ -106,9 +121,17 @@ En este punto, el servidor Migasfree da la orden al equipo cliente de desinstala
 
 Por último, el servidor Migasfree registra o inventaria el cambio que se haya podido producir en el software instalado en el equipo, de tal forma que a posteriori se puede saber que ha sucedido con los programas disponibles en el equipo.
 
-### Actualización contra Migasfree desde la Consola {#ActualizacionContraMigasfreConsola}
+### Forzar Actualización contra Migasfree {#ActualizacionContraMigasfreConsola}
 
-Para actualizar el equipo contra migasfree de una manera expicita deberemos ejecutar el siguiente comando:
+A modo de curiosidad, para actualizar el equipo contra migasfree de una manera expicita, sin tener que esperar al próximo reinicio e inicio de sesión gráfica, deberemos llevar a cabo una de las dos siguientes acciones:
+
+* De manera gráfica: pinchando con el botón izquierdo del ratón sobre el <b>icono de Migasfree</b> situado en la parte derecha de la barra o panel inferior del entorno de Escritorio y seleccionar la opción de <b>Forzar actualización</b>.
+
+{% coolimages_type2 url_image='../img/vx-forzar-actualizacion-migasfree.png' %}
+Forzar Actualización del equipo contra Migasfree de manera explícita
+{% endcoolimages_type2 %}
+
+* Desde la línea de comandos abriendo una terminal (<i>CONTROL+ALT+T</i>) y tecleando lo siguiente:
 
 ```bash
 $ sudo migasfree --update
@@ -131,14 +154,28 @@ De esta forma, haciendo uso de estas etiquetas podemos distinguir a los equipos 
 De ésta forma, simplemente etiquetando a un equipo como **PRI-MICENTRO.INGLES.AULA1**, ya no hace falta etiquetarlo como de **INGLES** o de **MICENTRO** ... automáticamente le afectarán las condiciones que hayamos definido para esos grupos.
 
 
-*Aclaración: Si un equipo tiene marcadas las tres etiquetas no hay problema ... pero es más fácil marcar solo una etiqueta!!!*
+{% notificacion_alert title='¿Cuántas etiquetas Migasfree puede tener asignadas mi equipo?', logotext='¡¡Aclaración!!' %}
+Un equipo puede tener asignadas multiples etiquetas mientras no entren en conflicto entre ellas, aunque sean redundantes.  Es decir:
+<ol> 
+<li>
+Un equipo <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> puede tener asignadas dos etiquetas de dos centros educativos (<i>p.e. dos etiquetas de dos centros de primaria PRI-CENTRO1 y PRI-CENTRO2), pero si por un casual el <b>CENTRO1</b> a demandado forzar la desinstalación de un programa que si ha requerido el <b>CENTRO2</b>, cada vez que el equipo inicie sesión, tras conectarse contra Migasfree se estará desinstalando e instalando de nuevo ese software.
+</li>
+<li>
+Un equipo puede tener marcadas las etiquetas <b>PRI-MICENTRO</b>, <b>PRI-MICENTRO.INGLES</b>, y <b>PRI-MICENTRO.INGLES.AULA1</b>, aunque es altamente redudante, ya que simplemente marcando la última, <b>PRI-MICENTRO.INGLES.AULA1</b>, ya esta diciendo a Migasfree que tiene implicitamente tabmién las dos primeras.
+</li>
+</ol>
+
+{% endnotificacion_alert %}
+
 
 
 ### Asignación de Etiquetas Migasfree {#AsignacionEtiquetasMigasfree}
 
 Tras la instalación de Vitalinux en un equipo y en el caso de que haya conexión con Internet, la primera vez que se inicie en ese equipo una sesión gráfica se ejecutara una breve post instalación a través de la cual podremos asignarle al equipo las etiquetas que deseemos. En concreto, se nos mostrará la ventana siguiente:
 
-![](img/014-sesion2-MIAS.png)
+{% coolimages_type2 url_image="../img/014-sesion2-MIAS.png" %}
+
+{% endcoolimages_type2 %}
 
 Entre las muchas etiquetas disponibles deberemos tener en cuenta lo siguiente para su asignación:
 
@@ -151,13 +188,40 @@ Entre las muchas etiquetas disponibles deberemos tener en cuenta lo siguiente pa
 -  **ENT-ALUMNO:** Esta etiqueta indicará que el equipo está destinado al uso de los alumnos, asociándole un software específico.
 -  **ENT-PROFESOR: **Esta etiqueta indicará que el equipo está destinado al uso de profesores, asociándole un software específico.
 
-Estas etiquetas podrán ser modificadas en cualquier momento si se desea, para ello deberemos ir a: **Inicio → Vitalinux → MigaScrpts → Etiquetas → Modificación de Etiquetas**
+Estas etiquetas podrán ser modificadas en cualquier momento si se desea, para ello deberemos ir a **Inicio → Vitalinux → MigaScrpts → Etiquetas → Modificación de Etiquetas**, o más fácilmente tecleando <b>CONTROL+ESPACIO</b> y escribir <b>Modificar etiquetas Migasfree</b>.
 
-![](img/015-sesion2-MIAS.png)
+{% coolimages_type2 url_image="../img/015-sesion2-MIAS.png" %}
+Es posible modificar las etiquetas Migasfree asignadas a un equipo a posteriori accediendo desde el Menú principal
+{% endcoolimages_type2 %}
+
+{% coolimages_type2 url_image="../img/vx-modificar-etiquetas-migasfree.png" %}
+Es posible modificar las etiquetas Migasfree asignadas a un equipo a posteriori accediendo desde Synapse
+{% endcoolimages_type2 %}
+
+{% notificacion_alert title='¿Cuál es el etiquetado perfecto?', logotext='¡¡Aclaración!!' %}
+
+Por lo general, si un centro a hecho una correcta planificación del etiquetado, con marcar una única etiqueta ya es suficiente, y asociar a dicha etiqueta todas las acciones que quiere programas sobre ese equipo.  Por ejemplo, un equipo puede tener asignado una etiqueta denominada <b>SEC-MICENTRO.AULAINF.SALA1</b> y estar configurado el servidor Migasfree para que todo equipos que tenga dicha etiqueta se le configure los siguiente:
+<ul>
+<li>Lista de programas a instalar y desintalar</li>
+<li>Usuario con el que iniciará la sesión gráfica de manera automática</li>
+<li>Lista de cuentas de usuario y perfiles que debe tener configuradas el equipo (<i>con perfil de inglés para clases de inglés, frances, etc.</i>)
+<li>Hora de apagado</li>
+<li>Páginas de inicio que deberían mostrar los navegadores Web al iniciarse</li>
+<li>Lista de extensiones que deberían instalarse en los navegadores Web</li>
+<li>Impresoras que deberían configurarse en el equipo</li>
+<li>Acceso a determinados libros digitales</li>
+<li>etc.</li>
+</ul>
+
+{% endnotificacion_alert %}
 
 ### Comprobación de Etiquetas Migasfree {#ComprobacionEtiquetasMigasfree}
 
 Al igual que podemos asignar las etiquetas mediante el ejectuable Modifiación de Etiquetas, podemos comprobar las etiquetas que tenemos con **Consultar y Comprobar Etiquetas Migasfree**
+
+{% coolimages_type2 url_image="../img/vx-consultar-etiquetas-migasfree.png" %}
+Se puede consultar las etiquetas Migasfee del equipo en cualquier momento
+{% endcoolimages_type2 %}
 
 ### Consideración especial {#ConsideracionEspecial}
 
@@ -170,7 +234,9 @@ Existe una etiqueta "especial", y es la denominada **ENT-CASA**. Dicha etiqueta 
 
 El cliente migasfree se arranca como hemos dicho de forma automática cada vez que arrancamos la máquina o iniciamos sesión. Es posible que nos interese en un momento dado deshabilitar ésta característica ya que por ejemplo estamos de viaje y no queremos consumir datos de nuestra conexión 3G, o nuestra red va muy lenta o por cualquier otro motivo. Para éstos casos podemos deshabilitar el cliente simplemente ejectuando CTRL-ESPACIO + Habilitar Deshabilitar...
 
-![hablitar o deshabilitar el cliente migasfree](img/Habilitar-clientemigas.png)
+{% coolimages_type2 url_image="../img/Habilitar-clientemigas.png" %}
+hablitar o deshabilitar el cliente migasfree
+{% endcoolimages_type2 %}
 
 Mientras el equipo tenga deshabilitado el cliente, NO se recibirán actualizaciones de software, no se podrá actuar de forma automática y desatendida, y no se recibirán los errores que se produzcan.
 
@@ -178,26 +244,6 @@ Mientras el equipo tenga deshabilitado el cliente, NO se recibirán actualizacio
 ***Recuerda pues habilitarlo de nuevo para tener éstas funcionalidades*** simplemente ejecutando de nuevo el programa.
 
 
-## <img src="img/Logobombilla.png" width="80"> Tarea 4.6: Análisis de la Comunicación entre el Cliente y Servidor Migasfree
-
-Requisitos: Es necesario haber leído todo lo referente al **Cliente de migasfree** 
-
-Para la realización de la tarea se supone que dispones de un sistema Vitalinux en una **máquina física** o **virtual**.  En concreto se propone llevar a cabo la siguiente tarea:
-
-**Parte 1**. **Cliente migasfree**. Una vez se inicia sesión en Vitalinux abre la **consola del cliente Migasfree** y observa los mensajes que se producen. Para poder moverte con el **"scroll"** (*arriba y abajo*) deberás esperar a que termine el proceso. Haz dos capturas de pantalla:
-1. Donde aparezca el momento de la actualización donde **Migasfree chequea como vas de espacio libre** a través de una falla: **CHECK-HW-ESPACIO-LIBRE-DISCO**
-2. Cuando **Migasfree da la orden de actualizar el sistema**
-
-**Parte 2**. Comprobación de **Etiquetas Migasfree**. Comprueba que etiquetas has asignado cuando hiciste la postinstalación y confirma que aparecen. Si no marcaste ninguna, lo cual es posible al marcar que ibas a usar el equipo fuera del entorno educativo, estará marcada la etiqueta de ENT-CASA. Haz una captura de pantalla con dicho listado. Más tarde asignaremos otra para instalar software.  **Importante**: *Para tener una información completa de la configuración de red y etiquetado Migasfree de tu Vitalinux puedes teclear **CONTROL + ESPACIO** y escribir* *Información Global del Sistema*
-
-> **Formato de Entrega**: Si no encuentras muchos problemas para ello, haz capturas de pantalla (tecla IMPRIMIR PANTALLA) de todo lo que vayas haciendo, y almacénalas en una memoria USB o donde creas conveniente. En caso de encontrar problemas para ello puedes hacer fotos directamente desde el móvil. Elabora un documento ofimático (o usa cualquier otro formato que te resulte más comodo) donde puedas incluir las capturas solicitadas y **expórtalo como pdf** para adjuntarlo como respuesta a la tarea solicitada. El nombre del fichero deberá seguir la pauta: **apellido1\_apellido2\_nombre\_TareaX.pdf**.
-
-
-
-
-
-
-
-
-
-
+{% notificacion_important title='¡¡Migasfree nos facilita la reconstrucción del equipo!!' %}
+Además de facilitarnos <b>Migasfree</b> la configuración de todo lo anterior, también nos facilitará en un futuro el que tengamos que formatear el equipo.  Es decir, <b>Migasfree</b> registra a los equipos quedandose con el identificador de su placa base, un identificador que es único para todo equipo (<i>sería como el DNI de los equipos, a nivel mundial</li>), lo que hace que cuando un equipo se tenga que formatear e instalar <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, éste será recordado por Migasfree y le asignará de manera automática la etiqueta Migasfree que ya tenía y toda su configuración asociada. De esta forma, <b>¡¡¡reconstruir un equipo ante un desastre es cuestión de minutos!!!</b>
+{% endnotificacion_important %}

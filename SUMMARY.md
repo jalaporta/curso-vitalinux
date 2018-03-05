@@ -48,24 +48,25 @@
 * [Dispositivos de Almacenamiento](Parte_4-Organizacion_de_Directorios_y_Archivos/Parte_4-Dispositivos_de_almacenamiento.md)
 * [Tarea 4.2: Caracteristicas del Explorador de Archivos y Gestión de Dispositivos](Parte_4-Organizacion_de_Directorios_y_Archivos/Parte_4-Tarea_4.2.md)
 
+## Parte 5. Gestión del Software
+* [Presentación Contenidos Parte 5](Parte_5-Gestion_del_Software/Parte_5-Presentacion_contenidos.md)
+* [Synaptic: El Gestor de Software](Parte_5-Gestion_del_Software/Parte_5-Gestor_de_software_synaptic.md)
+* [Aplicaciones Windows sobre Vitalinux](Parte_5-Gestion_del_Software/Parte_5-Aplicaciones_windows_sobre_vitalinux.md)
+* [Tarea 5.1: Gestión de Software mediante Synaptic, WinE y PlayOnLinux](Parte_5-Gestion_del_Software/Parte_5-Tarea_5.1.md)
+* [Cliente Migasfree](Parte_5-Gestion_del_Software/Parte_5-Cliente_migasfree.md)
+* [Migasfree: Gestión remota y desatendida del Software](Parte_5-Gestion_del_Software/Parte_5-Gestion_del_software_mediante_migasfree.md)
+* [Tarea 5.2: Gestión remota y desatendida mediante Migasfree](Parte_5-Gestion_del_Software/Parte_5-Tarea_5.2.md)
+
 
 <!--- Comentarios:
 
-
 ## Parte 3
-
 * [Ficheros de Configuración Importantes en Vitalinux](ficheros_de_configuracion_importantes_en_vitalinux.md)
 
 ## Parte 4
-
-* [Gestión del Software en Vitalinux](parte_4_gestion_del_software_en_vitalinux.md)
 * [Configuración de red](configuracion_de_red.md)
 * [Orígenes del Software y Actualizaciones](origenes_del_software_y_actualizaciones.md)
-* [El Gestor de Software Synaptic](el_gestor_de_software_synaptic.md)
 * [Centro de Software de Lubuntu](centro_de_software_de_lubuntu.md)
-* [Aplicaciones Windows sobre Vitalinux](aplicaciones_windows_sobre_vitalinux.md)
-* [Cliente Migasfree](cliente_migasfree.md)
-* [Gestión del Software a través de Migasfree](gestion_del_software_a_traves_de_migasfree.md)
 
 ## Parte 5
 
