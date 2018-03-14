@@ -1,0 +1,8 @@
+* [Acciones del Explorador de Archivos](../Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Acciones_del_explorador_de_archivos.md)
+    * [Tarea 6.1: Acciones del Explorador de Archivos](../Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.1.md)
+* [Herramientas Ofimáticas](../Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Aplicaciones_ofimaticas.md)
+    * [Tarea 6.2: Alternativa Ofimática a Microsoft Office](../Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.2.md)
+* [Aplicaciones Multimedia](../Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Aplicaciones_multimedia.md)
+  * [Tarea 6.3: Uso y documentación de una aplicación multimedia](../Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.3.md)
+    * [Tarea 6.3.1: Creación y Edición de Vídeo mediante PhotofilmStrip & OpenShot](../Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.3.1.md)
+    * [Tarea 6.3.2: Presentaciones Visuales tipo Prezi mediante Sozi](../Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.3.2.md)

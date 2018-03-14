@@ -20,7 +20,7 @@ En el año 2014 la **Diputación General de Aragón *(DGA)*** inicia en modo pil
 <li class='fragment'><em>Facilitar labores de <a>Gesti&oacute;n de Software</a> gracias a <a>Migasfree</a></em></li>
 </ol>
 
-Como resultado de esa iniciativa surge el sistema opertivo {{ book.vitalinux }}, basado por completo en código abierto, con el cual podremos familiarizarnos a través del siguiente curso (<a href="https://catedu.gitbooks.io/curso-vitalinux/content/">URL del eBook</a>)
+Como resultado de esa iniciativa surge el sistema operativo <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, basado por completo en <b>código abierto</b>, con el cual podremos familiarizarnos a través del siguiente curso (<a href="https://catedu.gitbooks.io/curso-vitalinux/content/">URL del eBook</a>)
 
 {% notificacion_important title='¡¡Qué grande que es Migasfree!!' %}
 Es muy importante señalar/recalcar que la clave del éxito del <b>Programa de Software Libre</b> es <b>Migasfree</b>, ya que sin este servicio de <b><em>gestión masiva de equipos de manera remota y desatendida</em> Vitalinux</b> no sería más que otro sistema operativo más. Debido a ello, y sin entrar en ningún tipo de profundización, más adelante veremos someramente todas las bondades de <b>Migasfree</b>.

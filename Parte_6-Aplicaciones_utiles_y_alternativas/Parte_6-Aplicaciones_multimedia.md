@@ -1,7 +1,5 @@
 # Aplicaciones Multimedia
 
-## Aplicaciones Multimedia
-
 Salvo excepciones, normalmente en Linux existen alternativas a todos los programas habituales que se suelen usar en otros sistemas. Algunas hacen más cosas, otras menos y otras las hacen de forma diferente, pero el tiempo de adaptación es mínimo.
 En este apartado nos centraremos en aplicaciones de tipo **Multimedia**. Algunos ejemplos:
 
@@ -14,4 +12,4 @@ En este apartado nos centraremos en aplicaciones de tipo **Multimedia**. Algunos
 -  Creadores de montajes con fotos: **PhotoFilmStrip**
 -  Creación de presentaciones Visuales: **Reveal.js** y **Sozi**
 
-A continuación, mediante **la realización de tareas y ejemplos sencillos** veremos pinceladas de algunos de ellos, permitiéndonos de esta forma familiarizarnos más con Vitalinux.
+A continuación, mediante **la realización de tareas y ejemplos sencillos** veremos pinceladas de algunos de ellos, permitiéndonos de esta forma familiarizarnos más con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>.

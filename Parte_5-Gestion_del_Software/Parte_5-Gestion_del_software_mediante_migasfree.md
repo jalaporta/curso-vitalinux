@@ -4,6 +4,4 @@ Como ya se ha dicho en múltiples ocasiones, la característica más importante 
 
 Como en ocasiones ***más vale un buen videotutorial que mil palabras*** a continuación se sugiere hacer una Tarea al respecto y visualizar un vídeo relacionado con este asunto (*es una parte del videotutorial completo: [Gestión del Software en Vitalinux](https://www.youtube.com/watch?v=8tBh8yz1FHY)*).
 
-<br><div style='text-align: center;'>
-<iframe width='560' height='315' src='https://www.youtube.com/embed/8tBh8yz1FHY' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>
-</div>
+{% youtube %}8tBh8yz1FHY{% endyoutube %}

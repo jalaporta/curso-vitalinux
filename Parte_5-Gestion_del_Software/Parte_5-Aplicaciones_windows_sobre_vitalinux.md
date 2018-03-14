@@ -27,10 +27,7 @@ Para saber más sobre Wine se recomienda dirigirse a los siguientes enlaces:
 
 Como en ocasiones **más vale un buen videotutorial que mil palabras** a continuación se sugieren ver los siguientes vídeos para familiarizarnos con [Wine](https://youtu.be/_e9FvVcEXIk) y con [PlayOnLinux](https://youtu.be/wULZ-xa3Om0):
 
-<br>
-<div style="text-align: center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_e9FvVcEXIk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+{% youtube %}_e9FvVcEXIk{% endyoutube %}
 
 {% notificacion_important title='¡¡Repositorio de programas de PlayOnlinux!!' %}
 <b>PlayOnLinux</b> se caracteriza porque ya dispone de un repositorio (<i>almacen de software en la nube</i>) de aplicaciones Windows totalmente probado y testeado.  Con ello evitamos el tener que acceder a sitios Web como <b>softonic</b> (<i>podríamos poner cualquier otro de ejemplo</i>) para buscar el programa de Windows que deseamos instalarnos, siendo esta una fuente de <b>virus</b> y <b>malware</b> al no saber exactamente que nos estamos descargando, y por tanto, que vamos a instalarnos.

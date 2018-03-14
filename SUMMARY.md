@@ -57,29 +57,31 @@
 * [Migasfree: Gestión remota y desatendida del Software](Parte_5-Gestion_del_Software/Parte_5-Gestion_del_software_mediante_migasfree.md)
 * [Tarea 5.2: Gestión remota y desatendida mediante Migasfree](Parte_5-Gestion_del_Software/Parte_5-Tarea_5.2.md)
 
+## Parte 6. Aplicaciones Útiles y Alternativas
+* [Presentación Contenidos Parte 6](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Presentacion_contenidos.md)
+* [Acciones del Explorador de Archivos](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Acciones_del_explorador_de_archivos.md)
+    * [Tarea 6.1: Acciones del Explorador de Archivos](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.1.md)
+* [Herramientas Ofimáticas](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Aplicaciones_ofimaticas.md)
+    * [Tarea 6.2: Alternativa Ofimática a Microsoft Office](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.2.md)
+* [Aplicaciones Multimedia](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Aplicaciones_multimedia.md)
+  * [Tarea 6.3: Uso y documentación de una aplicación multimedia](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.3.md)
+    * [Tarea 6.3.1: Creación y Edición de Vídeo mediante PhotofilmStrip & OpenShot](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.3.1.md)
+    * [Tarea 6.3.2: Presentaciones Visuales tipo Prezi mediante Sozi](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.3.2.md)
+  
+
+
 
 <!--- Comentarios:
 
-## Parte 3
+## Parte 4
 * [Ficheros de Configuración Importantes en Vitalinux](ficheros_de_configuracion_importantes_en_vitalinux.md)
 
-## Parte 4
+## Parte 5
 * [Configuración de red](configuracion_de_red.md)
 * [Orígenes del Software y Actualizaciones](origenes_del_software_y_actualizaciones.md)
 * [Centro de Software de Lubuntu](centro_de_software_de_lubuntu.md)
 
-## Parte 5
-
-* [Aplicaciones Útiles y Alternativas en Vitalinux](parte_5_aplicaciones_utiles_y_alternativas_en_vitalinux.md)
-* [Acciones del Explorador de Archivos](acciones_del_explorador_de_archivos.md)
-* [Aplicaciones Multimedia](aplicaciones_multimedia.md)
-  * [Tarea 5.2: Uso y documentación de una aplicación multimedia](tarea5-2-uso-documentacion-aplicacion-multimedia.md)
-  * [Tarea 5.2.1: Presentaciones Visuales tipo Prezi mediante Sozi](tarea-5-21-presentaciones-con-sozi.md)
-  * [Tarea 5.2.2: Creación y Edición de Vídeo mediante PhotofilmStrip & OpenShot](tarea-5-2-2-creacion-y-edicion-de-video-mediante-photofilmstrip-openshot.md)
-* [Herramientas Ofimáticas](herramientas_ofimaticas.md)
-  * [Tarea 5.3](tarea-5-3-ofimatica-y-compatibilidad.md)
-  * [Tarea 5.4](tarea-5-4-extensiones-libreoffice.md)
-
+## Parte 6
 
 
 * [ Preguntas Frecuentes - FAQs](_preguntas_frecuentes_-_faqs.md)
