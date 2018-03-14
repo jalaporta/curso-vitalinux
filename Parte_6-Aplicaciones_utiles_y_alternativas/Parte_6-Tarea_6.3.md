@@ -9,10 +9,10 @@ En la presente tarea se persigue que el alumno se familiarice sin entrar en gran
 
 <ol type="A">
 <li>
-Realizar la tarea explicada en <a href="Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.3.2.md">la tarea 6.3.2</a> sobre creación de presentaciones dinamicas. Aquí tratarás con imagénes vectoriales y presentaciones al estilo Prezi
+Realizar la tarea explicada en <a href="../Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.3.2.md">la tarea 6.3.2</a> sobre creación de presentaciones dinamicas. Aquí tratarás con imagénes vectoriales y presentaciones al estilo Prezi
 </li>
 <li>
-Realizar la tarea explicada en <a href="Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.3.1.md">la tarea 6.3.1</a> sobre la creación y edición de vídeos en Vitalinux. Aquí aprenderás a generar un video a partir de imágenes, con música y títulos (<i>si eliges esta opción y no dispones de un ordenador potente descarta la creación de títulos o créditos animados, ya que requiere de mucha capacidad de computo</i>)
+Realizar la tarea explicada en <a href="../Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.3.1.md">la tarea 6.3.1</a> sobre la creación y edición de vídeos en Vitalinux. Aquí aprenderás a generar un video a partir de imágenes, con música y títulos (<i>si eliges esta opción y no dispones de un ordenador potente descarta la creación de títulos o créditos animados, ya que requiere de mucha capacidad de computo</i>)
 </li>
 <li>
 Realizar un <b>videotutorial</b> usando cualquier otra aplicación multimedia que <b>consideres de interés</b>. Por ejemplo algo sobre audio, retoque de imágenes, circuitos integrados... lo que uses/emplees o te guste. Algo sencillo... primeros pasos. Para facilitar su visión se sugiere publicarlo en <b>youtube</b>.
