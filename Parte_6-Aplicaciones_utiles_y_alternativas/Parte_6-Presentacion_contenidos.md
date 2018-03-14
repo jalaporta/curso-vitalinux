@@ -1,6 +1,6 @@
 # Parte 6: Gestión del Software en Vitalinux
 
-{% notificacion_alert title='¿Cómo instalar o desinstalar software?', logotext='¡¡Ánimo!!' %}
+{% notificacion_alert title='¿Qué alternativas software hay en Vitalinux?', logotext='¡¡Ánimo!!' %}
 <b>¿¿Qué aplicaciones y alternativas existen en <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> en relación a las comúnmente usadas en otros Sistemas??</b> En esta parte del curso de introducción a <b>Vitalinux</b> nos familiarizaremos con algunas de las aplicaciones disponibles en  Vitalinux.  Tratar de abarcar todas las aplicaciones, o alguna de cada área, sería imposible por la duración del curso, por lo que se han seleccionado algunas de las más interesantes y útiles. También se instará al alumno a que busque por su cuenta alguna relacionada con su campo.  Además... recuerda que en <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> puedes localizar de manera <b>sencilla y segura</b> montones de aplicaciones gracias a sus repositorios.
 
 Con la finalidad de aclarar visualmente todo lo que se solicita en las tareas, se hará uso de videotutoriales.
