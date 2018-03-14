@@ -1,4 +1,4 @@
-{% notificacion_task title='Gestión de Software en Vitalinux',
+{% notificacion_task title='Acciones del Explorador de Archivos',
 numexer='6.1',
 req='Es necesario haber leído todo lo referente a <a href="./Parte_6-Acciones_del_explorador_de_archivos.md">las Acciones del Explorador de Archivos de Vitalinux</a>',
 formatoentrega='En un documento ofimático escribe y pega las fotos o capturas de pantalla necesarias para justificar todo lo que se te pide a continuación. Si es posible expórtalo a <b>formato PDF</b> para garantizar su portabilidad, y adjúntalo como respuesta a la tarea solicitada. Por tanto, envía al tutor un único archivo <b>.pdf</b> que se nombrará siguiendo las siguientes pautas: <b>apellido1_apellido2_nombre_TareaX.pdf</b>.
