@@ -67,7 +67,13 @@
   * [Tarea 6.3: Uso y documentación de una aplicación multimedia](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.3.md)
     * [Tarea 6.3.1: Creación y Edición de Vídeo mediante PhotofilmStrip & OpenShot](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.3.1.md)
     * [Tarea 6.3.2: Presentaciones Visuales tipo Prezi mediante Sozi](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.3.2.md)
-  
+* [Recursos para Centros Educativos](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Recursos_centros_educativos.md)
+    * [Servicio de Congelación del Equipo](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Recursos_centros_educativos.md#ServiciodeCongelacion)
+    * [Servicio de Carpetas Compartidas](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Recursos_centros_educativos.md#ServiciodeCarpetasCompartidas)
+    * [Servicio de Control de Equipos de Aula](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Recursos_centros_educativos.md#ServiciodeControldeEquiposdeAula)
+    * [Servicio de Navegación Privada o Modo Incognito](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Recursos_centros_educativos.md#ServiciodeNavegacionPrivada)
+    * [Otros Servicios](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Recursos_centros_educativos.md#QueMasServicios)
+    * [Tarea 6.4: Congelación y Navegación en modo Incognito](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.4.md)
 
 
 
