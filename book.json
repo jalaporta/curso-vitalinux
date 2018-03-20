@@ -6,7 +6,8 @@
         "notificaciones",
         "include",
         "coolimages",
-        "multipart"],
+        "multipart",
+        "build"],
     "pluginsConfig": {
         "image-captions": {
             "caption": "image _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_"
