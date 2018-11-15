@@ -8,10 +8,10 @@ Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiale
 
 <ol>
 <li>
-Disponer de un equipo personal o del centro con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> ya instalado.  En ese caso, para la realización de la tarea <b>tan sólo será necesario hacer una foto al equipo</b> con el sistema opertivo iniciado y regresar a la <b>post-instalación</b> (<i>teclea CONTROL+ESPACIO y escribe "Volver a la post-instalación"</i>).
+Disponer de un equipo personal o del centro con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> ya instalado.  En éste caso, para la realización de la tarea <b>tan sólo será necesario hacer una foto al equipo</b> con el sistema opertivo iniciado y regresar a la <b>post-instalación</b> (<i>teclea CONTROL+ESPACIO y escribe "Volver a la post-instalación"</i>).
 </li>
 <li>
-En defecto de lo anterior, instalar <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> sobre una máquina virtual de Virtualbox.  Esta opción es idónea ya que:
+En defecto de lo anterior, instalar <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> sobre una máquina virtual de Virtualbox.  Para la realización de la tarea <b>tan solo será necesario algunas capturas del proceso de instalación de Vitalinux...y sobre todo una en la que aparezca la máquina arrancada con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> funcionando</b>. Esta opción es idónea ya que:
 </li>
 
 <ul>
@@ -36,7 +36,7 @@ Para hacer uso de <b>Virtualbox</b> deberemos seguir los siguientes pasos:
 <br>
 
 <li>
-En defecto de las dos opciones anteriores, se sugiere <b>crear un DVD/USB Bootable</b> e instalar <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> en un equipo físico.  Para ello deberemos seguir los contenidos teóricos de esta parte del curso.
+En defecto de las dos opciones anteriores, se sugiere <b>crear un DVD/USB Bootable</b> e instalar <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> en un equipo físico. En éste caso, para la realización de la tarea al igual que para la opción 1, <b>tan sólo será necesario hacer una foto al equipo</b> con el sistema opertivo iniciado. Para ello deberemos seguir los contenidos teóricos de esta parte del curso.
 </li>
 <ul>
 <li>
@@ -49,18 +49,14 @@ Posteriormente configura el <b>Boot Loader</b> de tu equipo para que en lugar de
 Con la finalidad de que el sistema se cargue y responda rápido se recomienda hacer uso de una <b>memoria USB 3.0</b>.
 </li>
 </ul>
-
-
-
 </ol>
-
 <br>
-
 
 {% endnotificacion_task %}
 
+### Algunas notas por si te decides a instalar la máquina en un equipo o como máquina virtual (opciones 2 y 3)
 
-Independientemente de que la instalación se haga en un equipo físico o en una máquina virtual (<i>sin querer duar con Windows</i>), **una vez se inicie el proceso de instalación aparecerá un menú de opciones de instalación** entre las cuales deberemos escoger la opción correspondiente a **una Instalación Desatendida**, la cual nos instalará <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> sin ser necesario estar pendientes del proceso de instalación:
+Independientemente de que la instalación se haga en un equipo físico o en una máquina virtual (<i><b>y no vamos a mantener el sistema antiguo...por ejemplo Windows</b></i>), **una vez se inicie el proceso de instalación aparecerá un menú de opciones de instalación** entre las cuales deberemos escoger la opción correspondiente a **una Instalación Desatendida**, la cual nos instalará <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> sin ser necesario estar pendientes del proceso de instalación:
 
 ![Seleccionaremos la opción correspondiente a una Instalación Desatendida](../img/arranque-en-modo-live.png)
 

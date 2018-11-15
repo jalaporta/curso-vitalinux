@@ -21,7 +21,6 @@
     - [Utilidades de VirtualBox](Parte_2-Probando_Vitalinux/Parte_2-Utilidades_virtualbox.md)
 - [Crear un Live DVD Bootable de Vitalinux](Parte_2-Probando_Vitalinux/Parte_2-Crear_DVD_bootable.md)
 - [Crear un Live USB Bootable de Vitalinux](Parte_2-Probando_Vitalinux/Parte_2-Crear_USB_bootable.md)
-    - [¿Cómo crear un USB Bootable o Arrancable?](Parte_2-Probando_Vitalinux/Parte_2-Crear_USB_bootable.md#USBBootable)
 - [¿Cómo modificar el Boot Order para que arranque el equipo desde DVD o USB?](Parte_2-Probando_Vitalinux/Parte_2-Como_modificar_boot_order.md)
 - [Tarea 2.1: ¿Cómo probar Vitalinux mediante Virtualbox o mediante un equipo físico?](Parte_2-Probando_Vitalinux/Parte_2-Tarea_2.1.md)
 
