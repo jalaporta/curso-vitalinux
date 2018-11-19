@@ -6,7 +6,8 @@ formatoentrega='En un documento ofimático escribe y pega las fotos o capturas d
 Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna <b>Begoña Sánchez Mañas</b>, debería nombrar esta tarea como: <b>sanchez_manas_begona_Tarea3.2.pdf</b>' %}
 
 Como tarea te proponemos repasar algunas de las formas descritas para <b>lanzar aplicaciones</b>, y al mismo tiempo aprovechar para conocer que efecto tiene esto sobre <b>la CPU y la RAM</b> del sistema operativo <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> gracias a la información suministrada por el <b>Widget</b> ubicado en el Escritorio.  En concreto se sugiere realizar las siguientes acciones:
-
+<br>
+<span style='font-size: 75%;font-weight:bold;font-style:italic'; font-size: 120%;>Nota sobre las capturas a presentar: No es necesario que presentes las capturas de cómo lanzas las aplicaciones usando los diferentes métodos propuestos...de hecho en algún caso será incompatible que lances la aplicación y a la vez tomes la captura de la pantalla</span>
 <ol>
 <li>
 Inicia sesión gráfica en <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, espera a que finalice la comunicación con <b>Migasfree</b> (<i>el icono de Migasfree que hay en la parte derecha del panel inferior izquierdo se pondrá en color grisaceo</i>), y anota la cantidad de memoria RAM y CPU consumidas por el sistema operativo en reposo (<i>sin abrir o lanzar ninguna aplicación</i>) gracias a la información aportada por el Widget del Escritorio.
