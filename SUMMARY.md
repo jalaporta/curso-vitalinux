@@ -21,7 +21,7 @@
     - [Utilidades de VirtualBox](Parte_2-Probando_Vitalinux/Parte_2-Utilidades_virtualbox.md)
 - [Crear un Live DVD Bootable de Vitalinux](Parte_2-Probando_Vitalinux/Parte_2-Crear_DVD_bootable.md)
 - [Crear un Live USB Bootable de Vitalinux](Parte_2-Probando_Vitalinux/Parte_2-Crear_USB_bootable.md)
-- [¿Cómo modificar el Boot Order para que arranque el equipo desde DVD o USB?](Parte_2-Probando_Vitalinux/Parte_2-Como_modificar_boot_order.md)
+    - [¿Cómo modificar el Boot Order para que arranque el equipo desde DVD o USB?](Parte_2-Probando_Vitalinux/Parte_2-Como_modificar_boot_order.md)
 - [Tarea 2.1: ¿Cómo probar Vitalinux mediante Virtualbox o mediante un equipo físico?](Parte_2-Probando_Vitalinux/Parte_2-Tarea_2.1.md)
 
 
@@ -66,11 +66,11 @@
     * [Tarea 6.3.1: Creación y Edición de Vídeo mediante PhotofilmStrip & OpenShot](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.3.1.md)
     * [Tarea 6.3.2: Presentaciones Visuales tipo Prezi mediante Sozi](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.3.2.md)
 * [Recursos para Centros Educativos](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Recursos_centros_educativos.md)
-    * [Servicio de Congelación del Equipo](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Recursos_centros_educativos.md#ServiciodeCongelacion)
-    * [Servicio de Carpetas Compartidas](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Recursos_centros_educativos.md#ServiciodeCarpetasCompartidas)
-    * [Servicio de Control de Equipos de Aula](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Recursos_centros_educativos.md#ServiciodeControldeEquiposdeAula)
-    * [Servicio de Navegación Privada o Modo Incognito](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Recursos_centros_educativos.md#ServiciodeNavegacionPrivada)
-    * [Otros Servicios](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Recursos_centros_educativos.md#QueMasServicios)
+    * [Servicio de Congelación del Equipo](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Recursos_centros-ServiciodeCongelacion.md)
+    * [Servicio de Carpetas Compartidas](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Recursos_centros-ServiciodeCarpetasCompartidas.md)
+    * [Servicio de Control de Equipos de Aula](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Recursos_centros-ServiciodeControldeEquiposdeAula.md)
+    * [Servicio de Navegación Privada o Modo Incognito](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Recursos_centros-ServiciodeNavegacionPrivada.md)
+    * [Otros Servicios](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Recursos_centros-QueMasServicios.md)
     * [Tarea 6.4: Congelación y Navegación en modo Incognito](Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.4.md)
 
 
