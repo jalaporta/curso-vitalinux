@@ -22,7 +22,7 @@ Saber cómo <b>editar archivos PDFs</b>.
 </li>
 </ol>
 
-Comenzaremos comprobando la compatibilidad <b>en el caso de que dispongas y hagas uso de Microsoft Office</b> (¡¡<i>No hace falta que hagas todas las comprobaciones de compatibilidad propuestas, con que hagas una de las tres es suficiente</i>!!):
+Comenzaremos comprobando la <b>compatibilidad </b>en el caso de que dispongas y hagas uso de Microsoft Office. ¡¡<b><i>No hace falta que hagas todas las comprobaciones de compatibilidad propuestas, con que hagas una de las tres es suficiente</i></b>!!):
 
 <ul>
 <li>
@@ -39,7 +39,7 @@ Compatibilidad en <b>LibreOffice Writer</b> con documentos que han sido previame
     Comenta tu impresión respecto a la compatibilidad detectada, y en caso de detectar alguna incompatibilidad, por favor indícala
     </li>
     <li>
-    Realiza alguna modificación en el documento y guarda el documento con formato/extensión <b>"*.doc"<b>/</b>"*.docx"</b>.  Después ábrelo con <b>Microsoft Word</b> y comprueba la compatibilidad a la inversa
+    Realiza alguna modificación en el documento y guarda el documento con formato/extensión <b>"*.doc"<b>/</b>"*.docx"</b>.  Después si quieres puedes abrirlo con <b>Microsoft Word</b> y comprobar la compatibilidad a la inversa
     </li>
     </ol>
 
@@ -48,7 +48,7 @@ Compatibilidad en <b>LibreOffice Calc</b> con documentos que han sido previament
 </li>
     <ol>
     <li>
-    Localiza algún documento <b>"*.xls"</b> o <b>"*.xlsx"</b> que haya sido creado con <b>Microsoft Excel</b> y guárdalo en el directorio <b>Documentos</b> de tu perfil de Vitalinux (*en caso de que no dispongas de ningún documento puedes descargarte el siguiente: [Ejemplo de Hoja de Cálculo creada con Microsoft Excel](http://www.ejemplode.com/uploads/12098166700-hojacalculo.xls)*)
+    Localiza algún documento <b>"*.xls"</b> o <b>"*.xlsx"</b> que haya sido creado con <b>Microsoft Excel</b> y guárdalo en el directorio <b>Documentos</b> de tu perfil de Vitalinux (en caso de que no dispongas de ningún documento puedes descargarte el siguiente: <a href="http://www.ejemplode.com/uploads/12098166700-hojacalculo.xls"> Ejemplo de Hoja de Cálculo creada con Microsoft Excel</a>
     </li>
     <li>
     Abre <b>LibreOffice Calc</b> (<i><b>CONTROL + ESPACIO</b> y teclea <b>Calc</b></i>), y desde allí abre el documento anterior
@@ -57,7 +57,7 @@ Compatibilidad en <b>LibreOffice Calc</b> con documentos que han sido previament
     Comenta tu impresión respecto a la compatibilidad detectada, y en caso de detectar alguna incompatibilidad, por favor indícala
     </li>
     <li>
-    Realiza alguna modificación en el documento y guarda el documento con formato/extensión <b>"*.xls"**/**"*.xlsx"</b>.  Después ábrelo con <b>Microsoft Excel</b> y comprueba la compatibilidad a la inversa
+    Realiza alguna modificación en el documento y guarda el documento con formato/extensión <b>"*.xls"**/**"*.xlsx"</b>.  Después si quieres puedes abrirlo con <b>Microsoft Excel</b> y comprobar la compatibilidad a la inversa
     </li>
     </ol>
 
@@ -75,14 +75,15 @@ Compatibilidad en <b>LibreOffice Impress</b> con documentos que han sido previam
     Comenta tu impresión respecto a la compatibilidad detectada, y en caso de detectar alguna incompatibilidad, por favor indícala
     </li>
     <li>
-    Realiza alguna modificación en el documento y guarda el documento con formato/extensión <b>"*.ppt"<b>/</b>"*.pptx"</b>.  Después ábrelo con <b>Microsoft Power Point</b> y comprueba la compatibilidad a la inversa
+    Realiza alguna modificación en el documento y guarda el documento con formato/extensión <b>"*.ppt"<b>/</b>"*.pptx"</b>.  Después si quieres puedes abrirlo con <b>Microsoft Power Point</b> y comprobar la compatibilidad a la inversa
     </li>
     </ol>
 
 </ul>
-
+<!--
 <center><pre style="border: 1; border-color: brown; background-color: orange; text-align: center;white-space: pre-wrap; color: white; font-weight: bold; font-size: 110%;">¡¡¡Recuerda que "LibreOffice" es "Software Libre"  disponible tanto para Linux como para Windows!!!¡¡¡Anímate a instalar y usar "LibreOffice" si quieres evitar el uso de software ilegal/pirata tanto en tu casa como en tu centro educativo!!!</pre></center>
-
+-->
+<br>
 La característica más importante de <b>LibreOffice</b> es que es <b>Software Libre</b>.  Ésto permite su instalación, uso y distribución de manera libre y colaborativa. A consecuencia de todo ello surgen otras características interesantes como la posibilidad de instalar <a href="http://extensions.libreoffice.org/extension-center">Extensiones creadas por la comunidad de usuarios</a>. A modo de ejemplo, como tarea se propone instalar al menos una <b>Extensión de LibreOffice</b>:
 
 <ol>
@@ -105,10 +106,10 @@ Selecciona la opción <b>"Multi Save"</b> e indica que quieres guardar el result
 </div><br>
 
 <li>
-Por último, echa un vistazo a la lista de <b>Extensiones</b> disponibles para LibreOffice y comprueba si hay alguna que te puede resultar interesante.  En caso afirmativo instálala y comprueba su cometido.  Por ejemplo, si haces uso de ecuaciones matemáticas en tus clases la extensión de Libreoffice <b>"TexMaths"</b> es bestial, ya que te permite generar ecuaciones en formato Latex insuperables (<i>¡¡Ojo!! para usar TexMaths necesitarás instalar el programa texlive-latex-base, p.e. a través de synaptic</i>)
+Puedes ver una la lista de <b>Extensiones</b> disponibles para LibreOffice y comprobar si hay alguna que te puede resultar interesante.  En caso afirmativo instálala y comprueba su cometido.  Por ejemplo, si haces uso de ecuaciones matemáticas en tus clases la extensión de Libreoffice <b>"TexMaths"</b> es bestial, ya que te permite generar ecuaciones en formato Latex insuperables (<i>¡¡Ojo!! para usar TexMaths necesitarás instalar el programa texlive-latex-base, p.e. a través de synaptic</i>)
 </li>
 </ol>
-
+<br>
 Por último, se pretende mostrar una herramienta ofimática que puede resultar de utilidad: <b>"un Editor PDF"</b>.  Para ello sigue los siguientes pasos:
 
 <ol>
