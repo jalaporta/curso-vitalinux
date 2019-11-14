@@ -8,7 +8,7 @@
     * [Servicio de Control de Equipos de Aula](../Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Recursos_centros-ServiciodeControldeEquiposdeAula.md)
     * [Servicio de Navegación Privada o Modo Incognito](../Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Recursos_centros-ServiciodeNavegacionPrivada.md)
     * [Otros Servicios](../Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Recursos_centros-QueMasServicios.md)
-    * [Tarea 6.3: Congelación y Navegación en modo Incognito](../Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.4.md)
+    * [Tarea 6.3: Congelación y Navegación en modo Incognito](../Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.3.md)
 * [Aplicaciones Multimedia - Opcional](../Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Aplicaciones_multimedia.md)
   * [Tarea 6.4 (opcional): Uso y documentación de una aplicación multimedia](../Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.4.md)
     * [Tarea 6.4.1: Creación y Edición de Vídeo mediante PhotofilmStrip & OpenShot](../Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Tarea_6.4.1.md)
