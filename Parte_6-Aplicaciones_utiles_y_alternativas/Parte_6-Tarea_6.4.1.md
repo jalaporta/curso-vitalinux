@@ -1,9 +1,9 @@
 {% notificacion_task title='Creación y Edición de Vídeo mediante PhotofilmStrip & OpenShot',
-numexer='6.3.1',
+numexer='6.4.1',
 req='Es necesario haber leído todo lo referente a <a href="../Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Aplicaciones_multimedia.md">Aplicaciones Multimedia en Vitalinux</a>',
 formatoentrega='En un documento ofimático escribe y pega las fotos o capturas de pantalla necesarias para justificar todo lo que se te pide a lo largo de la tarea. Si es posible expórtalo a <b>formato PDF</b> para garantizar su portabilidad, y adjúntalo como respuesta a la tarea solicitada. Por tanto, envía al tutor un único archivo <b>.pdf</b> que se nombrará siguiendo las siguientes pautas: <b>apellido1_apellido2_nombre_TareaX.pdf</b>.
 <br>
-Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna <b>Begoña Sánchez Mañas</b>, debería nombrar esta tarea como: <b>sanchez_manas_begona_Tarea6.3.1.pdf</b>' %}
+Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna <b>Begoña Sánchez Mañas</b>, debería nombrar esta tarea como: <b>sanchez_manas_begona_Tarea6.4.1.pdf</b>' %}
 
 Esta tarea trata de mostrar dos alternativas a los clásicos programas usados en Windows para la creación y edición de Vídeos (<i>Windows Maker, Pinnacle, etc.</i>). Para poder familiarizarnos con este tipo de software se proponen las siguientes <b>acciones</b> (<i>en el vídeo que se adjunta, se explican y completan cada una de ellas en el mismo orden que se solicitan</i>):
 <br>

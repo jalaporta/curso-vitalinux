@@ -1,9 +1,9 @@
 {% notificacion_task title='Presentaciones Visuales tipo Prezi mediante Sozi',
-numexer='6.3.2',
+numexer='6.4.2',
 req='Es necesario haber leído todo lo referente a <a href="../Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Aplicaciones_multimedia.md">Aplicaciones Multimedia en Vitalinux</a>',
 formatoentrega='En un documento ofimático escribe y pega las fotos o capturas de pantalla necesarias para justificar todo lo que se te pide a lo largo de la tarea. Si es posible expórtalo a <b>formato PDF</b> para garantizar su portabilidad, y adjúntalo como respuesta a la tarea solicitada. Por tanto, envía al tutor un único archivo <b>.pdf</b> que se nombrará siguiendo las siguientes pautas: <b>apellido1_apellido2_nombre_TareaX.pdf</b>.
 <br>
-Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna <b>Begoña Sánchez Mañas</b>, debería nombrar esta tarea como: <b>sanchez_manas_begona_Tarea6.3.2.pdf</b>' %}
+Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna <b>Begoña Sánchez Mañas</b>, debería nombrar esta tarea como: <b>sanchez_manas_begona_Tarea6.4.2.pdf</b>' %}
 
 A través de la presente tarea se propone al participante a realizar una presentación <i>al estilo Prezi</i>, pero mediante el uso de <b>Software Libre</b>: <a href="http://migasfree.educa.aragon.es/tarea-multimedia">Ejemplo de Tarea a Realizar</a>.  Esto nos servirá para familiarizarnos con algunas de las aplicaciones multimedia disponibles en Linux: <b>Inkscape</b> (<i>maneja imágenes vectoriales</i>) y <b>Sozi</b> (<i>permite crear una presentación a partir de una imagen vectorial</i>).  Es importante destacar, que por problemas de los <b>drivers gráficos de VirtualBox</b> esta tarea no se puede realizar en entorno Virtual, por lo que se requiere de un equipo físico con Vitalinux instalado (<i>si tienes algún problema para disponer de un equipo físico para poder hacer la tarea, por favor, indícarmelo</i>).  Aunque esta todo detallado en este <a href="https://youtu.be/pUeT6Pm5iig">Videotutorial Explicativo</a>, a continuación se resumen los pasos para realizar la tarea de manera rápida y exitosa:
 
