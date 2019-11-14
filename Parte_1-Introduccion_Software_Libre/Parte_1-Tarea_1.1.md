@@ -1,21 +1,8 @@
-{% notificacion_task title='¿Código Abierto? ¿Qué puede hacer Migasfree por mí? ¿Integridad en las Descargas?',
+{% notificacion_task title='¿Código Abierto? ¿Qué puede hacer Migasfree por mí?
 numexer='1.1',
 req='Es necesario haber leído la <b>PARTE1 - Iniciándonos en Vitalinux</b>',
 formatoentrega='En un documento ofimático escribe y pega las capturas de pantalla necesarias para dar respuesta a todo lo que se te pide a continuación. Si es posible expórtalo a <b>formato PDF</b> para garantizar su portabilidad, y adjúntalo como respuesta a la tarea solicitada. Por tanto, envía al tutor un único archivo <b>.pdf</b> que se nombrará siguiendo las siguientes pautas: <b>apellido1_apellido2_nombre_TareaX.pdf</b>.
 <br>
-<hr />
->Este curso tiene muchas entregas de ficheros de capturas de pantalla. Procura entregar las tareas **en formato PDF** y no en ficheros de imágen de capturas de pantalla.
-
->**¿Por qué?** Porque con las entregas PDF EL TUTOR PUEDE HACER COMENTARIOS EN LA MISMA ENTREGA y ayudarte mejor en el caso de que haya problemas.
-
->**¿Cómo se hace?** Muy fácil:
-> 1. Haces la captura de pantalla con la tecla **ImprPant** del teclado (más adelante daremos herramientas que permiten hacer captura de sólo una región) te saldrá un diálogo para que puedas elegir **Copiar en portapapeles**.
-> 2. Abres el **LIBRE OFFICE WRITER** que tienes instalado en Vitalinux y pegas en el documento (**Edición - Pegar**)
-> 3. En este documento tú puedes hacer comentarios y las capturas necesarias para justificar tu tarea.
-> 4. En Archivo de Writer tienes la opción **Exportar a PDF**
-> 5. También puedes usar otras estrategias si no te sientes cómodo con ésta de momento, como puede ser **hacer una foto** con el móvil y copiar la imagen en un documento ofimático que puedas exportar en pdf.
-
->Es engorroso, lo sabemos, pero es la mejor manera de entregar la tarea de forma correcta y bien justificada.
 <hr />
 Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna <b>Begoña Sánchez Mañas</b>, debería nombrar esta tarea como: <b>sanchez_manas_begona_Tarea1.1.pdf</b>' %}
 
