@@ -1,4 +1,4 @@
-{% notificacion_task title='¿Código Abierto? ¿Qué puede hacer Migasfree por mí?
+{% notificacion_task title='¿Código Abierto? ¿Qué puede hacer Migasfree por mí?',
 numexer='1.1',
 req='Es necesario haber leído la <b>PARTE1 - Iniciándonos en Vitalinux</b>',
 formatoentrega='En un documento ofimático escribe y pega las capturas de pantalla necesarias para dar respuesta a todo lo que se te pide a continuación. Si es posible expórtalo a <b>formato PDF</b> para garantizar su portabilidad, y adjúntalo como respuesta a la tarea solicitada. Por tanto, envía al tutor un único archivo <b>.pdf</b> que se nombrará siguiendo las siguientes pautas: <b>apellido1_apellido2_nombre_TareaX.pdf</b>.
