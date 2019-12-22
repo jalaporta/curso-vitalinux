@@ -1,1 +1,34 @@
-{"plugins": ["youtube", "accordion", "image-captions", "panel", "notificaciones", "include", "coolimages", "multipart", "build", "edit-link", "githubcontributors"], "pluginsConfig": {"image-captions": {"caption": "image _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_"}, "edit-link": {"base": "https://github.com/catedu/curso-vitalinux/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "curso-vitalinux"}}, "variables": {"vitalinux": "<span style='color: darkblue; font-weight: 600'; font-size: 120%;>Vitalinux</span>"}}
+{
+  "plugins": [
+    "youtube",
+    "accordion",
+    "image-captions",
+    "panel",
+    "notificaciones",
+    "include",
+    "coolimages",
+    "build",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "pluginsConfig": {
+    "image-captions": {
+      "caption": "image _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_"
+    },
+    "edit-link": {
+      "base": "https://github.com/catedu/curso-vitalinux/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "curso-vitalinux"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  },
+  "variables": {
+    "vitalinux": "<span style='color: darkblue; font-weight: 600'; font-size: 120%;>Vitalinux</span>"
+  }
+}
