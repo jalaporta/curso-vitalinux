@@ -24,7 +24,7 @@ En la presente tarea se van a mostrar algunos de los servicios que pueden config
     Para comprobar el efecto de la congelación probaremos a modificar el <b>fondo de Escritorio</b> y a crear algún documento nuevo en el <b>Escritorio</b>.
     </li>
     <li>
-    Si tenemos en cuenta que <b>la congelación o eliminación de todos los cambios producidos se produce al cerrar sesión o apagar el equipo</b>, será necesario o bien cerrar sesión (<b>CONTROL+ESPACIO</b> y teclear <b>Cerrar Sesión</b>) o bien reiniciar el equipo (<b>CONTROL+ESPACIO</b> y teclear <b>Reiniciar Equipo</b>). Hazlo y comprueba su correcto funcionamiento.
+    Si tenemos en cuenta que <b>la congelación o eliminación de todos los cambios producidos se produce al arrancar el equipo</b>, será necesario reiniciar el equipo (<b>CONTROL+ESPACIO</b> y teclear <b>Reiniciar Equipo</b>). Hazlo y comprueba su correcto funcionamiento.
     </li>
     <li>
     Comprueba que si los cambios los haces en otro lugar diferente al Escritorio éstos persisten.
@@ -33,7 +33,7 @@ En la presente tarea se van a mostrar algunos de los servicios que pueden config
     La congelación se basa en la comparación con un directorio patrón, de tal forma que se elimina todo lo que difiere respecto al directorio patrón.  Por ello, para entender como añadir elementos al Escritorio congelado modificaremos dicho patrón.  Para conseguirlo deberemos abrir el <b>Explorador de Archivos</b> (<i>Tecla Windows + E</i>), y <b>Abrir como Root</b> el directorio <b>/etc/skel/Escritorio</b>.  Una vez dentro de ese directorio crea algún directorio y comprueba que al cerrar sesión o reiniciar el equipo el <b>Escritorio Congelado</b> impondrá el cambio realizado.
     </li>
     <li>
-    Por último, comprueba que si <b>desmarcas</b> la etiqueta <b>"SRV-CONGELARESCRITORIO"</b> el Escritorio volverá a la normalidad y dejará de estar congelado
+    Por último, comprueba que si <b>desmarcas</b> la etiqueta <b>"SRV-CONGELARESCRITORIO"</b> el Escritorio volverá a la normalidad y dejará de estar congelado, manteniéndose los cambios que realices desde éste momento.
     </li>
     </ol>
 
@@ -48,7 +48,7 @@ En la presente tarea se van a mostrar algunos de los servicios que pueden config
     Para comprobar el efecto de la congelación probaremos a modificar el <b>fondo de Escritorio</b>, a crear algún documento nuevo en el <b>Escritorio</b>, a crear algún documento nuevo en <b>Documentos</b> y <b>Descargas</b>, etc.
     </li>
     <li>
-    Si tenemos en cuenta que <b>la congelación o eliminación de todos los cambios producidos se produce al cerrar sesión o apagar el equipo</b>, será necesario o bien cerrar sesión (<b>CONTROL+ESPACIO</b> y teclear <b>Cerrar Sesión</b>) o bien reiniciar el equipo (<b>CONTROL+ESPACIO</b> y teclear <b>Reiniciar Equipo</b>). Hazlo y comprueba su correcto funcionamiento.
+    Si tenemos en cuenta que <b>la congelación o eliminación de todos los cambios producidos se produce aarrancar el equipo</b>, será necesario reiniciar el equipo (<b>CONTROL+ESPACIO</b> y teclear <b>Reiniciar Equipo</b>). Hazlo y comprueba su correcto funcionamiento.
     </li>
     <li>
     Comprueba que la congelación sólo actúa en los principales directorios del usuario: <b>Escritorio, Descargas, Documentos, Imágenes, Música, Plantillas, Público y Vídeos</b>.  Es decir, crea un directorio dentro de la raíz de tu perfil llamado <b>Curso</b> (<i>p.e. /home/profesor/Curso, /home/alumno/Curso, /home/aularagon/Curso, /home/administrador/Curso, etc.</i>).  Copia dentro de ese directorio algún archivo (<i>imágenes, documentos ofimáticos, etc.</i>) y comprueba que ese directorio y su contenido prevalece ante la congelación.

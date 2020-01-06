@@ -3,7 +3,7 @@ numexer='4.1',
 req='Es necesario haber leído todo lo referente a Organización del Sistema de Archivos en Vitalinux, propietarios y permisos',
 formatoentrega='En un documento ofimático escribe y pega las fotos o capturas de pantalla necesarias para justificar todo lo que se te pide a continuación. Si es posible expórtalo a <b>formato PDF</b> para garantizar su portabilidad, y adjúntalo como respuesta a la tarea solicitada. Por tanto, envía al tutor un único archivo <b>.pdf</b> que se nombrará siguiendo las siguientes pautas: <b>apellido1_apellido2_nombre_TareaX.pdf</b>.
 <br>
-Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna <b>Begoña Sánchez Mañas</b>, debería nombrar esta tarea como: <b>sanchez_manas_begona_Tarea4.2.pdf</b>' %}
+Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna <b>Begoña Sánchez Mañas</b>, debería nombrar esta tarea como: <b>sanchez_manas_begona_Tarea4.1.pdf</b>' %}
 
 Con la finalidad de familiarizarnos con la <b>Organización del Sistema de Archivos en Vitalinux</b>, los <b>propietarios y permisos</b>, a continuación se propone lo siguiente:
 <br><br>

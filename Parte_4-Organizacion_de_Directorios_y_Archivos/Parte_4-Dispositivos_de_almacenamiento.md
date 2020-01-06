@@ -58,8 +58,6 @@ Herramienta de Discos
 1.  En la zona 3 tendremos (al igual que con la ruleta de arriba) una serie de acciones a realizar.
 Nos centramos en éste punto, ya que aquí es donde podremos desmontar el disco para cambiar el nombre. Para ello:
 
-    Nos centramos en éste punto, ya que aquí es donde podremos desmontar el disco para cambiar el nombre. Para ello:
-
     *  Seleccionamos el pincho y lo desmontamos. Fijaros que en la zona 2 puedo ver que mi pincho se llama FF4GR.
 
     {% coolimages_type2 url_image="../img/Nombrediscos1.png" %}
