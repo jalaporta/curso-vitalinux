@@ -27,15 +27,22 @@ El **Menú de Inicio Clásico**  es el típico menú desplegable de Windows que 
 Una vez desplegado podrás comprobar que todos los lanzadores están clasificados por temática: **Internet, Oficina, Gráficos, Sonido y Video, etc.**
 
 
-## Mediante el **lanzador de Aplicaciones Synapse** {#DesdeLanzadorAplicacionesSynapse}
+## Mediante el **lanzador de Aplicaciones Synapse/Albert** {#DesdeLanzadorAplicacionesSynapse}
 
-Sin lugar a dudas, el uso del **Lanzador de Aplicaciones Synapse** es **la forma más aconsejable, rápida y eficiente** de lanzar aplicaciones. Para lanzar cualquier aplicación del sistema tan sólo tendrás que pulsar la combinación de teclas **CONTROL+ESPACIO** y a continuación escribir un texto relacionado con la aplicación que deseas lanzar: por ejemplo, **firefox, chrome, matar proceso, etc...**.  Además si tecleamos una **palabra clave** que esta en varias aplicaciones, pulsando la **flecha que apunta hacia abajo** se desplegarán todas las aplicaciones o documentos que la contengan.  Por ejemplo, si escribimos **Libreoffice** y pulsamos la **flecha hacia abajo** veremos todas las aplicaciones de la suite ofimática Libreoffice, alternativa a las Microsoft Office. Puedes probar si lo deseas a lanzar alguna aplicación para comprobar su eficiencia.
+Sin lugar a dudas, el uso del **Lanzador de Aplicaciones Synapse (en VX 1.0) o Albert (en VX2.0)** es **la forma más aconsejable, rápida y eficiente** de lanzar aplicaciones. Para lanzar cualquier aplicación del sistema tan sólo tendrás que pulsar la combinación de teclas **CONTROL+ESPACIO** y a continuación escribir un texto relacionado con la aplicación que deseas lanzar: por ejemplo, **firefox, chrome, matar proceso, etc...**.  Además si tecleamos una **palabra clave** que esta en varias aplicaciones, pulsando la **flecha que apunta hacia abajo** se desplegarán todas las aplicaciones o documentos que la contengan.  Por ejemplo, si escribimos **Libreoffice** y pulsamos la **flecha hacia abajo** veremos todas las aplicaciones de la suite ofimática Libreoffice, alternativa a las Microsoft Office. Puedes probar si lo deseas a lanzar alguna aplicación para comprobar su eficiencia.
+
+Albert además nos permite más funcionalidades:
+
+* Buscar en nombres de archivos y directorios
+* Buscar en diferentes navegadores
+* Se pueden realizar operaciones como si fuera una calculadora
+* Lanzar comandos como si estuviéramos en una terminal, escribiendo antes el símbolo >
 
 ![Lanzador rápido y eficiente de Aplicaciones Synapse](../img/Lanzar-aplicaciones-synapse.png)
 
-## Lanzar Aplicaciones desde el **Dock de Aplicaciones Plank** {#DesdeDockAplicacionesPlank}
+## Lanzar Aplicaciones desde el **Dock de Aplicaciones Plank** (solo para VX 1.0) {#DesdeDockAplicacionesPlank}
 
-En Vitalinux se puede habilitar un **Dock** o **barra de aplicaciones más comunes** a través de la cual se pueden lanzar aplicaciones preconfiguradas o añadir nuevas.  Para usarlo será necesario habilitar el **Dock** de la siguiente forma: teclear **CONTROL+ESPACIO** y teclear **habilitar o deshabilitar dock plank**, a continuación te pedirá la contraseña de administración (**careidga** es la password *por defecto, para los usuarios dga y profesor*), y desde allí ya podrás habilitarlo.
+En Vitalinux 1.0 (para 2.0 no está disponible ya) se puede habilitar un **Dock** o **barra de aplicaciones más comunes** a través de la cual se pueden lanzar aplicaciones preconfiguradas o añadir nuevas.  Para usarlo será necesario habilitar el **Dock** de la siguiente forma: teclear **CONTROL+ESPACIO** y teclear **habilitar o deshabilitar dock plank**, a continuación te pedirá la contraseña de administración (**careidga** es la password *por defecto, para los usuarios dga y profesor*), y desde allí ya podrás habilitarlo.
 
 ![Es necesario habilitar el Dock Plank para trabajar con él](../img/Lanzador-aplicaciones-habilitar-dock-plank.png)
 
@@ -44,9 +51,9 @@ En Vitalinux se puede habilitar un **Dock** o **barra de aplicaciones más comun
 Si quieres probar su funcionamiento habilita el Dock Plank, cierra sesión (_**CONTROL+ESPACIO** y teclear **cerrar sesión**_), e inicia sesión de nuevo y comprobarás que éste, una vez habilitado, se despliega de manera automática al acercar el ratón en la parte superior central del **Escritorio**.  Comprueba su correcto funcionamiento pinchando sobre alguno de sus lanzadores de aplicaciones.  El aspecto y comportamiento de este **Dock** puede personalizarse pinchando con el botón derecho del ratón sobre el **icono ancla** que hay en este **Dock**.  Además puedes añadir o anclar aplicaciones nuevas arrastrándolas desde el menú de inicio al **Dock**, o una vez estas estén abiertas.
 
 
-## Lanzar Aplicaciones desde el **Dock Circular de Aplicaciones Gnome Pie** {#DesdeDockCircularAplicacionesGnomePie}
+## Lanzar Aplicaciones desde el **Dock Circular de Aplicaciones Gnome Pie** (solo para VX 1.0){#DesdeDockCircularAplicacionesGnomePie}
 
-Al igual que el **Dock Plank** anterior, para trabajar con él es necesario habilitarlo: teclear **CONTROL+ESPACIO** y teclear **habilitar o deshabilitar gnome pie**, a continuación te pedirá la contraseña de administración (**careidga** es la password *por defecto, para los usuarios dga y profesor*), y desde allí ya podrás habilitarlo.
+En Vitalinux 1.0 (para 2.0 no está disponible ya), y al igual que el **Dock Plank** anterior, para trabajar con él es necesario habilitarlo: teclear **CONTROL+ESPACIO** y teclear **habilitar o deshabilitar gnome pie**, a continuación te pedirá la contraseña de administración (**careidga** es la password *por defecto, para los usuarios dga y profesor*), y desde allí ya podrás habilitarlo.
 
 ![Dock Circular Gnome Pie. Es necesario habilitarlo para trabajar con él](../img/Lanzador-aplicaciones-gnome-pie.png)
 
