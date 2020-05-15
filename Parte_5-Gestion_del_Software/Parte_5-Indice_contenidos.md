@@ -1,0 +1,6 @@
+* [Synaptic: El Gestor de Software](../Parte_5-Gestion_del_Software/Parte_5-Gestor_de_software_synaptic.md)
+* [Aplicaciones Windows sobre Vitalinux](../Parte_5-Gestion_del_Software/Parte_5-Aplicaciones_windows_sobre_vitalinux.md)
+* [Tarea 5.1: Gestión de Software mediante Synaptic, WinE y PlayOnLinux](../Parte_5-Gestion_del_Software/Parte_5-Tarea_5.1.md)
+* [Cliente Migasfree](../Parte_5-Gestion_del_Software/Parte_5-Cliente_migasfree.md)
+* [Migasfree: Gestión remota y desatendida del Software](../Parte_5-Gestion_del_Software/Parte_5-Gestion_del_software_mediante_migasfree.md)
+* [Tarea 5.2: Gestión remota y desatendida mediante Migasfree](../Parte_5-Gestion_del_Software/Parte_5-Tarea_5.2.md)

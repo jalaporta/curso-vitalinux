@@ -1,0 +1,48 @@
+.container-coolimage {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    text-align: center;
+}
+
+.imagetext_type1 {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    bottom: 0px;
+    font-size: 14px;
+    background-color: orange;
+    padding: 5px 10px 5px 10px;
+    border-radius: 3px;
+    opacity: 0.6;
+    text-align: center;
+}
+
+.imagetext_type2 {
+    position: relative;
+    font-size: 12px;
+    background-color: orange;
+    padding: 5px 10px 5px 10px;
+    border-radius: 3px;
+    opacity: 0.6;
+    text-align: center;
+    margin-top: 5px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.coolimage {
+    /* width: 100%; */
+    height: auto;
+    opacity: 1;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.coolimgage:hover {
+    box-shadow: 0 0 2px 1px rgba(255, 140, 186, 0.5);
+}
