@@ -1,6 +1,6 @@
 # ¿Donde Descargar Vitalinux?
 
-A continuación veremos donde encontrar la versión más actualizada de <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> lista para su descarga en <b>formato ISO</b>.
+Al tratarse de un Sistema Operativo, la forma más habitual para distribuir/descargar Vitalinux el mismo es usando el <b>formato ISO</b>. A continuación veremos donde encontrar la versión más actualizada para su descarga.
 
 {% notificacion_didyouknow title='¿Qué es una Archivo o Imagen ISO?' %}
 La extensión <b>*.iso</b> en un archivo nos advierte de que ese archivo es el resultado de comprimir y empaquetar un conjunto de archivos y directorios.  A modo de ejemplo existen muchos programas que nos permiten crear un archivo o imagen ISO a partir de un CD de música o DVD de vídeo, obteniendo como resultado un único archivo resultante <b>*.iso</b>, el cual contiene todos los archivos existentes en el CD o DVD, posibilitando posteriormente su copia o restauración.
@@ -20,21 +20,23 @@ Desde él <a href="http://wiki.vitalinux.educa.aragon.es/index.php/P%C3%A1gina_p
 
 <ol>
 <li>
-<b>Imágenes ISO de Vitalinux</b>.  Tras descargar estas imágenes ISOS podrás crear un <b>DVD o USB arrancable</b> que te permitirá probar Vitalinux en modo Live o directamente instalar el sistema en un equipo informático.
+<b>Imágenes ISO de Vitalinux 2.0 </b>.  Se trata de la última versión y siempre será la preferente. Tras descargar estas imágenes ISOS podrás crear un <b>DVD o USB arrancable</b> que te permitirá probar Vitalinux en modo Live o directamente instalar el sistema en un equipo informático.
 </li>
 <li>
-<b>Imágenes DRBL/Clonezilla en formato ZIP</b>.  Tras descargar y descomprimir el archivo ZIP correspondiente obtendrás una imagen Clonezilla que podrás utilizar para <b>restaurar el sistema Vitalinux EDU DGA en un equipo o en varios</b> mediante el uso de la herramienta de clonación en Red <b>DRBL Live</b> (<i>Clonezilla Server</i>)
+<b>Imágenes ISO de Vitalinux 1.0 </b>.  Se trata de la versión antigua. Por defecto no se recomienda y solo será necesaria en casos muy concretos: problemas con ciertos periféricos o hardware muy antiguos y específicos, la versión 2.0 funciona en equipos del siglo pasado.
 </li>
-<li> 
-<b>Imágenes ISO de Clonezilla Live</b>.  Tras su descarga podrás crear un <b>DVD o USB arrancable</b> que te permitirá <b>restaurar la imagen de Clonezilla de Vitalinux</b> en un equipo informático.
+<li>
+<b>¿64 o 32 bits?</b>. Deberás seleccionar la arquitectura de tu ordenador. Por norma general, y si no lo sabes, será de <b>64 bits</b>. Si tu ordenador no lo soporta, el propio instalador te lo dirá
 </li>
 </ol>
 
-Es muy importante el recalcar que cualquiera de los archivos anteriores (<i>*.iso o *.zip</i>) son de <b>un gran tamaño</b> (<i>>2GB</i>) al aglutinar en un único archivo al sistema operativo <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> con todas sus aplicaciones ya preinstaladas (<i>herramientas ofimáticas, programas multimedia, utilidades, etc.</i>).
+¿Es necesario descargar ésta ISO?. Si no contamos con un ordenador con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> ya instalado (por ejemplo: nos ha facilitado uno desde el centro educativo), necesitaremos la ISO para instalarla o bien en una máquina virtual o en una máquina física como veremos en la Parte 2.
 
-Por ello, cuando nos descargamos un fichero de Internet, y en éste caso un fichero tan grande, es importante <b>verificar que el fichero se ha descargado correctamente</b> (<i>verificar su integridad</i>). Ocurre más a menudo de lo que nos gustaría, que la descarga no se realiza de forma correcta y luego perdemos mucho tiempo hasta que nos damos cuenta de que el error está en una descarga errónea o fallida.
 {% endnotificacion_important %}
 
+Cualquiera de los archivos anteriores son de <b>un gran tamaño</b> (<i>>2GB</i>) al aglutinar en un único archivo al sistema operativo <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> con todas sus aplicaciones ya preinstaladas (<i>herramientas ofimáticas, programas multimedia, utilidades, etc.</i>).
+
+Por ello, cuando nos descargamos un fichero de Internet, y en éste caso un fichero tan grande, es importante <b>verificar que el fichero se ha descargado correctamente</b> (<i>verificar su integridad</i>). Ocurre más a menudo de lo que nos gustaría, que la descarga no se realiza de forma correcta y luego perdemos mucho tiempo hasta que nos damos cuenta de que el error está en una descarga errónea o fallida.
 
 ## Comprobar la Integridad de un fichero descargado {#comprobarIntegrar}
 
@@ -68,4 +70,4 @@ md5sum -c fichero_md5_descargado.md5
     1.  Abre con un <b>Bloc de Notas</b> el fichero con extensión MD5 que descargaste que contiene el **resumen MD5** del archivo original (<i>p.e. *.iso.md5</i>).<br>
     ![](img/Md5_1.png)
     1.  Comprueba que el resumen generado por el programa a partir del archivo, y el resumen proporcionado por el archivo MD5 son iguales.  Si la firma coincide podemos concluir que está todo correcto, que el archivo descargado está integro.
-    ![Comprueba el resumen](img/Md5_1.png)
+    <img src="../img/Md5_1.png" width="600">

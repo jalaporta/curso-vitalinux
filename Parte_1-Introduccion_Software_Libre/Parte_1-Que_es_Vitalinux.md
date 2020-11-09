@@ -1,7 +1,7 @@
 {% notificacion_important title='¿Qué es Vitalinux?' %}
-<span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> es un sistema operativo similar a <i>Microsoft Windows</i> o <i>Android</i> que nos va a permitir trabajar con nuestro equipo informático (<i>pc sobremesa, portatil, tablet o dispositivo móvil</i>) con aplicaciones iguales o similares a las que normalmente utilizamos (<i>Mozilla Firefox, Google Chrome, LibreOffice, etc.</i>), pero con la gran diferencia de que el <b>software es libre</b>, de <b>código abierto</b>.  En concreto, <span style='color: darkblue; font-weight: 600'; font-size: 120%;>Vitalinux</span>, al igual que *Android*, no es un sistema operativo que nace desde cero, sino que esta basado y tiene sus raíces en otro sistema operativo llamado <b>GNU/Linux</b>.  Más concretamente, <span style='color: darkblue; font-weight: 600'; font-size: 120%;>Vitalinux</span> esta basado en la <b>versión ligera del sistema operativo GNU/Linux Ubuntu</b>, del cuál podríamos destacar entre otras muchas carácterísticas estas tres:
+<span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> es un sistema operativo similar a <i>Microsoft Windows</i> o <i>Android</i> que nos va a permitir trabajar con nuestro equipo informático (<i>pc sobremesa, portatil, tablet o dispositivo móvil</i>) con aplicaciones iguales o similares a las que normalmente utilizamos (<i>Mozilla Firefox, Google Chrome, LibreOffice, etc.</i>), pero con la gran diferencia de que el <b>software es libre</b>, de <b>código abierto</b>.  En concreto, <span style='color: darkblue; font-weight: 600'; font-size: 120%;>Vitalinux</span>, al igual que <b>Android</b>, no es un sistema operativo que nace desde cero, sino que esta basado y tiene sus raíces en otro sistema operativo llamado <b>GNU/Linux</b>.  Más concretamente, <span style='color: darkblue; font-weight: 600'; font-size: 120%;>Vitalinux</span> esta basado en la <b>versión ligera del sistema operativo GNU/Linux Ubuntu</b>, del cuál podríamos destacar entre otras muchas carácterísticas estas tres:
 <ul>
-<li> <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> es un sistema operativo libre</li>
+<li> Es un sistema operativo libre</li>
 <li> Al basarse en la versión ligera de Ubuntu llamada <b>Lubuntu</b> se garantiza que el <b>tiempo de respuesta</b> del equipo sea <b>el menor posible</b></li>
 <li> <b>Incorpora un cliente Migasfree</b> </li>
 A continuación se detallan cada una de estas tres características.
@@ -39,13 +39,19 @@ Entonces ... ¿De qué viven aquellos cuyo trabajo gira en torno a la filosofía
 -  Donativos.  Otros restaurantes y clientes, interesados en el tipo de cocina que crean los cocineros del restaurante de **código abierto**, estarían dispuestos a realizar donaciones económicas para que se siguiera **creando y liberando** nuevos platos de cocina, de los cuales se aprovecharían ellos más tarde.
 Si se han entendido las diferentes fuentes de financiación que podrían darse en el caso de una **cocina abierta**, estas podrían extrapolarse a cualquier otro entorno de producción de **código abierto**, entre los cuales podrían distinguirse los relativos al **software libre** (*sistemas operativos y aplicaciones libres*), y al **hardware libre** (*fabricantes de aparatos electrónicos donde se facilitan los planos y componentes para que cualquiera pueda fabricarse uno propio*).
 
+Para terminar, es importante recordar que todo software libre debe garantizar las siguientes 4 libertades [https://www.gnu.org/philosophy/free-sw.es.html]:
+
+1. La libertad de **ejecutar el programa como se desee**, con cualquier propósito (libertad 0).
+2. La libertad de **estudiar cómo funciona el programa**, y cambiarlo para que haga lo que usted quiera (libertad 1). El acceso al código fuente es una condición necesaria para ello.
+3. La libertad de **redistribuir copias** para ayudar a otros (libertad 2).
+4. La libertad de **distribuir copias de sus versiones modificadas** a terceros (libertad 3). Esto le permite ofrecer a toda la comunidad la oportunidad de beneficiarse de las modificaciones. El acceso al código fuente es una condición necesaria para ello.
 
 ### 2ª Característica) Vitalinux esta basado en un Sistema Operativo muy Ligero {#VitalinuxLigero}
 
 **(2)** Al basarse en la versión ligera de Ubuntu llamada **Lubuntu** se garantiza que el **tiempo de respuesta** del equipo sea **el menor posible**. Es decir, permite que equipos antiguos con pocos recursos hardware puedan ser funcionales, ya que el sistema base (*sin arrancar ninguna aplicación de Escritorio*) tan sólo requiere unos 200MB de memoria RAM. De esta forma, si lo miramos desde el punto de vista opuesto, si tenemos un equipo actual (*varios Gigas de memoria RAM, un procesador de última generación, etc.*) el uso de un sistema operativo de estas características hará que el equipo “vuele”.
 
 
-No obstante, esto no puede llevarnos a engaños ni confusiones … hay que aclarar que aunque el sistema operativo base sea muy liviano, si las aplicaciones que usamos no son acordes con él y son pesadas, el equipo si no soporta dicha carga irá lento. Un claro ejemplo podría ser el navegador Web Google Chrome, que en este tipo de sistemas ligeros suele consumir muchos más recursos de RAM y procesador que el propio sistema operativo bajo el cual esta funcionando dicha aplicación.
+No obstante, esto no puede llevarnos a engaños ni confusiones … hay que aclarar que aunque el sistema operativo base sea muy liviano, **si las aplicaciones que usamos son pesadas, un equipo con bajas prestaciones podrá tener penalización**. Un claro ejemplo podría ser el navegador Web Google Chrome, que en este tipo de sistemas ligeros suele consumir muchos más recursos de RAM y procesador que el propio sistema operativo bajo el cual esta funcionando dicha aplicación.
 
 
 ### 3ª Característica) Vitalinux Incorpora un Cliente Migasfree {#VitalinuxMigasfree}
