@@ -8,5 +8,5 @@ En el caso de que hayas optado por usar un equipo que ya tenía instalado <span 
 
 Tras el primer arranque de <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, resultado de una nueva instalación o de una vuelta a la <b>Post-Instalación</b>, nos aparecerán las ventanas correspondientes a un **asistente de Post-Instalación** a las cuales deberemos contestar adecuadamente para una correcta configuración de <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>.  Aclarar que algunas de estas cuestiones dependerán del lugar donde se le vaya a dar uso a Vitalinux: **Centro Educativo** o **casa**, siendo todos ellas configurables igualmente a posteriori.
 
-![Informaremos desde donde se usará Vitalinux: Centro Educativo o Casa](../img/Post-instalacion-1.2.png)
-
+<!-- ![Informaremos desde donde se usará Vitalinux: Centro Educativo o Casa](../img/Post-instalacion-1.2.png) -->
+![Informaremos desde donde se usará Vitalinux: Centro Educativo o Casa](../img/vitalinux-2-postinstalacion-dialogo1.png)
