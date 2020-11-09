@@ -20,7 +20,7 @@ Tal como se puede apreciar a través de las siguientes capturas de pantalla, en 
 * **¿Qué etiquetas Migasfree queremos asignar al equipo?** La correcta asignación de **etiquetas Migasfree** al equipo es fundamental ya que en función de sus etiquetas Migasfree se decidirá que software tendrá ese equipo. Es decir, al menos todo equipo Vitalinux ubicado en un centro educativo debería tener una etiqueta Migasfree correspondiente al nombre de su centro, de tal forma que ese etiquetado le obligue al equipo a instalarse un determinado conjunto de aplicaciones que ha sido especificado por los responsables informáticos de ese centro. Más adelante veremos más en detalle la importancia de un correcto etiquetado y comprenderemos más en detalle las funciones del <b>Cliente de Migasfree</b>.
 
 <!-- ![¿Qué etiquetas quieres asignar a este equipo Vitalinux?](../img/Post-instalacion-6.2.png) -->
-![¿Qué etiquetas quieres asignar a este equipo Vitalinux?](../img/vitalinux-2-postinstalacion-dialogo3.png)
+![¿Qué etiquetas quieres asignar a este equipo Vitalinux?](../img/vitalinux-2-postinstalacion-dialogo3-etiquetado_entorno_centro.png)
 
 <!-- * **¿Aceptas el uso de formatos restrictivos no libres necesarios en la reproducción de archivos MP3, DVDs, Windows Media, etc?** Por cuestiones de legalidad es necesario aceptar explícitamente el uso de estos formatos en el caso de querer trabajar con ellos.
 
