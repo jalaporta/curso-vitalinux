@@ -29,7 +29,7 @@ Una vez desplegado podrás comprobar que todos los lanzadores están clasificado
 
 ## Mediante el **lanzador de Aplicaciones Synapse/Albert** {#DesdeLanzadorAplicacionesSynapse}
 
-Sin lugar a dudas, el uso del **Lanzador de Aplicaciones Synapse (en VX 1.0) o Albert (en VX2.0)** es **la forma más aconsejable, rápida y eficiente** de lanzar aplicaciones. Para lanzar cualquier aplicación del sistema tan sólo tendrás que pulsar la combinación de teclas **CONTROL+ESPACIO** y a continuación escribir un texto relacionado con la aplicación que deseas lanzar: por ejemplo, **firefox, chrome, matar proceso, etc...**.  Además si tecleamos una **palabra clave** que esta en varias aplicaciones, pulsando la **flecha que apunta hacia abajo** se desplegarán todas las aplicaciones o documentos que la contengan.  Por ejemplo, si escribimos **Libreoffice** y pulsamos la **flecha hacia abajo** veremos todas las aplicaciones de la suite ofimática Libreoffice, alternativa a las Microsoft Office. Puedes probar si lo deseas a lanzar alguna aplicación para comprobar su eficiencia.
+Sin lugar a dudas, el uso del **Lanzador de Aplicaciones Albert (en VX2.0) o Synapse (en VX 1.0)** es **la forma más aconsejable, rápida y eficiente** de lanzar aplicaciones. Para lanzar cualquier aplicación del sistema tan sólo tendrás que pulsar la combinación de teclas **CONTROL+ESPACIO** y a continuación escribir un texto relacionado con la aplicación que deseas lanzar: por ejemplo, **firefox, chrome, matar proceso, etc...**.  Además si tecleamos una **palabra clave** que esta en varias aplicaciones, pulsando la **flecha que apunta hacia abajo** se desplegarán todas las aplicaciones o documentos que la contengan.  Por ejemplo, si escribimos **Libreoffice** y pulsamos la **flecha hacia abajo** veremos todas las aplicaciones de la suite ofimática Libreoffice, alternativa a las Microsoft Office. Puedes probar si lo deseas a lanzar alguna aplicación para comprobar su eficiencia.
 
 Albert además nos permite más funcionalidades:
 
@@ -38,8 +38,8 @@ Albert además nos permite más funcionalidades:
 * Se pueden realizar operaciones como si fuera una calculadora
 * Lanzar comandos como si estuviéramos en una terminal, escribiendo antes el símbolo >
 
-![Lanzador rápido y eficiente de Aplicaciones Synapse](../img/Lanzar-aplicaciones-synapse.png)
-
+![Lanzador rápido y eficiente de Aplicaciones Albert](../img/Lanzar-aplicaciones-albert.png)
+<!-->
 ## Lanzar Aplicaciones desde el **Dock de Aplicaciones Plank** (solo para VX 1.0) {#DesdeDockAplicacionesPlank}
 
 En Vitalinux 1.0 (para 2.0 no está disponible ya) se puede habilitar un **Dock** o **barra de aplicaciones más comunes** a través de la cual se pueden lanzar aplicaciones preconfiguradas o añadir nuevas.  Para usarlo será necesario habilitar el **Dock** de la siguiente forma: teclear **CONTROL+ESPACIO** y teclear **habilitar o deshabilitar dock plank**, a continuación te pedirá la contraseña de administración (**careidga** es la password *por defecto, para los usuarios dga y profesor*), y desde allí ya podrás habilitarlo.
@@ -59,7 +59,7 @@ En Vitalinux 1.0 (para 2.0 no está disponible ya), y al igual que el **Dock Pla
 
 Para hacer uso de él es necesario teclear la combinación de teclas **Tecla Windows + G**.  Si lo deseas puedes comprobar su funcionamiento.
 
-
+-->
 ## Mediante la configuración de **Atajos de teclado** {#MedianteAtajosDeTeclado}
 
 Sin lugar a dudas, el uso de combinación de teclas para el acceso a recursos y aplicaciones es la forma más rápida y eficiente de interactuar con un sistema operativo.  En **Vitalinux** es posible modificar los atajos existentes e introducir nuevos.
@@ -81,9 +81,9 @@ Podemos repasar algunos de los **Atajos** que ya están predefinidos e incluso p
 1.  Combinación **Tecla Función + f11** y **Función + f12**: Subir/Bajar el volumen
 1.  Combinación **CONTROL + ALT + SUPRIMIR**: Cierra la sesión del usuario
 
-### Definir nuevos Atajos de Teclado {#DefinirAtajosTeclado}
+#### Opcional: Definir nuevos Atajos de Teclado {#DefinirAtajosTeclado}
 
-A modo de ejemplo, a continuación se va a definir un nuevo atajo, de forma que cuando se pulsen la tecla Windows y la letra w (<i>sin soltar la tecla windows</i>) se inicie el Libreoffice Writer. Para definir éste nuevo atajo de teclado, tenemos en Vitalinux una aplicación instalada llamada <b>Obkey</b>. 
+Si quieres profundizar, a continuación se va a exponer cómo definir un nuevo atajo, de forma que cuando se pulsen la tecla Windows y la letra w por ejemplo (<i>sin soltar la tecla windows</i>) se inicie el Libreoffice Writer. Para definir éste nuevo atajo de teclado, tenemos en Vitalinux una aplicación instalada llamada <b>Obkey</b>. 
 
 <ol>
 <li> Para lanzar la aplicación, nada más facil que teclear <b>CONTROL+ESPACIO</b> y escribir <b>atajos</b> y cuando veamos la aplicación <b>Configurar atajos con Obkey</b> pulsar Intro</li>

@@ -17,11 +17,11 @@ Este curso tiene muchas entregas de ficheros de capturas de pantalla. Procura en
 Es engorroso, lo sabemos, pero es la mejor manera de entregar la tarea de forma correcta y bien justificada.
 <hr />
 Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna <b>Begoña Sánchez Mañas</b>, debería nombrar esta tarea como: <b>sanchez_manas_begona_Tarea2.1.pdf</b>' %}
-<b>La pretensión de este curso NO es aprender a saber instalar un sistema operativo</b>, pero disponer de un equipo con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> instalado es requisito indispensable para poder continuar con los contenidos del curso.  Esta tarea tan sólo pretende que el participante del curso justifique de alguna forma de que dispone de un equipo, físico o virtual, con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> instalado para poder continuar con el curso.  Por tanto, tal como ya se ha explicado en el apartado referente a <em>¿Cómo Probar Vitalinux?</em>, tenemos las siguientes opciones:
+<b>Recuerda: La pretensión de este curso NO es aprender a saber instalar un sistema operativo</b>, pero disponer de un equipo con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> instalado es requisito indispensable para poder continuar con los contenidos del curso.  Esta tarea tan sólo pretende que el participante del curso justifique de alguna forma de que dispone de un equipo, físico o virtual, con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> instalado para poder continuar con el curso.  Por tanto, tal como ya se ha explicado en el apartado referente a <em>¿Cómo Probar Vitalinux?</em>, tenemos las siguientes opciones:
 
 <ol>
 <li>
-Disponer de un equipo personal o del centro con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> ya instalado.  En éste caso, para la realización de la tarea <b>tan sólo será necesario hacer una foto al equipo</b> con el sistema opertivo iniciado y regresar a la <b>post-instalación</b> (<i>teclea CONTROL+ESPACIO y escribe "Volver a la post-instalación"</i>).
+Disponer de un equipo personal o del centro con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> ya instalado.  En éste caso, para la realización de la tarea <b>tan sólo será necesario hacer una foto al equipo</b> con el sistema opertivo iniciado...sencillo, no?
 </li>
 <li>
 En defecto de lo anterior, instalar <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> sobre una máquina virtual de Virtualbox.  Para la realización de la tarea <b>tan solo será necesario algunas capturas del proceso de instalación de Vitalinux...y sobre todo una en la que aparezca la máquina arrancada con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> funcionando</b>. Esta opción es idónea ya que:
@@ -86,8 +86,3 @@ Si has elegido la opción de instalación <b>Desatendida</b>, debes advertir que
 Para terminar con la tarea, en el caso de que hayas seleccionado el uso de una <b>Máquina Virtual de VirtualBox</b>, **siguiendo los pasos que se describen anteriormente en la teoría**, instalaremos las **Guest Additions** en la máquina virtual donde acabamos de instalar Vitalinux.  Para ello, una vez terminada la instalación de **Vitalinux** en la **Máquina Virtual de Virtualbox**, la iniciaremos y **cancelaremos el proceso de Post-Instalación** (*lo trataremos en el siguiente punto*) para pasar con la instalación de estas **Guest Additions** (*en el caso de que se te solicite alguna clave o password de usuarios administradores: usuarios "profesor" y "dga" tienen la clave "careidga"*).  Con la finalidad de tratar que sea más comprensible el **proceso de instalación de las Guest Additions en la máquina Virtual Virtualbox** se ha creado el siguiente videotutorial (*advertir que este videotutorial se realizó con otra ordenación de contenidos del curso diferente al actual, por lo que hace las referencias a una supuesta parte 4 que había entonces habría que omitirlas*):
 
 {% youtube %}https://youtu.be/2QMHD891ksQ{% endyoutube %}
-
-
-
-
-

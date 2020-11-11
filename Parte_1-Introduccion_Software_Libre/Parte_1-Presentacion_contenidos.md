@@ -12,8 +12,3 @@ Es recomendable, si no  lo has hecho ya, que le eches un ojo al siguiente <a hre
 {% panel %}
 Para seguir el curso y complementar la tarea que se propone en esta primera parte deberás pinchar sobre los enlaces del menú de navegación del eBook que se localizan a la izquierda.  Como es obvio, se recomienda seguir el orden de los contenidos propuesto y no seguir un orden aleatorio.  Al terminar esta primera parte se propone la **primera tarea** a realizar.
 {% endpanel %}
-
-Los contenidos de esta parte son los siguientes:
-
-!INCLUDE "./Parte_1-Indice_contenidos.md"
-

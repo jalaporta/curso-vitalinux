@@ -1,5 +1,8 @@
 {% notificacion_alert title='¡¡Necesitas conexión a Internet!!', logotext='¡¡Ojo!!' %}
-Para poder realizar exitosamente la tarea necesitaras que <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> tenga conexión con Internet. Para su comprobación puedes abrir un navegador Web: teclea la combinación <b>CONTROL+ESPACIO</b> y escribe <b>Firefox</b> ó <b>Chrome</b> y confirma con la tecla <b>Intro</b>. Comprueba que puedes navegar a cualquier página web.
+Para poder realizar exitosamente la tarea necesitaras que <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> tenga conexión con Internet. 
+{% endnotificacion_alert %}
+
+Para su comprobación puedes abrir un navegador Web: teclea la combinación <b>CONTROL+ESPACIO</b> y escribe <b>Firefox</b> ó <b>Chrome</b> y confirma con la tecla <b>Intro</b>. Comprueba que puedes navegar a cualquier página web.
 
 Si no tienes conexión a Internet y el equipo se conecta por cable, revisa que estés correctamente conectado y que la red de tu casa tenga <b>servidor DHCP</b> (<i>que será lo normal en un entorno doméstico</i>).
 
@@ -9,8 +12,6 @@ En el caso de que la conexión sea inalámbrica deberás configurar previamente 
 <img src="../img/Area-de-notificaciones_migafree_red.png">
 <tt>Desde el Área de notificaciones podremos configurar nuestra red inalámbrica</tt>
 </div>
-{% endnotificacion_alert %}
-
 
 {% notificacion_task title='Post-Instalación y Personalización de Vitalinux',
 numexer='3.1',

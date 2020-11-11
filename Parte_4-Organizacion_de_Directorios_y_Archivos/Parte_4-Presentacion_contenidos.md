@@ -11,7 +11,3 @@ logotext='¡¡Adelante!!' %}
 Para seguir el curso y complementar la tarea propuesta en esta parte del curso deberás pinchar sobre los enlaces del menú de navegación del eBook que se localizan a la izquierda. Se recomienda seguir el orden de los contenidos propuesto y no seguir un orden aleatorio.  A lo largo de esta <b>parte</b> se proponen dos **tareas** a realizar, esperando que te puedan resultar útiles.
 {% endpanel %}
 
-Los contenidos de esta parte son los siguientes:
-
-!INCLUDE "./Parte_4-Indice_contenidos.md"
-

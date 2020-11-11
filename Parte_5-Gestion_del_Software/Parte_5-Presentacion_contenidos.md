@@ -11,10 +11,3 @@ Puedes visualizar el siguiente vídeotutorial que contiene toda la información 
 {% panel %}
 Para seguir el curso y complementar la tarea propuesta en esta parte del curso deberás pinchar sobre los enlaces del menú de navegación del eBook que se localizan a la izquierda.  Se recomienda seguir el orden de los contenidos propuesto y no seguir un orden aleatorio.  Al terminar esta <b>parte</b> se propone la <b>tarea</b> a realizar, esperando que te pueda resultar útil.
 {% endpanel %}
-
-Los contenidos de esta parte son los siguientes:
-
-!INCLUDE "./Parte_5-Indice_contenidos.md"
-
-
-

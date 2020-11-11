@@ -18,15 +18,16 @@ Una vez hayamos descargado la imagen ISO de Vitalinux, antes de hacer uso de ell
 {% notificacion_important title='Área de Descargas de Vitalinux' %}
 Desde él <a href="http://wiki.vitalinux.educa.aragon.es/index.php/P%C3%A1gina_principal/Materiales_e_im%C3%A1genes">Área de Descargas</a> podrás descargar el sistema Vitalinux EDU DGA en sus diferentes formatos, siendo estos:
 
+
 <ol>
 <li>
-<b>Imágenes ISO de Vitalinux 2.0 </b>.  Se trata de la última versión y siempre será la preferente. Tras descargar estas imágenes ISOS podrás crear un <b>DVD o USB arrancable</b> que te permitirá probar Vitalinux en modo Live o directamente instalar el sistema en un equipo informático.
-</li>
-<li>
-<b>Imágenes ISO de Vitalinux 1.0 </b>.  Se trata de la versión antigua. Por defecto no se recomienda y solo será necesaria en casos muy concretos: problemas con ciertos periféricos o hardware muy antiguos y específicos, la versión 2.0 funciona en equipos del siglo pasado.
+<b>Imágenes ISO de Vitalinux 2.0 </b>.  Se trata de la última versión y siempre <b>será la preferente</b>. Tras descargar estas imágenes ISOS podrás crear un <b>DVD o USB arrancable</b> que te permitirá probar Vitalinux en modo Live o directamente instalar el sistema en un equipo informático.
 </li>
 <li>
 <b>¿64 o 32 bits?</b>. Deberás seleccionar la arquitectura de tu ordenador. Por norma general, y si no lo sabes, será de <b>64 bits</b>. Si tu ordenador no lo soporta, el propio instalador te lo dirá
+</li>
+<li>
+<b>Imágenes ISO de Vitalinux 1.0 </b>.  Se trata de la versión antigua. Por defecto no se recomienda y solo será necesaria en casos muy concretos: problemas con ciertos periféricos o hardware muy antiguos y específicos, la versión 2.0 funciona en equipos del siglo pasado.
 </li>
 </ol>
 
