@@ -2,7 +2,7 @@
 
 {% notificacion_alert title='¡¡Seguimos con Vitalinux!!',
 logotext='¡¡Adelante!!' %}
-<b>¡¡Avancemos un poco más con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>!!</b> En esta parte del curso de introducción a <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> se pretende que el usuario se familiarice con el <b>Sistema de Archivos de Linux</b> y la forma que tiene de organizar sus <b>Directorios y Archivos</b>.
+<b>¡Avancemos un poco más con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>!</b> En esta parte del curso de introducción a <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> se pretende que el usuario se familiarice con el <b>Sistema de Archivos de Linux</b> y la forma que tiene de organizar sus <b>Directorios y Archivos</b>.
  
 {% endnotificacion_alert %}
 

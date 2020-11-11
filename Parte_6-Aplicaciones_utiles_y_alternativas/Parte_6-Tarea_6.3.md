@@ -9,7 +9,7 @@ En la presente tarea se van a mostrar algunos de los servicios que pueden config
 <br><br>
 
 <center><pre style="border: 1; border-color: brown; background-color: orange; text-align: center;white-space: pre-wrap; color: white; font-weight: bold; font-size: 110%;">
-¡¡ATENCIÓN!! Como resultado de la congelación, se pueden borrar documentos y directorios que no estén definidos en un <b>patrón de congelación</b> del Escritorio o del HOME del usuario (<i>según hagamos congelación de escritorio o congelación total</i>). NO hay que pensar que si tengo el sistema con unos directorios/archivos y procedo a congelar, se va a congelar con dichos directorios. Por tanto, <b>antes de proceder a la congelación asegurate de guardar la información personal que tengas en el equipo Vitalinux en una memoria USB o similar</b>.
+¡ATENCIÓN! Como resultado de la congelación, se pueden borrar documentos y directorios que no estén definidos en un <b>patrón de congelación</b> del Escritorio o del HOME del usuario (<i>según hagamos congelación de escritorio o congelación total</i>). NO hay que pensar que si tengo el sistema con unos directorios/archivos y procedo a congelar, se va a congelar con dichos directorios. Por tanto, <b>antes de proceder a la congelación asegurate de guardar la información personal que tengas en el equipo Vitalinux en una memoria USB o similar</b>.
 </pre></center>
 
 <ul>
@@ -61,7 +61,7 @@ En la presente tarea se van a mostrar algunos de los servicios que pueden config
     </li>
     </ol>
     
-<center><pre style="border: 1; border-color: brown; background-color: orange; text-align: center;white-space: pre-wrap; color: white; font-weight: bold; font-size: 110%;">¡¡¡Recuerda que la "Congelación al estilo Vitalinux" sólo afecta a los datos del usuario, nunca a los programas o aplicaciones que haya instaladas!!!¡¡¡Podemos instalar/desinstalar/actualizar los programas y aplicaciones en Vitalinux independientemente de que esté congelado el equipo!!!</pre></center>
+<center><pre style="border: 1; border-color: brown; background-color: orange; text-align: center;white-space: pre-wrap; color: white; font-weight: bold; font-size: 110%;">¡Recuerda que la "Congelación al estilo Vitalinux" sólo afecta a los datos del usuario, nunca a los programas o aplicaciones que haya instaladas! - Podemos instalar/desinstalar/actualizar los programas y aplicaciones en Vitalinux independientemente de que esté congelado el equipo</pre></center>
 
 <li>    
 <b>Navegación Web en Modo Incógnito o Privado</b>: Etiqueta migasfree <b>"SRV-NAVEGADORINCOGNITO"</b>

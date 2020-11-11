@@ -244,6 +244,6 @@ Mientras el equipo tenga deshabilitado el cliente, NO se recibirán actualizacio
 ***Recuerda pues habilitarlo de nuevo para tener éstas funcionalidades*** simplemente ejecutando de nuevo el programa.
 
 
-{% notificacion_important title='¡¡Migasfree nos facilita la reconstrucción del equipo!!' %}
+{% notificacion_important title='¡Migasfree nos facilita la reconstrucción del equipo!' %}
 Además de facilitarnos <b>Migasfree</b> la configuración de todo lo anterior, también nos facilitará en un futuro el que tengamos que formatear el equipo.  Es decir, <b>Migasfree</b> registra a los equipos quedandose con el identificador de su placa base, un identificador que es único para todo equipo (<i>sería como el DNI de los equipos, a nivel mundial</li>), lo que hace que cuando un equipo se tenga que formatear e instalar <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, éste será recordado por Migasfree y le asignará de manera automática la etiqueta Migasfree que ya tenía y toda su configuración asociada. De esta forma, <b>¡¡¡reconstruir un equipo ante un desastre es cuestión de minutos!!!</b>
 {% endnotificacion_important %}

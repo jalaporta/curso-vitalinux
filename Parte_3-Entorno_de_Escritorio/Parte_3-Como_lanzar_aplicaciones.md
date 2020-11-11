@@ -1,7 +1,7 @@
 # ¿Cómo lanzar Aplicaciones?
 
 {% notificacion_didyouknow title='¿Como lanzar aplicaciones en Vitalinux?' %}
-En <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> existen diferentes formas de abrir o lanzar aplicaciones.  Podrían destacarse las siguientes: desde el <b>Menú Clásico de Inicio</b>, mediante el <b>Lanzador de Aplicaciones Synapse</b>, haciendo uso de los <b>Dock Plank o Gnome Pie</b> o mediante el uso de <b>Atajos de Teclado</b>.  ¡¡Todas ellas se describen a continuación!!
+En <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> existen diferentes formas de abrir o lanzar aplicaciones.  Podrían destacarse las siguientes: desde el <b>Menú Clásico de Inicio</b>, mediante el <b>Lanzador de Aplicaciones Synapse</b>, haciendo uso de los <b>Dock Plank o Gnome Pie</b> o mediante el uso de <b>Atajos de Teclado</b>.  ¡Todas ellas se describen a continuación!
 {% endnotificacion_didyouknow %}
 
 ## Contenido
