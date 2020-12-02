@@ -5,12 +5,12 @@ formatoentrega='En un documento ofimático escribe y pega las fotos o capturas d
 <br>
 Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna <b>Begoña Sánchez Mañas</b>, debería nombrar esta tarea como: <b>sanchez_manas_begona_Tarea5.1.pdf</b>' %}
 
-En la presente tarea repasaremos como <b>instalar y desinstalar aplicaciones</b> nativas de Linux y Windows mediante <b>Synaptic</b>, <b>Wine</b> y <b>PlayOnLinux</b>.  Para ello seguiremos los siguientes pasos:
+En la presente tarea repasaremos como <b>instalar y desinstalar aplicaciones</b> nativas de Linux y Windows (si fuera necesario...pero hay que considerar alternativas libres siempre!) mediante <b>Synaptic</b> y/o <b>Wine</b>.  Para ello seguiremos los siguientes pasos:
 <br><br>
 <ol>
 
 <li>
-<b>Synaptic</b> es una fabulosa aplicación que permite gestionar el software (<i>instalar y desinstalar aplicaciones</i>).  A modo de ejemplo, en la presente tarea se propone instalar una de las mejores aplicaciones que existen para la reproducción de música, <b>Amarok</b>.  Para ello:
+<b>Synaptic</b> es una fabulosa aplicación que permite gestionar el software (<i>instalar y desinstalar aplicaciones</i>). Recuerda que para poder instalar software, como éste se descarga de los repositorios oficiales, es necesario tener conexión a Internet.  A modo de ejemplo, en la presente tarea se propone instalar una de las mejores aplicaciones que existen para la reproducción de música, <b>Amarok</b>.  Para ello:
 </li>
 
 <ul>
@@ -52,13 +52,13 @@ Tal como se ha explicado en la parte teórica <b>WinE</b> surge con la finalidad
 </li>
 <ol type="A">
 <li>
-Localiza algún instalador de alguna aplicación Windows (*.exe) con la que estés muy familiarizado, de la que no encuentras una alternativa libre en Vitalinux, y que por tanto, que te gustaría contar con ella en Vitalinux. En caso de no disponer de ninguna te proponemos a modo de ejemplo <a href="http://www.wartoft.nu/download/sebran.exe">la aplicación EXE Sebran</a>.
+Localiza algún instalador de alguna aplicación Windows (*.exe) con la que estés muy familiarizado, de la que no encuentras una alternativa libre en Vitalinux, y que por tanto, que te gustaría contar con ella en Vitalinux. En caso de no disponer de ninguna te proponemos a modo de ejemplo <a href="http://www.wartoft.nu/download/sebran.exe">la aplicación EXE Sebran</a> que es muy sencillita y sirve de ejemplo.
 </li>
 <li>
-Pincha con el botón derecho del ratón sobre el archivo instalador anterior e indica que quieres abrirlo con <b>WinE</b> (<i>Cargador de programas de Windows</i>). Comprobarás que a continuación se configurará Wine y comenzará su instalación. Instala la aplicación como si estuvieras en Windows
+Pincha con el botón derecho del ratón sobre el archivo instalador anterior e indica que quieres abrirlo con <b>WinE</b> (<i>Cargador de programas de Windows</i>) o lo puedes lanzar también con doble-click. Comprobarás que a continuación se configurará Wine (acepta si te pide instalar complementos o librerías adicionales) y comenzará su instalación. Instala la aplicación como si estuvieras en Windows
 </li>
 <li>
-Abre la aplicación como cualquier otra. Por ejemplo, <b>CONTROL+ESPACIO</b> y teclear <b>Sebran</b>. Comprueba el correcto funcionamiento de la aplicación Windows sobre Vitalinux
+Abre la aplicación como cualquier otra. Por ejemplo, <b>CONTROL+ESPACIO</b> y teclear <b>Sebran</b>. (Es posibles que los iconos no se hayan actualizado o no aparezcan en el momento...paciencia) Comprueba el correcto funcionamiento de la aplicación Windows sobre Vitalinux
 </li>
 <li>
 Como cualquier otra aplicación de Vitalinux, para cerrarla puedes teclear: <b>ALT+F4</b>
@@ -75,7 +75,7 @@ Abre el <b>Explorador de Archivos</b> (Tecla Windows+E), y asegurandote que est�
 Entre los <b>directorios ocultos</b> verás uno que se llama </b>.wine</b>. En este directorio se encuentra toda la configuración y recreación de un sistema Windows y todos sus programas instalados a través de wine. Entra en él y comprueba que aparece la estructura de un disco "<b>C:/</b>" al estilo Windows. Si se eliminara este directorio oculto </b>.wine</b>, estaríamos eliminando todo el sistema de archivos Windows recreado en Linux como las aplicaciones Windows instaladas.
 </li>
 <li>
-Comprueba que tecleando "<b>CONTROL+ESPACIO</b>" y escribiendo "<b>Desinstala software de Wine</b>" nos aparecerá una ventana o interfaz que nos permitirá desinstalar el software instalado a través de wine.  Desinsta el programa que hayas previamente instalado y comprueba su correcto funcionamiento.
+Comprueba que puedes desinstalar la aplicación usando el propio desinstalador de la aplicación. Para ello, teclea "<b>CONTROL+ESPACIO</b>" y escribiendo "<b>Desinstalar Sebran</b>" (si habéis instalado Sebran) y nos aparecerá una ventana o interfaz que nos permitirá desinstalar el software instalado.
 </li>
 <li>
 Como en ocasiones <i>más vale un buen videotutorial que mil palabras</i> a continuación se sugiere ver el siguiente vídeo relacionado con este asunto:
@@ -86,12 +86,10 @@ Como en ocasiones <i>más vale un buen videotutorial que mil palabras</i> a cont
 
 </li>
 </ol>
+</ol>
 
 <br><br>
-<li>
 Llegado este punto habrás advertido que <b>WinE</b> nos permite la instalación de aplicaciones Windows en Linux, pero presenta algunos inconvenientes entre los cuales cabría destacar los siguientes:
-</li>
-<ol type="I">
 <li>
 A priori, <b>Wine no nos garantiza un 100% de probabilidad de que una aplicación Windows se instale de manera exitosa sobre Linux</b>. En ocasiones la aplicación Windows que queremos instalar depende de algún parche de Windows (<i>Service Pack</i>) o librería que no esta disponible en nuestro Wine provocando una instalación fallida.
 </li>
@@ -101,7 +99,7 @@ A priori, <b>Wine no nos garantiza un 100% de probabilidad de que una aplicació
 <li>
 Al igual que en Windows, y a diferencia de Linux, para instalar una aplicación sobre Wine previamente tenemos que buscarla por Internet, fiarnos de ella, y descargarla. En ocasiones, el software de Windows que nos descargamos esta <b>infectado</b> o realiza acciones que desconocemos poniendo en <b>jaque</b> a nuestro sistema.
 </li>
-
+<!-- 
 <li>
 Con la finalidad de evitar lo anterior surge en Linux el software <b>PlayOnLinux</b>. Éste se caracteriza por:
 </li>
@@ -160,6 +158,6 @@ Como en ocasiones <b>más vale un buen videotutorial que mil palabras</b> a cont
 
 </li>
 
-</ol>
+</ol> -->
 </ol>
 {% endnotificacion_task %}
