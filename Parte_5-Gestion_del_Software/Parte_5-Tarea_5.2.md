@@ -47,7 +47,7 @@ Asegurate de que tu equipo Vitalinux ha terminado la comunicación con <span sty
     Que se instalen nuevas aplicaciónes para las prácticas posteriores, y una por ejemplo llamada <b>Calibre</b> pensada para el tratamiento de e-books
     </li>
     <li>
-    Que se haya instalado una extensión en google-chrome llamada screencastify, que te puede permitir hacer videotutoriales
+    Que se haya instalado una extensión en o chromium-browser o google-chrome (por defecto se instala chromium-versión libre de Google Chrome) llamada screencastify, que te puede permitir hacer videotutoriales. Depués de un primer arranque del navegador, puede tardar en aparecer la extensión (mientras se instala por primera vez).
     </li>
     </ul>
 <li>
