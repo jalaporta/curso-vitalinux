@@ -22,7 +22,7 @@ Saber cómo <b>editar archivos PDFs</b>.
 </li>
 </ol>
 
-Comenzaremos comprobando la <b>compatibilidad </b>en el caso de que dispongas y hagas uso de Microsoft Office. ¡¡<b><i>No hace falta que hagas todas las comprobaciones de compatibilidad propuestas, con que hagas una de las tres es suficiente</i></b>!!):
+Comenzaremos comprobando la <b>compatibilidad </b>en el caso de que dispongas y hagas uso de Microsoft Office. ¡¡<b><i>No hace falta que hagas todas las comprobaciones de compatibilidad propuestas, con que hagas una de las tres (Documentos, Hoja de Cálculo o Presentaciones) es suficiente</i></b>!!):
 
 <ul>
 <li>
@@ -88,7 +88,7 @@ La característica más importante de <b>LibreOffice</b> es que es <b>Software L
 
 <ol>
 <li>
-Abre un navegador Web y accede a la Web de <b>Extensiones Oficiales de LibreOffice</b>: <a rel="nofollow" class="external text" href="http://extensions.libreoffice.org/extension-center"><b>Centro de descargas de Extensiones de LibreOffice</b></a>
+Abre un navegador Web y accede a la Web de <b>Extensiones Oficiales de LibreOffice</b>: <a rel="nofollow" class="external text" href="http://extensions.libreoffice.org"><b>Centro de descargas de Extensiones de LibreOffice</b></a>
 </li>
 <li>
 Busca la extensión llamada <b>"MultiFormatSave"</b>, descárgala (<i>extensión \*.oxt</i>) e instálala (<i>pincha con el botón derecho del ratón sobre el archivo *.oxt descargado e indica que quieres abrirlo con <b>LibreOffice</b></i>).  Esta extensión permitirá a la hora de guardar un documento ofimático, guardarlo simultáneamente en los formatos de <b>LibreOffice</b> (<i>p.e. *.odt</i>), de Microsoft Office (<i>p.e. "*.doc"/"*.docx"</i>) y PDF (<i>*.pdf</i>)
@@ -126,5 +126,7 @@ En el caso de que los menús del <b>Master PDF Editor</b> no aparezcan en <b>Esp
 Accede al menú <b>"Herramientas/Tools"</b> y selecciona la opción de <b>"Editar Texto"</b>. A continuación cambia al menos uno de los títulos principales del documento.
 </li>
 </ol>
+
+> Nota Final sobre <b>el editor PDF</b>: También podemos usar la herramienta que viene en la suite ofimática: <b>LibreOffice DRAW</b>. Ésta herramienta permite editar archivos pdf o también archivos ". Una herramienta muy potente y desconocida!
 
 {% endnotificacion_task %}
