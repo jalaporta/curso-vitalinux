@@ -15,7 +15,7 @@ En concreto, mediante la realización de la siguiente tarea se pretende comprend
 </li>
     <ol type="A">
     <li>
-    Donde aparezca el momento de la actualización donde <b><span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Migasfree</tt></span> chequea como vas de espacio libre</b> a través de una falla: <b>CHECK-HW-ESPACIO-LIBRE-DISCO</b>
+    Donde aparezca el momento de la actualización en el que <b><span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Migasfree</tt></span> ajusta por seguridad los permisos de los directorios personales</b> a través de una falla: <b>CONF-SOFT-AJUSTAR-PERMISOS-HOME</b>
     </li>
     <li>
     Cuando <b><span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Migasfree</tt></span> da la orden de actualizar el sistema</b>
