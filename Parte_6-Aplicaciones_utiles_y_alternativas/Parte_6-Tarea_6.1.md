@@ -55,7 +55,7 @@ Mediante la siguiente tarea nos familiarizaremos con una de las características
 
 <ul>
 
-<li><b>Comprimir JPG/PNG</b>.  Almacena <b>Imágenes JPG o PNG</b> en algún directorio de tú perfil en <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, y desde el <b>Explorador de Archivos pcmanfm</b> pincha con el botón derecho del ratón sobre varios de ellos simultáneamente, y selecciona dentro de <b>"Utilidades Imágenes"</b> la opción <b>"Comprimir ..."</b>.  Comprueba que se crean archivos resultantes en un subdirectorio.  Advierte si el tamaño se ha reducido considerablemente, conservando al mismo tiempo su resolución</li>
+<li><b>Comprimir JPG/PNG</b>.  Almacena <b>Imágenes JPG o PNG</b> en algún directorio de tú perfil en <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, y desde el <b>Explorador de Archivos pcmanfm</b> pincha con el botón derecho del ratón sobre varios de ellos simultáneamente, y selecciona dentro de <b>"Utilidades Imágenes"</b> la opción <b>"Comprimir ..."</b>.  Comprueba que se crean archivos resultantes con la extensión del nombre "-comp".  Advierte si el tamaño se ha reducido considerablemente, conservando al mismo tiempo su resolución</li>
 
 <li><b>Información Detallada de Imágenes</b>.  Almacena <b>Imágenes</b> en algún directorio de tú perfil en <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, y desde el <b>Explorador de Archivos pcmanfm</b> pincha con el botón derecho del ratón sobre varios de ellos simultáneamente, y selecciona dentro de <b>"Utilidades Imágenes"</b> la opción <b>"Detalles de la Imagen"</b>.  Advierte la información detallada de salida</li>
 
