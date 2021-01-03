@@ -4,7 +4,7 @@ Crear una máquina virtual es tan facil como seleccionar la acción de Nueva Má
 
 -  **Nombre y Tipo de máquina**. Nombre deseado y tipo Linux (32 o 64, según deseemos)
 -  Memoria **RAM** que le asignamos (1GB por ejemplo está bien)
--  Crear un **disco** Virtual (se recomienda cuando lo pida reservar el espacio dinámicamente para que solo ocupe en disco el espacio que gastemos). Tamaño el que queramos.
+-  Crear un **disco** Virtual (se recomienda cuando lo pida reservar el espacio dinámicamente para que solo ocupe en disco el espacio que gastemos). El tamaño del disco debe ser **superior a 25 GB** para no tener problemas de espacio
 
 Una vez creada la máquina, tendremos que ir a configuración antes de poder arrancarla para "introducir" el DVD de Vitalinux.
 
