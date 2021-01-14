@@ -20,7 +20,7 @@ En el año 2014 la **Diputación General de Aragón *(DGA)*** inicia en modo pil
 <li class='fragment'><em>Facilitar labores de <a>Gesti&oacute;n de Software</a> gracias a <a>Migasfree</a></em></li>
 </ol>
 
-Como resultado de esa iniciativa surge el sistema operativo <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, basado por completo en <b>código abierto</b>, con el cual podremos familiarizarnos a través del siguiente curso (<a href="https://catedu.gitbooks.io/curso-vitalinux/content/">URL del eBook</a>)
+Como resultado de esa iniciativa surge el sistema operativo <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, basado por completo en <b>código abierto</b>, con el cual podremos familiarizarnos a través del siguiente curso (<a href="https://catedu.github.io/curso-vitalinux/">URL del eBook</a>)
 
 En el curso 2020-2021, Vitalinux se ha publicado en su segunda versión más moderna, y está presente en 100 centros de la Comunidad...¿con más de 2000 instalaciones realizadas!
 
