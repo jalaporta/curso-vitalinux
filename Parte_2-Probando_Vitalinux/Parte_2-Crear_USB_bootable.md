@@ -15,4 +15,5 @@ Comentar que el software actualmente más afamado por su sencillez y por ser mul
 La <b>BIOS</b> del equipo físico será la encargada de leer la memoria USB y advertir que en ella existe un sistema operativo que puede ser instalado (<i>USB Bootable</i>).  Para asegurarnos de que la <b>BIOS</b> pueda leer su contenido sin problemas, por cuestiones de compatibilidad, se recomienda formatear previamente la memoria USB en <b>FAT32</b>. Una vez que la condición del formato esta garantizada deberemos dejar la <b>memoria vacía de contenido</b> antes de pasar a grabar la imagen ISO en su interior.
 {% endnotificacion_important %}
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSvr4JxqRNkTwI0mcFJdfbIe5BtDpSGyLO4ucyAyk65f3zXsFa3zxIyFZiPcqRuv_2YEfrGY39SFVi0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
