@@ -24,6 +24,10 @@ Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiale
 Disponer de un equipo personal o del centro con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> ya instalado.  En éste caso, para la realización de la tarea <b>tan sólo será necesario hacer una foto al equipo</b> con el sistema opertivo iniciado...sencillo, no?
 </li>
 <li>
+En el caso que no dispongas de un equipo físico con Vitalinux ya instalado, y no quieras invertir tu tiempo en aprender y probar a instalar Vitalinux (<i>siguientes opciones</i>), te ofrecemos la opción de hacer el resto del curso a través de un equipo Vitalinux virtual al cual tendrás acceso a través de un navegador Web.  Para ello unicamente deberás indicárselo a través de la presente tarea al tutor del curso para que éste te de la dirección Web y credenciales de acceso.
+<img src='../img/vx-vitalinux-guacamole.png' width='400'>
+</li>
+<li>
 En defecto de lo anterior, instalar <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> sobre una máquina virtual de Virtualbox.  Para la realización de la tarea <b>tan solo será necesario algunas capturas del proceso de instalación de Vitalinux...y sobre todo una en la que aparezca la máquina arrancada con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> funcionando</b>. Esta opción es idónea ya que:
 </li>
 

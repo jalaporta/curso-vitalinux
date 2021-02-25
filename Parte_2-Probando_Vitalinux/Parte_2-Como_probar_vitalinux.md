@@ -12,7 +12,12 @@ La pretensión del curso <b>NO es enseñar a instalar</b> un sistema operativo e
 </li>
 </ul>
 <br/>
-<li>En el caso de que no tengas la posibilidad anterior, te recomendamos que hagas uso de una <b>Máquina Virtual mediante VirtualBox</b>.  A lo largo de esta segunda parte del curso se explicará como instalar el programa <b>VirtualBox</b> y como instalar sobre dicho programa <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> para poder seguir con el curso.
+<li>
+En el caso que no dispongas de un equipo físico con Vitalinux ya instalado, y no quieras invertir tu tiempo en aprender y probar a instalar Vitalinux (<i>siguientes opciones</i>), te ofrecemos la opción de hacer el resto del curso a través de un equipo Vitalinux virtual al cual tendrás acceso a través de un navegador Web.  Para ello deberás indicárselo al tutor del curso para que éste te de la dirección Web y credenciales de acceso.
+<img src='../img/vx-vitalinux-guacamole.png' width='400'>
+</li>
+<br/>
+<li>En el caso de que las anteriores opciones no te convenzan y quieras probar tú a instalar Vitalinux, te recomendamos que hagas uso de una <b>Máquina Virtual mediante VirtualBox</b>.  A lo largo de esta segunda parte del curso se explicará como instalar el programa <b>VirtualBox</b> y como instalar sobre dicho programa <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> para poder seguir con el curso.
 <br>
 Ésta segunda opción es la más recomendable para tener un primer contacto con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, poder probarlo en toda su plenitud.  Este tipo de software (<em>p.e. Virtualbox</em>), permite crear dentro de nuestro equipo <b>Máquinas Virtuales</b> con sus respectivos <b>discos duros virtuales</b> que posteriormente podemos eliminar, al igual que eliminamos cualquier otro archivo de nuestro sistema, y sobre las cuales podemos instalar el sistema operativo que deseemos probar, en nuestro caso <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>.   En concreto, haciendo uso de estas <b>máquinas virtuales</b> tendremos exactamente las mismas posibilidades que tendríamos con un equipo físico, y todo ello <b>sin tener que temer que le ocurra nada a nuestro equipo</b>.
 </li>
