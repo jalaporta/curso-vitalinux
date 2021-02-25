@@ -17,7 +17,7 @@ Sin conocer todavía de manera práctica que es realmente <span style='color: da
 </li>
     <ul>
     <li>
-    <b>¿Qué otra área (*o áreas*) del conocimiento se te ocurre que sería estupendo que fuera libre, de código abierto, para podernos beneficiar culturalmente de manera global todos nosotros?</b>
+    <b>¿Qué otra área (o áreas) del conocimiento se te ocurre que sería estupendo que fuera libre, de código abierto, para podernos beneficiar culturalmente de manera global todos nosotros?</b>
     </li>
     </ul>
 <li> 

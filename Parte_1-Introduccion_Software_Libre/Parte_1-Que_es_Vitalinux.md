@@ -10,9 +10,10 @@ A continuación se detallan cada una de estas tres características.
 
 ## Contenidos de esta Página:
 
-- [1 Vitalinux es un sistema operativo libre de Código Abierto](#VitalinuxCodigoAbierto)
-- [2 Vitalinux esta basado en un Sistema Operativo muy Ligero](#VitalinuxLigero)
-- [3 Vitalinux Incorpora un Cliente Migasfree](#VitalinuxMigasfree)
+- [Contenidos de esta Página:](#contenidos-de-esta-página)
+  - [1ª Característica) Vitalinux es un sistema operativo libre de Código Abierto {#VitalinuxCodigoAbierto}](#1ª-característica-vitalinux-es-un-sistema-operativo-libre-de-código-abierto-vitalinuxcodigoabierto)
+  - [2ª Característica) Vitalinux esta basado en un Sistema Operativo muy Ligero {#VitalinuxLigero}](#2ª-característica-vitalinux-esta-basado-en-un-sistema-operativo-muy-ligero-vitalinuxligero)
+  - [3ª Característica) Vitalinux Incorpora un Cliente Migasfree {#VitalinuxMigasfree}](#3ª-característica-vitalinux-incorpora-un-cliente-migasfree-vitalinuxmigasfree)
 
 ### 1ª Característica) Vitalinux es un sistema operativo libre de Código Abierto {#VitalinuxCodigoAbierto}
 
@@ -45,6 +46,10 @@ Para terminar, es importante recordar que todo software libre debe garantizar la
 2. La libertad de **estudiar cómo funciona el programa**, y cambiarlo para que haga lo que usted quiera (libertad 1). El acceso al código fuente es una condición necesaria para ello.
 3. La libertad de **redistribuir copias** para ayudar a otros (libertad 2).
 4. La libertad de **distribuir copias de sus versiones modificadas** a terceros (libertad 3). Esto le permite ofrecer a toda la comunidad la oportunidad de beneficiarse de las modificaciones. El acceso al código fuente es una condición necesaria para ello.
+
+Con la finalidad de comprender mejor éste aspecto fundamental de Vitalinux se recomienda ver el siguiente videotutorial:
+
+{% youtube %}https://youtu.be/1ZKo0oUgR8s{% endyoutube %}
 
 ### 2ª Característica) Vitalinux esta basado en un Sistema Operativo muy Ligero {#VitalinuxLigero}
 
