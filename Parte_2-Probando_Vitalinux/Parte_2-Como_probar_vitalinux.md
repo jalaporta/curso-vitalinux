@@ -13,7 +13,8 @@ La pretensión del curso <b>NO es enseñar a instalar</b> un sistema operativo e
 </ul>
 <br/>
 <li>
-En el caso que no dispongas de un equipo físico con Vitalinux ya instalado, y no quieras invertir tu tiempo en aprender y probar a instalar Vitalinux (<i>siguientes opciones</i>), te ofrecemos la opción de hacer el resto del curso a través de un equipo Vitalinux virtual al cual tendrás acceso a través de un navegador Web.  Para ello deberás indicárselo al tutor del curso para que éste te de la dirección Web y credenciales de acceso.
+En el caso que no dispongas de un equipo físico con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> ya instalado, y no quieras invertir tu tiempo en aprender y probar a instalar <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> (<i>siguientes opciones</i>), te ofrecemos la opción de hacer el resto del curso a través de un equipo <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> virtual al cual tendrás acceso a través de un navegador Web.  Para ello deberás indicárselo al tutor del curso para que éste te de la dirección Web y credenciales de acceso.
+<br>
 <img src='../img/vx-vitalinux-guacamole.png' width='400'>
 </li>
 <br/>

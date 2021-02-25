@@ -25,6 +25,7 @@ Disponer de un equipo personal o del centro con <span style='color: darkblue; fo
 </li>
 <li>
 En el caso que no dispongas de un equipo físico con Vitalinux ya instalado, y no quieras invertir tu tiempo en aprender y probar a instalar Vitalinux (<i>siguientes opciones</i>), te ofrecemos la opción de hacer el resto del curso a través de un equipo Vitalinux virtual al cual tendrás acceso a través de un navegador Web.  Para ello unicamente deberás indicárselo a través de la presente tarea al tutor del curso para que éste te de la dirección Web y credenciales de acceso.
+<br>
 <img src='../img/vx-vitalinux-guacamole.png' width='400'>
 </li>
 <li>
