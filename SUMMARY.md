@@ -6,7 +6,7 @@
 
 * [Presentación Contenidos Parte 1](Parte_1-Introduccion_Software_Libre/Parte_1-Presentacion_contenidos.md)
 * [¿Qué es Vitalinux?](Parte_1-Introduccion_Software_Libre/Parte_1-Que_es_Vitalinux.md)
-  - [¿Cómo se sincroniza Vitalinux con Migasfree?](Parte_1-Introduccion_Software_Libre/Parte_1-Comunicacion_vitalinux_migasfree.md)
+    - [¿Cómo se sincroniza Vitalinux con Migasfree?](Parte_1-Introduccion_Software_Libre/Parte_1-Comunicacion_vitalinux_migasfree.md)
 * [¿Donde Descargar Vitalinux?](Parte_1-Introduccion_Software_Libre/Parte_1-Donde_descargar_Vitalinux.md)
 * [Tarea 1.1](Parte_1-Introduccion_Software_Libre/Parte_1-Tarea_1.1.md)
 
