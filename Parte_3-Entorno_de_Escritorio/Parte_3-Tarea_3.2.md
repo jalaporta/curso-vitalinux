@@ -1,3 +1,16 @@
+{% notificacion_important title='¡Qué importantes son la RAM y CPU!' %}
+De todas las características hardware de un equipo hay dos que merece la pena señalar por las siguientes razones:
+
+<ol>
+<li><b>RAM</b>: Cuando lanzamos/abrimos una aplicación o programa (p.e. firefox, libreoffice, gimp, etc.) este se copia del disco duro a la memoria RAM del ordenador, para posteriormente ser leida y ejecutada por el procesador o CPU del equipo.  Es decir, nuestra CPU nunca lee los programas a ejecutar directamente del disco duro sino de la memoria RAM, ya que esta última es mucho más rápida y por tanto mucho más eficiente.  Según esto, a medida que vamos abriendo aplicaciones estas se van copiando en memoria RAM y la van agotando.  Por esta razón, <b>la cantidad de memoria RAM determina la cantidad de programas que pueden ser ejecutados simultáneamente garantizando fluidez en su rendimiento</b>.  En el momento en que la memoria RAM se llena, para poder seguir abriendo aplicaciones es necesario intercambiar o llevar parte de su contenido al disco duro provocando de esta forma un decremento en su rendimiento de manera notable apreciando perdida de fluidez y de tiempo de respuesta.  A medida que se cierran aplicaciones abiertas estas son eliminadas de la memoria RAM dejando espacio libre para que posteriormente pueda ser ocupado por otras aplicaciones que sean lanzadas/abiertas.
+<br>
+Además, al hilo de todo lo anterior, podemos deducir que la rapidez de nuestro disco duro determinará lo rapidez con que se copia en memoria RAM y empieza a ejecutarse el programa por parte de la CPU.  Por esa razón, el uso de discos duros SSD (<i>de estado sólido, no mecánicos</i>) garantiza que las aplicaciones se carguen más rápidamente proporcionando una sensación de fluidez mucho mayor.
+</li>
+<li><b>CPU</b>: Es el elemento principal de un ordenador. Su velocidad de computo y potencia de procesamiento determinará lo rápido que se leen y ejecutan los programas que se han cargado en memoria RAM.  Según esto el consumo de CPU se incrementa cuando lanzamos/abrimos una aplicación y cuando realizamos acciones o cambios en la aplicación ya abierta. Si las aplicaciones están abiertas pero en reposo (<i>el usuario no lleva a cabo ninguna acción</i>) la CPU estará totalmente ociosa.
+</li>
+</ol>
+{% endnotificacion_important %}
+
 {% notificacion_task title='Lanzar Aplicaciones y efecto sobre la RAM y CPU del Sistema',
 numexer='3.2',
 req='Es necesario disponer de un equipo físico o virtual con Vitalinux instalado, además de haber leido los apartados referentes a <a href="../Parte_3-Entorno_de_Escritorio/Parte_3-Como_lanzar_aplicaciones.html">Cómo lanzar Aplicaciones</a> e información del <a href="../Parte_3-Entorno_de_Escritorio/Parte_3-Preferencias_del_escritorio.html">Widget del Escritorio</a>',

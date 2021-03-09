@@ -5,6 +5,22 @@ Las tareas que vamos a realizar a partir de ahora requieren de un <span style='c
 <br>
 En el caso de que hayas optado por usar un equipo que ya tenía instalado <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, será necesario volver a la <b>Post-Instalación</b> para poder conocer el asistente de configuración que aparece la primera vez que se inicia <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> tras ser instalado.<br>
 Para volver a la post-instalación <i>teclea CONTROL+ESPACIO y escribe <b>volver a la  post-instalación</b></i>, siendo necesario después reiniciar el equipo (<i>teclea CONTROL+ESPACIO y escribe <b>reiniciar equipo</b></i>).
+
+<br><div class="container">
+<img class="coolimage" src="../img/parte3/vx-volver-postinstalacion-credenciales_profesor_dga.png" alt="Imagen no Localizada">
+<div class="imagetext_type2"><i>Img:</i> <tt>Se requieren usuario y contraseña de un usuario administrador para volver a la post-instalación</tt></div>
+</div><br>
+
+Podrás comprobar que para <b>volver a la post-instalación</b> será necesario introducir las credenciales (<i>usuario y contraseña</i>) de una usuario administrador con permisos/privilegios suficientes para ello.  En caso de que no hayan sido modificadas las passwords por defecto y sus privilegios, estos son los siguientes <b>usuarios/passwords</b> que hay por defecto en Vitalinux:
+
+<ul>
+<li><b>profesor</b>: cuenta de usuario administrador.  Su contraseña por defecto es <b>careidga</b>.
+</li>
+<li><b>dga</b>: cuenta de usuario administrador.  Su contraseña por defecto es <b>careidga</b>.
+</li>
+<li><b>alumno</b>: cuenta de usuario limitada.  Su contraseña por defecto es <b>alumno</b>.
+</li>
+</ul>
 <br><b>¡Adelante! ¡Muchos Ánimos!</b>
 {% endnotificacion_important %}
 
