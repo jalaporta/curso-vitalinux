@@ -15,7 +15,7 @@ En la presente tarea repasaremos como <b>instalar y desinstalar aplicaciones</b>
 
 <ul>
 <li>
-Asegurate de que tu equipo Vitalinux ha terminado la comunicación con Migasfree (<i>tiene que desaparecer el <b>triángulo verde</b> que aparece tras iniciar sesión en Vitalinux sobre el símbolo de <b>Migasfree</b> que encontrarás en la parte derecha de la barra/panel inferior del Entorno de Escritorio de Vitalinux</i>)
+Asegurate de que tu equipo Vitalinux ha terminado la comunicación con Migasfree, en el caso de que se haya iniciado una sincronización con él (<i>tiene que desaparecer el <b>triángulo verde</b> que aparece tras iniciar sesión en Vitalinux sobre el símbolo de <b>Migasfree</b> que encontrarás en la parte derecha de la barra/panel inferior del Entorno de Escritorio de Vitalinux</i>)
 </li>
 <li>
 Accede a <b>Synaptic</b> (<i><b>CONTROL+ESPACIO</b> y tecleas <b>synaptic</b></i>)

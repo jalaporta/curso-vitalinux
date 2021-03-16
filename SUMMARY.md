@@ -49,6 +49,10 @@
 
 ## Parte 5. Gestión del Software
 * [Presentación Contenidos Parte 5](Parte_5-Gestion_del_Software/Parte_5-Presentacion_contenidos.md)
+* [Introducción a las Aplicaciones Libres](Parte_5-Gestion_del_Software/Parte_5.1_introduccion_aplicaciones_libres.md)
+* [Repositorios de Aplicaciones](Parte_5-Gestion_del_Software/Parte_5.2_origenes_del_software.md)
+* [Listado de Aplicaciones](Parte_5-Gestion_del_Software/Parte_5.3_listado_aplicaciones.md)
+* [Formas de Instalación](Parte_5-Gestion_del_Software/Parte_5.4_instalacion_y_codigofuente.md)
 * [Synaptic: El Gestor de Software](Parte_5-Gestion_del_Software/Parte_5-Gestor_de_software_synaptic.md)
 * [Aplicaciones Windows sobre Vitalinux](Parte_5-Gestion_del_Software/Parte_5-Aplicaciones_windows_sobre_vitalinux.md)
 * [Tarea 5.1: Gestión de Software mediante Synaptic, WinE y PlayOnLinux](Parte_5-Gestion_del_Software/Parte_5-Tarea_5.1.md)
