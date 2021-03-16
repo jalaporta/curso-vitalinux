@@ -10,7 +10,7 @@ En la presente tarea repasaremos como <b>instalar y desinstalar aplicaciones</b>
 <ol>
 
 <li>
-<b>Synaptic</b> es una fabulosa aplicación que permite gestionar el software (<i>instalar y desinstalar aplicaciones</i>). Recuerda que para poder instalar software, como éste se descarga de los repositorios oficiales, es necesario tener conexión a Internet.  A modo de ejemplo, en la presente tarea se propone instalar una de las mejores aplicaciones que existen para la reproducción de música, <b>Amarok</b>.  Para ello:
+<b>Synaptic</b> es una fabulosa aplicación que permite gestionar el software (<i>instalar y desinstalar aplicaciones</i>). Recuerda que para poder instalar software, como éste se descarga de los repositorios oficiales, es necesario tener conexión a Internet.  A modo de ejemplo, en la presente tarea se propone instalar una de las mejores aplicaciones que existen para la reproducción de música, <b>Amarok</b> (<i>si lo presiferes puedes probar a instalar en lugar de Amarok el editor de audio <b>audacity</b>, la pizarra virtual <b>openboard/open-sankore</b>, o el programa de maquetación <b>scribus</b></i>).  Para ello:
 </li>
 
 <ul>
