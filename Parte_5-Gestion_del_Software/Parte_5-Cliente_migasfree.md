@@ -2,15 +2,18 @@
 
 ## Contenido
 
-- [1 Análisis de la comunicación con el Servidor Migasfree](#AnalisisComunicacionMigasFree)
-    - [1.1 Interfaz](#Interfaz)
-    - [1.2 Análisis de la comunicación entre el Cliente y Servidor Migasfree](#AnalisisComunicacionClienteServidor)
-    - [1.3 Forzar Actualización contra Migasfree](#ActualizacionContraMigasfreConsola)
-- [2 Etiquetas Migasfree](#EtiquetasMigasfree)
-    - [2.1 ¿Qué son y para qué sirven las etiquetas Migasfree?](#EtiquetasMigasfree)
-    - [2.2 Asignación de Etiquetas Migasfree](#AsignacionEtiquetasMigasfree)
-    - [2.3 Comprobación de Etiquetas Migasfree](#ComprobacionEtiquetasMigasfree)
-    - [2.4 Consideración especial](#ConsideracionEspecial)
+- [Cliente Migasfree](#cliente-migasfree)
+  - [Contenido](#contenido)
+  - [Análisis de la comunicación con el Servidor Migasfree {#AnalisisComunicacionMigasFree}](#análisis-de-la-comunicación-con-el-servidor-migasfree-analisiscomunicacionmigasfree)
+    - [Interfaz {#Interfaz}](#interfaz-interfaz)
+    - [Análisis de la comunicación entre el Cliente y Servidor Migasfree {#AnalisisComunicacionClienteServidor}](#análisis-de-la-comunicación-entre-el-cliente-y-servidor-migasfree-analisiscomunicacionclienteservidor)
+    - [Forzar Actualización contra Migasfree {#ActualizacionContraMigasfreConsola}](#forzar-actualización-contra-migasfree-actualizacioncontramigasfreconsola)
+  - [Etiquetas Migasfree {#EtiquetasMigasfree}](#etiquetas-migasfree-etiquetasmigasfree)
+    - [¿Qué son y para qué sirven las etiquetas Migasfree? {#EtiquetasMigasfree}](#qué-son-y-para-qué-sirven-las-etiquetas-migasfree-etiquetasmigasfree)
+    - [Asignación de Etiquetas Migasfree {#AsignacionEtiquetasMigasfree}](#asignación-de-etiquetas-migasfree-asignacionetiquetasmigasfree)
+    - [Comprobación de Etiquetas Migasfree {#ComprobacionEtiquetasMigasfree}](#comprobación-de-etiquetas-migasfree-comprobacionetiquetasmigasfree)
+    - [Consideración especial {#ConsideracionEspecial}](#consideración-especial-consideracionespecial)
+  - [Habilitar o deshabilitar el cliente](#habilitar-o-deshabilitar-el-cliente)
 
 **Vitalinux EDU DGA** lleva como sistema base un **Lubuntu** (<i>una de las versiones ligeras de ubuntu con escritorio LXDE</i>), una personalización al entorno educativo y lo más importante: un **cliente Migasfree**. Este cliente permite a Lubuntu comunicarse con un servidor central controlado por los técnicos informáticos del proyecto de Software Libre para que a través de éste puedan gestionarse todos los equipos <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>:
 
@@ -158,10 +161,10 @@ De ésta forma, simplemente etiquetando a un equipo como **PRI-MICENTRO.INGLES.A
 Un equipo puede tener asignadas multiples etiquetas mientras no entren en conflicto entre ellas, aunque sean redundantes.  Es decir:
 <ol> 
 <li>
-Un equipo <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> puede tener asignadas dos etiquetas de dos centros educativos (<i>p.e. dos etiquetas de dos centros de primaria PRI-CENTRO1 y PRI-CENTRO2), pero si por un casual el <b>CENTRO1</b> a demandado forzar la desinstalación de un programa que si ha requerido el <b>CENTRO2</b>, cada vez que el equipo inicie sesión, tras conectarse contra Migasfree se estará desinstalando e instalando de nuevo ese software.
+Un equipo <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> puede tener asignadas dos etiquetas de dos centros educativos (<i>p.e. dos etiquetas de dos centros de primaria PRI-CENTRO1 y PRI-CENTRO2), pero si por un casual el <b>CENTRO1</b> ha demandado forzar la desinstalación de un programa que si ha requerido el <b>CENTRO2</b>, cada vez que el equipo inicie sesión, tras conectarse contra Migasfree se estará desinstalando e instalando de nuevo ese software.
 </li>
 <li>
-Un equipo puede tener marcadas las etiquetas <b>PRI-MICENTRO</b>, <b>PRI-MICENTRO.INGLES</b>, y <b>PRI-MICENTRO.INGLES.AULA1</b>, aunque es altamente redudante, ya que simplemente marcando la última, <b>PRI-MICENTRO.INGLES.AULA1</b>, ya esta diciendo a Migasfree que tiene implicitamente tabmién las dos primeras.
+Un equipo puede tener marcadas las etiquetas <b>PRI-MICENTRO</b>, <b>PRI-MICENTRO.INGLES</b>, y <b>PRI-MICENTRO.INGLES.AULA1</b>, aunque es altamente redudante, ya que simplemente marcando la última, <b>PRI-MICENTRO.INGLES.AULA1</b>, ya esta diciendo a Migasfree que tiene implicitamente también las dos primeras.
 </li>
 </ol>
 
