@@ -203,7 +203,7 @@ Es posible modificar las etiquetas Migasfree asignadas a un equipo a posteriori 
 
 {% notificacion_alert title='¿Cuál es el etiquetado perfecto?', logotext='¡¡Aclaración!!' %}
 
-Por lo general, si un centro ha hecho una correcta planificación del etiquetado, con marcar una única etiqueta ya es suficiente, y asociar a dicha etiqueta todas las acciones que quiere programas sobre ese equipo.  Por ejemplo, un equipo puede tener asignado una etiqueta denominada <b>SEC-MICENTRO.AULAINF.SALA1</b> y estar configurado el servidor Migasfree para que todo equipos que tenga dicha etiqueta se le configure los siguiente:
+Por lo general, si un centro ha realizado una correcta planificación del etiquetado, con marcar una única etiqueta ya es suficiente, y asociar a dicha etiqueta todas las acciones que quiere programas sobre ese equipo.  Por ejemplo, un equipo puede tener asignado una etiqueta denominada <b>SEC-MICENTRO.AULAINF.SALA1</b> y estar configurado el servidor Migasfree para que todo equipos que tenga dicha etiqueta se le configure los siguiente:
 <ul>
 <li>Lista de programas a instalar y desintalar</li>
 <li>Usuario con el que iniciará la sesión gráfica de manera automática</li>
