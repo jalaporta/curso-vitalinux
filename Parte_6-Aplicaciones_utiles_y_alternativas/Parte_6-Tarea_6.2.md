@@ -117,16 +117,14 @@ Por último, se pretende mostrar una herramienta ofimática que puede resultar d
 Con la finalidad de usar un documento de partida común para todos, descarga el siguiente archivo PDF de ejmplo: <a href="http://migasfree.educa.aragon.es/cosas-centros/Vitalinux-tea4cups.pdf">Documento PDF</a>
 </li>
 <li>
-Lanza el editor PDF que viene incorporado en Vitalinux: <b>CONTROL+ESPACIO</b> y escribes <b>Master PDF Editor</b> (<i>en caso de no tenerlo instalado deberás lanzar <b>synaptic</b> e instalar el paquete <b>master-pdf-editor3</b></i>) 
+Lanza el editor PDF de Libreoffice que viene incorporado en Vitalinux: <b>CONTROL+ESPACIO</b> y escribes <b>LibreOffice DRAW</b>. Ésta herramienta permite editar archivos PFS entre otro tipo de archivos. Se trata de una herramienta muy potente y desconocida. Comprueba a modificar los elementos que componen el documento PDF.
 </li>
+
 <li>
-En el caso de que los menús del <b>Master PDF Editor</b> no aparezcan en <b>Español</b> deberás ir al menú de la aplicación <b>"Tools"-"Settings"</b> y buscar la opción que permite configurar el <b>Language</b> del programa
-</li>
-<li>
+Como alternativa a <b>LibreOffice DRAW</b> dispones también de <b>Master PDF Editor</b>, con licencia de uso gratuita.  Puedes comprobar que este software, aunque gratuito es cerrado, no es mucho más potente que la herramienta libre de Libreoffice (<i>en caso de no tenerlo instalado deberás lanzar <b>synaptic</b> e instalar el paquete <b>master-pdf-editor3</b></i>).<br>
+En el caso de que los menús del <b>Master PDF Editor</b> no aparezcan en <b>Español</b> deberás ir al menú de la aplicación <b>"Tools"-"Settings"</b> y buscar la opción que permite configurar el <b>Language</b> del programa.<br>
 Accede al menú <b>"Herramientas/Tools"</b> y selecciona la opción de <b>"Editar Texto"</b>. A continuación cambia al menos uno de los títulos principales del documento.
 </li>
 </ol>
-
-> Nota Final sobre <b>el editor PDF</b>: También podemos usar la herramienta que viene en la suite ofimática: <b>LibreOffice DRAW</b>. Ésta herramienta permite editar archivos pdf o también archivos ". Una herramienta muy potente y desconocida!
 
 {% endnotificacion_task %}
