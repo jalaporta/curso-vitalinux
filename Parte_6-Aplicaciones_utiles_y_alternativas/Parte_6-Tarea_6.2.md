@@ -114,7 +114,7 @@ Por último, se pretende mostrar una herramienta ofimática que puede resultar d
 
 <ol>
 <li>
-Con la finalidad de usar un documento de partida común para todos, descarga el siguiente archivo PDF de ejmplo: <a href="http://migasfree.educa.aragon.es/cosas-centros/Vitalinux-tea4cups.pdf">Documento PDF</a>
+Con la finalidad de usar un documento PDF a editar de partida común para todos, te sugerimos descargar el siguiente archivo PDF: <a href="http://migasfree.educa.aragon.es/cosas-centros/Vitalinux-tea4cups.pdf">Documento PDF</a>. Como alternativa, haciendo uso de lo ya visto previamente, también puedes crear tu propio documento ofimático mediante <b>Libreoffice Writer</b> que incluya títulos, textos, imágenes, ... y expórtalo a formato PDF para posteriormente editarlo. La opción que tu prefieras.
 </li>
 <li>
 Lanza el editor PDF de Libreoffice que viene incorporado en Vitalinux: <b>CONTROL+ESPACIO</b> y escribes <b>LibreOffice DRAW</b>. Ésta herramienta permite editar archivos PFS entre otro tipo de archivos. Se trata de una herramienta muy potente y desconocida. Prueba a modificar los elementos que componen el documento PDF y después guarda los cambios generando un nuevo PDF (<i>Menú Archivo-Exportar a PDF</i>).  Comprueba que si seleccionas un título o texto y te diriges posteriormente al menú <b>Formato-Carácter</b> podrás modificar el tipo de letra y personalizar los efectos tipográficos (<i>color del texto, subrayado, etc.</b>).
