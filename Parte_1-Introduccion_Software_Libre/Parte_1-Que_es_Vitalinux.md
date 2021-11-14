@@ -11,11 +11,11 @@ A continuación se detallan cada una de estas tres características.
 ## Contenidos de esta Página:
 
 - [Contenidos de esta Página:](#contenidos-de-esta-página)
-  - [1ª Característica) Vitalinux es un sistema operativo libre de Código Abierto {#VitalinuxCodigoAbierto}](#1ª-característica-vitalinux-es-un-sistema-operativo-libre-de-código-abierto-vitalinuxcodigoabierto)
-  - [2ª Característica) Vitalinux esta basado en un Sistema Operativo muy Ligero {#VitalinuxLigero}](#2ª-característica-vitalinux-esta-basado-en-un-sistema-operativo-muy-ligero-vitalinuxligero)
-  - [3ª Característica) Vitalinux Incorpora un Cliente Migasfree {#VitalinuxMigasfree}](#3ª-característica-vitalinux-incorpora-un-cliente-migasfree-vitalinuxmigasfree)
+  - [1ª Característica) Vitalinux es un sistema operativo libre de Código Abierto](#1-vitalinux-es-un-sistema-operativo-libre-de-código-abierto)
+  - [2ª Característica) Vitalinux esta basado en un Sistema Operativo muy Ligero](#2-vitalinux-esta-basado-en-un-sistema-operativo-muy-ligero)
+  - [3ª Característica) Vitalinux Incorpora un Cliente Migasfree](#3-vitalinux-incorpora-un-cliente-migasfree)
 
-### 1ª Característica) Vitalinux es un sistema operativo libre de Código Abierto {#VitalinuxCodigoAbierto}
+### 1 Vitalinux es un sistema operativo libre de Código Abierto
 
 Al igual que cualquier otro sistema operativo GNU/Linux (*Debian, Ubuntu, OpenSuse, ...*), **Vitalinux es un sistema operativo libre**. Esto significa que el código bajo el cual esta programado es **abierto** y por tanto cualquiera puede copiarlo, modificarlo, mejorarlo y distribuir el resultado.
 
@@ -47,21 +47,17 @@ Para terminar, es importante recordar que todo software libre debe garantizar la
 3. La libertad de **redistribuir copias** para ayudar a otros (libertad 2).
 4. La libertad de **distribuir copias de sus versiones modificadas** a terceros (libertad 3). Esto le permite ofrecer a toda la comunidad la oportunidad de beneficiarse de las modificaciones. El acceso al código fuente es una condición necesaria para ello.
 
-Con la finalidad de comprender mejor éste aspecto fundamental de Vitalinux se recomienda ver el siguiente videotutorial:
+### 2 Vitalinux esta basado en un Sistema Operativo muy Ligero
 
-{% youtube %}https://youtu.be/1ZKo0oUgR8s{% endyoutube %}
-
-### 2ª Característica) Vitalinux esta basado en un Sistema Operativo muy Ligero {#VitalinuxLigero}
-
-**(2)** Al basarse en la versión ligera de Ubuntu llamada **Lubuntu** se garantiza que el **tiempo de respuesta** del equipo sea **el menor posible**. Es decir, permite que equipos antiguos con pocos recursos hardware puedan ser funcionales, ya que el sistema base (*sin arrancar ninguna aplicación de Escritorio*) tan sólo requiere unos 200MB de memoria RAM (*Windows 10 requiere 2.000MB=2GB*). De esta forma, si lo miramos desde el punto de vista opuesto, si tenemos un equipo actual (*varios Gigas de memoria RAM, un procesador de última generación, etc.*) el uso de un sistema operativo de estas características hará que el equipo “vuele”.
+Al basarse en la versión ligera de Ubuntu llamada **Lubuntu** se garantiza que el **tiempo de respuesta** del equipo sea **el menor posible**. Es decir, permite que equipos antiguos con pocos recursos hardware puedan ser funcionales, ya que el sistema base (*sin arrancar ninguna aplicación de Escritorio*) tan sólo requiere unos 200MB de memoria RAM (*Windows 10 requiere 2.000MB=2GB*). De esta forma, si lo miramos desde el punto de vista opuesto, si tenemos un equipo actual (*varios Gigas de memoria RAM, un procesador de última generación, etc.*) el uso de un sistema operativo de estas características hará que el equipo “vuele”.
 
 
 No obstante, esto no puede llevarnos a engaños ni confusiones … hay que aclarar que aunque el sistema operativo base sea muy liviano, **si las aplicaciones que usamos son pesadas, un equipo con bajas prestaciones podrá tener penalización**. Un claro ejemplo podría ser el navegador Web Google Chrome, que en este tipo de sistemas ligeros suele consumir muchos más recursos de RAM y procesador que el propio sistema operativo bajo el cual esta funcionando dicha aplicación.
 
 
-### 3ª Característica) Vitalinux Incorpora un Cliente Migasfree {#VitalinuxMigasfree}
+### 3 Vitalinux Incorpora un Cliente Migasfree
 
-**(3)** Aunque existen otras muchas características que podríamos seguir destacando del sistema operativo Vitalinux, algunas de las cuales las iremos apreciando a lo largo de la realización del curso, por no alargar este primer punto introductorio cabría señalar y destacar **aquello que le hace diferente a Vitalinux del resto** de distribuciones Linux que existen en el mundo (*p.e. Ubuntu, Red Hat, Suse, etc.*) y de Windows: tiene preinstalado un **cliente Migasfree**.
+Aunque existen otras muchas características que podríamos seguir destacando del sistema operativo Vitalinux, algunas de las cuales las iremos apreciando a lo largo de la realización del curso, por no alargar este primer punto introductorio cabría señalar y destacar **aquello que le hace diferente a Vitalinux del resto** de distribuciones Linux que existen en el mundo (*p.e. Ubuntu, Red Hat, Suse, etc.*) y de Windows: tiene preinstalado un **cliente Migasfree**.
 
 
 Este cliente Migasfree nos permite entre otras muchas cosas el poder **gestionar el software del equipo Vitalinux de manera remota, desatendida y automatizada**, e **inventariar todo su software y hardware**. Para que nos hagamos una idea, Migasfree nos permite a demanda del administrador de los equipos del centro, y sin la necesidad de la intervención de ningún usuario cosas como las siguientes:
@@ -74,6 +70,11 @@ Este cliente Migasfree nos permite entre otras muchas cosas el poder **gestionar
 -  ... Todo aquello que se nos ocurra que tenga que ver con el software de los equipos informáticos (*personalizar el fondo de Escritorio de manera desatendida, configurar acceso a libros digitales de las diferentes editoriales, configurar impresoras o fotocopiadoras, etc*).
 
 **Como puede apreciarse, todo ello redunda en un desahogo del administrador de los equipos informáticos garantizando una mayor fiabilidad y eficiencia de todos los sistemas informáticos del Centro Educativo**.
+
+Con la finalidad de comprender mejor ésta presentación se recomienda ver la siguiente **píldora formativa**:
+
+{% youtube %}https://youtu.be/0wyr0kXBYRY{% endyoutube %}
+
 
 {% notificacion_important title='¿Quiénes son los creadores y desarrolladores de Migasfree?' %}
 Destacar por último que sorprendentemente Migasfree es un software que ha sido creado, desarrollado y liberado por dos trabajadores del ayuntamiento de Zaragoza (España), <b>Alberto Gacías</b> y <b>José Antonio Chavarría</b>.

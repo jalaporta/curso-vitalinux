@@ -72,3 +72,8 @@ md5sum -c fichero_md5_descargado.md5
     ![](img/Md5_1.png)
     1.  Comprueba que el resumen generado por el programa a partir del archivo, y el resumen proporcionado por el archivo MD5 son iguales.  Si la firma coincide podemos concluir que está todo correcto, que el archivo descargado está integro.
     <img src="../img/Md5_1.png" width="600">
+
+
+La información relativa a la descarga y comprobación de la iso la puedes encontrar en la siguiente **píldora formativa**:
+
+{% youtube %}https://youtu.be/ex9G7ZXGEt4{% endyoutube %}
