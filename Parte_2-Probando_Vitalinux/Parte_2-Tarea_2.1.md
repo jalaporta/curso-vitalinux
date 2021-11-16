@@ -72,22 +72,21 @@ Con la finalidad de que el sistema se cargue y responda rápido se recomienda ha
 
 {% endnotificacion_task %}
 
-### Algunas notas por si te decides a instalar la máquina en un equipo o como máquina virtual (opciones 2 y 3)
+### Algunas notas finales SOLO por si te decides a instalar la máquina en un equipo o como máquina virtual (opciones 3 y 4)
 
-Independientemente de que la instalación se haga en un equipo físico o en una máquina virtual (<i><b>y no vamos a mantener el sistema antiguo...por ejemplo Windows</b></i>), **una vez se inicie el proceso de instalación aparecerá un menú de opciones de instalación** entre las cuales deberemos escoger la opción correspondiente a **una Instalación Desatendida**, la cual nos instalará <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> sin ser necesario estar pendientes del proceso de instalación:
+Si al final decidimos adentrarnos en un proceso de instalación (virtual o físico <i><b>y no queremos mantener el sistema antiguo...por ejemplo Windows</b></i>), **una vez se inicie el proceso de instalación aparecerá un menú de opciones de instalación** entre las cuales deberemos escoger la opción correspondiente a **una Instalación Desatendida**, la cual nos instalará <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> sin ser necesario estar pendientes del proceso de instalación:
 
 ![Seleccionaremos la opción correspondiente a una Instalación Desatendida](../img/arranque-en-modo-live.png)
 
-Con la finalidad de tratar que sea más comprensible el **proceso de creación de una máquina Virtual en Virtualbox** se ha creado el siguiente videotutorial (*advertir que este videotutorial se realizó con otra ordenación de contenidos del curso diferente al actual, por lo que hace las referencias a una supuesta parte 4 que será necesario omitir*):
-
-{% youtube %}https://youtu.be/NsVrwUFeYrc{% endyoutube %}
-
-{% notificacion_alert title='¿¿Proceso de Instalación Desatendida??' %}
+{% notificacion_alert title='¿Proceso de Instalación Desatendida?' %}
 Si has elegido la opción de instalación <b>Desatendida</b>, debes advertir que el proceso de instalación <b>no es interactivo</b>, sino <b>desantendido</b>.  Es decir, no solicita ningún tipo de información al usuario, haciendo que la instalación de <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> sea muy trivial, posibilitando que durante el tiempo que se produce la instalación podamos invertirlo en otros menesteres.
 {% endnotificacion_alert %}
 
+Si por el contrario, queremos que a la hora de instalar nos pregunte algnua detalle pero seguimos queriendo dejar solo instalado Vitalinux, podemos usar la opción interactiva.
 
+Finalmente, si se trata de una instalación física (en Virtualbox ésto no tendría sentido) y queremos mantener el sistema operativo instalado actualmente (por ejemplo windows), deberemos seleccionar la opción dual. Ésta opción puede ser algo mas trabajosa en cuanto que hay que tomar algunas precauciones.
 
-Para terminar con la tarea, en el caso de que hayas seleccionado el uso de una <b>Máquina Virtual de VirtualBox</b>, **siguiendo los pasos que se describen anteriormente en la teoría**, instalaremos las **Guest Additions** en la máquina virtual donde acabamos de instalar Vitalinux.  Para ello, una vez terminada la instalación de **Vitalinux** en la **Máquina Virtual de Virtualbox**, la iniciaremos y **cancelaremos el proceso de Post-Instalación** (*lo trataremos en el siguiente punto*) para pasar con la instalación de estas **Guest Additions** (*en el caso de que se te solicite alguna clave o password de usuarios administradores: usuarios "profesor" y "dga" tienen la clave "careidga"*).  Con la finalidad de tratar que sea más comprensible el **proceso de instalación de las Guest Additions en la máquina Virtual Virtualbox** se ha creado el siguiente videotutorial (*advertir que este videotutorial se realizó con otra ordenación de contenidos del curso diferente al actual, por lo que hace las referencias a una supuesta parte 4 que había entonces habría que omitirlas*):
+Es por ello que se ha realizado la siguiente **píldora formativa de instalación de un equipo en forma dual**:
 
-{% youtube %}https://youtu.be/2QMHD891ksQ{% endyoutube %}
+{% youtube %}https://youtu.be/{% endyoutube %}
+

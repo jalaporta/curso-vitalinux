@@ -29,6 +29,6 @@ Ahora podemos ejecutar (con doble click) el archivo que pone **"VBolsLinuxAdditi
 Solo nos queda **reiniciar**.
 
 
-Con la finalidad de tratar que sea más comprensible el **proceso de instalación de las Guest Additions en la máquina Virtual Virtualbox** se ha creado el siguiente videotutorial (*advertir que este videotutorial se realizó con otra ordenación de contenidos del curso diferente al actual, por lo que hace las referencias a una supuesta parte 4 que había entonces habría que omitirlas):*
+Puedes encontrar un ejemplo de como instalar las Guest Addtions en un Vitalinux instalado como máquina virtual de VirtualBox en la píldora formativa de *Probando Vitalinux en un entorno virtual*:
 
-{% youtube %}https://youtu.be/2QMHD891ksQ{% endyoutube %}
+{% youtube %}https://youtu.be/Xe33hHQZnj8{% endyoutube %}

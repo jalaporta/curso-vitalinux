@@ -1,6 +1,6 @@
 ### ¿Cómo crear una máquina Virtual e instalar Vitalinux? {#CrearMaquinaVirtual}
 
-Crear una máquina virtual es tan facil como seleccionar la acción de Nueva Máquina Virtual, y seguir los pasos que se indican en el asistente. Si dejamos todo por defecto no tendremos problemas, pero por revisar:
+Crear una máquina virtual es tan fácil como seleccionar la acción de Nueva Máquina Virtual, y seguir los pasos que se indican en el asistente. Si dejamos todo por defecto no tendremos problemas, pero por revisar:
 
 -  **Nombre y Tipo de máquina**. Nombre deseado y tipo Linux (32 o 64, según deseemos)
 -  Memoria **RAM** que le asignamos (1GB por ejemplo está bien)
@@ -14,6 +14,6 @@ En Configuración de la máquina vamos a la opción de Almacenamiento y seleccio
 
 También podriamos cambiar parámetros de Red y otros, pero de momento lo podemos dejar como está.
 
-Con la finalidad de tratar que sea más comprensible el **proceso de creación de una máquina Virtual en Virtualbox** se ha creado el siguiente videotutorial (*advertir que este videotutorial se realizó con otra ordenación de contenidos del curso diferente al actual, por lo que hace las referencias a una supuesta parte 4 que había entonces habría que omitirlas):*
+Con la finalidad de tratar que sea más comprensible el **proceso de creación de una máquina Virtual en Virtualbox**, puedes consultar la píldora formativa que hay dedicada para ello:
 
-{% youtube %}https://youtu.be/NsVrwUFeYrc{% endyoutube %}
+{% youtube %}https://youtu.be/Xe33hHQZnj8{% endyoutube %}
