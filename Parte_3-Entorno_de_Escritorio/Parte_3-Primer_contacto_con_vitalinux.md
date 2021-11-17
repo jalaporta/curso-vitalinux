@@ -24,7 +24,15 @@ Podrás comprobar que para <b>volver a la post-instalación</b> será necesario 
 <br><b>¡Adelante! ¡Muchos Ánimos!</b>
 {% endnotificacion_important %}
 
-Tras el primer arranque de <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, resultado de una nueva instalación o de una vuelta a la <b>Post-Instalación</b>, nos aparecerán las ventanas correspondientes a un **asistente de Post-Instalación** a las cuales deberemos contestar adecuadamente para una correcta configuración de <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>.  Aclarar que algunas de estas cuestiones dependerán del lugar donde se le vaya a dar uso a Vitalinux: **Centro Educativo** o **casa**, siendo todos ellas configurables igualmente a posteriori.
+Tras el primer arranque de <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, resultado de una nueva instalación o de una vuelta a la <b>Post-Instalación</b>, nos aparecerán las ventanas correspondientes a un **asistente de Post-Instalación** a las cuales deberemos contestar adecuadamente para una correcta configuración de <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>.  Aclarar que algunas de estas cuestiones dependerán del lugar donde se le vaya a dar uso a Vitalinux: **Centro Educativo** o **casa**, siendo todos ellas configurables igualmente a posteriori como podremos observar en los dos siguientes apartados
 
 <!-- ![Informaremos desde donde se usará Vitalinux: Centro Educativo o Casa](../img/Post-instalacion-1.2.png) -->
 ![Informaremos desde donde se usará Vitalinux: Centro Educativo o Casa](../img/vitalinux-2-postinstalacion-dialogo1.png)
+
+Además de la información que encontrarás en los subapartados siguientes de:
+- [Post-Instalación en un Centro Educativo](Parte_3-Entorno_de_Escritorio/Parte_3-Asistente_post_instalacion_centro_educativo.md)
+- [Post-Instalación en Entorno Casa](Parte_3-Entorno_de_Escritorio/Parte_3-Asistente_post_instalacion_entorno_casa.md)
+
+...puedes encontrar información de todo éste proceso en la **Píldora formativa de Post-Instalación de Vitalinux**:
+
+{% youtube %}https://youtu.be/pqN2FxyJiwc{% endyoutube %}

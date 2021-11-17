@@ -54,3 +54,6 @@ Otro aspecto que nos puede interesar a la hora de personalizar nuestro Entorno e
 {% coolimages_type2 url_image='../img/vx-personalizar_apariencia_y_comportamiento.png' %}
 Personalización de la Apariencia del Entorno de Ventanas
 {% endcoolimages_type2 %}
+
+En la píldora formativa del **Entorno de Escritorio** podremos encontrar un ejemplo gráfico mas detallado de lo que hemos hablado en eśte tema.
+{% youtube %}https://youtu.be/9rm3Vi9zAK0{% endyoutube %}

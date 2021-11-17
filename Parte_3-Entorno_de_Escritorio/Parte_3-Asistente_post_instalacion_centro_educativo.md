@@ -22,12 +22,3 @@ Tal como se puede apreciar a través de las siguientes capturas de pantalla, en 
 <!-- ![¿Qué etiquetas quieres asignar a este equipo Vitalinux?](../img/Post-instalacion-6.2.png) -->
 ![¿Qué etiquetas quieres asignar a este equipo Vitalinux?](../img/vitalinux-2-postinstalacion-dialogo3-etiquetado_entorno_centro.png)
 
-<!-- * **¿Aceptas el uso de formatos restrictivos no libres necesarios en la reproducción de archivos MP3, DVDs, Windows Media, etc?** Por cuestiones de legalidad es necesario aceptar explícitamente el uso de estos formatos en el caso de querer trabajar con ellos.
-
-![Deberemos aceptar la licencia del uso de codecs no libres ... ¿Aceptas?](../img/Post-instalacion-7.2.png) -->
-
-
-
-
-
-

@@ -8,12 +8,9 @@ En <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalin
 
 - [1 Desde el clásico **Menú de Inicio**](#DesdeMenuInicio)
 - [2 Mediante el **lanzador de Aplicaciones Synapse**](#DesdeLanzadorAplicacionesSynapse)
-- [3 Lanzar Aplicaciones desde el **Dock de Aplicaciones Plank**](#DesdeDockAplicacionesPlank)
-- [4 Lanzar Aplicaciones desde el **Dock Circular de Aplicaciones Gnome Pie**](#DesdeDockCircularAplicacionesGnomePie)
-- [5 Mediante la configuración de **Atajos de teclado**](#MedianteAtajosDeTeclado)
-    - [5.1 Atajos de Teclado predefinidos en Vitalinux (*Lubuntu*)](#AtajosTecladoPredefinidosVitalinux)
-    - [5.2 Definir nuevos Atajos de Teclado](#DefinirAtajosTeclado)
-- [6 Tarea 2.3: Repaso de estrategias para Lanzar y Matar Aplicaciones en Vitalinux](#LanzarMatarAplicaciones)
+- [3 Mediante la configuración de **Atajos de teclado**](#MedianteAtajosDeTeclado)
+    - [3.1 Atajos de Teclado predefinidos en Vitalinux (*Lubuntu*)](#AtajosTecladoPredefinidosVitalinux)
+    - [3.2 Definir nuevos Atajos de Teclado](#DefinirAtajosTeclado)
 
 
 
@@ -81,6 +78,12 @@ Podemos repasar algunos de los **Atajos** que ya están predefinidos e incluso p
 1.  Combinación **Tecla Función + f11** y **Función + f12**: Subir/Bajar el volumen
 1.  Combinación **CONTROL + ALT + SUPRIMIR**: Cierra la sesión del usuario
 
+
+
+Con la finalidad de aclarar visualmente la forma de lanzar aplicaciones, puedes consultar la pílodora foramativa de **Ejecutar Aplicaciones** en Vitalinux:
+
+{% youtube %}https://youtu.be/bdBM6U0seUE{% endyoutube %}
+
 #### Opcional: Definir nuevos Atajos de Teclado {#DefinirAtajosTeclado}
 
 Si quieres profundizar, a continuación se va a exponer cómo definir un nuevo atajo, de forma que cuando se pulsen la tecla Windows y la letra w por ejemplo (<i>sin soltar la tecla windows</i>) se inicie el Libreoffice Writer. Para definir éste nuevo atajo de teclado, tenemos en Vitalinux una aplicación instalada llamada <b>Obkey</b>. 
@@ -111,6 +114,3 @@ Si quieres profundizar, a continuación se va a exponer cómo definir un nuevo a
 
 </ol>
 
-Con la finalidad de aclarar visualmente la forma de crear un **atajo de teclado** en Vitalinux se sugiere ver el [siguiente videotutorial](https://youtu.be/bdBM6U0seUE):
-
-{% youtube %}https://youtu.be/bdBM6U0seUE{% endyoutube %}
