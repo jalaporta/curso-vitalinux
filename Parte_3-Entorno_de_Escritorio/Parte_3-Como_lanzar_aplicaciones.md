@@ -20,9 +20,7 @@ El **Menú de Inicio Clásico**  es el típico menú desplegable de Windows que 
 
 ![Menú Clásico de Aplicacionews de Vitalinux](../img/Lanzar-aplicaciones-menu-clasico.png)
 
-
 Una vez desplegado podrás comprobar que todos los lanzadores están clasificados por temática: **Internet, Oficina, Gráficos, Sonido y Video, etc.**
-
 
 ## Mediante el **lanzador de Aplicaciones Synapse/Albert** {#DesdeLanzadorAplicacionesSynapse}
 
@@ -36,39 +34,19 @@ Albert además nos permite más funcionalidades:
 * Lanzar comandos como si estuviéramos en una terminal, escribiendo antes el símbolo >
 
 ![Lanzador rápido y eficiente de Aplicaciones Albert](../img/Lanzar-aplicaciones-albert.png)
-<!-->
-## Lanzar Aplicaciones desde el **Dock de Aplicaciones Plank** (solo para VX 1.0) {#DesdeDockAplicacionesPlank}
 
-En Vitalinux 1.0 (para 2.0 no está disponible ya) se puede habilitar un **Dock** o **barra de aplicaciones más comunes** a través de la cual se pueden lanzar aplicaciones preconfiguradas o añadir nuevas.  Para usarlo será necesario habilitar el **Dock** de la siguiente forma: teclear **CONTROL+ESPACIO** y teclear **habilitar o deshabilitar dock plank**, a continuación te pedirá la contraseña de administración (**careidga** es la password *por defecto, para los usuarios dga y profesor*), y desde allí ya podrás habilitarlo.
-
-![Es necesario habilitar el Dock Plank para trabajar con él](../img/Lanzador-aplicaciones-habilitar-dock-plank.png)
-
-![Dock Plank lanzador de Aplicaciones](../img/Lanzar-aplicaciones-dock-plank.png)
-
-Si quieres probar su funcionamiento habilita el Dock Plank, cierra sesión (_**CONTROL+ESPACIO** y teclear **cerrar sesión**_), e inicia sesión de nuevo y comprobarás que éste, una vez habilitado, se despliega de manera automática al acercar el ratón en la parte superior central del **Escritorio**.  Comprueba su correcto funcionamiento pinchando sobre alguno de sus lanzadores de aplicaciones.  El aspecto y comportamiento de este **Dock** puede personalizarse pinchando con el botón derecho del ratón sobre el **icono ancla** que hay en este **Dock**.  Además puedes añadir o anclar aplicaciones nuevas arrastrándolas desde el menú de inicio al **Dock**, o una vez estas estén abiertas.
-
-
-## Lanzar Aplicaciones desde el **Dock Circular de Aplicaciones Gnome Pie** (solo para VX 1.0){#DesdeDockCircularAplicacionesGnomePie}
-
-En Vitalinux 1.0 (para 2.0 no está disponible ya), y al igual que el **Dock Plank** anterior, para trabajar con él es necesario habilitarlo: teclear **CONTROL+ESPACIO** y teclear **habilitar o deshabilitar gnome pie**, a continuación te pedirá la contraseña de administración (**careidga** es la password *por defecto, para los usuarios dga y profesor*), y desde allí ya podrás habilitarlo.
-
-![Dock Circular Gnome Pie. Es necesario habilitarlo para trabajar con él](../img/Lanzador-aplicaciones-gnome-pie.png)
-
-Para hacer uso de él es necesario teclear la combinación de teclas **Tecla Windows + G**.  Si lo deseas puedes comprobar su funcionamiento.
-
--->
 ## Mediante la configuración de **Atajos de teclado** {#MedianteAtajosDeTeclado}
 
 Sin lugar a dudas, el uso de combinación de teclas para el acceso a recursos y aplicaciones es la forma más rápida y eficiente de interactuar con un sistema operativo.  En **Vitalinux** es posible modificar los atajos existentes e introducir nuevos.
 
 Podemos repasar algunos de los **Atajos** que ya están predefinidos e incluso probar a definir alguno:
 
-
 ### Atajos de Teclado predefinidos en Vitalinux (*Lubuntu*) {#AtajosTecladoPredefinidosVitalinux}
 1.  Tecla **IMPRIMIR PANTALLA**: Lanza un programa que nos permitirá capturar la pantalla completa, una ventana activa, o una parte de la pantalla.  Además nos permitirá elegir un nombre para la captura y su ubicación (*por defecto la dejará en la carpeta del HOME del usuario **Imágenes***)
 1.  Tecla **F11**: Pone en pantalla completa la ventana que tengamos abierta
 1.  Combinación **Tecla de Windows + E**: Abre el explorador de archivos de Vitalinux
 1.  Combinación **Tecla de Windows + D**: Minimiza todas las ventanas y nos muestra únicamente el Escritorio limpio.  Para regresar a la situación en la que estabamos, podemos volver a pulsar dicha combinación.
+1.  Combinación **Tecla de Windows + flecha_del_cursor**: Posiciona la ventana activa en la mitad superior, inferior, izda o derecha según usemos una flecha u otra. Útil para organizar las ventanas en el Escritorio.
 1.  Combinación **CONTROL + ESC**: Despliega el menú de Inicio clásico de aplicaciones
 1.  Combinación **CONTROL + ALT + T**: Abre una terminal de comandos
 1.  Combinación **ALT + F4**: Cierra la ventana que este en ese momento activa
@@ -77,7 +55,6 @@ Podemos repasar algunos de los **Atajos** que ya están predefinidos e incluso p
 1.  Combinación **Tecla Función + f7** y **Función + f8**: Subir/Bajarla intensidad de la luz del ordenador
 1.  Combinación **Tecla Función + f11** y **Función + f12**: Subir/Bajar el volumen
 1.  Combinación **CONTROL + ALT + SUPRIMIR**: Cierra la sesión del usuario
-
 
 
 Con la finalidad de aclarar visualmente la forma de lanzar aplicaciones, puedes consultar la pílodora foramativa de **Ejecutar Aplicaciones** en Vitalinux:
@@ -113,4 +90,3 @@ Si quieres profundizar, a continuación se va a exponer cómo definir un nuevo a
 <img src="../img/Atajo-5.png">
 
 </ol>
-
