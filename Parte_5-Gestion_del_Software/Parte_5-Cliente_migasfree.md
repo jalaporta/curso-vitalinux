@@ -34,7 +34,7 @@
 
 ¡¡Y todo ello **de manera completamente desatendida**!!  Esto facilita la labor de los coordinadores de medios informáticos de los centros y del profesorado ya que de esta forma se pueden desentender de este tipo de tediosas tareas y dedicarse realmente a su trabajo (_enseñar_).
 
-Se puede ver más en profundidad todo en la [documentación oficial de migasfree](http://fun-with-migasfree.readthedocs.io/en/master/).
+Se puede ver más en profundidad todo en la [documentación oficial de migasfree](https://fun-with-migasfree.readthedocs.io/es/master/).
 
 Ésta parte del curso pretende aclarar un poco más como se lleva a cabo el proceso de comunicación entre los equipos <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> y el servidor <b>Migasfree</b>, sin entrar en detalles complejos o de programación.
 

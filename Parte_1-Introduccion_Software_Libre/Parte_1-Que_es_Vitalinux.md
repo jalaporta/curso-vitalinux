@@ -40,16 +40,19 @@ Entonces ... ¿De qué viven aquellos cuyo trabajo gira en torno a la filosofía
 -  Donativos.  Otros restaurantes y clientes, interesados en el tipo de cocina que crean los cocineros del restaurante de **código abierto**, estarían dispuestos a realizar donaciones económicas para que se siguiera **creando y liberando** nuevos platos de cocina, de los cuales se aprovecharían ellos más tarde.
 Si se han entendido las diferentes fuentes de financiación que podrían darse en el caso de una **cocina abierta**, estas podrían extrapolarse a cualquier otro entorno de producción de **código abierto**, entre los cuales podrían distinguirse los relativos al **software libre** (*sistemas operativos y aplicaciones libres*), y al **hardware libre** (*fabricantes de aparatos electrónicos donde se facilitan los planos y componentes para que cualquiera pueda fabricarse uno propio*).
 
-Para terminar, es importante recordar que todo software libre debe garantizar las siguientes 4 libertades [https://www.gnu.org/philosophy/free-sw.es.html]:
+Es importante recordar que todo software libre debe garantizar las siguientes 4 libertades [https://www.gnu.org/philosophy/free-sw.es.html]:
 
 1. La libertad de **ejecutar el programa como se desee**, con cualquier propósito (libertad 0).
 2. La libertad de **estudiar cómo funciona el programa**, y cambiarlo para que haga lo que usted quiera (libertad 1). El acceso al código fuente es una condición necesaria para ello.
 3. La libertad de **redistribuir copias** para ayudar a otros (libertad 2).
 4. La libertad de **distribuir copias de sus versiones modificadas** a terceros (libertad 3). Esto le permite ofrecer a toda la comunidad la oportunidad de beneficiarse de las modificaciones. El acceso al código fuente es una condición necesaria para ello.
 
+De esto modo, gracias a ser un proyecto de software libre se garantiza que sea de propiedad pública y que el mantenimiento no dependa de un contrato con una empresa o entidad sujeto a posibles condiciones, garantizando así que en el futuro otros desarrolladores pudieran mantener el desarrollo del proyecto sin depender de personas o equipos concretos.
+
 ### 2 Vitalinux esta basado en un Sistema Operativo muy Ligero
 
-Al basarse en la versión ligera de Ubuntu llamada **Lubuntu** se garantiza que el **tiempo de respuesta** del equipo sea **el menor posible**. Es decir, permite que equipos antiguos con pocos recursos hardware puedan ser funcionales, ya que el sistema base (*sin arrancar ninguna aplicación de Escritorio*) tan sólo requiere unos 200MB de memoria RAM (*Windows 10 requiere 2.000MB=2GB*). De esta forma, si lo miramos desde el punto de vista opuesto, si tenemos un equipo actual (*varios Gigas de memoria RAM, un procesador de última generación, etc.*) el uso de un sistema operativo de estas características hará que el equipo “vuele”.
+Al basarse en la versión ligera de Ubuntu llamada **Lubuntu** se garantiza que el **tiempo de respuesta** del equipo sea **el menor posible**. Es decir, permite que equipos antiguos con pocos recursos hardware puedan ser funcionales, ya que el sistema base (*sin arrancar ninguna aplicación de Escritorio*) tan sólo requiere unos 200MB de memoria RAM (*Windows 10 requiere 2.000MB=2GB*). De esta forma, si lo miramos desde el punto de vista opuesto, si tenemos un equipo actual (*varios Gigas de memoria RAM, un procesador de última generación, etc.*) el uso de un sistema operativo de estas características hará que el equipo “vuele”, siendo más eficiente y aprovechando mejor el rendimiento de la máquina, en comparación con otros sistemas operativos.
+
 
 
 No obstante, esto no puede llevarnos a engaños ni confusiones … hay que aclarar que aunque el sistema operativo base sea muy liviano, **si las aplicaciones que usamos son pesadas, un equipo con bajas prestaciones podrá tener penalización**. Un claro ejemplo podría ser el navegador Web Google Chrome, que en este tipo de sistemas ligeros suele consumir muchos más recursos de RAM y procesador que el propio sistema operativo bajo el cual esta funcionando dicha aplicación.
