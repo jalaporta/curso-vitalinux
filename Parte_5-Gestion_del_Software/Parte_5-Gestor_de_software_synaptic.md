@@ -30,7 +30,3 @@ Permite buscar rápidamente programas e instalarlos
 Instala todas las dependencias necesarias
 {% endcoolimages_type2 %}
 
-Como en ocasiones ***más vale un buen videotutorial que mil palabras*** a continuación se sugiere hacer una Tarea al respecto y visualizar un vídeo relacionado con este asunto (es una parte del videotutorial completo: [Gestión del Software con Synaptic en Vitalinux](https://www.youtube.com/watch?v=1nni5ikg11Q)).
-
-{% youtube %}https://youtu.be/1nni5ikg11Q{% endyoutube %}
-

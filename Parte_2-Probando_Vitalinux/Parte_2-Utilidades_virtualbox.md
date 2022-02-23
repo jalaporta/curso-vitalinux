@@ -8,4 +8,5 @@
 -  Cómo **compartir el portapapeles** entre las máquinas física y virtual
 -  Cómo habilitar **la opción de *Arrastrar y Soltar* para copiar archivos** entre las máquinas física y virtual
 
-{% youtube %}https://youtu.be/oj92vB5mFAs{% endyoutube %}
+Tienes también información en la píldora formativa correspondiente
+{% youtube %}https://youtu.be/A1oaYfYfV7U?t=217{% endyoutube %}

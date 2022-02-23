@@ -76,7 +76,7 @@ Este cliente Migasfree nos permite entre otras muchas cosas el poder **gestionar
 
 Con la finalidad de comprender mejor ésta presentación se recomienda ver la siguiente **píldora formativa**:
 
-{% youtube %}https://youtu.be/0wyr0kXBYRY{% endyoutube %}
+{% youtube %}https://youtu.be/LxItuoZ5CxY{% endyoutube %}
 
 
 {% notificacion_important title='¿Quiénes son los creadores y desarrolladores de Migasfree?' %}

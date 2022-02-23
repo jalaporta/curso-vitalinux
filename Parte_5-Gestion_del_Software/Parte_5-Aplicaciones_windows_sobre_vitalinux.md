@@ -25,9 +25,8 @@ Para saber más sobre Wine se recomienda dirigirse a los siguientes enlaces:
 -  [Sitio Oficial de Wine](http://www.winehq.org)
 -  [Wiki en Español de Wine](https://es.wikipedia.org/wiki/Wine)
 
-Como en ocasiones **más vale un buen videotutorial que mil palabras** a continuación se sugieren ver los siguientes vídeos para familiarizarnos con [Wine](https://youtu.be/_e9FvVcEXIk) y con [PlayOnLinux](https://youtu.be/wULZ-xa3Om0):
-
-{% youtube %}_e9FvVcEXIk{% endyoutube %}
+Podemos obtener mas información sobre la instalación de aplicaciones windows en vitalinux en la **píldora formativa de Gestión de Software**
+{% youtube %}https://youtu.be/W0hI9uRcCo8?t=629{% endyoutube %}
 
 {% notificacion_important title='¡¡Repositorio de programas de PlayOnlinux!!' %}
 <b>PlayOnLinux</b> se caracteriza porque ya dispone de un repositorio (<i>almacen de software en la nube</i>) de aplicaciones Windows totalmente probado y testeado.  Con ello evitamos el tener que acceder a sitios Web como <b>softonic</b> (<i>podríamos poner cualquier otro de ejemplo</i>) para buscar el programa de Windows que deseamos instalarnos, siendo esta una fuente de <b>virus</b> y <b>malware</b> al no saber exactamente que nos estamos descargando, y por tanto, que vamos a instalarnos.

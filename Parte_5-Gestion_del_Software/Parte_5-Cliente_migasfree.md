@@ -38,10 +38,6 @@ Se puede ver más en profundidad todo en la [documentación oficial de migasfree
 
 Ésta parte del curso pretende aclarar un poco más como se lleva a cabo el proceso de comunicación entre los equipos <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> y el servidor <b>Migasfree</b>, sin entrar en detalles complejos o de programación.
 
-Como ***más vale un buen videotutorial que mil palabras*** a continuación se sugiere ver el [siguiente vídeo](https://youtu.be/MiPYmOzlN4g) relacionado con la teoría de esta parte del curso: **Cliente Migasfree**
-
-{% youtube %}https://youtu.be/MiPYmOzlN4g{% endyoutube %}
-
 ## Análisis de la comunicación con el Servidor Migasfree {#AnalisisComunicacionMigasFree}
 
 Cada vez que el equipo inicia una sesión gráfica, si éste tiene comunicación con Internet y el servidor Migasfree está activo, comienza una comunicación entre el cliente Migasfree, <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, y el <b>servidor Migasfree</b>.

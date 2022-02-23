@@ -7,3 +7,6 @@
 {% panel %}
 Para seguir el curso y complementar la tarea propuesta en esta parte del curso deberás pinchar sobre los enlaces del menú de navegación del eBook que se localizan a la izquierda.  Se recomienda seguir el orden de los contenidos propuesto y no seguir un orden aleatorio.  Al terminar cada <b>parte</b> se propone la <b>tarea</b> a realizar, esperando que te pueda resultar útil.
 {% endpanel %}
+
+La información de ésta parte la podemos encontrar muy resumida en la **píldora formativa de Gestión de Software**
+{% youtube %}https://youtu.be/W0hI9uRcCo8{% endyoutube %}

@@ -59,7 +59,7 @@ Podemos repasar algunos de los **Atajos** que ya están predefinidos e incluso p
 
 Con la finalidad de aclarar visualmente la forma de lanzar aplicaciones, puedes consultar la pílodora foramativa de **Ejecutar Aplicaciones** en Vitalinux:
 
-{% youtube %}https://youtu.be/{% endyoutube %}
+{% youtube %}https://youtu.be/hG4zBrFjK88{% endyoutube %}
 
 #### Opcional: Definir nuevos Atajos de Teclado {#DefinirAtajosTeclado}
 

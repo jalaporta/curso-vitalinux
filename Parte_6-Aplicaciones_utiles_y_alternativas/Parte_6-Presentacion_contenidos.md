@@ -13,3 +13,5 @@ Con la finalidad de aclarar visualmente todo lo que se solicita en las tareas, s
 Para seguir el curso y complementar las tareas propuestas en esta parte del curso deberás pinchar sobre los enlaces del menú de navegación del eBook que se localizan a la izquierda.  Se recomienda seguir el orden de los contenidos propuesto y no seguir un orden aleatorio.  ¡¡Esperamos que te pueda resultar útil!!
 {% endpanel %}
 
+La **píldora formativa de Aplicaciones base y Utilidades** contiene informacióna adicional que puede resultar de interés para el curso
+{% youtube %}https://youtu.be/tHhJ434-bmo{% endyoutube %}

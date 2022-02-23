@@ -88,5 +88,5 @@ Finalmente, si se trata de una instalación física (en Virtualbox ésto no tend
 
 Es por ello que se ha realizado la siguiente **píldora formativa de instalación de un equipo en forma dual**:
 
-{% youtube %}https://youtu.be/{% endyoutube %}
+{% youtube %}https://youtu.be/qv3715HUsR0{% endyoutube %}
 

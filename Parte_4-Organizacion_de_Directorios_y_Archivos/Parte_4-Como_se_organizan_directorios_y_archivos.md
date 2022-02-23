@@ -70,4 +70,3 @@ A continuación se va a explicar someramente algunos de los directorios que cuel
 Directorios más importantes de un Sistema Operativo Linux
 {% endcoolimages_type2 %}
 
-

@@ -35,4 +35,4 @@ Además de la información que encontrarás en los subapartados siguientes de:
 
 ...puedes encontrar información de todo éste proceso en la **Píldora formativa de Post-Instalación de Vitalinux**:
 
-{% youtube %}https://youtu.be/pqN2FxyJiwc{% endyoutube %}
+{% youtube %}https://youtu.be/b7NRlR9JaXM{% endyoutube %}

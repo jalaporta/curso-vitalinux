@@ -19,4 +19,4 @@ La <b>BIOS</b> del equipo físico será la encargada de leer la memoria USB y ad
 
 En la **Píldora formativa de Descarga de una iso y creación de un usb arrancable** podemos encontrar un ejemplo gráfico de como llevar a cabo éste proceso
 
-{% youtube %}https://youtu.be/ex9G7ZXGEt4{% endyoutube %}
+{% youtube %}https://youtu.be/Ma8p4F-m37Y{% endyoutube %}

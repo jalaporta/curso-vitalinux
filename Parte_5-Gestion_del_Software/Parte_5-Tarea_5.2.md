@@ -26,10 +26,6 @@ En concreto, mediante la realización de la siguiente tarea se pretende comprend
 Comprobación de <b>Etiquetas <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Migasfree</tt></span></b>. Comprueba que etiquetas asignaste cuando hiciste la post-instalación. Si no marcaste ninguna, lo cual es posible al marcar que ibas a usar el equipo fuera del entorno educativo, estará marcada la etiqueta de <b>ENT-CASA</b>. Haz una captura de pantalla con dicho listado. Más tarde asignaremos otra para instalar software.  <b>Importante</b>: Si sólo quieres conocer las <b>etiquetas Migasfree</b> del equipo puedes teclear <b>CONTROL+ESPACIO</b> y teclear <b>Consultar y comprobar etiquetas migasfree</b>, pero si quieres tener una información más completa de la configuración de red y etiquetado <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Migasfree</tt></span> de tu Vitalinux puedes teclear <b>CONTROL+ESPACIO</b> y escribir <b>Información Global del Sistema</b>
 </li>
 
-<br><div style='text-align: center;'>
-<iframe width='560' height='315' src='https://www.youtube.com/embed/MiPYmOzlN4g' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>
-</div>
-
 <li>
 Por último se propone asignar una nueva <b>etiqueta Migasfree</b> a tu equipo Vitalinux y ver que efectos le provoca:
 </li>
@@ -57,12 +53,6 @@ Comprueba el efecto de la asignacióna anterior, advirtiendo que te han aparecid
 </ol>
 
 </ol>
-
-Como en ocasiones <i>más vale un buen videotutorial que mil palabras</i> a continuación se sugiere ver el siguiente víde  relacionado con este asunto (<i>es una parte del videotutorial completo: <a href="https://www.youtube.com/watch?v=8tBh8yz1FHY%7C">Gestión del Software en Vitalinux</a></i>):
-
-<br><div style='text-align: center;'>
-<iframe width='560' height='315' src='https://www.youtube.com/embed/KDsCDPKLDko' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>
-</div>
 
 
 {% endnotificacion_task %}

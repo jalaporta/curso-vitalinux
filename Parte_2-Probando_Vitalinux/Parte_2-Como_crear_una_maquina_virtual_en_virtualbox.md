@@ -16,4 +16,4 @@ También podriamos cambiar parámetros de Red y otros, pero de momento lo podemo
 
 Con la finalidad de tratar que sea más comprensible el **proceso de creación de una máquina Virtual en Virtualbox**, puedes consultar la píldora formativa que hay dedicada para ello:
 
-{% youtube %}https://youtu.be/Xe33hHQZnj8{% endyoutube %}
+{% youtube %}https://youtu.be/A1oaYfYfV7U{% endyoutube %}

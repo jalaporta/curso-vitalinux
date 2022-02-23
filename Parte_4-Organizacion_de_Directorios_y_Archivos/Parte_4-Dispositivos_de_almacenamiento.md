@@ -110,4 +110,3 @@ Opciones de Formateo
 {% endcoolimages_type2 %}
 
 Luego solo quedará montarlo si queremos volver a usarlo.
-

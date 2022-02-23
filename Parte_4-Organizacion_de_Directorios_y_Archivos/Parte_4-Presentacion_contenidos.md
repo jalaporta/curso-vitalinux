@@ -11,3 +11,6 @@ logotext='¡¡Adelante!!' %}
 Para seguir el curso y complementar la tarea propuesta en esta parte del curso deberás pinchar sobre los enlaces del menú de navegación del eBook que se localizan a la izquierda. Se recomienda seguir el orden de los contenidos propuesto y no seguir un orden aleatorio.  A lo largo de esta <b>parte</b> se proponen dos **tareas** a realizar, esperando que te puedan resultar útiles.
 {% endpanel %}
 
+Puedes encontrar de utilidad (se recomienda al finalizar la lectura del mismo) la **Píldora formativa de Usuarios, permisos y sistemas de archivos**:
+
+{% youtube %}https://youtu.be/LqOiXWrtZME{% endyoutube %}

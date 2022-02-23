@@ -76,4 +76,4 @@ md5sum -c fichero_md5_descargado.md5
 
 La información relativa a la descarga y comprobación de la iso la puedes encontrar en la siguiente **píldora formativa**:
 
-{% youtube %}https://youtu.be/ex9G7ZXGEt4{% endyoutube %}
+{% youtube %}https://youtu.be/Ma8p4F-m37Y{% endyoutube %}

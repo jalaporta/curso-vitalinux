@@ -30,3 +30,6 @@ De igual forma ocurre con los programas, aplicaciones o software que tenga el eq
 <br><br>
 En definitiva, la congelación es a efectos de datos de usuario, no a efectos de programas instalados.  Su pretensión es mantener el equipo limpio de datos que haya almacenado el usuario en el equipo y no queramos que perduren en él (<i>archivos descargados, documentos abiertos, imágenes o vídeos guardados, etc.</i>).  Para almacenar estos datos en los centros <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> ya se dispone del servicio o recurso de <b>Carpetas Compartidas</b> el cual permite que tanto los alumnos como los profesores puedan almacenar sus datos de manera centralizada, estando de esta forma disponibles y accesibles desde cualquier equipo <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> o Windows del centro.
 {% endnotificacion_alert %}
+
+La **píldora formativa de Sistemas de Congelación** contiene informacióna adicional que puede resultar de interés para el curso
+{% youtube %}https://youtu.be/it4b1h-n6Hs{% endyoutube %}

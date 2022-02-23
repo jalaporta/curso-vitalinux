@@ -12,6 +12,3 @@ Para saber más sobre LibreOffice, las aplicaciones que incluye y sus posibilida
 -  [Wiki en Español de LibreOffice](https://es.wikipedia.org/wiki/LibreOffice)
 -  [Extensiones oficiales de LibreOffice](http://extensions.libreoffice.org/extension-center)
 
-Como en ocasiones <i><b>más vale un buen videotutorial que mil palabras</b></i> a continuación se sugiere ver el <a href="https://youtu.be/aFhaICBs3Z4">siguiente vídeo relacionado con la compatibilidad entre Libreoffice y Microsoft Office</a>:
-
-{% youtube %}aFhaICBs3Z4{% endyoutube %}

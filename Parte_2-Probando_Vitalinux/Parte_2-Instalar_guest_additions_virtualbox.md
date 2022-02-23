@@ -31,4 +31,4 @@ Solo nos queda **reiniciar**.
 
 Puedes encontrar un ejemplo de como instalar las Guest Addtions en un Vitalinux instalado como máquina virtual de VirtualBox en la píldora formativa de *Probando Vitalinux en un entorno virtual*:
 
-{% youtube %}https://youtu.be/Xe33hHQZnj8{% endyoutube %}
+{% youtube %}https://youtu.be/A1oaYfYfV7U{% endyoutube %}
