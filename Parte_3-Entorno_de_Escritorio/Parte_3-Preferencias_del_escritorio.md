@@ -56,4 +56,4 @@ Personalización de la Apariencia del Entorno de Ventanas
 {% endcoolimages_type2 %}
 
 En la píldora formativa del **Entorno de Escritorio** podremos encontrar un ejemplo gráfico mas detallado de lo que hemos hablado en eśte tema.
-{% youtube %}https://youtu.be/9rm3Vi9zAK0{% endyoutube %}
+{% youtube %}https://youtu.be/mpwK40LuNE0{% endyoutube %}

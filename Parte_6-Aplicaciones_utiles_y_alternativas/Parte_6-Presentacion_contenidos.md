@@ -14,4 +14,4 @@ Para seguir el curso y complementar las tareas propuestas en esta parte del curs
 {% endpanel %}
 
 La **píldora formativa de Aplicaciones base y Utilidades** contiene informacióna adicional que puede resultar de interés para el curso
-{% youtube %}https://youtu.be/tHhJ434-bmo{% endyoutube %}
+{% youtube %}https://youtu.be/-NLMUxWaJIU{% endyoutube %}

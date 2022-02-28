@@ -32,4 +32,4 @@ En definitiva, la congelación es a efectos de datos de usuario, no a efectos de
 {% endnotificacion_alert %}
 
 La **píldora formativa de Sistemas de Congelación** contiene informacióna adicional que puede resultar de interés para el curso
-{% youtube %}https://youtu.be/it4b1h-n6Hs{% endyoutube %}
+{% youtube %}https://youtu.be/KgSv8lPswfE{% endyoutube %}
