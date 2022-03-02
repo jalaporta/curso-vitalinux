@@ -65,7 +65,7 @@ cd Descargas
 md5sum -c fichero_md5_descargado.md5
 ```
 
--  Si usamos **Windows**, podemos descargarnos el programa [winmd5free](http://wiki.vitalinux.educa.aragon.es/isos/WinMD5.exe). Lo ejecutamos y seguiremos unos sencillos pasos:
+-  Si usamos **Windows**, podemos descargarnos el programa [winmd5free](https://wiki.vitalinux.educa.aragon.es/isos/winmd5free.zip). Lo ejecutamos y seguiremos unos sencillos pasos:
     1.  Ejecuta el programa y busca el archivo del cual deseas comprobar su integridad (<i>p.e. *.iso</i>)
     1.  El programa comprobará el fichero y generará un **resumen** o **hash** resultante 
     1.  Abre con un <b>Bloc de Notas</b> el fichero con extensión MD5 que descargaste que contiene el **resumen MD5** del archivo original (<i>p.e. *.iso.md5</i>).<br>
