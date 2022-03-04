@@ -29,6 +29,26 @@ A continuación elige la opción de <b>Seleccionar área que capturar</b> y capt
 </li>
 </ol>
 <br>
+
+<li>
+Una caractéristica muy importante a señalar de Vitalinux es la facilidad para localizar archivos que hayamos guardado en nuestro <b>HOME</b>.  Simplemente tecleando <b>CONTROL + ESPACIO</b> y escribiendo el nombre del archivo o directorio que queramos buscar/localizar, se nos ofrecerá la opción de abrirlo.  Para comprobarlo:
+<ol type="A">
+<li>
+Abre el explorador de archivos (<i>Tecla Windows + E</i> o tecleando <i>CONTROL + ESPACIO y escribiendo Explorador de Archivos</i>).
+</li>
+<li>
+Entra en el direcorio <b>Documentos</b> que está dentro de tu HOME y crea un direcorio llamado <b>curso</b>.  Para crearlo simplemente pincha con el botón derecho del ratón sobre el explorador de archivos y elige la opción <b>Crear nuevo => Carpeta</b>, estando dentro del directorio <b>Documentos</b>.  A su vez, entra dentro del directorio <b>curso</b> que acabas de crear y crea dentro de él un subdirectorio que se llame <b>aularagon</b>.  Por último, entra en el subdirectorio <b>aularagon</b> y crea un archivo que se llame <b>tarea-curso-aularagon.odt</b> pinchando con el botón derecho del ratón y elegiendo la opción <b>Crear nuevo => Archivo vacío</b>.  Al terminar este subapartado habrás creado la siguiente estructura dentro del sistema de archivos: <b>HOME/Documentos/curso/aularagon/tarea-curso-aularagon.odt</b>.
+</li>
+<li>
+El sistema Vitalinux chequea cada 30 minutos el HOME del usuario para comprobar que nuevos archivos y directorios se han creado para ofrecerlos al usuario cuando este los busque.  Para no tener que esperar ese tiempo vamos a reinicar el Entorno de Escritorio y así actualizarlo.  Para ello teclea <b>CONTROL + ESPACIO</b> y escribe <b>Reiniciar Entorno de Escritorio</b>.
+</li>
+<li>
+Por último, comprueba lo rápido que puedes localizar un archivo o directorio que tengas ubicado dentro de tu HOME tecleando <b>CONTROL + ESPACIO</b> y el nombre o patrón de búsqueda: <i>tarea, curso o aularagon</i>.
+</li>
+</ol>
+</li>
+<br>
+
 <li>
 Con la finalidad de <b>comprender el uso de permisos</b> en <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> realiza las siguientes acciones:
 <ol type="A">
