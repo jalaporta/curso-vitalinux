@@ -64,7 +64,7 @@ Entre sus características cabría destacar:
 
 Para interactuar con **Vitalinux Play** simplemente debemos lanzarlo pulsando la combinación **CONTROL+ESPACIO** y escribir **Vitalinux Play**.
 
-![Almacén de Software Educativo - Vitalinux Play](../img/parte5/synaptic.png "Almacén de Software Educativo - Vitalinux Play")
+![Almacén de Software Educativo - Vitalinux Play](../img/parte5/vx-migasfree-play.png "Almacén de Software Educativo - Vitalinux Play")
 
 ### 4. Mediante migasfree
 
