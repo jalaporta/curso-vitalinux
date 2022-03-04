@@ -53,6 +53,7 @@
 * [Listado de Aplicaciones](Parte_5-Gestion_del_Software/Parte_5.3_listado_aplicaciones.md)
 * [Formas de Instalación](Parte_5-Gestion_del_Software/Parte_5.4_instalacion_y_codigofuente.md)
 * [Synaptic: El Gestor de Software](Parte_5-Gestion_del_Software/Parte_5-Gestor_de_software_synaptic.md)
+* [Vitalinux Play: Almacén de Aplicaciones Educativas](Parte_5-Gestion_del_Software/Parte_5-Vitalinux_play.md)
 * [Aplicaciones Windows sobre Vitalinux](Parte_5-Gestion_del_Software/Parte_5-Aplicaciones_windows_sobre_vitalinux.md)
 * [Tarea 5.1: Gestión de Software mediante Synaptic, WinE y PlayOnLinux](Parte_5-Gestion_del_Software/Parte_5-Tarea_5.1.md)
 * [Cliente Migasfree](Parte_5-Gestion_del_Software/Parte_5-Cliente_migasfree.md)
