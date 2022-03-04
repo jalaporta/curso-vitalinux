@@ -5,7 +5,7 @@ formatoentrega='En un documento ofimático escribe y pega las fotos o capturas d
 <br>
 Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna <b>Begoña Sánchez Mañas</b>, debería nombrar esta tarea como: <b>sanchez_manas_begona_Tarea5.1.pdf</b>' %}
 
-En la presente tarea repasaremos como <b>instalar y desinstalar aplicaciones</b> nativas de Linux y Windows (si fuera necesario...pero hay que considerar alternativas libres siempre!) mediante <b>Synaptic</b> y/o <b>Wine</b>.  Para ello seguiremos los siguientes pasos:
+En la presente tarea repasaremos como <b>instalar y desinstalar aplicaciones</b> nativas de Linux y Windows (si fuera necesario...pero hay que considerar alternativas libres siempre!) mediante <b>Synaptic</b>, <b>Vitalinux Play</b> y/o <b>Wine</b>.  Para ello seguiremos los siguientes pasos:
 <br><br>
 <ol>
 
@@ -47,6 +47,12 @@ Como en ocasiones <i>más vale un buen videotutorial que mil palabras</i> a cont
 </li>
 </ul>
 <br><br>
+
+<li>
+Gestión de Software desde <b>Vitalinux Play</b>.  Abre la aplicación <b>Vitalinux Play</b>, busca aplicaciones por nivel escribiendo en el campo de búsqueda <b>primaria/secundaria/bachillerato</b>, o por área escribiendo algún patrón tipo <b>matemáticas/música/tecnología</b>, e instala/desinstala la aplicación que te parezca.  Comprueba lo cómodo que instalar software desde este almacén.
+<li>
+<br><br>
+
 <li>
 Tal como se ha explicado en la parte teórica <b>WinE</b> surge con la finalidad de suavizar al usuario final el paso de <b>Microsoft Windows</b> a <b>Linux</b> permitiéndonos la instalación y ejecución de programas creados para Windows en Linux/Vitalinux. De esta forma, en caso de no encontrar ninguna alternativa en software libre a las aplicaciones privativas que usamos en Windows (<i>siempre es aconsejable buscar software alternativo de código libre/abierto</i>), gracias a Wine, vamos poder instalar y trabajar con nuestra aplicación Windows. A modo de ejemplo, como tarea se propone instalar un programa de Windows en Vitalinux:
 </li>
