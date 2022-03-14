@@ -66,6 +66,18 @@ Mediante la siguiente tarea nos familiarizaremos con una de las características
 <li>Aunque no es una <b>acción programada del Explorador de Archivos</b>, pero relacionado con lo anterior, lanza la aplicación <b>SIR</b> (<i>Simple Image Resizer</i>), tecleando <b>CONTROL+ESPACIO</b> y escribiendo <b>SIR</b>, y prueba a realizar alguna operación masiva sobre imágenes: generar imagenes miniatura, cambiar formato, cambiar tamaño, etc.
 </li>
 
+<li>
+En este apartado nos gustaría destacar que <b>desde Vitalinux seguimos dando soporte a aplicaciones Flash/SWF</b>.  Es decir, a finales del año 2020 las principales compañías de software (<i>Microsoft, Google, Firefox, etc.</i>) decretaron el fin del soporte/reproducción de sitios Webs con contenidos Flash por posibles problemas de seguridad, debiendo rehacerse éstas en formato HTML5 por parte de los creadores.  Tras advertir que muchos centros educativos de infantil y primaria eran dependientes de este tipo de formatos Flash/SWF, desde Vitalinux se hizo un esfuerzo para seguir reproduciéndolos.  Para comprobarlo, te sugerimos lo siguiente:
+<ol>
+<li>
+Descarga el siguiente archivo comprimido en Vitalinux, <a href="http://migasfree.educa.aragon.es/cosas-centros/curso-aularagon/juegos-flash-swf.zip">Juegos Flash</a>, descomprímelo y prueba a ejecutar mediante un doble click alguno de los archivos Flash que contiene.
+</li>
+<li>
+Teclea <b>CONTROL + ESPACIO</b> y escribe <b>Abrir Web o Fichero con contenidos Flash</b>.  En el asistente que te aparecerá selecciona la opción <b>URL sitio Web con Flash</b>, y escribe como URL alguna página tradicional de recursos educativos que siga teniendo sus contenidos en Flash (<i>p.e. http://www.ceiploreto.es, es una web por defecto</i>).
+</li>
+</ol>
+</li>
+
 <li>Por último, indica alguna funcionalidad que te gustaría que estuviera incluida dentro del Explorador de Archivos, y que actualmente no esta implementada.  <b>¡¡Esto nos puede servir a los que desarrollamos <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> para mejorarlo!!</b>
 </li>
 
