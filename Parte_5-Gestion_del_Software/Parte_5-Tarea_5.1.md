@@ -50,12 +50,12 @@ Como en ocasiones <i>más vale un buen videotutorial que mil palabras</i> a cont
 
 <li>
 Gestión de Software desde <b>Vitalinux Play</b>.  Abre la aplicación <b>Vitalinux Play</b>, busca aplicaciones por nivel escribiendo en el campo de búsqueda <b>primaria/secundaria/bachillerato</b>, o por área escribiendo algún patrón tipo <b>matemáticas/música/tecnología</b>, e instala/desinstala la aplicación que te parezca.  Comprueba lo cómodo que instalar software desde este almacén.
-<li>
+</li>
 <br><br>
 
 <li>
 Tal como se ha explicado en la parte teórica <b>WinE</b> surge con la finalidad de suavizar al usuario final el paso de <b>Microsoft Windows</b> a <b>Linux</b> permitiéndonos la instalación y ejecución de programas creados para Windows en Linux/Vitalinux. De esta forma, en caso de no encontrar ninguna alternativa en software libre a las aplicaciones privativas que usamos en Windows (<i>siempre es aconsejable buscar software alternativo de código libre/abierto</i>), gracias a Wine, vamos poder instalar y trabajar con nuestra aplicación Windows. A modo de ejemplo, como tarea se propone instalar un programa de Windows en Vitalinux:
-
+</li>
 <ol type="A">
 <li>
 Localiza algún instalador de alguna aplicación Windows (*.exe) con la que estés muy familiarizado, de la que no encuentras una alternativa libre en Vitalinux, y que por tanto, que te gustaría contar con ella en Vitalinux. En caso de no disponer de ninguna te proponemos a modo de ejemplo <a href="https://migasfree.educa.aragon.es/cosas-centros/windows-software/sebran/sebran.zip">Sebran</a> (<i>12 juegos infantiles para la iniciación a lectoescritura y matemáticas</i>), <a href="https://migasfree.educa.aragon.es/cosas-centros/windows-software/tinycad/TinyCAD_3.00.02.zip">TinyCAD</a> (<i>diagramas de circuitos electrónicos</i>), <a href="https://migasfree.educa.aragon.es/cosas-centros/windows-software/CROCCLIP/CROCCLIP.zip">crocodile</a> (<i>simulación circuitos electrónicos</i>), <a href="https://migasfree.educa.aragon.es/cosas-centros/windows-software/relatran/setup.zip">relatran</a> (<i>simulador de mecanismos</i>) o <a href="https://migasfree.educa.aragon.es/cosas-centros/windows-software/convertall/convertall-0.8.0-install-user.zip">convertall</a> (<i>conversor entre magnitudes físicas</i>) [<i>Una vez descargado el archivo ZIP lo podrás descomprimir y extraer el .exe pinchando con el botón derecho del ratón sobre el fichero ZIP y seleccionado la opción de descomprimir</li>].
@@ -104,7 +104,6 @@ A priori, <b>Wine no nos garantiza un 100% de probabilidad de que una aplicació
 </li>
 <li>
 Al igual que en Windows, y a diferencia de Linux, para instalar una aplicación sobre Wine previamente tenemos que buscarla por Internet, fiarnos de ella, y descargarla. En ocasiones, el software de Windows que nos descargamos esta <b>infectado</b> o realiza acciones que desconocemos poniendo en <b>jaque</b> a nuestro sistema.
-</li>
 </li>
 
 </ol>
