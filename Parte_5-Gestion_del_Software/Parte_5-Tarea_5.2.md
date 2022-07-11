@@ -11,17 +11,16 @@ En concreto, mediante la realización de la siguiente tarea se pretende comprend
 <br><i>Nota:Para la realización de ésta tarea es imprescindible que el equipo tenga conexión a Internet, ya que nos estamos comunicando con el servidor migasfree del proyecto</i>
 <ol>
 <li>
-<b>Cliente <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Migasfree</tt></span></b>. Una vez se inicia sesión en Vitalinux abre la <b>consola del cliente <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Migasfree</tt></span></b> y observa los mensajes que se producen. Para poder moverte con el <b>"scroll"</b> (<i>arriba y abajo</i>) deberás esperar a que termine el proceso. Haz dos capturas de pantalla:
+<b>Cliente <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Migasfree</tt></span></b>. Una vez se inicia sesión en Vitalinux abre la <b>consola del cliente <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Migasfree</tt></span></b> y observa los mensajes que se producen. Para poder moverte con el <b>"scroll"</b> (<i>arriba y abajo</i>) deberás esperar a que termine el proceso.  Durante la sincronización con Migasfree se ejecutan un conjunto de scripts/programas/fallas que lo personalizan, y se instalan/desinstalan/actiualizan programas/software.  La ejecución de las fallas y la actualización del software del sistema se lleva a cabo durante el primer inicio de sesión gráfico que se realice a lo largo del día.  Si tu equipo Vitalinux arranca a lo largo del día más de una vez, por defecto, omitirá las acciones anteriores.  Para fozar todas estas acciones de forma manual debes pinchar con el botón del ratón sobre el icono de Migrasfree ubicado en el panel inferior y elegir la opción referente a forzar una actualización contra Migasfree.  Haz dos capturas de pantalla correspondientes a:
 </li>
     <ol type="A">
     <li>
-    Donde aparezca el momento de la actualización en el que <b><span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Migasfree</tt></span> ajusta por seguridad los permisos de los directorios personales</b> a través de una falla: <b>CONF-SOFT-AJUSTAR-PERMISOS-HOME</b>
+    Cuando se ejecuta a través de <b><span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Migasfree</tt></span></b> la falla <b>CONF-SOFT-GENERAL</b> en cargada de aplicar configuraciones generales que pueden resultar interesantes para todos los usuarios de Vitalinux.
     </li>
     <li>
-    Cuando <b><span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Migasfree</tt></span> da la orden de actualizar el sistema</b>
+    Cuando <b><span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Migasfree</tt></span> da la orden de actualizar el software del sistema</b>.
     </li>
     </ol>
-
 <li>
 Comprobación de <b>Etiquetas <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Migasfree</tt></span></b>. Comprueba que etiquetas asignaste cuando hiciste la post-instalación. Si no marcaste ninguna, lo cual es posible al marcar que ibas a usar el equipo fuera del entorno educativo, estará marcada la etiqueta de <b>ENT-CASA</b>. Haz una captura de pantalla con dicho listado. Más tarde asignaremos otra para instalar software.  <b>Importante</b>: Si sólo quieres conocer las <b>etiquetas Migasfree</b> del equipo puedes teclear <b>CONTROL+ESPACIO</b> y teclear <b>Consultar y comprobar etiquetas migasfree</b>, pero si quieres tener una información más completa de la configuración de red y etiquetado <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Migasfree</tt></span> de tu Vitalinux puedes teclear <b>CONTROL+ESPACIO</b> y escribir <b>Información Global del Sistema</b>
 </li>
