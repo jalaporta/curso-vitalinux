@@ -5,7 +5,7 @@ formatoentrega='En un documento ofimático escribe y pega las fotos o capturas d
 <br>
 Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna <b>Begoña Sánchez Mañas</b>, debería nombrar esta tarea como: <b>sanchez_manas_begona_Tarea5.1.pdf</b>' %}
 
-En la presente tarea repasaremos como <b>instalar y desinstalar aplicaciones</b> nativas de Linux y Windows (si fuera necesario...pero hay que considerar alternativas libres siempre!) mediante <b>Synaptic</b> y/o <b>Wine</b>.  Para ello seguiremos los siguientes pasos:
+En la presente tarea repasaremos como <b>instalar y desinstalar aplicaciones</b> nativas de Linux y Windows (si fuera necesario...pero hay que considerar alternativas libres siempre!) mediante <b>Synaptic</b>, <b>Vitalinux Play</b> y/o <b>Wine</b>.  Para ello seguiremos los siguientes pasos:
 <br><br>
 <ol>
 
@@ -47,12 +47,18 @@ Como en ocasiones <i>más vale un buen videotutorial que mil palabras</i> a cont
 </li>
 </ul>
 <br><br>
+
+<li>
+Gestión de Software desde <b>Vitalinux Play</b>.  Abre la aplicación <b>Vitalinux Play</b>, busca aplicaciones por nivel escribiendo en el campo de búsqueda <b>primaria/secundaria/bachillerato</b>, o por área escribiendo algún patrón tipo <b>matemáticas/música/tecnología</b>, e instala/desinstala la aplicación que te parezca.  Comprueba lo cómodo que instalar software desde este almacén.
+</li>
+<br><br>
+
 <li>
 Tal como se ha explicado en la parte teórica <b>WinE</b> surge con la finalidad de suavizar al usuario final el paso de <b>Microsoft Windows</b> a <b>Linux</b> permitiéndonos la instalación y ejecución de programas creados para Windows en Linux/Vitalinux. De esta forma, en caso de no encontrar ninguna alternativa en software libre a las aplicaciones privativas que usamos en Windows (<i>siempre es aconsejable buscar software alternativo de código libre/abierto</i>), gracias a Wine, vamos poder instalar y trabajar con nuestra aplicación Windows. A modo de ejemplo, como tarea se propone instalar un programa de Windows en Vitalinux:
 </li>
 <ol type="A">
 <li>
-Localiza algún instalador de alguna aplicación Windows (*.exe) con la que estés muy familiarizado, de la que no encuentras una alternativa libre en Vitalinux, y que por tanto, que te gustaría contar con ella en Vitalinux. En caso de no disponer de ninguna te proponemos a modo de ejemplo <a href="http://migasfree.educa.aragon.es/cosas-centros/windows-software/sebran/sebran.exe">Sebran</a> (<i>12 juegos infantiles para la iniciación a lectoescritura y matemáticas</i>), <a href="http://migasfree.educa.aragon.es/cosas-centros/windows-software/tinycad/TinyCAD_3.00.02.exe">TinyCAD</a> (<i>diagramas de circuitos electrónicos</i>), <a href="http://migasfree.educa.aragon.es/cosas-centros/windows-software/CROCCLIP/CROCCLIP.EXE">crocodile</a> (<i>simulación circuitos electrónicos</i>), <a href="http://migasfree.educa.aragon.es/cosas-centros/windows-software/relatran/setup.exe">relatran</a> (<i>simulador de mecanismos</i>) o <a href="http://migasfree.educa.aragon.es/cosas-centros/windows-software/convertall/convertall-0.8.0-install-user.exe">convertall</a> (<i>conversor entre magnitudes físicas</i>).
+Localiza algún instalador de alguna aplicación Windows (*.exe) con la que estés muy familiarizado, de la que no encuentras una alternativa libre en Vitalinux, y que por tanto, que te gustaría contar con ella en Vitalinux. En caso de no disponer de ninguna te proponemos a modo de ejemplo <a href="https://migasfree.educa.aragon.es/cosas-centros/windows-software/sebran/sebran.zip">Sebran</a> (<i>12 juegos infantiles para la iniciación a lectoescritura y matemáticas</i>), <a href="https://migasfree.educa.aragon.es/cosas-centros/windows-software/tinycad/TinyCAD_3.00.02.zip">TinyCAD</a> (<i>diagramas de circuitos electrónicos</i>), <a href="https://migasfree.educa.aragon.es/cosas-centros/windows-software/CROCCLIP/CROCCLIP.zip">crocodile</a> (<i>simulación circuitos electrónicos</i>), <a href="https://migasfree.educa.aragon.es/cosas-centros/windows-software/relatran/setup.zip">relatran</a> (<i>simulador de mecanismos</i>) o <a href="https://migasfree.educa.aragon.es/cosas-centros/windows-software/convertall/convertall-0.8.0-install-user.zip">convertall</a> (<i>conversor entre magnitudes físicas</i>) [<i>Una vez descargado el archivo ZIP lo podrás descomprimir, y extraer el archivo ejecutable .exe, pinchando con el botón derecho del ratón sobre el fichero ZIP y seleccionado la opción de descomprimir</li>].
 </li>
 <li>
 Pincha con el botón derecho del ratón sobre el archivo instalador anterior e indica que quieres abrirlo con <b>WinE</b> (<i>Cargador de programas de Windows</i>) o lo puedes lanzar también con doble-click. Comprobarás que a continuación se configurará Wine (acepta si te pide instalar complementos o librerías adicionales) y comenzará su instalación al estilo Windows (<i>siguiente, siguiente, siguiente, ...</i>). Es decir, instala la aplicación como si estuvieras en Windows.
@@ -99,65 +105,6 @@ A priori, <b>Wine no nos garantiza un 100% de probabilidad de que una aplicació
 <li>
 Al igual que en Windows, y a diferencia de Linux, para instalar una aplicación sobre Wine previamente tenemos que buscarla por Internet, fiarnos de ella, y descargarla. En ocasiones, el software de Windows que nos descargamos esta <b>infectado</b> o realiza acciones que desconocemos poniendo en <b>jaque</b> a nuestro sistema.
 </li>
-<!-- 
-<li>
-Con la finalidad de evitar lo anterior surge en Linux el software <b>PlayOnLinux</b>. Éste se caracteriza por:
-</li>
-<ul>
-<li>
-<b>Dispone de un repositorio público de aplicaciones Windows ya testeadas y comprobadas</b>, al estilo Linux. De esta forma, tan sólo tenemos que elegir que programa deseamos instalar y <b>PlayOnLinux</b> hará el resto:
-</li>
 
-<ol type="1">
-<li>
-<b>PlayOnLinux se conectará con sus repositorios de Internet para buscar el software deseado</b>. Gracias a esto no tendremos que ir por Internet perdiendo el tiempo buscando software en Sitios Webs como Softtonic o equivalentes.
-</li>
-<li>
-<b>Descargará de forma desatendida la última versión de ese software que haya sido testeado y comprobado</b>. Gracias a ello no tendremos que desconfiar en lo que nos estamos instalando, además de asegurarnos de que ese software va a funcionar correctamente en Linux sobre <b>PlayOnLinux</b>.
-</li>
-</ol>
-
-<li>
-En caso de que el software que deseamos instalar no este disponible en los <b>repositorios de PlayOnLinux</b> tendremos la opción de instalarlo igualmente al estilo Wine, pero con la ventaja de que <b>podemos instalar y configurar la versión de Wine que nos interese</b>, además de poder instalar de forma muy sencilla los parches y librerías de Windows que puedan ser requeridos.
-</li>
-</ul>
-<li>
-Para comprobar su funcionamiento se propone llevar a cabo la siguiente tarea (<i>si te surgen dudas observa el siguiente Videotutorial donde se muestra las acciones a realizar</i>):
-</li>
-<ol type="1">
-<li>
-Haciendo uso de <b>Synaptic</b> instala <b>PlayOnLinux</b> en tu <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> (<i>CONTROL + ESPACIO y escribes Synaptic</i>)
-</li>
-<li>
-Una vez instalado, abre la aplicación: <b>CONTROL+ESPACIO</b> y escribes <b>PlayOnLinux</b>.
-</li>
-<li>
-Selecciona la opción de Instalar un programa en <b>PlayOnLinux</b>.
-</li>
-
-<br><div class="container">
-<img class="coolimage" src="../img/vitalinux-interfaz-playonlinux.png" alt="Imagen no Localizada">
-<div class="imagetext_type2"><i>Img:</i> <tt>Aspecto de PlayOnLinux</tt></div>
-</div><br>
-
-<li>
-Una vez en la ventana referente al <b>Menú de Instalación de PlayOnLinux</b>, navega entre las diferentes categorías de aplicaciones que te proporciona <b>PlayOnLinux</b>: Accesorios, Educación, Juegos, Desarrollo, etc. Si encuentras alguna aplicación que te interese, selecciónala e instálala. En caso de que no reconozcas ninguna de ellas, te proponemos buscar en instalar un software de Windows educativo que se usa en los centros: <b>Graph</b> (<i>o elige cualquier otra que desees</i>)
-</li>
-
-<br><div class="container">
-<img class="coolimage" src="../img/vitalinux-menu-de-instalacion-playonlinux.png" alt="Imagen no Localizada">
-<div class="imagetext_type2"><i>Img:</i> <tt>PlayOnLinux dispone de múltiples programas Windows para seleccionar e instalar</tt></div>
-</div><br>
-
-<li>
-Como en ocasiones <b>más vale un buen videotutorial que mil palabras</b> a continuación se sugiere ver el <a href="https://youtu.be/wULZ-xa3Om0">siguiente vídeo relacionado con este asunto</a>:
-
-<br><div style='text-align: center;'>
-<iframe width='560' height='315' src='https://www.youtube.com/embed/wULZ-xa3Om0' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>
-</div>
-
-</li>
-
-</ol> -->
 </ol>
 {% endnotificacion_task %}

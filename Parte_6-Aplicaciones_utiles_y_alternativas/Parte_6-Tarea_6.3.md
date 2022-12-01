@@ -17,6 +17,22 @@ En la presente tarea se van a mostrar algunos de los servicios que pueden config
 <b>Congelación únicamente del Escritorio</b>: Etiqueta migasfree <b>"SRV-CONGELARESCRITORIO"</b>
 </li>
 <ol>
+
+<li>
+Antes de proceder a etiquetar al equipo para la congelación del Escritorio es fundamental comprender las diferencias entre <b>reiniciar, resetear y regenerar el Entorno de Escritorio</b>.
+<ol type="A">
+<li>
+<b>Reiniciar Entorno de Escritorio</b>.  Utilidad que permite reiniciar y actualizar el Entorno de Escritorio.  Puede resultar útil cuando queremos actualizarlo ante algún cambio de configuración, o cuando el Entorno de Escritorio o Explorador de Archivos se quedan colgados.  Esta acción reinicia todos los elementos que componen el Entorno de Escritorio y cierra el Explorador de Archivos en el caso de que esté iniciado.  Teclea <b>CONTROL + ESPACIO</b>, escribe <b>Reiniciar Entorno de Escritorio</b> y comprueba su efecto.
+</li>
+<li>
+<b>Resetear Entorno de Escritorio</b>.  Utilidad que permite reiniciar y eliminar cualquier configuración adicional que se haya realizado al Entorno de Escritorio.  Es decir, es similar a la acción anterior de reiniciar a la cual se le suma la purga de cualquier configuración personal que se haya hecho.  Puede resultar útil cuando queremos regresear al Entorno de Escritorio que viene de serie tras probar a modificar su aspecto o apariencia.  Es importnate señalar que esta utilidad no elimina ficheros o directorios creados por el usuario dentro del Escritorio.  Para comprobar su efecto, modifica la apariencia del Entorno de Escritorio y posteriormente teclea <b>CONTROL + ESPACIO</b>, escribe <b>Resetear Entorno de Escritorio</b>.
+</li>
+<li>
+<b>Regenerar Entorno de Escritorio</b>.  Utilidad que permite resetear el Entorno de Escritorio y eliminar cualquier tipo de archivo o directorio que el usuario haya almacenado en el Escritorio.  De esta forma, esta utilidad devuelve el Entorno de Escritorio al estado inicial tras la instalación de Vitalinux.  Esta es la acción que se desencadena en los equipos Vitalinux al apagarse cuando un centro o un usuario decide congelar el Escritorio.  Para comprobar su efecto, modifica la apariencia del Entorno de Escritorio, crea algún archivo/directorio en el Escritorio y posteriormente teclea <b>CONTROL + ESPACIO</b>, escribe <b>Regenerar Entorno de Escritorio</b>.
+</li>
+</ol>
+</li>
+
     <li>
     Para poder asignar la etiqueta necesaria para la congelación del Escritorio deberemos modificar las etiquetas que tenga asignadas actualmente el equipo:  <b>CONTROL+ESPACIO</b> y teclear <b>Modificación de Etiquetas</b>.  Una vez abierto el diálogo de asignación deberemos marcar la etiqueta <b>"SRV-CONGELARESCRITORIO"</b>
     </li>

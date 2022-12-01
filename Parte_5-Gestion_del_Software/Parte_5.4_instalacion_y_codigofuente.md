@@ -8,9 +8,10 @@ Una vez que sabemos qué aplicación queremos usar/probar, vamos a instalarla. P
 
 1. Centro de Software
 2. Synaptic
-3. Mediante migasfree
-4. Manualmente mediante un paquete deb. Forma gráfica
-5. Línea de comandos. Instalación de aplicaciones de un repo o directamente descagando el deb
+3. Vitalinux Play
+4. Mediante migasfree
+5. Manualmente mediante un paquete deb. Forma gráfica
+6. Línea de comandos. Instalación de aplicaciones de un repo o directamente descagando el deb
 
 En la mayoría de los casos, deberemos hacer uso de una cuenta con permisos de administración para poder instalar/desinstalar software. En el caso de Vitalinux por ejemplo, la cuenta de profesor y dga tienen por defecto permisos de administración.
 
@@ -51,7 +52,21 @@ También es posible emplear el botón **Buscar** para encontrar los paquetes que
 
 En todos los casos, los cambios surtirán efecto una vez que hagamos clic sobre el botón de **Aplicar**.
 
-### 3. Mediante migasfree
+### 3. Vitalinux Play
+
+Con la finalidad de que los usuarios de Vitalinux (***docentes y estudiantes***) puedan localizar, proponer e instalar/desinstalar aplicaciones educativas se ha creado la aplicación **Vitalinux Play**.  Ésta herramienta tiene catalogadas las apliaciones más afamadas dentro del mundo educativo.  En el caso de no encontrar en este almacén alguna aplicación de la cual se tiene constancia de que esta disponible para Linux, puede informarse de ello a los técnicos informáticos del proyecto Vitalinux a través del email **soportevitalinux@educa.aragon.es** con la finalidad de que la incluyan.
+
+Entre sus características cabría destacar:
+
+-  Permite al usuario instalar/desinstalar aplicaciones educativas sin necesidad de credenciales, con la finalidad de que sea un proceso lo más eficiente posible.
+-  Las aplicaciones se encuentran categorizadas por niveles educativos: ***infantil, primaria, secundaria, bachillerato, etc**.  Esto permite filtrar las aplicaciones disponibles por el nivel educativo escriéndolo en el campo de búsqueda.
+-  En la descripción de las aplicaciones se ha tratado de indicar la materia o área donde suelen ser utilizadas (***matemáticas, música, tecnología, etc.***), permitiendo de esta forma filtrarlas fácilmente escribiendo dicho patrón en el campo de búsqueda.
+
+Para interactuar con **Vitalinux Play** simplemente debemos lanzarlo pulsando la combinación **CONTROL+ESPACIO** y escribir **Vitalinux Play**.
+
+![Almacén de Software Educativo - Vitalinux Play](../img/parte5/vx-migasfree-play.png "Almacén de Software Educativo - Vitalinux Play")
+
+### 4. Mediante migasfree
 
 Como ya se ha dicho en varias ocasiones, una caracterísitica que vamos a encontrar en **Vitalinux** y que le diferencia del resto de distribuciones Linux actuales, es que incorpora un **cliente Migasfree** gestionado de forma centralizada y personlaziado por cada centro educativo, a demanda y de formma dinámica.  En concreto, este cliente Migasfree garantiza que cada vez que arranca Vitalinux EDU DGA y tras iniciar sesión, se establece una comunicación con el servidor [Migasfree del programa de **Software Libre** de la DGA](http://migasfree.edcuca.aragon.es), y a través de dicha comunicación Vitalinux deja en manos de **Migasfree** la configuración del equipo en cuanto a personalización y software: Migasfree provocará en el equipo Vitalinux todo aquello que se le haya encomendado previamente por el propio centro, y en concreto:
 
@@ -69,7 +84,7 @@ En definitiva, **cualquier aspecto que se pueda configurar vía software, se pue
 
 ¿Y cómo sabe qué tiene  que hacer en cada equipo, si son muchos centros y cada uno usa un software diferente? A grandes rasgos, **Migasfree** tiene identificado al equipo Vitalinux en base a un identificador unívoco llamado **CID** y a un conjunto de **Etiquetas Migasfree** que se le pueden asignar. Cada centro puede personalizar así sus sistemas, y recibe la asesoría correspondiente entrando en el **programa de Asesoramiento del Proyecto Vitalinux**.
 
-### 4. Forma manual
+### 5. Forma manual
 
 De forma manual, dependerá de como nos faciliten el software:
 
@@ -81,7 +96,7 @@ De forma manual, dependerá de como nos faciliten el software:
 
 Veamos un ejemplo de cada:
 
-#### 4.1 Paquetes deb
+#### 5.1 Paquetes deb
 
 ![Descarga Software](../img/parte5/downloaddeb.png "Descargando Software")
 
@@ -95,7 +110,7 @@ Veamos un ejemplo de cada:
 
 Es posible también encontrar url's en páginas web que directamente apuntan al paquete deb mediante un protocolo para instalar, siempre que sigamos el link desde un equipo Linux. Lo podremos probar en el [listado de aplicaciones](./Parte_5.3_listado_aplicaciones.md) mostrado.
 
-#### 4.2 Ficheros AppImage
+#### 5.2 Ficheros AppImage
 
 En el caso de ficheros AppImage, procederemos a descargarlo igualmente. En éste ejemplo, el nombre sería nootka-1.7.3-beta3-b3917-x86_64.AppImage, indicando que es para una arquitectura de 64 bits
 
@@ -117,7 +132,7 @@ Es importante que demos **permisos de ejecución** al fichero descargado para po
 
 Hay otras tecnologías de distribución de softare como pueden ser Snap y Flatpak, que se están abriendo camino. Puedes [consultar más información aquí por ejemplo sobre snap aquí](https://itsfoss.com/use-snap-packages-ubuntu-16-04/)
 
-### 5. Línea de comandos
+### 6. Línea de comandos
 
 Mediante la línea de comandos, podemos instalar software, desinstalar, comprobar, buscar...usando los repositorios que tenemos configurados.
 Antes ya hemos visto algo con obs-studio. Veamos un ejemplo mas completo de acciones que puedes hacer

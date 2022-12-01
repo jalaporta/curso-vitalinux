@@ -97,7 +97,7 @@ Busca la extensión llamada <b>"MultiFormatSave"</b>, descárgala (<i>extensión
 A continuación abre por ejemplo <b>LibreOffice Writer</b>, escribe algo y comprueba que en el menú <b>"Archivo"</b> aparece una nueva opción llamada <b>"Multi Save"/"Multi Save As"</b>
 </li>
 <li>
-Selecciona la opción <b>"Multi Save"</b> e indica que quieres guardar el resultado en un subdirectorio que crearás dentro de <b>Documentos</b> llamado <b>misDocs</b>, eligiendo como nombre para el archivo tu nombre y apellidos (*p.e. Arturo_Martin_Romero*).  <b>¡¡¡Guárdalo en todos los formatos disponibles!!!</b>
+Selecciona la opción <b>"Multi Save"</b> e indica que quieres guardar el resultado dentro de <b>Documentos</b> (<i>o donde tú creas conveniente</i>), eligiendo como nombre para el archivo tu nombre y apellidos (<i>p.e. Arturo_Martin_Romero</i>).  <b>¡¡¡Guárdalo en todos los formatos disponibles!!!</b>
 </li>
 
 <br><div class="container">
