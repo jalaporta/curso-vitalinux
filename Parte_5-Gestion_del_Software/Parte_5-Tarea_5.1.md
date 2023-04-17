@@ -81,7 +81,7 @@ Abre el <b>Explorador de Archivos</b> (Tecla Windows+E), y asegurandote que est�
 Entre los <b>directorios ocultos</b> verás uno que se llama </b>.wine</b>. En este directorio se encuentra toda la configuración y recreación de un sistema Windows y todos sus programas instalados a través de wine. Entra en él y comprueba que aparece la estructura de un disco "<b>C:/</b>" al estilo Windows. Si se eliminara este directorio oculto </b>.wine</b>, estaríamos eliminando todo el sistema de archivos Windows recreado en Linux como las aplicaciones Windows instaladas.
 </li>
 <li>
-Comprueba que puedes desinstalar la aplicación usando el propio desinstalador de la aplicación. Para ello, teclea "<b>CONTROL+ESPACIO</b>" y escribiendo "<b>Desinstalar Sebran</b>" (si habéis instalado Sebran) y nos aparecerá una ventana o interfaz que nos permitirá desinstalar el software instalado.
+Comprueba si el instalador de la aplicación de Windows que habéis instalado proporciona un desinstalador tecleando "<b>CONTROL+ESPACIO</b>" y escribiendo "<b>Desinstala</b>".  En caso afirmativo, prueba a desinstalarla.  En caso de que no exista un desinstalador específico, teclea "<b>CONTROL+ESPACIO</b>" y escribe "<b>Wine Control</b>", lo que te permitirá hacer uso de la clásica herramienta de Wiondows para "<b>Agregar/Quitar Programas</b> <i>(de Windows)</i>".
 </li>
 <li>
 Como en ocasiones <i>más vale un buen videotutorial que mil palabras</i> a continuación se sugiere ver el siguiente vídeo relacionado con este asunto:
