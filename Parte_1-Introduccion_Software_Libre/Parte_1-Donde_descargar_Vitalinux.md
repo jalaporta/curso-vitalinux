@@ -18,16 +18,20 @@ Una vez hayamos descargado la imagen ISO de Vitalinux, antes de hacer uso de ell
 {% notificacion_important title='Área de Descargas de Vitalinux' %}
 Desde él <a href="http://wiki.vitalinux.educa.aragon.es/index.php/P%C3%A1gina_principal/Materiales_e_im%C3%A1genes">Área de Descargas</a> podrás descargar el sistema Vitalinux EDU DGA en sus diferentes formatos, siendo estos:
 
+<p>
 
 <ol>
 <li>
-<b>Imágenes ISO de Vitalinux 2.0 </b>.  Se trata de la última versión y siempre <b>será la preferente</b>. Tras descargar estas imágenes ISOS podrás crear un <b>DVD o USB arrancable</b> que te permitirá probar Vitalinux en modo Live o directamente instalar el sistema en un equipo informático.
+<b>Imágenes ISO de Vitalinux 3.0 </b>.  Se trata de la última versión y siempre <b>será la preferente</b>. Tras descargar estas imágenes ISOS podrás crear un <b>USB (o DVD si fuera el caso) arrancable</b> que te permitirá probar Vitalinux en modo Live o directamente instalar el sistema en un equipo informático.
 </li>
 <li>
-<b>¿64 o 32 bits?</b>. Deberás seleccionar la arquitectura de tu ordenador. Por norma general, y si no lo sabes, será de <b>64 bits</b>. Si tu ordenador no lo soporta, el propio instalador te lo dirá
+<b>Imágenes ISO de Vitalinux 2.0 </b>.  Se trata de la versión anterior a la actual, pero aún mantenida. Por defecto no se recomienda y solo será necesaria en casos muy concretos: problemas con ciertos periféricos o hardware muy antiguos y específicos ya que la versión 3.0 funciona en equipos antiguos (ojo, siempre que sean de 64 bits).
 </li>
 <li>
-<b>Imágenes ISO de Vitalinux 1.0 </b>.  Se trata de la versión antigua. Por defecto no se recomienda y solo será necesaria en casos muy concretos: problemas con ciertos periféricos o hardware muy antiguos y específicos, la versión 2.0 funciona en equipos del siglo pasado.
+<b>¿64 o 32 bits?</b>. Deberás seleccionar la arquitectura de tu ordenador. Por norma general, y si no lo sabes, será de <b>64 bits</b> (Vitalinux 3.x <b>SOLO</b> estará disponible en éste formato). Si tu ordenador no lo soporta, el propio instalador te lo dirá y deberás instalar la versión de 32 bits.
+</li>
+<li>
+<b>Imágenes ISO de Vitalinux 1.0 </b>.  Se trata de la versión muy antigua. No usar, solo está por cuestiones históricas.
 </li>
 </ol>
 

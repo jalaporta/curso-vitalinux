@@ -2,7 +2,7 @@
 <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> es un sistema operativo similar a <i>Microsoft Windows</i> o <i>Android</i> que nos va a permitir trabajar con nuestro equipo informático (<i>pc sobremesa, portatil, tablet o dispositivo móvil</i>) con aplicaciones iguales o similares a las que normalmente utilizamos (<i>Mozilla Firefox, Google Chrome, LibreOffice, etc.</i>), pero con la gran diferencia de que el <b>software es libre</b>, de <b>código abierto</b>.  En concreto, <span style='color: darkblue; font-weight: 600'; font-size: 120%;>Vitalinux</span>, al igual que <b>Android</b>, no es un sistema operativo que nace desde cero, sino que esta basado y tiene sus raíces en otro sistema operativo llamado <b>GNU/Linux</b>.  Más concretamente, <span style='color: darkblue; font-weight: 600'; font-size: 120%;>Vitalinux</span> esta basado en la <b>versión ligera del sistema operativo GNU/Linux Ubuntu</b>, del cuál podríamos destacar entre otras muchas carácterísticas estas tres:
 <ul>
 <li> Es un sistema operativo libre</li>
-<li> Al basarse en la versión ligera de Ubuntu llamada <b>Lubuntu</b> se garantiza que el <b>tiempo de respuesta</b> del equipo sea <b>el menor posible</b></li>
+<li> Al basarse en la versión ligera de Ubuntu llamada <b>Xubuntu</b> se garantiza que el <b>tiempo de respuesta</b> del equipo sea <b>el menor posible</b></li>
 <li> <b>Incorpora un cliente Migasfree</b> </li>
 A continuación se detallan cada una de estas tres características.
 {% endnotificacion_important %}
@@ -51,7 +51,7 @@ De esto modo, gracias a ser un proyecto de software libre se garantiza que sea d
 
 ### 2 Vitalinux esta basado en un Sistema Operativo muy Ligero
 
-Al basarse en la versión ligera de Ubuntu llamada **Lubuntu** se garantiza que el **tiempo de respuesta** del equipo sea **el menor posible**. Es decir, permite que equipos antiguos con pocos recursos hardware puedan ser funcionales, ya que el sistema base (*sin arrancar ninguna aplicación de Escritorio*) tan sólo requiere unos 200MB de memoria RAM (*Windows 10 requiere 2.000MB=2GB*). De esta forma, si lo miramos desde el punto de vista opuesto, si tenemos un equipo actual (*varios Gigas de memoria RAM, un procesador de última generación, etc.*) el uso de un sistema operativo de estas características hará que el equipo “vuele”, siendo más eficiente y aprovechando mejor el rendimiento de la máquina, en comparación con otros sistemas operativos.
+Al basarse en la versión ligera de Ubuntu llamada **Xubuntu** se garantiza que el **tiempo de respuesta** del equipo sea **el menor posible**. Es decir, permite que equipos antiguos con pocos recursos hardware puedan ser funcionales, ya que el sistema base (*sin arrancar ninguna aplicación de Escritorio*) tan sólo requiere unos 200MB de memoria RAM (*Windows 10 requiere 2.000MB=2GB*). De esta forma, si lo miramos desde el punto de vista opuesto, si tenemos un equipo actual (*varios Gigas de memoria RAM, un procesador de última generación, etc.*) el uso de un sistema operativo de estas características hará que el equipo “vuele”, siendo más eficiente y aprovechando mejor el rendimiento de la máquina, en comparación con otros sistemas operativos.
 
 
 
