@@ -22,20 +22,18 @@ En el año 2014 la **Diputación General de Aragón *(DGA)*** inicia en modo pil
 
 Como resultado de esa iniciativa surge el sistema operativo {{book.vitalinux}}, basado por completo en <b>código abierto</b>, con el cual podremos familiarizarnos a través del siguiente curso (<a href="https://catedu.github.io/curso-vitalinux/">URL del eBook</a>)
 
-Actualmente {{book.vitalinux}} se encuentra en su versión 2.2 con **13700** instalaciones realizadas, y con **9328** instalaciones de su versión anterior 1.0 (***dato extraidos de migasfree.educa.aragon.es el 14 de noviembre del 2021***), y oficialmente es usado en más de 100 centros públicos de la Comunidad Autónoma de Aragón (***centros de Educación Infantil y Primaria, centros de Enseñanza Secundaria Obligatoria, Colegios Rurales Agrupados y Centros Públicos de Educación de Personas Adultas***): <a href="https://wiki.vitalinux.educa.aragon.es/index.php?title=P%C3%A1gina_principal/Centros_participantes">Mapa Oficial Centros Vitalinux</a>.
+Actualmente {{book.vitalinux}} se encuentra en su versión 3.x con **3300** instalaciones realizadas, **12000** en la versión anterior 2.x y con **6000** instalaciones en la versión obsoleta 1.0 (***dato extraidos de migasfree.educa.aragon.es el 5 de noviembre del 2023***), y oficialmente es usado en más de 120 centros públicos de la Comunidad Autónoma de Aragón (***centros de Educación Infantil y Primaria, centros de Enseñanza Secundaria Obligatoria, Colegios Rurales Agrupados y Centros Públicos de Educación de Personas Adultas***): <a href="https://wiki.vitalinux.educa.aragon.es/index.php?title=P%C3%A1gina_principal/Centros_participantes">Mapa Oficial Centros Vitalinux</a>.
 
-Antes de empezar el curso, y a modo de curiosidad mostraremos unas gráficas que nos informan del estado y uso de {{book.vitalinux}} y el Software Libre en nuestra Comunidad Autónoma.  Comenzaremos mostrando una gráfica que nos muestra cuantos equipos pasan a Vitalinux cada año.  Como puede observarse, el mejor año hasta ahora fue el 2017 y 2021 donde entraron a formar parte de la comunidad Vitalinux **3786 y 3826 nuevos ordenadores respectivamente**, sin desdeñar otros años como el 2019 donde lo hicieron **3644 nuevos ordenadores**.  Señalar que en este año 2022, ya han migrado a Vitalinux **2934 nuevos ordenadores** y aún no se ha iniciando de forma masiva el despliegue de los 11 nuevos centros de éste curso.
+Antes de empezar el curso, y a modo de curiosidad mostraremos unas gráficas que nos informan del estado y uso de {{book.vitalinux}} y el Software Libre en nuestra Comunidad Autónoma.  Comenzaremos mostrando una gráfica que nos muestra cuantos equipos pasan a Vitalinux cada año.  Como puede observarse, el mejor año hasta ahora fue el 2021 donde entraron a formar parte de la comunidad Vitalinux **3000 nuevos ordenadores respectivamente**.  Señalar que en este año 2023, ya han migrado a Vitalinux **2400 nuevos ordenadores** y aún no se ha iniciando de forma masiva el despliegue de los 9 nuevos centros de éste curso.
 
-![Número de equipos que migran a Vitalinux anualmente](img/parte1/vx-graficas-migasfree/vx-migasfree-grafica-equipos-nuevos-2022-12.png)
+![Número de equipos que migran a Vitalinux anualmente](img/parte1/vx-graficas-migasfree/vx-migasfree-grafica-equipos-nuevos-2023-11.png)
 
 Otras gráficas interesantes pueden ser las que nos informe del número de equipos Vitalinux que se arrancan diariamente y por mes.  Eso nos dará una idea del uso que se hace de Vitalinux en los centros educativos. Como podrá observarse los equipos Vitalinux en los centros no se arrancan todos los días (***salas de informática, equipos miniportátiles, equipos de aula, etc.***).
 
-![Número de equipos que arrancan diariamente](img/parte1/vx-graficas-migasfree/vx-grafica-migasfree-equipos_sincronizados_diariamente_2111.png)
+![Número de equipos que arrancan diariamente](img/parte1/vx-graficas-migasfree/vx-grafica-migasfree-equipos_sincronizados_diariamente_2311.png)
 
-![Número de equipos que arrancan al mes](img/parte1/vx-graficas-migasfree/vx-grafica-migasfree-equipos_sincronizados_mensualmente_2212.png)
+![Número de equipos que arrancan al mes](img/parte1/vx-graficas-migasfree/vx-grafica-migasfree-equipos_sincronizados_mensualmente_2311.png)
 
 {% notificacion_important title='¡Migasfree es la clave!' %}
 Es muy importante señalar/recalcar que el éxito del <b>Programa de Software Libre Vitalinux</b> es <b>Migasfree</b>, ya que sin este servicio de <b><em>gestión masiva de equipos de manera remota y desatendida</em>, Vitalinux</b> no sería más que otro sistema operativo más. Más adelante veremos someramente todas las bondades de <b>Migasfree</b>.
 {% endnotificacion_important %}
-
-
