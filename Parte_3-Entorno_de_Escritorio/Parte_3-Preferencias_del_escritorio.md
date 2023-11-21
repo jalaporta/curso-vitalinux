@@ -11,13 +11,13 @@
 
 El **Entorno de Escritorio** de <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> es lo que se observa en la pantalla o monitor de nuestro equipo al iniciar una sesión gráfica en el sistema, y se caracteriza por permanecer siempre de fondo.  Como podrá apreciarse una vez iniciado <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, este **Entorno de Escritorio** no difiere en gran medida de los Escritorios clásicos de Windows a los que todos estamos acostumbramos a trabajar.
 
-![Partes del Entorno de Escritorio de Vitalinux](../img/Escritorio-fondo-partes.png)
+![Partes del Entorno de Escritorio de Vitalinux](../img/parte3/3.1.entornos_de_escritorio.png)
 
 En concreto, dentro del **Escritorio** pueden diferenciarse las siguientes partes importantes:
 
 *  **Wallpaper** o imagen de fondo de Escritorio
 *  **Accesos Directos** de Escritorio o también llamados **lanzadores de aplicaciones**
-* **Panel Inferior** compuesto por:
+* **Panel Inferior/Superior** compuesto por:
     * **Menú de Inicio**: Clásico menú de Inicio desplegable desde el cual podremos acceder a prácticamente todos los lanzadores de aplicaciones existentes en el sistema Vitalinux.  Estos lanzadores de aplicaciones, como podrá apreciarse, están clasificados y organizados en submenús, entre los cuales destacan: **Educación** (*lanzadores de aplicaciones Educativas*), **Oficina** (*lanzadores de aplicaciones Ofimáticas*), **Internet** (*lanzadores de aplicaciones relacionadas con Internet*) o **Vitalinux** (*lanzadores a aplicaciones creadas por el equipo de desarrollo de Vitalinux*).
     * **Lanzadores de Aplicaciones** más habituales.  Encontraremos lanzadores para poder abrir el **explorador de archivos del sistema**, un buscador de archivos, el editor de imágenes Gimp, la editor Ofimático Libreoffice Writer o el navegador Web Firefox.
     * **Área de notificación de aplicaciones abiertas**.  Por cada aplicación que tengamos abierta, aparecerá acceso a ella (*mediante ALT + TABULADOR podemos navegar entre las aplicaciones abiertas, al igual que en Windows).*
