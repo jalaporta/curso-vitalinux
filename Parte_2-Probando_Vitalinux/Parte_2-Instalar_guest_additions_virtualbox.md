@@ -18,11 +18,11 @@ La acción anterior lanzará un proceso en la máquina similar al de insertar un
 ![Guest Additions insertadas](../img/Guest_vbox2.png)
 
 
-Para instalarlo debemos **ejecutar el instalador con privelegios de administrador**. Podríamos hacerlo desde la consola, pero vamos a simplificarlo lanzando el proceso desde el navegador de archivos. Usando el botón derecho sobre el icono del CD de las GuestAdditions clickamos sobre la acción de Abrir como root. En algún momento del proceso el sistema nos pedirá credenciales del usuario dga o profesor (administradores en ése momento si no has creado otros usuarios). La contraseña de dichos usuarios por defecto es **careidga**
+Para instalarlo debemos **clickar donde indica Abrir Programa de autoejecución** el cual nos pedirá confirmación. Cuando clickemos en 2 (Ejecutar) el sistema nos pedirá credenciales del usuario dga o docente (administradores en ése momento si no has creado otros usuarios). La contraseña de dichos usuarios por defecto es **careidga**
 
 ![Abrir como root](../img/Guest_vbox3.png)
 
-Ahora podemos ejecutar (con doble click) el archivo que pone **"VBolsLinuxAdditions.run"**. Éste proceso lanzará una terminal que ejecutará lo necesario
+Se lanzará el proceso de instalación y debermos esperar hasta que nos indique que podemos cerrarlo pulsando la tecla Intro.
 
 ![Ejecutar Guest](../img/Guest_vbox4.png)
 

@@ -17,26 +17,24 @@ Este curso tiene muchas entregas de ficheros de capturas de pantalla. Procura en
 Es engorroso, lo sabemos, pero es la mejor manera de entregar la tarea de forma correcta y bien justificada.
 <hr />
 Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna <b>Begoña Sánchez Mañas</b>, debería nombrar esta tarea como: <b>sanchez_manas_begona_Tarea2.1.pdf</b>' %}
-<b>Recuerda: La pretensión de este curso NO es aprender a saber instalar un sistema operativo</b>, pero disponer de un equipo con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> instalado es requisito indispensable para poder continuar con los contenidos del curso.  Esta tarea tan sólo pretende que el participante del curso justifique de alguna forma de que dispone de un equipo, físico o virtual, con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> instalado para poder continuar con el curso.  Por tanto, tal como ya se ha explicado en el apartado referente a <em>¿Cómo Probar Vitalinux?</em>, tenemos las siguientes opciones:
+<b>Ésta tarea tan sólo pretende que el participante del curso justifique de alguna forma que dispone de un equipo, físico o virtual con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> instalado, para poder continuar con el curso.  Como ya se ha explicado en el apartado referente a <em>¿Cómo Probar Vitalinux?</em>, tienes las siguientes opciones:
 
 <ol>
 <li>
-Disponer de un equipo personal o del centro con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> ya instalado.  En éste caso, para la realización de la tarea <b>tan sólo será necesario hacer una foto al equipo</b> con el sistema opertivo iniciado...sencillo, no?
+Opción: Disponer de un equipo personal o del centro con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> ya instalado.  En éste caso, para la realización de la tarea <b>tan sólo será necesario hacer una foto al equipo</b> con el sistema opertivo iniciado y adjuntarla a la tarea. Puedes adjuntar la imagen o generar un pdf con la imagen...sencillo, no?
 </li>
 <li>
-En el caso que no dispongas de un equipo físico con Vitalinux ya instalado, y no quieras invertir tu tiempo en aprender y probar a instalar Vitalinux (<i>siguientes opciones</i>), te ofrecemos la opción de hacer el resto del curso a través de un equipo Vitalinux virtual al cual tendrás acceso a través de un navegador Web.  Para ello unicamente deberás indicárselo a través de la presente tarea al tutor del curso para que éste te de la dirección Web y credenciales de acceso.
-<br>
-<img src='../img/vx-vitalinux-guacamole.png' width='400'>
+Opción: En el caso que hacer uso de la opción de emplear un equipo Vitalinux virtual en la nube, al cual tendrás acceso a través de un navegador Web, deberás adjuntar una captura de pantalla del navegador con el Vitalinux arrancado, conforme a que te has puesto en contacto con el tutor y has podido acceder a la máquina virtual de forma existosa. Puedes mandar directamente la imagen o crear un pdf con la misma para adjuntarla a la tarea de eśta parte. 
 </li>
 <li>
-En defecto de lo anterior, instalar <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> sobre una máquina virtual de Virtualbox.  Para la realización de la tarea <b>tan solo será necesario algunas capturas del proceso de instalación de Vitalinux...y sobre todo una en la que aparezca la máquina arrancada con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> funcionando</b>. Esta opción es idónea ya que:
+Opción En defecto de lo anterior, deberás instalar <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> sobre una máquina virtual de Virtualbox.  Para la realización de la tarea <b>tan solo será necesario algunas capturas del proceso de instalación de Vitalinux...y sobre todo una en la que aparezca la máquina arrancada con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> funcionando</b>. Esta opción es idónea ya que:
 </li>
-
 <ul>
 <li><b>No es necesario crear ningún DVD o USB bootables</b> a partir de la imagen ISO</li>
 <li><b>No es necesario configurar la BIOS u opciones de arranque de la máquina</b> para que se inicie el proceso de instalación</li>
 <li><b>No es necesario dedicar un equipo equipo físico</b> para estos menesteres</li>
 <li>Nos va permitir trabajar con <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> de forma idéntica a una instalación en equipo físico</li>
+<li> Es una opción que no requiere tener acceso a internet para hacer uso de la máqiuna (cosa que para la opción 2 es requisito indispensable)</li>
 <br>
 Para hacer uso de <b>Virtualbox</b> deberemos seguir los siguientes pasos:
 <ol type="A">
@@ -54,11 +52,11 @@ Para hacer uso de <b>Virtualbox</b> deberemos seguir los siguientes pasos:
 <br>
 
 <li>
-En defecto de las dos opciones anteriores, se sugiere <b>crear un DVD/USB Bootable</b> e instalar <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> en un equipo físico. En éste caso, para la realización de la tarea al igual que para la opción 1, <b>tan sólo será necesario hacer una foto al equipo</b> con el sistema opertivo iniciado. Para ello deberemos seguir los contenidos teóricos de esta parte del curso.
+Opción: En defecto de las opciones anteriores y optar por instalar en un equipo físico, deberás  <b>crear un DVD/USB Bootable</b> e instalar <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> en un equipo. Para la realización de la tarea con ésta opcón al igual que para la opción 1, <b>tan sólo será necesario hacer una foto al equipo</b> con el sistema opertivo instalado y arrancado. Para ello deberemos seguir las siguientes indicaciones
 </li>
 <ul>
 <li>
-Graba la imagen <b>ISO de Vitalinux</b> en una <b>memoria USB</b> mediante algún software que te permita este proceso, como por ejemplo <b>UnetBootin</b>.
+Graba la imagen <b>ISO de Vitalinux</b> en una <b>memoria USB</b> mediante algún software que te permita este proceso, como por ejemplo <b><a href="https://etcher.balena.io/" Balena Etcher</a></b>.
 </li>
 <li>
 Posteriormente configura el <b>Boot Loader</b> de tu equipo para que en lugar de arrancar con el sistema que tienes instalado en el disco duro lo haga con el sistema disponible en el USB.  De esta forma se iniciará el proceso de instalación de <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>.
@@ -76,7 +74,7 @@ Con la finalidad de que el sistema se cargue y responda rápido se recomienda ha
 
 Si al final decidimos adentrarnos en un proceso de instalación (virtual o físico <i><b>y no queremos mantener el sistema antiguo...por ejemplo Windows</b></i>), **una vez se inicie el proceso de instalación aparecerá un menú de opciones de instalación** entre las cuales deberemos escoger la opción correspondiente a **una Instalación Desatendida**, la cual nos instalará <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> sin ser necesario estar pendientes del proceso de instalación:
 
-![Seleccionaremos la opción correspondiente a una Instalación Desatendida](../img/arranque-en-modo-live.png)
+![Seleccionaremos la opción correspondiente a una Instalación Desatendida](../img/vx-start-iso-unattended.png)
 
 {% notificacion_alert title='¿Proceso de Instalación Desatendida?' %}
 Si has elegido la opción de instalación <b>Desatendida</b>, debes advertir que el proceso de instalación <b>no es interactivo</b>, sino <b>desantendido</b>.  Es decir, no solicita ningún tipo de información al usuario, haciendo que la instalación de <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> sea muy trivial, posibilitando que durante el tiempo que se produce la instalación podamos invertirlo en otros menesteres.

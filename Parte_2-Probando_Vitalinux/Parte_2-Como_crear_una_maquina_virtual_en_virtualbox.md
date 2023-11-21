@@ -10,7 +10,7 @@ Una vez creada la máquina, tendremos que ir a configuración antes de poder arr
 
 En Configuración de la máquina vamos a la opción de Almacenamiento y seleccionamos la iso que queremos
 
-![Seleccionar ISO para VirtualBox](../img/Iso_virtualbox.png)
+![Seleccionar ISO para VirtualBox](../img/virtualbox-select-iso.png)
 
 También podriamos cambiar parámetros de Red y otros, pero de momento lo podemos dejar como está.
 
