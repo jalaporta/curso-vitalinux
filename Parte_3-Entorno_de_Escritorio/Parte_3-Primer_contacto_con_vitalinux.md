@@ -33,6 +33,6 @@ Además de la información que encontrarás en los subapartados siguientes de:
 - [Post-Instalación en un Centro Educativo](Parte_3-Entorno_de_Escritorio/Parte_3-Asistente_post_instalacion_centro_educativo.md)
 - [Post-Instalación en Entorno Casa](Parte_3-Entorno_de_Escritorio/Parte_3-Asistente_post_instalacion_entorno_casa.md)
 
-...puedes encontrar información de todo éste proceso en la **Píldora formativa de Post-Instalación de Vitalinux**:
+...puedes encontrar información de todo éste proceso en la  **Píldora formativa de Post-Instalación de Vitalinux**:
 
 {% youtube %}https://youtu.be/b7NRlR9JaXM{% endyoutube %}
