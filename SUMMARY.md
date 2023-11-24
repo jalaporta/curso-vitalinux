@@ -32,6 +32,8 @@
     - [Post-Instalación en Entorno Casa](Parte_3-Entorno_de_Escritorio/Parte_3-Asistente_post_instalacion_entorno_casa.md)
 * [Familiarizándonos con el Entorno de Escrito de Vitalinux](Parte_3-Entorno_de_Escritorio/Parte_3-Familiarizandonos_entorno_escritorio.md)
     * [Preferencias y Apariencia del Escritorio](Parte_3-Entorno_de_Escritorio/Parte_3-Preferencias_del_escritorio.md)
+    * [Personalización de Vitalinux 2.x](Parte_3-Entorno_de_Escritorio/Parte_3-Personalizacion_de_vitalinux_v2.md)
+    * [Personalización de Vitalinux 3.x](Parte_3-Entorno_de_Escritorio/Parte_3-Personalizacion_de_vitalinux_v3.md)
     * [Tarea 3.1: Post-Instalación y Personalización de Vitalinux](Parte_3-Entorno_de_Escritorio/Parte_3-Tarea_3.1.md)
     * [¿Cómo lanzar Aplicaciones?](Parte_3-Entorno_de_Escritorio/Parte_3-Como_lanzar_aplicaciones.md)
     * [Widgets del Escritorio](Parte_3-Entorno_de_Escritorio/Parte_3-Widgets_del_escritorio.md)    
