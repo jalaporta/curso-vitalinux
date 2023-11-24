@@ -10,7 +10,8 @@ En <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalin
 - [2 Mediante el **lanzador de Aplicaciones Synapse**](#DesdeLanzadorAplicacionesSynapse)
 - [3 Mediante la configuración de **Atajos de teclado**](#MedianteAtajosDeTeclado)
     - [3.1 Atajos de Teclado predefinidos en Vitalinux (*Lubuntu*)](#AtajosTecladoPredefinidosVitalinux)
-    - [3.2 Definir nuevos Atajos de Teclado](#DefinirAtajosTeclado)
+    - [3.2 Definir nuevos Atajos de Teclado en Vitalinux 3](#DefinirAtajosTeclado3)
+    - [3.2 Definir nuevos Atajos de Teclado en Vitalinux 2](#DefinirAtajosTeclado2)
 
 
 
@@ -18,13 +19,15 @@ En <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalin
 
 El **Menú de Inicio Clásico**  es el típico menú desplegable de Windows que puede desplegarse y acceder a sus aplicaciones pinchando con el botón izquierdo del ratón sobre el icono de **Vitalinux** que hay en la parte izquierda del panel inferior del Escritorio.  También puede desplegarse mediante el **Atajo de teclado** ***CONTROL+ESC***.
 
-![Menú Clásico de Aplicacionews de Vitalinux](../img/Lanzar-aplicaciones-menu-clasico.png)
+![Menú Clásico de Aplicaciones en Vitalinux 2](../img/Lanzar-aplicaciones-menu-clasico.png)
+
+![Menú Clásico de Aplicaciones en Vitalinux 3](../img/parte3/vx-3.2-menu_clasico_aplicaciones.gif)
 
 Una vez desplegado podrás comprobar que todos los lanzadores están clasificados por temática: **Internet, Oficina, Gráficos, Sonido y Video, etc.**
 
 ## Mediante el **lanzador de Aplicaciones Synapse/Albert** {#DesdeLanzadorAplicacionesSynapse}
 
-Sin lugar a dudas, el uso del **Lanzador de Aplicaciones Albert (en VX2.0) o Synapse (en VX 1.0)** es **la forma más aconsejable, rápida y eficiente** de lanzar aplicaciones. Para lanzar cualquier aplicación del sistema tan sólo tendrás que pulsar la combinación de teclas **CONTROL+ESPACIO** y a continuación escribir un texto relacionado con la aplicación que deseas lanzar: por ejemplo, **firefox, chrome, matar proceso, etc...**.  Además si tecleamos una **palabra clave** que esta en varias aplicaciones, pulsando la **flecha que apunta hacia abajo** se desplegarán todas las aplicaciones o documentos que la contengan.  Por ejemplo, si escribimos **Libreoffice** y pulsamos la **flecha hacia abajo** veremos todas las aplicaciones de la suite ofimática Libreoffice, alternativa a las Microsoft Office. Puedes probar si lo deseas a lanzar alguna aplicación para comprobar su eficiencia.
+Sin lugar a dudas, el uso del **Lanzador de Aplicaciones Albert** es **la forma más aconsejable, rápida y eficiente** de lanzar aplicaciones. Para lanzar cualquier aplicación del sistema tan sólo tendrás que pulsar la combinación de teclas **CONTROL+ESPACIO** y a continuación escribir un texto relacionado con la aplicación que deseas lanzar: por ejemplo, **firefox, chrome, matar proceso, etc...**.  Además si tecleamos una **palabra clave** que esta en varias aplicaciones, pulsando la **flecha que apunta hacia abajo** se desplegarán todas las aplicaciones o documentos que la contengan.  Por ejemplo, si escribimos **Libreoffice** y pulsamos la **flecha hacia abajo** veremos todas las aplicaciones de la suite ofimática Libreoffice, alternativa a las Microsoft Office. Puedes probar si lo deseas a lanzar alguna aplicación para comprobar su eficiencia.
 
 Albert además nos permite más funcionalidades:
 
@@ -33,7 +36,7 @@ Albert además nos permite más funcionalidades:
 * Se pueden realizar operaciones como si fuera una calculadora
 * Lanzar comandos como si estuviéramos en una terminal, escribiendo antes el símbolo >
 
-![Lanzador rápido y eficiente de Aplicaciones Albert](../img/Lanzar-aplicaciones-albert.png)
+![Albert: Lanzador de aplicaciones rápido y eficiente](../img/Lanzar-aplicaciones-albert.png)
 
 ## Mediante la configuración de **Atajos de teclado** {#MedianteAtajosDeTeclado}
 
@@ -61,9 +64,29 @@ Con la finalidad de aclarar visualmente la forma de lanzar aplicaciones, puedes 
 
 {% youtube %}https://youtu.be/hG4zBrFjK88{% endyoutube %}
 
-#### Opcional: Definir nuevos Atajos de Teclado {#DefinirAtajosTeclado}
+#### Opcional: Definir nuevos Atajos de Teclado en Vitalinux 3 {#DefinirAtajosTeclado3}
 
-Si quieres profundizar, a continuación se va a exponer cómo definir un nuevo atajo, de forma que cuando se pulsen la tecla Windows y la letra w por ejemplo (<i>sin soltar la tecla windows</i>) se inicie el Libreoffice Writer. Para definir éste nuevo atajo de teclado, tenemos en Vitalinux una aplicación instalada llamada <b>Obkey</b>. 
+El uso de atajos de teclado permite optimizar el uso del ordenador. A continuación se va a exponer cómo definir un nuevo atajo, de forma al pulsar la combinación de teclas <b>CONTROL+SHIFT+W</b> (<i>La tecla SHIFT es la tecla que se pulsa para escribir en mayúsculas</i>) se inicie la aplicación <b>Libreoffice Writer</b>. Para ello:
+
+<ol>
+<li>
+Teclea **CONTROL+ESPACIO** y escribe ***teclado***.  Se abrirá una ventana que te permitirá configurar todo lo relativo al teclado. 
+</li>
+<li>
+Selecciona la pestaña relativa a ***Atajos de las aplicaciones**, y pulsa en ***Añadir***.
+</li>
+<li>
+En la ventana de configuración la orden asociada al teclado escribe ***libreoffice --writer*** y acepta. A continuación deberás teclear la combinación de teclas asociadas al atajo: <b>CONTROL+SHIFT+W</b>
+</li>
+</ol>
+
+{% coolimages_type2 url_image='../img/parte3/vx-3.2-atajos-de-teclado.gif' %}
+Configuración de un atajo de teclado para lanzar libreoffice --writer
+{% endcoolimages_type2 %}
+
+#### Opcional: Definir nuevos Atajos de Teclado en Vitalinux 2 {#DefinirAtajosTeclado2}
+
+El uso de atajos de teclado permite optimizar el uso del ordenador. A continuación se va a exponer cómo definir un nuevo atajo, de forma que cuando se pulsen la tecla Windows y la letra w (<i>sin soltar la tecla windows</i>) se inicie el Libreoffice Writer. Para definir éste nuevo atajo de teclado, tenemos en <b>Vitalinux 2</b> una aplicación instalada llamada <b>Obkey</b>. 
 
 <ol>
 <li> Para lanzar la aplicación, nada más facil que teclear <b>CONTROL+ESPACIO</b> y escribir <b>atajos</b> y cuando veamos la aplicación <b>Configurar atajos con Obkey</b> pulsar Intro</li>
