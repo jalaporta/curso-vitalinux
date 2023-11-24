@@ -38,10 +38,10 @@ Tras llevar a cabo la <b>post-instalación</b> empezaremos a personalizar el <b>
 
 <ol type="A">
 <li>
-Accede a las <b>Preferencias del Escritorio</b> y modifica la <b>imagen de fondo del Escritorio</b>, y el <b>tamaño y fuente de la letra</b>. Comprueba las modificaciones realizadas, además de advertir que al tener <b>marcada</b> la casilla de <b>Iconos del Escritorio</b> referente a <b>Mostrar volúmenes conectados en el Escritorio</b>, al pinchar una memoria USB o introducir un DVD a Vitalinux estos si que aparecen en el Escritorio una vez han sido reconocidos por el sistema.
+Accede a las <b>Preferencias del Escritorio</b> y modifica la <b>imagen de fondo del Escritorio</b>, y algún otro parámetro como el <b>tamaño y fuente de la letra</b> o distribución de los accesos directos.
 </li>
 <li>
-<b>Configura el panel inferior</b> de tal forma que su anchura sea de tan sólo el 80% y que aparezca centrado.  En la pestaña de <b>Miniaplicaciones del panel</b> prueba a añadir un <b>Monitor de temperatura</b> situándolo al lado del <b>Control de Volumen</b>.
+<b>Configura el panel inferior/superior</b> de tal forma que su anchura sea de tan sólo el 80% y que aparezca centrado.  En la pestaña de <b>Miniaplicaciones del panel</b> (<i>vitalinux 2.x</i>) o <b>Elementos</b> (<i>vitalinux 3.x</i>) prueba a añadir o agregar un nuevo indicador.
 </li>
 <li>Accede a la <b>Personalización de la apariencia</b> de <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> y cambia el <b>tema de las ventanas e iconos</b> seleccionando alguno que te agrade.
 </li>
