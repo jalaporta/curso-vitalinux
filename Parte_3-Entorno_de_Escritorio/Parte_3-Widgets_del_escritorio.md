@@ -15,5 +15,5 @@ Un <b>Widget Conky</b> es un complemento de Escritorio que nos permite monitoriz
 <li>El nombre del <b>usuario</b> que ha iniciado sesión gráfica en el sistema</li>
 <li>El <b>nombre del equipo</b></li>
 
-![Widget informativo del Escritorio](../img/parte3/vx-3.x-2.x-widget_escritorio.png)
+![Widget informativo del Escritorio en Vitalinux 2 y 3](../img/parte3/vx-3.x-2.x-widget_escritorio.png)
 
