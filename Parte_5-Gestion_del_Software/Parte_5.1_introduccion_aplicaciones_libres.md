@@ -4,11 +4,11 @@ Dentro del ecosistema del Software en general, nos encontramos con la parte más
 
 ![ecosistema de aplicaciones](../img/parte5/aplicaciones_ecosistema.png "Ecosistema de Aplicaciones")
 
-Nos van a facilitar la realización de tareas complejas. A diferencia del sistema operativo, cuyo objetivo es gobernar el hardware y poner orden en la ejecución de los diferentes programas, las aplicaciones realizan funciones específicas. Gracias a ellas, podemos disponer de un centro ofimático, visualizar y editar imágenes, navegar por internet, hacer cálculos matemáticos complejos (o sencillos...). Existen aplicaciones sencillas o auténticas herramientas/suites complejas realizadas con miles o millones de líneas de código
+Nos van a facilitar la realización de tareas complejas. A diferencia del sistema operativo, cuyo objetivo es gobernar el hardware y poner orden en la ejecución de los diferentes programas, las aplicaciones realizan funciones específicas. Gracias a ellas podemos disponer de un centro ofimático, visualizar y editar imágenes, navegar por internet, hacer cálculos matemáticos complejos (o simples).... Existen aplicaciones sencillas o auténticas herramientas/suites complejas realizadas con miles o millones de líneas de código.
 
-Las aplicaciones no dejan de ser un **programa escrito en un lenguaje de programación** que realiza unas funcionalidades deseadas, pero podremos disponer de Apliacaciones Libres o Aplicaciones No Libres, Comerciales o No comerciales, de código abierto pero no libres (con una licencia restrictiva por ejemplo), gratuitas o de pago, y además compiladas (o disponibles) para ciertos sistemas operativos (y otros no) o incluso para solo algunas arquitecturas concretas (*por ejemplo 64 bits*)
+Las aplicaciones no dejan de ser un **programa escrito en un lenguaje de programación** que realiza unas funcionalidades deseadas. Podremos disponer de Aplicaciones Libres o Aplicaciones No Libres, Comerciales o No comerciales, de código abierto pero no libres (con una licencia restrictiva por ejemplo), gratuitas o de pago...Compiladas (o disponibles) para ciertos sistemas operativos (por ejemlo solo para MacOs) o incluso para algunas arquitecturas concretas (*64 bits*)
 
-En nuestro caso nos interesa profundizar en las aplicaciones libres. Las **razones**, tal como hemos hablado al principio son aplastantes en contraposición a las aplicaciones comerciales, y más en el ámbito de la educación:
+En nuestro caso nos interesa centrarnos y profundizar en las aplicaciones libres. Las **razones** para ello, tal como hemos hablado al principio, son aplastantes en contraposición a las aplicaciones comerciales o privativas sobre todo en el ámbito de la educación:
 
 * El código es **auditable**, garantía de que el código hace lo que tiene que hacer y no realiza acciones en segundo plano.
    Podemos modificar el código. Al tener disponible el código y poder modificarlo, podemos cambiar algo que no nos guste, personalizarlo e incluso involucrar a los alumnos en dicho proceso
@@ -28,4 +28,4 @@ Terminamos este apartado con una lectura necesaria sobre [porqué una instituci�
 5. **Ahorro de costes** que puede redundar en otras áreas con necesidad
 6. **Calidad**
 
-Veamos pues, qué aplicaciones y cómo tenerlas disponibles.
+Veamos pues qué aplicaciones y cómo tenerlas disponibles en nuestro Sistema Operativo **Vitalinux**.

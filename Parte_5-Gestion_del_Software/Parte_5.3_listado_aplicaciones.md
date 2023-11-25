@@ -2,7 +2,7 @@
 
 En este apartado vamos a presentar algunas de las aplicaciones libres más afamadas. En Vitalinux podemos disponer de todas las aplicaciones y utilidades que encontraríamos en cualquier otro Ubuntu, y muchas otras aplicaciones que no están disponibles por defecto.
 
-El ecosistema de aplicaciones disponibles puede llegar a ser abrumador. Descubre en los siguiente enlaces algunos ejemplos:
+El ecosistema de aplicaciones disponibles puede llegar a ser abrumador. Descubre en los siguientes enlaces algunos ejemplos:
 
 * [Linux Apps específicas para educación](https://www.linux-apps.com/browse/cat/544/order/latest/) ordenadas por fecha de publicación
 * [Blog desde Linux](https://blog.desdelinux.net/impresionante-lista-de-aplicaciones-y-herramientas-para-ubuntu-linux/)
@@ -20,7 +20,7 @@ Veamos algunos ejemplos de aplicaciones **disponibles**, por **categorías** y p
 
 Como Vitalinux se basa en Ubuntu, las **aplicaciones disponibles** para el sistema serán las que aparezcan en dicha rama. Pero desde el equipo de Vitalinux se ha configurado el sistema para que se **actualicen** algunas de éstas con versiones más modernas y tener disponibles **otras aplicaciones** que no están disponibles por defecto en Ubuntu:
 
-* **Libreoffice** (v.6.4): Suite ofimática para procesamiento de textos, hojas de cálculo, presentaciones o edición de documentos por imágenes como publisher. Se puede poner la visualización tipo ribbon (por pestañas).
+* **Libreoffice** (v.7.x): Suite ofimática para procesamiento de textos, hojas de cálculo, presentaciones o edición de documentos por imágenes como publisher. Se puede poner la visualización tipo ribbon (por pestañas).
 * **Navegadores** (Firefox, Chromium, Chrome, Brave, Midori...) y complementos Java actualizados.
   * Flash ha dejado de dar soporte, pero en Vitalinux se ha creado una herramienta para **lanzar recursos flash** mientras se sigan necesitando
 * Aplicaciones de almacenamiento en la nube
@@ -131,9 +131,11 @@ Los libros digitales suelen llevar licencias más cerradas de uso, pero desde Vi
 
   *Unsplash bank images*
 
-En la [siguiente página de la wiki](https://wiki.vitalinux.educa.aragon.es/index.php/Vitalinux/Ejemplo_uso_aplicaciones), podemos encontrar una tabla con Aplicaciones, clasificada por **Nivel Educativo** y **Posible Área de aplicación**, con una **descripción y experiencia** directa del propio profesor/coordinador.
+Mediante **Vitalinux Play** que verás en los siguientes apartados puedes ver y seleccionar aplicaciones demandadas en los centro educativos de Aragón, poníendolas de forma sencilla a disposición de cualquier usuario. La experiencia de otros centros en el uso de Vitalinux con determinadas Aplicaciones es clave y puedes obtener mas información en el [Foro del proyecto](https://soporte.vitalinux.educa.aragon.es/projects/vitallinux-dga-soporte/boards).
 
-Por otro lado, también podemos encontrar un listado categorizado de aplicacione educativas recomendadas en las Comunidad de Madrid para su [distribución MAX](https://www.educa2.madrid.org/web/max/-aplicaciones1).
+Además en la [siguiente página de la wiki](https://wiki.vitalinux.educa.aragon.es/index.php/Vitalinux/Ejemplo_uso_aplicaciones) podemos encontrar una tabla con Aplicaciones, clasificada por **Nivel Educativo** y **Posible Área de aplicación**, con una **descripción y experiencia** directa del propio profesor/coordinador, aunque ya algo obsoleta.
+
+Finalmente y a modo de ejemplo podemos encontrar un listado categorizado de aplicacione educativas recomendadas en las Comunidad de Madrid para su [distribución MAX](https://www.educa2.madrid.org/web/max/-aplicaciones1).
 
 ## 4. Equivalencias con aplicaciones conocidas
 

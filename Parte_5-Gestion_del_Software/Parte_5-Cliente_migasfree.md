@@ -4,15 +4,15 @@
 
 - [Cliente Migasfree](#cliente-migasfree)
   - [Contenido](#contenido)
-  - [Análisis de la comunicación con el Servidor Migasfree {#AnalisisComunicacionMigasFree}](#análisis-de-la-comunicación-con-el-servidor-migasfree-analisiscomunicacionmigasfree)
-    - [Interfaz {#Interfaz}](#interfaz-interfaz)
-    - [Análisis de la comunicación entre el Cliente y Servidor Migasfree {#AnalisisComunicacionClienteServidor}](#análisis-de-la-comunicación-entre-el-cliente-y-servidor-migasfree-analisiscomunicacionclienteservidor)
-    - [Forzar Actualización contra Migasfree {#ActualizacionContraMigasfreConsola}](#forzar-actualización-contra-migasfree-actualizacioncontramigasfreconsola)
-  - [Etiquetas Migasfree {#EtiquetasMigasfree}](#etiquetas-migasfree-etiquetasmigasfree)
-    - [¿Qué son y para qué sirven las etiquetas Migasfree? {#EtiquetasMigasfree}](#qué-son-y-para-qué-sirven-las-etiquetas-migasfree-etiquetasmigasfree)
-    - [Asignación de Etiquetas Migasfree {#AsignacionEtiquetasMigasfree}](#asignación-de-etiquetas-migasfree-asignacionetiquetasmigasfree)
-    - [Comprobación de Etiquetas Migasfree {#ComprobacionEtiquetasMigasfree}](#comprobación-de-etiquetas-migasfree-comprobacionetiquetasmigasfree)
-    - [Consideración especial {#ConsideracionEspecial}](#consideración-especial-consideracionespecial)
+  - [Análisis de la comunicación con el Servidor Migasfree](#AnalisisComunicacionMigasFree)
+    - [Interfaz](#Interfaz)
+    - [Análisis de la comunicación entre el Cliente y Servidor Migasfree](#AnalisisComunicacionClienteServidor)
+    - [Forzar Actualización contra Migasfree](#ActualizacionContraMigasfreConsola)
+  - [Etiquetas Migasfree](#EtiquetasMigasfree)
+    - [¿Qué son y para qué sirven las etiquetas Migasfree?](#EtiquetasMigasfree)
+    - [Asignación de Etiquetas Migasfree](#AsignacionEtiquetasMigasfree)
+    - [Comprobación de Etiquetas Migasfree](#ComprobacionEtiquetasMigasfree)
+    - [Consideración especial](#ConsideracionEspecial)
   - [Habilitar o deshabilitar el cliente](#habilitar-o-deshabilitar-el-cliente)
 
 **Vitalinux EDU DGA** lleva como sistema base un **Lubuntu** (<i>una de las versiones ligeras de ubuntu con escritorio LXDE</i>), una personalización al entorno educativo y lo más importante: un **cliente Migasfree**. Este cliente permite a Lubuntu comunicarse con un servidor central controlado por los técnicos informáticos del proyecto de Software Libre para que a través de éste puedan gestionarse todos los equipos <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>:
@@ -55,15 +55,11 @@ Después se lanza propiamente la comunicación con el servidor Migasfree. A cont
 
 Como hemos dicho, cuando la máquina arranca se desencadena el proceso anterior. Podemos ver que se está ejecutando a través del icono de la barra inferior de tareas. Si aparece el **triángulo verde** significa que se están realizando acciones en ese momento y que no se ha terminado la comunicación con el servidor Migasfree:
 
-{% coolimages_type2 url_image="../img/Migasfree-on.png" %}
-migasfree actualizando
-{% endcoolimages_type2 %}
+![Migasfree client - Actualizando](../img/parte5/migasfreeclient-play.png "Migasfree Client - Ejecución")
 
 Una vez haya terminado todo el proceso (*comprobaciones y posterior comunicación con el servidor*) podremos advertir que el icono referente a **Migasfree** cambia:
 
-{% coolimages_type2 url_image="../img/Migasfree-off.png" %}
-Servicio de actualización finalizado
-{% endcoolimages_type2 %}
+![Migasfree client - Finalizado](../img/parte5/migasfreeclient-end.png "Migasfree Client - Terminado")
 
 También podemos encontrarnos con otros iconos que nos indiquen otras situaciones: *es necesario reiniciar*, *se ha detectado un problema*, etc.  En el caso de visualizar estos otros iconos, podremos pulsar sobre dicho icono para que nos de más información.
 
@@ -71,13 +67,12 @@ También podemos encontrarnos con otros iconos que nos indiquen otras situacione
 Igualmente, si pulsamos sobre el **icono de Migasfree** podremos ver otras opciones como son:
 
 -  **Volver a lanzar el proceso de actualización**
--  **Ver la consola** (*detalles*)
+-  **Información Global** del equipo
+-  **Wiki** Acceder a la documentación oficial de Vitalinux
 -  **Conocer nuestra identificación**. El número que identifica al equipo de forma unívoca y que aparece en el Widget del escritorio como CID
--  **Obtener ayuda**
+-  **Ver la consola** (*detalles*)
 
-{% coolimages_type2 url_image="../img/Migasfree-options.png" %}
-Opciones del tray de migasfree
-{% endcoolimages_type2 %}
+![Migasfree client - opciones](../img/parte5/migasfreeclient-options.png "Migasfree Client - Menú de Opciones")
 
 ### Análisis de la comunicación entre el Cliente y Servidor Migasfree {#AnalisisComunicacionClienteServidor}
 
@@ -124,11 +119,9 @@ Por último, el servidor Migasfree registra o inventaria el cambio que se haya p
 
 A modo de curiosidad, para actualizar el equipo contra migasfree de una manera expicita, sin tener que esperar al próximo reinicio e inicio de sesión gráfica, deberemos llevar a cabo una de las dos siguientes acciones:
 
-* De manera gráfica: pinchando con el botón izquierdo del ratón sobre el <b>icono de Migasfree</b> situado en la parte derecha de la barra o panel inferior del entorno de Escritorio y seleccionar la opción de <b>Forzar actualización</b>.
+* De manera gráfica: pinchando sobre el <b>icono de Migasfree</b> situado en la parte derecha de la barra o panel del entorno de Escritorio y seleccionar la opción de <b>Forzar actualización</b>.
 
-{% coolimages_type2 url_image='../img/vx-forzar-actualizacion-migasfree.png' %}
-Forzar Actualización del equipo contra Migasfree de manera explícita
-{% endcoolimages_type2 %}
+![Migasfree client - Fozar Actualización](../img/parte5/migasfreeclient-forceupgrade.png "Migasfree Client - Forzar Actualización")
 
 * Desde la línea de comandos abriendo una terminal (<i>CONTROL+ALT+T</i>) y tecleando lo siguiente:
 
@@ -170,11 +163,7 @@ Un equipo puede tener marcadas las etiquetas <b>PRI-MICENTRO</b>, <b>PRI-MICENTR
 
 ### Asignación de Etiquetas Migasfree {#AsignacionEtiquetasMigasfree}
 
-Tras la instalación de Vitalinux en un equipo y en el caso de que haya conexión con Internet, la primera vez que se inicie en ese equipo una sesión gráfica se ejecutara una breve post instalación a través de la cual podremos asignarle al equipo las etiquetas que deseemos. En concreto, se nos mostrará la ventana siguiente:
-
-{% coolimages_type2 url_image="../img/014-sesion2-MIAS.png" %}
-
-{% endcoolimages_type2 %}
+Tras la instalación de Vitalinux en un equipo y en el caso de que haya conexión con Internet, la primera vez que se inicie en ese equipo una sesión gráfica se ejecutara una breve post instalación a través de la cual podremos asignarle al equipo las etiquetas que deseemos
 
 Entre las muchas etiquetas disponibles deberemos tener en cuenta lo siguiente para su asignación:
 
@@ -182,20 +171,14 @@ Entre las muchas etiquetas disponibles deberemos tener en cuenta lo siguiente pa
 -  **SRV-CONGELADORTOTAL:** Esta opción mantendrá congelado tanto el escritorio como el resto de directorios del perfil del usuario (Documentos, Imágenes, etc.). Dicha congelación se basa en la comparación entre lo que hay en los directorios del perfil del usuario y un patrón que se localiza en /etc/skel-directorios-congelados/, de tal forma que todo aquello que haya de más respecto al patrón es eliminado. Por tanto, para añadir cosas a los directorios del perfil del usuario será necesario modificar el patrón.
 -  **SRV-CARPETASCOMPARTIDAS**: Esta opción permite tener acceso a varias carpetas compartidas por el servidor caché que se localiza en los centros.
 -  **SRV-NAVEGADORINCOGNITO:** Esta etiqueta modificará el comportamiento de nuestros navegadores web (firefox y chrome), provocando que se incien en modo incógnito.
+-  **SRV-GIR-VIRTUALIZADO:** Esta etiqueta instalará la aplicación GIR, pero requiere de un equipo que soporte Virtualización. 
+-  **SRV-VIRTUABOX:** Esta etiqueta modificará instalará el software necesario para poder ejecutar máquinas virtuales con VirtualBox.
 -  **SRV-CONTROL-EQUIPOS-******: Esta etiqueta sirve para desplegar un servicio de control y herramientas de comunicación de aula con epoptes.
 -  **PRI/SEC-”Nombre del centro”:** Esta etiqueta permite indicar a qué centro pertenece el equipo, para que este pueda descargar el software y los recursos que le corresponden de una manera personalizada.
--  **ENT-ALUMNO:** Esta etiqueta indicará que el equipo está destinado al uso de los alumnos, asociándole un software específico.
--  **ENT-PROFESOR: **Esta etiqueta indicará que el equipo está destinado al uso de profesores, asociándole un software específico.
 
-Estas etiquetas podrán ser modificadas en cualquier momento si se desea, para ello deberemos ir a **Inicio → Vitalinux → MigaScrpts → Etiquetas → Modificación de Etiquetas**, o más fácilmente tecleando <b>CONTROL+ESPACIO</b> y escribir <b>Modificar etiquetas Migasfree</b>.
+Estas etiquetas podrán ser modificadas en cualquier momento si se desea, para ello deberemos ir a **Inicio → Vitalinux → Migasfree → Modificación de Etiquetas Migasfree**, o más fácilmente tecleando <b>CONTROL+ESPACIO</b> y escribir <b>Modificar etiquetas Migasfree</b>.
 
-{% coolimages_type2 url_image="../img/015-sesion2-MIAS.png" %}
-Es posible modificar las etiquetas Migasfree asignadas a un equipo a posteriori accediendo desde el Menú principal
-{% endcoolimages_type2 %}
-
-{% coolimages_type2 url_image="../img/vx-modificar-etiquetas-migasfree.png" %}
-Es posible modificar las etiquetas Migasfree asignadas a un equipo a posteriori accediendo desde Synapse
-{% endcoolimages_type2 %}
+![Modificar Etiquetas Migasfree](../img/parte5/modificar-etiquetas-migasfree.png "Es posible modificar las etiquetas Migasfree en cualquier momento")
 
 {% notificacion_alert title='¿Cuál es el etiquetado perfecto?', logotext='¡¡Aclaración!!' %}
 
@@ -218,9 +201,7 @@ Por lo general, si un centro ha realizado una correcta planificación del etique
 
 Al igual que podemos asignar las etiquetas mediante el ejectuable Modifiación de Etiquetas, podemos comprobar las etiquetas que tenemos con **Consultar y Comprobar Etiquetas Migasfree**
 
-{% coolimages_type2 url_image="../img/vx-consultar-etiquetas-migasfree.png" %}
-Se puede consultar las etiquetas Migasfee del equipo en cualquier momento
-{% endcoolimages_type2 %}
+![Comprobar Etiquetas Migasfree](../img/parte5/tags-consultar.png "Podemos consultar las etiquetas asignadas a nuestro equipo")
 
 ### Consideración especial {#ConsideracionEspecial}
 
@@ -233,15 +214,11 @@ Existe una etiqueta "especial", y es la denominada **ENT-CASA**. Dicha etiqueta 
 
 El cliente migasfree se arranca como hemos dicho de forma automática cada vez que arrancamos la máquina o iniciamos sesión. Es posible que nos interese en un momento dado deshabilitar ésta característica ya que por ejemplo estamos de viaje y no queremos consumir datos de nuestra conexión 3G, o nuestra red va muy lenta o por cualquier otro motivo. Para éstos casos podemos deshabilitar el cliente simplemente ejectuando CTRL-ESPACIO + Habilitar Deshabilitar...
 
-{% coolimages_type2 url_image="../img/Habilitar-clientemigas.png" %}
-hablitar o deshabilitar el cliente migasfree
-{% endcoolimages_type2 %}
+![Habilitar o deshabilitar el cliente Migasfree](../img/parte5/enable-disable-migasfree.png "Podemos habilitar o dehabilitar el cliente Migasfree")
 
 Mientras el equipo tenga deshabilitado el cliente, NO se recibirán actualizaciones de software, no se podrá actuar de forma automática y desatendida, y no se recibirán los errores que se produzcan.
 
-
 ***Recuerda pues habilitarlo de nuevo para tener éstas funcionalidades*** simplemente ejecutando de nuevo el programa.
-
 
 {% notificacion_important title='¡Migasfree nos facilita la reconstrucción del equipo!' %}
 Además de facilitarnos <b>Migasfree</b> la configuración de todo lo anterior, también nos facilitará en un futuro el que tengamos que formatear el equipo.  Es decir, <b>Migasfree</b> registra a los equipos quedandose con el identificador de su placa base, un identificador que es único para todo equipo (<i>sería como el DNI de los equipos, a nivel mundial</li>), lo que hace que cuando un equipo se tenga que formatear e instalar <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, éste será recordado por Migasfree y le asignará de manera automática la etiqueta Migasfree que ya tenía y toda su configuración asociada. De esta forma, <b>¡¡¡reconstruir un equipo ante un desastre es cuestión de minutos!!!</b>
