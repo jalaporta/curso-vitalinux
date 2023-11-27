@@ -54,7 +54,7 @@ Esto significa que fuera del perfil que le pertenece al usuario, este puede tene
 1.  Permiso de **ejecución**: en el caso de tratarse de un archivo, este permiso nos indica que si archivo es un programa vamos a poder ejecutarlo.  En el caso de tratarse de un directorio este permiso nos indica que podemos abrir/acceder a la carpeta.
 Para poder consultar **quien es propietario** de un directorio o archivo simplemente hay que pinchar con el botón derecho del ratón sobre él y seleccionar la opción **Propiedades**, y en la ventana que nos aparezca, pinchar sobre la **pestaña permisos**.
 
-{% coolimages_type2 url_image="../img/Sistema-archivos-propiedades-permisos.png" %}
+{% coolimages_type2 url_image="../img/parte4/vx-permisos_directorio.png" %}
 Pinchando con el botón derecho del ratón sobre un archivo o directorio podemos consultar sus Propiedades/permisos
 {% endcoolimages_type2 %}
 
