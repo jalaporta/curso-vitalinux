@@ -70,13 +70,13 @@ El uso de atajos de teclado permite optimizar el uso del ordenador. A continuaci
 
 <ol>
 <li>
-Teclea **CONTROL+ESPACIO** y escribe ***teclado***.  Se abrirá una ventana que te permitirá configurar todo lo relativo al teclado. 
+Teclea <b>CONTROL+ESPACIO</b> y escribe <b>teclado<b>.  Se abrirá una ventana que te permitirá configurar todo lo relativo al teclado. 
 </li>
 <li>
-Selecciona la pestaña relativa a ***Atajos de las aplicaciones**, y pulsa en ***Añadir***.
+Selecciona la pestaña relativa a <b>Atajos de las aplicaciones</b>, y pulsa en <b>Añadir</b>.
 </li>
 <li>
-En la ventana de configuración la orden asociada al teclado escribe ***libreoffice --writer*** y acepta. A continuación deberás teclear la combinación de teclas asociadas al atajo: <b>CONTROL+SHIFT+W</b>
+En la ventana de configuración la orden asociada al teclado escribe <b>libreoffice --writer</b> y acepta. A continuación deberás teclear la combinación de teclas asociadas al atajo: <b>CONTROL+SHIFT+W</b>
 </li>
 </ol>
 

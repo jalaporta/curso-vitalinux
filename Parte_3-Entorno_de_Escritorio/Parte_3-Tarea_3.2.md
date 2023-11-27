@@ -44,6 +44,9 @@ En ocasiones, al igual que en Windows, puede quedarse colgada alguna aplicación
 <li>
 Haz una breve reflexión, si lo consideras necesario, sobre la tarea realizada. Es importante advertir que hay aplicaciones que consumen prácticamente la misma cantidad de recursos que el propio sistema operativo (<i>los navegadores Web modernos Firefox o Chrome son un ejemplo de ello</i>).  Este es un aspecto sumamente importante ya que <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> es un <b>sistema operativo ligero</b> con la finalidad de poder reutilizar equipos antiguos, pero de poco sirve que el sistema operativo lo sea si las aplicaciones que lanzamos sobre él no lo son, el equipo se acabará saturando al poner al límite sus recursos (<i>memoria RAM o CPU</i>). Es decir, en equipos con pocos recursos además de hacer uso de un sistema operativo ligero también deberíamos hacer uso de aplicaciones que lo fueran (<i>existen alternativas ligeras a toda aplicación.  Por ejemplo, Midori es un navegador Web que sería una alternativa ligera a Firefox o Chrome</i>).
 </li>
+<li>
+De manera opcional, crea un atajo de teclado, tal como se muestra en el apartado correspondiente a <b>¿Cómo lanzar aplicaciones?</b>, de tal forma que se lance la aplicación <b>Libreoffice Writer</b> (<i>comando/orden: libreoffice --writer</i>) al pulsar la combinación de teclas <b>CONTROL+SHIFT+W</b> (<i>La tecla SHIFT es la tecla que se pulsa para escribir en mayúsculas</i>).
+</li>
 </ol>
 
 {% endnotificacion_task %}
