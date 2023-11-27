@@ -44,7 +44,7 @@ Sin lugar a dudas, el uso de combinación de teclas para el acceso a recursos y 
 
 Podemos repasar algunos de los **Atajos** que ya están predefinidos e incluso probar a definir alguno:
 
-### Atajos de Teclado predefinidos en Vitalinux (*Lubuntu*) {#AtajosTecladoPredefinidosVitalinux}
+### Atajos de Teclado predefinidos en Vitalinux {#AtajosTecladoPredefinidosVitalinux}
 1.  Tecla **IMPRIMIR PANTALLA**: Lanza un programa que nos permitirá capturar la pantalla completa, una ventana activa, o una parte de la pantalla.  Además nos permitirá elegir un nombre para la captura y su ubicación (*por defecto la dejará en la carpeta del HOME del usuario **Imágenes***)
 1.  Tecla **F11**: Pone en pantalla completa la ventana que tengamos abierta
 1.  Combinación **Tecla de Windows + E**: Abre el explorador de archivos de Vitalinux
@@ -66,7 +66,7 @@ Con la finalidad de aclarar visualmente la forma de lanzar aplicaciones, puedes 
 
 #### Opcional: Definir nuevos Atajos de Teclado en Vitalinux 3 {#DefinirAtajosTeclado3}
 
-El uso de atajos de teclado permite optimizar el uso del ordenador. A continuación se va a exponer cómo definir un nuevo atajo, de forma al pulsar la combinación de teclas <b>CONTROL+SHIFT+W</b> (<i>La tecla SHIFT es la tecla que se pulsa para escribir en mayúsculas</i>) se inicie la aplicación <b>Libreoffice Writer</b>. Para ello:
+El uso de atajos de teclado permite optimizar el uso del ordenador. A continuación se va a exponer cómo definir un nuevo atajo en <b>Vitalinux 3</b>.  A modo de ejemplo se mostrará como iniciar la aplicación <b>Libreoffice Writer</b> al pulsar la combinación de teclas <b>CONTROL+SHIFT+W</b> (<i>La tecla SHIFT es la tecla que se pulsa para escribir en mayúsculas</i>). Para ello:
 
 <ol>
 <li>
@@ -86,7 +86,7 @@ Configuración de un atajo de teclado para lanzar libreoffice --writer
 
 #### Opcional: Definir nuevos Atajos de Teclado en Vitalinux 2 {#DefinirAtajosTeclado2}
 
-El uso de atajos de teclado permite optimizar el uso del ordenador. A continuación se va a exponer cómo definir un nuevo atajo, de forma que cuando se pulsen la tecla Windows y la letra w (<i>sin soltar la tecla windows</i>) se inicie el Libreoffice Writer. Para definir éste nuevo atajo de teclado, tenemos en <b>Vitalinux 2</b> una aplicación instalada llamada <b>Obkey</b>. 
+El uso de atajos de teclado permite optimizar el uso del ordenador. A continuación se va a exponer cómo definir un nuevo atajo en <b>Vitalinux 2</b>.  A modo de ejemplo se mostrará como iniciar la aplicación <b>Libreoffice Writer</b> al pulsar la combinación de teclas <b>CONTROL+SHIFT+W</b> (<i>La tecla SHIFT es la tecla que se pulsa para escribir en mayúsculas</i>). Para ello: 
 
 <ol>
 <li> Para lanzar la aplicación, nada más facil que teclear <b>CONTROL+ESPACIO</b> y escribir <b>atajos</b> y cuando veamos la aplicación <b>Configurar atajos con Obkey</b> pulsar Intro</li>
