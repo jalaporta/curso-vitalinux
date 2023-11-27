@@ -1,4 +1,4 @@
-# Personalización de Vitalinux 2.x
+# Personalización de Vitalinux 3.x
 
 ## Contenido
 
@@ -24,7 +24,7 @@ Apariencia en Vitalinux 3
 Configuración de la apariencia en Vitalinux 3
 {% endcoolimages_type2 %}
 
-## Personalización del Escritorio Vitalinux 2.x {#PersonalizacionEscritorioVitalinux}
+## Personalización del Escritorio Vitalinux 3.x {#PersonalizacionEscritorioVitalinux}
 
 Para poder personalizar el fondo de pantalla y la distribución de los accesos directos en el Escritorio necesitaremos:
 
