@@ -10,13 +10,13 @@
 
 ## Gestión de Unidades de Almacenamiento Externas {#GestionUnidadesAlmacenamientoExternas}
 
-Vitalinux, como cualquier otro sistema operativo, permite trabajar con unidades de almacenamiento externas tales como **CDs/DVDs** o **memorias USB**.  Una vez insertado un CD/DVD o memoria USB, Vitalinux lo detectará y nos invitará a abrir dicho dispositivo de almacenamiento.  Al mismo tiempo se crearán un **acceso directo en el Escritorio** y un nuevo **marcador en el pcmanfm** para poder acceder rápidamente a él.
+Vitalinux, como cualquier otro sistema operativo, permite trabajar con unidades de almacenamiento externas tales como **CDs/DVDs** o **memorias USB**.  Una vez insertado un CD/DVD o memoria USB, Vitalinux lo detectará y nos invitará a abrir dicho dispositivo de almacenamiento.  Al mismo tiempo se crearán un **acceso directo en el Escritorio** y un nuevo **marcador en el explorador de archivos** para poder acceder rápidamente a él.
 
 
 Como ya ha explicado anteriormente, a diferencia de Windows, Vitalinux no asigna una letra (D:\, E:\, etc.) a estas unidades de almacenamiento para identificarlas y acceder a su contenido, sino que crea nuevas ramas dentro del **árbol del sistema de archivos de Vitalinux**.  Concretamente, Vitalinux creará un directorio con el nombre del usuario dentro de **/media** (*p.e. si el usuario es **profesor**, se creará el directorio **/media/profesor***), y a su vez dentro de él se creará un subdirectorio por cada unidad de almacenamiento externa cuyo nombre coincidirá con la etiqueta que tenga asignada el dispositivo de almacenamiento.  Por ejemplo, si el usuario **profesor** pincha una memoria USB identificada con la etiqueta **misdatos**, en Vitalinux se creará el directorio **/media/profesor/misdatos** que contendrá todo el contenido del USB.
 
 
-En el caso de que queramos desconectar de manera segura la unidad de almacenamiento externa USB podrá hacerse pinchando con el botón derecho del ratón sobre el acceso directo a dicha memoria que se creo en el Escritorio y seleccionando la **Acción** llamada **Desmontar USB**.  También es posible el desmontaje en modo seguro pinchando sobre el ***iconito *** de **eject** que aparece junto al **marcador del pcmanfm** referente a dicha memoria.
+En el caso de que queramos desconectar de manera segura la unidad de almacenamiento externa USB podrá hacerse pinchando con el botón derecho del ratón sobre el acceso directo a dicha memoria que se creo en el Escritorio y seleccionando la **Acción** llamada **Desmontar USB**.  También es posible el desmontaje en modo seguro pinchando sobre el ***iconito*** de **eject** que aparece junto al **marcador del explorador de archivos** referente a dicha memoria.
 
 
 ## Administración Básica de los Dispositivos de Almacenamiento {#AdministracinBasicaDispositivosAlmacenamiento}
@@ -25,7 +25,7 @@ Hay dos tareas básicas cuando trabajamos con dispositivos de almacenamiento ext
 
 1.  **Cambiar el nombre** del dispositivo. Ésta operación nos va a permitir tener el dispositivo perfectamente identificado (sobre todo ahora que contamos con varios de ellos) de forma que vamos a poder reconocerlo fácilmente cuando insertamos varios
 1.  **Formatear** el dispositivo. Operación recomendable para borrar toda la información disponible y poder empezar a usarlo "limpio"...entre otras.
-Para ejecutar éstas y otras acciones disponemos de varias herramientas o trucos, pero nos vamos a centrar en una herramienta muy sencilla disponible en Vitalinux llamada **Discos**. Para arrancar la aplicación, simplemente clickamos *CTRL-ESPACIO + teclear Discos* y lo podremos lanzar. Resaltar en éste punto lo fácil e intuitivo que podemos encontrar todo con Synapse
+Para ejecutar éstas y otras acciones disponemos de varias herramientas o trucos, pero nos vamos a centrar en una herramienta muy sencilla disponible en Vitalinux llamada **Discos**. Para arrancar la aplicación, simplemente tecleamos la combinación **CTRL+ESPACIO** y escribimos **Discos** y lo podremos lanzar. Resaltar en éste punto lo fácil e intuitivo que podemos encontrar todo con Synapse
 
 
 ### Montar y Quitar {#MontarQuitar}
@@ -46,7 +46,7 @@ Aqui se diferencia entre desmontar un dispositivo de forma segura o Quitar un di
 
 ### Cambiar nombre del Dispositivo {#CambiarnombreDispositivo}
 
-Vamos pues a cambiar el nombre. Abrimos la herramienta de discos (con nuestro pincho insertado por ejemplo, aunque lo podemos insertar una vez abierto el programa)
+Vamos pues a cambiar el nombre. Abrimos la herramienta de **discos** (con nuestro pincho insertado por ejemplo, aunque lo podemos insertar una vez abierto el programa), teclenado **CTRL+ESPACIO** y escribiendo **Discos**.
 Veremos una interfaz como la que se adjunta en la captura. Aquí es importante reconocer los elementos
 
 {% coolimages_type2 url_image="../img/Zonas-disco.png" %}
