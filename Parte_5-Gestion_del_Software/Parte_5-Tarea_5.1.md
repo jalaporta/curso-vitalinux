@@ -39,7 +39,7 @@ Una vez localizado pincha con el botón derecho del ratón sobre él y seleccion
 Por último pincha sobre el botón <b>Aplicar</b> para que se apliquen los <b>cambios solicitados a Synaptic</b>, y cierralo.
 </li>
 <li>
-Para terminar, abre <b>Audacity (u Openboard)</b> (<i><b>CONTROL+ESPACIO</b> y tecleas <b>amarok</b></i>) y prueba la aplicación
+Para terminar, abre <b>Audacity (u Openboard)</b> (<i><b>CONTROL+ESPACIO</b> y tecleas <b>audacity</b></i>) y prueba la aplicación
 </li>
 <li>
 Con el fin de repasar el <i><b>Cómo desinstalar aplicaciones</b></i>, vuelve a abrir <b>synaptic</b> y desinstala la aplicación anterior.  Para ello buscala mediante su buscador, pincha con el botón derecho sobre ella y elige la opción de <b>desintalar</b>.  Al igual que al instalar, será necesario darle al botón <b>Aplicar</b> para que surta efecto la desintalación.
