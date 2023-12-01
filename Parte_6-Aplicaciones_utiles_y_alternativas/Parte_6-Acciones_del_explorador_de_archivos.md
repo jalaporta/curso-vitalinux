@@ -21,8 +21,8 @@ En concreto, se han desarrollado para **Vitalinux EDU DGA** diversas funcionalid
 - Utilidades generales de un archivo: Editar como texto, Copiar, hacer un backup en el propio directorio...
 - ...se van añadiendo más...
 
-{% notificacion_important title='SIR nos permite Manipular imágenes de forma masiva' %}
-En el caso de que quieras manipular un conjunto de imágenes de manera simultánea, puedes hacer uso de las <b>acciones programadas</b> en el <b>Explorador de Archivos</b> seleccionando varias simultáneamente (<i>debes maneter la tecla CONTROL pulsada mientras pinchas las diversas imágenes</i>), o usar una herramienta pensada expresamente para ello como es <b>Simple Image Resizer</b> (<i>SIR</i>).  Esta última nos va a permitir de manera masiva:
+{% notificacion_important title='SIR nos permite Manipular imágenes de forma masiva en Vitalinux 2' %}
+En el caso de que quieras manipular un conjunto de imágenes de manera simultánea, puedes hacer uso de las <b>acciones programadas</b> en el <b>Explorador de Archivos</b> seleccionando varias simultáneamente (<i>debes maneter la tecla CONTROL pulsada mientras pinchas las diversas imágenes</i>), o en el caso de que estés en <b>Vitalinux 2</b>, también puedes usar una herramienta pensada expresamente para ello como es <b>Simple Image Resizer</b> (<i>SIR</i>).  Esta última nos va a permitir de manera masiva:
 
 <ul>
 <li>Cambiar de formato (<i>p.e. pasar JPG/JPEG a PNG</i>)</li>

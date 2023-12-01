@@ -63,7 +63,7 @@ Mediante la siguiente tarea nos familiarizaremos con una de las características
 
 </ul>
 
-<li>Aunque no es una <b>acción programada del Explorador de Archivos</b>, pero relacionado con lo anterior, lanza la aplicación <b>SIR</b> (<i>Simple Image Resizer</i>), tecleando <b>CONTROL+ESPACIO</b> y escribiendo <b>SIR</b>, y prueba a realizar alguna operación masiva sobre imágenes: generar imagenes miniatura, cambiar formato, cambiar tamaño, etc.
+<li><i>Opcional (Vitalinux 2):</i>Aunque no es una <b>acción programada del Explorador de Archivos</b>, pero relacionado con lo anterior, lanza la aplicación <b>SIR</b> (<i>Simple Image Resizer</i>), tecleando <b>CONTROL+ESPACIO</b> y escribiendo <b>SIR</b>, y prueba a realizar alguna operación masiva sobre imágenes: generar imagenes miniatura, cambiar formato, cambiar tamaño, etc.
 </li>
 
 <li>
