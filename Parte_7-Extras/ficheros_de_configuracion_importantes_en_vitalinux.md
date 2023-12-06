@@ -18,8 +18,8 @@ A modo de ejemplo, en la siguiente tarea se propone modificar el archivo **~/.co
 
 ![La Información de parámetros de Red nos indicará que Etiquetas Migasfree tiene asignadas actualmente el equipo](img/Informacion-parametros-red-etiquetas-migasfree.png)
 
--  Abre el Explorador de Archivos **pcmanfm** tecleando el atajo **Tecla de Windows + E**
--  En la barra de direcciones del **pcmanfm** escribe la siguiente ruta: **~/.config/pcmanfm/lubuntu**.  Recuerda que el símbolo **~** hace referencia la directorio raíz del perfil del usuario que ha iniciado sesión (*por ejemplo, si se ha iniciado sesión el usuario **dga**, el símbolo **~** es equivalente a escribir **/home/dga***)
+-  Abre el **Explorador de Archivos** tecleando el atajo **Tecla de Windows + E**
+-  En la barra de direcciones del **Explorador de Archivos** escribe la siguiente ruta: **~/.config/pcmanfm/lubuntu**.  Recuerda que el símbolo **~** hace referencia la directorio raíz del perfil del usuario que ha iniciado sesión (*por ejemplo, si se ha iniciado sesión el usuario **dga**, el símbolo **~** es equivalente a escribir **/home/dga***)
 -  Pincha con el botón derecho del ratón sobre el archivo **desktop-items-0.conf** y selecciona la opción de **leafpad**.  Este es un editor de textos similar al **notepad** de Windows
 
 ![Mediante leafpad editaremos el archivo de configuración desktop-items-0.conf, el cual nos permitirá personalizar el Entorno de Escritorio el usuario](img/Archivos-configuracion-personalizacion-0.png)
