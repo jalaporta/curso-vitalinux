@@ -12,7 +12,7 @@ Las características típicas de un explorador de archivos son:
 1. Propiedades: Muestra información detallada sobre los archivos, como tamaño, tipo, fecha de modificación, etc.
 1. Vista previa: Algunos exploradores de archivos permiten la vista previa de archivos, lo que significa que puedes ver el contenido de un archivo sin abrirlo completamente.
 
-En Linux existen diferentes exploradores de archivos: **Nautilus, konqueror, Thunar, Dolphin**, etc. Vitalinux, en su versión 2, al basarse en la versión ligera de Ubuntu, **LUbuntu**, hace uso del que supuestamente del explorador que consume menor cantidad de recursos del sistema, llamado **pcmanfm**. En cambio, Vitalinux 3 hace uso de **Nemo**, un explorador de archivos no tal ligero pero más personalizable y funcional.
+En Linux existen diferentes exploradores de archivos: **Nautilus, konqueror, Thunar, Dolphin**, etc. Vitalinux, en su versión 2, al basarse en la versión ligera de Ubuntu, **LUbuntu**, hace uso del que supuestamente del explorador que consume menor cantidad de recursos del sistema, llamado **Pcmanfm**. En cambio, Vitalinux 3 hace uso de **Nemo**, un explorador de archivos no tal ligero pero más personalizable y funcional.
 
 La forma más rápida y eficiente de lanzar el **Explorador de Archivos** es tecleando el atajo **Tecla de Windows + E** (*la tecla de Windows suele encontrarse en la fila inferior del teclado, a la izquierda de la barra espaciadora y la tecla ALT*), aunque puede lanzarse igualmente mediante el lanzador de aplicaciones **Albert**, tecleando **CONTROL + ESPACIO** y escribiendo **explorador de archivos**, o directamente pinchando con el ratón sobre **el icono de la carpeta** que hay en **la barra o panel del Entorno de Escritorio**.
 

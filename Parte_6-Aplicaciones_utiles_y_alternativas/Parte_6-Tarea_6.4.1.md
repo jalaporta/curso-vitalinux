@@ -13,7 +13,7 @@ Esta tarea trata de mostrar dos alternativas a los clásicos programas usados en
 </li>
     <ol>
     <li>
-    Abre el Explorador de Archivos pcmanfm (Tecla Windows + E) y crea dentro de Documentos un subdirectorio llamado mivideo (<i>CONTROL+SHIFT+N</i>)
+    Abre el <b>Explorador de Archivos</b> (Tecla Windows + E) y crea dentro de Documentos un subdirectorio llamado mivideo (<i>CONTROL+SHIFT+N</i>)
     </li>
     <li>
     Dentro del subdirectorio mivideo copia las fotos (6 o 7 serán suficientes) que quieran formar parte del vídeo que vas a crear mediante PhotoFilmStrip
