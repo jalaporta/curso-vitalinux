@@ -37,7 +37,7 @@ Para entender el funcionamiento de la congelación del Escritorio es fundamental
 </li>
 
 <li>
-La regeneración del escritorio se basa en la comparación con un directorio patrón, de tal forma que se elimina todo lo que difiere respecto al directorio patrón.  Por ello, para entender como añadir elementos al patrón de Escritorio congelado modificaremos dicho patrón.  Para conseguirlo deberemos abrir el <b>Explorador de Archivos</b> (<i>Tecla Windows + E</i>), y <b>Abrir como Root</b> el directorio <b>/etc/skel/Escritorio</b>.  Una vez dentro de ese directorio crea algún directorio y comprueba que al cerrar sesión o reiniciar el equipo el <b>Escritorio Congelado</b> impondrá el cambio realizado.
+La regeneración del escritorio se basa en la comparación con un directorio patrón, de tal forma que se elimina todo lo que difiere respecto al directorio patrón.  Por ello, para entender como añadir elementos al patrón de Escritorio congelado modificaremos dicho patrón.  Para conseguirlo deberemos abrir el <b>Explorador de Archivos</b> (<i>Tecla Windows + E</i>), y <b>Abrir como Root</b> el directorio <b>/etc/skel/Escritorio</b> en Vitalinux 2, o <b>/usr/share/vitalinux/skel/Escritorio</b> en Vitalinux 3.  Una vez dentro de ese directorio crea algún directorio y comprueba que al cerrar sesión o reiniciar el equipo el <b>Escritorio Congelado</b> impondrá el cambio realizado.
 </li>
 
 </ol>
@@ -55,7 +55,7 @@ La congelación total se puede probar de forma muy sencilla. Pero antes de hacer
 Comprueba que la congelación sólo actúa en los principales directorios del usuario: <b>Escritorio, Descargas, Documentos, Imágenes, Música, Plantillas, Público y Vídeos</b>.  Es decir, crea un directorio dentro de la raíz de tu perfil llamado <b>Curso</b> (<i>p.e. /home/docenmte/Curso, /home/estudiante/Curso, /home/aularagon/Curso, /home/administrador/Curso, etc.</i>).  Copia dentro de ese directorio algún archivo (<i>imágenes, documentos ofimáticos, etc.</i>) y comprueba que ese directorio y su contenido prevalece ante la congelación.
 </li>
 <li>
-La congelación se basa en la comparación con un directorio patrón, de tal forma que se elimina todo lo que difiere respecto al directorio patrón.  Por ello, y para entender como añadir elementos a los directorios congelados, modificaremos los directorios patrón.  Para conseguirlo deberemos abrir el <b>Explorador de Archivos</b> (<i>Tecla Windows + E</i>), y <b>Abrir como Root</b> el directorio <b>/etc/skel-directorios</b>.  Dentro de ese directorio localizaremos tantos directorios como directorios están congelados en el perfil del usuario.  Modifica el contenido de cualquiera de ellos y comprueba su efecto.
+La congelación se basa en la comparación con un directorio patrón, de tal forma que se elimina todo lo que difiere respecto al directorio patrón.  Por ello, y para entender como añadir elementos a los directorios congelados, modificaremos los directorios patrón.  Para conseguirlo deberemos abrir el <b>Explorador de Archivos</b> (<i>Tecla Windows + E</i>), y <b>Abrir como Root</b> el directorio <b>/etc/skel-directorios</b> en Vitalinux 2, o <b>/usr/share/vitalinux/skel/</b> en Vitalinux 3.  Dentro de ese directorio localizaremos tantos directorios como directorios están congelados en el perfil del usuario.  Modifica el contenido de cualquiera de ellos y comprueba su efecto.
 </li>
 </ol>
 
