@@ -27,7 +27,7 @@ Por defecto, en Vitalinux están configurados los siguentes repositorios
   * Vitalinux 2.x con Libreoffice 7.4
   * Vitalinux 3.x con Libreoffice en la última versión (7.6)
 * Repositorios de **aplicaciones comunes**, que no vienen de forma oficial en Ubuntu: Openshot, Freecad...
-* Repositorio **propio de migasfree**. En éste tenemos disponibles muchas **aplicaciones propias del proyecto** para personalizar la distribución, así como **aplicaiones de terceros** que dejamos disponibles de forma actualizada para no tener que añadir repositorios de forma manual. Por ejemplo: obs-studio, scratch, geogebra... y muchas más que veremos en capitulos posteiores.
+* Repositorio **propio de migasfree**. En éste tenemos disponibles muchas **aplicaciones propias del proyecto** para personalizar la distribución, así como **aplicaciones de terceros** que dejamos disponibles de forma actualizada para no tener que añadir repositorios de forma manual. Por ejemplo: obs-studio, scratch, geogebra... y muchas más que veremos en capitulos posteiores.
 
 \* *- Los repositorios de Ubuntu están ("congelados") en un servidor del proyecto, para controlar así las actualizaciones periódicas y asegurar éste proceso de forma controlada, limitándolo a unos periodos concretos de actualización*
 
@@ -37,7 +37,7 @@ Podemos observar los repositorios comentados.
 *NO es recomendable eliminar dichos repositorios para preservar la integridad del sistema. De hecho en Vitalinux se recrean en cada actualización por seguridad*.
 También podemos añadir un volumen (repositorio local en base a un CD, en lugar de la nube) o un repositorio (Añadir...), pero recomendamos lo siguiente.
 
-## Como añadir nuevos respositorios
+## Como añadir nuevos repositorios
 
 > Nota: Éste apartado es algo mas complejo y lo mostramos a modo informativo...no es necesario para el uso de Vitalinux. Si quieres añadir un repositorio, consulta con el soporte de Vitalinux.
 
@@ -45,7 +45,7 @@ Muchas veces nos puede interesar añadir otras fuentes de software ya que en las
 Es muy importante tener en cuenta que:
 
 1. Se deben usar siempre un **repositorio de confianza**, para lo cual haremos referencia al propio desarrollador del software. El uqe el software sea libre, garantiza no tener que andar buscando software pirata que puede contener código malicioso
-2. Recuerda que podrías solicitar información al grupo de soporte del programa vitalnux (***soportevitalinux@educa.aragon.es***) y ellos te añadirán el repositorio en tus equipos de forma automática, sin necesidad de hacerlo a mano (¡y en todos los equipos!). Para eso contamos con **migasfree**. Y si además es interesante para todos, se pondrá a disposición de toda la comunidad educativa.
+2. Recuerda que podrías solicitar información al grupo de soporte del programa vitalinux (***soportevitalinux@educa.aragon.es***) y ellos te añadirán el repositorio en tus equipos de forma automática, sin necesidad de hacerlo a mano (¡y en todos los equipos!). Para eso contamos con **migasfree**. Y si además es interesante para todos, se pondrá a disposición de toda la comunidad educativa.
 
 Para añadirlo podrías usar el botón de añadir que viste en la imagen anterior. Se te pedirá la url donde se encuentra y listo
 
@@ -59,7 +59,7 @@ sudo apt install obs-studio
 
 Nos interesan las dos primeras instrucciones:
   
-1. Con la primera estamos indicando al sistema que **añada un nuevo repositorio**, correspondiente a obs-studio en ppa. [PPA](https://help.launchpad.net/Packaging/PPA) es un almacen que nos permite distribuir software personal de una forma sencilla. Admite integración contínua (cuando se libera nuevo código se generan nuevas versiones de los paquetes de software) y está muy extendido su uso en la comunidad de Ubuntu y Debian
-2. Con la segunda le estamos diciendo al sistema que **actualice el listado de software disponible**...es decir, que vaya a todos los respositorios/almacenes y pregunte qué paquetes (software) hay disponbible, para luego poder instalarlos. Si el sistema no tiene un índice de paquetes disponibles, cuando vayamos a instalar un paquete no sabrá si existe ni donde está
+1. Con la primera estamos indicando al sistema que **añada un nuevo repositorio**, correspondiente a obs-studio en ppa. [PPA](https://help.launchpad.net/Packaging/PPA) es un almacen que nos permite distribuir software personal de una forma sencilla. Admite integración continua (cuando se libera nuevo código se generan nuevas versiones de los paquetes de software) y está muy extendido su uso en la comunidad de Ubuntu y Debian.
+2. Con la segunda le estamos diciendo al sistema que **actualice el listado de software disponible**...es decir, que vaya a todos los respositorios/almacenes y pregunte qué paquetes (software) hay disponibles, para luego poder instalarlos. Si el sistema no tiene un índice de paquetes disponibles, cuando vayamos a instalar un paquete no sabrá si existe ni donde está.
 
 La última linea procederá a realizar la instalación del software (y todos los paquetes/librerias que necesite). Pero eso lo veremos en breve.
